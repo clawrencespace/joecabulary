@@ -1,0 +1,77 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { todayWords, recentWords } from "../data/words";
+
+const allWords = [
+  ...todayWords.map((entry) => ({
+    word: entry.word,
+    date: "Jun 18",
+    note: entry.definition,
+    tags: entry.tags,
+  })),
+  ...recentWords.map((entry) => ({
+    ...entry,
+    tags: ["archive"],
+  })),
+];
+---
+
+<BaseLayout
+  title="Word Archive · Joecabulary"
+  description="Browse the growing Joecabulary archive of useful words."
+>
+  <section class="archive-hero">
+    <p class="kicker">The word archive</p>
+    <h1>Every word,<br /><em>still within reach.</em></h1>
+    <div class="archive-search">
+      <label for="word-search">Search the collection</label>
+      <div>
+        <input id="word-search" type="search" placeholder="Try “leadership” or “germane”" />
+        <span>⌕</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="archive-section">
+    <div class="archive-toolbar">
+      <p><strong>{allWords.length}</strong> words shown in this draft</p>
+      <div>
+        <button class="is-active" type="button">All words</button>
+        <button type="button">Newest</button>
+        <button type="button">A–Z</button>
+      </div>
+    </div>
+    <div class="archive-grid" data-word-list>
+      {
+        allWords.map((entry, index) => (
+          <article data-word={`${entry.word} ${entry.note} ${entry.tags.join(" ")}`.toLowerCase()}>
+            <span>{String(index + 1).padStart(2, "0")}</span>
+            <div>
+              <h2>{entry.word}</h2>
+              <p>{entry.note}</p>
+            </div>
+            <time>{entry.date}</time>
+          </article>
+        ))
+      }
+    </div>
+    <p class="empty-state" data-empty hidden>No words matched that search.</p>
+  </section>
+
+  <script>
+    const search = document.querySelector<HTMLInputElement>("#word-search");
+    const cards = Array.from(document.querySelectorAll<HTMLElement>("[data-word]"));
+    const empty = document.querySelector<HTMLElement>("[data-empty]");
+
+    search?.addEventListener("input", () => {
+      const query = search.value.trim().toLowerCase();
+      let visible = 0;
+      cards.forEach((card) => {
+        const match = card.dataset.word?.includes(query) ?? false;
+        card.hidden = !match;
+        if (match) visible += 1;
+      });
+      if (empty) empty.hidden = visible > 0;
+    });
+  </script>
+</BaseLayout>

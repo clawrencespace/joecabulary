@@ -1,0 +1,1277 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Libre+Caslon+Display&family=Manrope:wght@400;500;600;700&display=swap");
+
+:root {
+  --paper: #f3ead8;
+  --paper-light: #faf5e9;
+  --ink: #173d35;
+  --ink-soft: #31574e;
+  --coral: #d74f38;
+  --mustard: #d8a93d;
+  --line: rgba(23, 61, 53, 0.22);
+  --display: "Libre Caslon Display", Georgia, serif;
+  --sans: "Manrope", sans-serif;
+  --mono: "DM Mono", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  min-width: 320px;
+}
+
+body::selection {
+  background: var(--mustard);
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.site-noise {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 20;
+  opacity: 0.18;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.95' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.12'/%3E%3C/svg%3E");
+}
+
+.site-header {
+  min-height: 86px;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  padding: 0 4vw;
+  position: relative;
+  z-index: 10;
+  background: rgba(243, 234, 216, 0.93);
+  backdrop-filter: blur(12px);
+}
+
+.wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  width: fit-content;
+}
+
+.wordmark span {
+  width: 37px;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  background: var(--ink);
+  color: var(--paper);
+  border-radius: 50%;
+  font-family: var(--display);
+  font-size: 23px;
+}
+
+.wordmark strong {
+  font-family: var(--display);
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+}
+
+.site-header nav {
+  display: flex;
+  gap: 30px;
+}
+
+.site-header nav a,
+.edition {
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.site-header nav a {
+  text-decoration: none;
+  position: relative;
+}
+
+.site-header nav a::after {
+  content: "";
+  position: absolute;
+  height: 1px;
+  left: 0;
+  right: 100%;
+  bottom: -6px;
+  background: var(--coral);
+  transition: right 180ms ease;
+}
+
+.site-header nav a:hover::after {
+  right: 0;
+}
+
+.edition {
+  justify-self: end;
+  margin: 0;
+}
+
+.hero {
+  min-height: 650px;
+  padding: 90px 8vw 70px;
+  display: grid;
+  grid-template-columns: 110px minmax(520px, 1fr) 190px;
+  gap: 7vw;
+  align-items: start;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::after {
+  content: "";
+  width: 420px;
+  height: 420px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  position: absolute;
+  right: -120px;
+  bottom: -160px;
+  box-shadow: 0 0 0 45px var(--paper), 0 0 0 46px var(--line);
+}
+
+.hero__date {
+  border-top: 3px solid var(--ink);
+  padding-top: 12px;
+  display: grid;
+  gap: 2px;
+  font-family: var(--mono);
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+
+.hero__date b {
+  font-family: var(--display);
+  font-size: 78px;
+  line-height: 0.94;
+  font-weight: 400;
+}
+
+.kicker {
+  margin: 0 0 18px;
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: 1.4;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 500;
+}
+
+.hero h1,
+.archive-hero h1,
+.puzzle-index-hero h1 {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(62px, 7vw, 112px);
+  line-height: 0.88;
+  letter-spacing: -0.055em;
+}
+
+.hero h1 em,
+.archive-hero h1 em,
+.puzzle-index-hero h1 em {
+  color: var(--coral);
+  font-weight: 400;
+}
+
+.hero__copy > p:not(.kicker) {
+  max-width: 600px;
+  font-size: 18px;
+  line-height: 1.65;
+  margin: 34px 0;
+}
+
+.button {
+  min-height: 52px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  padding: 0 22px;
+  text-decoration: none;
+  border: 0;
+  border-radius: 2px;
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 0 rgba(23, 61, 53, 0.12);
+}
+
+.button--coral {
+  background: var(--coral);
+  color: white;
+}
+
+.button--paper {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.button--ink {
+  background: var(--ink);
+  color: var(--paper-light);
+}
+
+.hero__marginalia {
+  border-left: 1px solid var(--line);
+  padding-left: 22px;
+  margin-top: 35px;
+}
+
+.hero__marginalia p {
+  margin: 0;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.hero__marginalia span {
+  display: block;
+  font-family: var(--display);
+  font-size: 42px;
+  line-height: 1;
+  margin-bottom: 3px;
+}
+
+.hero__scribble {
+  position: absolute;
+  left: 35%;
+  bottom: 55px;
+  transform: rotate(-5deg);
+  color: var(--coral);
+  font-family: var(--display);
+  font-style: italic;
+  font-size: 23px;
+}
+
+.today-section,
+.recent-section,
+.archive-section,
+.puzzle-index {
+  padding: 110px 6vw;
+}
+
+.today-section {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.section-heading {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 10vw;
+  align-items: end;
+  margin-bottom: 55px;
+}
+
+.section-heading h2,
+.crossword-feature h2,
+.puzzle-note h2 {
+  font-family: var(--display);
+  font-size: clamp(45px, 5vw, 72px);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+  margin: 0;
+}
+
+.section-heading > p {
+  margin: 0;
+  max-width: 480px;
+  line-height: 1.7;
+  color: rgba(243, 234, 216, 0.72);
+}
+
+.word-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 1px solid rgba(243, 234, 216, 0.25);
+  border-bottom: 1px solid rgba(243, 234, 216, 0.25);
+}
+
+.word-card {
+  min-width: 0;
+  padding: 26px 28px 28px;
+  border-right: 1px solid rgba(243, 234, 216, 0.25);
+}
+
+.word-card:last-child {
+  border-right: 0;
+}
+
+.word-card__topline {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.word-card__number {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--mustard);
+}
+
+.word-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  gap: 5px;
+}
+
+.word-card__tags span {
+  border: 1px solid rgba(243, 234, 216, 0.25);
+  padding: 4px 6px;
+  border-radius: 20px;
+  font-family: var(--mono);
+  font-size: 8px;
+  text-transform: uppercase;
+}
+
+.word-card h3 {
+  margin: 65px 0 8px;
+  font-family: var(--display);
+  font-size: clamp(34px, 3vw, 52px);
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  overflow-wrap: anywhere;
+}
+
+.word-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--mono);
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgba(243, 234, 216, 0.55);
+}
+
+.word-card__meta i {
+  width: 3px;
+  height: 3px;
+  background: var(--coral);
+  border-radius: 50%;
+}
+
+.word-card__definition {
+  min-height: 125px;
+  margin: 28px 0 0;
+  font-family: var(--display);
+  font-size: 20px;
+  line-height: 1.42;
+}
+
+.word-card details {
+  border-top: 1px solid rgba(243, 234, 216, 0.25);
+  margin-top: 20px;
+}
+
+.word-card summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 18px;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.word-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.word-card__details {
+  padding-top: 20px;
+  color: rgba(243, 234, 216, 0.72);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.word-card__details strong {
+  display: block;
+  color: var(--mustard);
+  font-family: var(--mono);
+  text-transform: uppercase;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+}
+
+.word-card__details blockquote {
+  margin: 22px 0 0;
+  padding-left: 14px;
+  border-left: 2px solid var(--coral);
+  color: var(--paper);
+  font-family: var(--display);
+  font-size: 16px;
+}
+
+.crossword-feature {
+  min-height: 610px;
+  padding: 80px 8vw;
+  background: var(--coral);
+  color: white;
+  display: grid;
+  grid-template-columns: 130px 1fr minmax(350px, 540px);
+  align-items: center;
+  gap: 6vw;
+}
+
+.crossword-feature__stamp {
+  width: 115px;
+  height: 115px;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 50%;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  transform: rotate(-9deg);
+}
+
+.crossword-feature__stamp span {
+  font-family: var(--mono);
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+.crossword-feature__stamp strong {
+  font-family: var(--display);
+  font-size: 21px;
+  line-height: 0.95;
+}
+
+.crossword-feature__copy p:not(.kicker) {
+  max-width: 500px;
+  line-height: 1.7;
+  margin: 28px 0 32px;
+}
+
+.mini-grid {
+  width: min(100%, 500px);
+  aspect-ratio: 1;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  background: var(--paper);
+  border: 4px solid var(--ink);
+  box-shadow: 18px 18px 0 rgba(23, 61, 53, 0.25);
+  position: relative;
+  text-decoration: none;
+  transform: rotate(1.5deg);
+  transition: transform 200ms ease;
+}
+
+.mini-grid:hover {
+  transform: rotate(0deg) scale(1.015);
+}
+
+.mini-grid > span {
+  border: 0.5px solid var(--ink);
+  position: relative;
+}
+
+.mini-grid > span.is-block {
+  background: var(--ink);
+}
+
+.mini-grid i {
+  position: absolute;
+  top: 3px;
+  left: 4px;
+  font-family: var(--mono);
+  font-size: 8px;
+  color: var(--ink);
+  font-style: normal;
+}
+
+.mini-grid > b {
+  position: absolute;
+  inset: 38% 32%;
+  background: var(--mustard);
+  color: var(--ink);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-family: var(--mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  box-shadow: 0 4px 0 var(--ink);
+}
+
+.section-heading--compact {
+  grid-template-columns: 1fr auto;
+}
+
+.section-heading--compact .text-link {
+  align-self: end;
+}
+
+.recent-section {
+  background: var(--paper-light);
+}
+
+.text-link {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 5px;
+}
+
+.recent-list {
+  border-top: 2px solid var(--ink);
+}
+
+.recent-list article {
+  display: grid;
+  grid-template-columns: 80px 1fr auto;
+  gap: 30px;
+  align-items: center;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.recent-list > article > span,
+.recent-list time {
+  font-family: var(--mono);
+  font-size: 10px;
+}
+
+.recent-list h3 {
+  font-family: var(--display);
+  font-size: 29px;
+  font-weight: 400;
+  margin: 0 0 3px;
+}
+
+.recent-list p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.site-footer {
+  min-height: 240px;
+  padding: 55px 6vw;
+  background: var(--mustard);
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  align-items: end;
+  gap: 50px;
+}
+
+.wordmark--footer span {
+  background: var(--coral);
+}
+
+.site-footer p {
+  max-width: 470px;
+  margin: 0;
+  font-family: var(--display);
+  font-size: 24px;
+}
+
+.site-footer .site-footer__small {
+  font-family: var(--mono);
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+.archive-hero,
+.puzzle-index-hero {
+  padding: 100px 8vw;
+  border-bottom: 1px solid var(--line);
+}
+
+.archive-hero {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  align-items: end;
+  gap: 80px;
+}
+
+.archive-hero > .kicker {
+  grid-column: 1 / -1;
+}
+
+.archive-search label {
+  display: block;
+  margin-bottom: 12px;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.archive-search div {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid var(--ink);
+}
+
+.archive-search input {
+  width: 100%;
+  border: 0;
+  background: transparent;
+  padding: 15px 0;
+  outline: none;
+}
+
+.archive-search span {
+  font-size: 28px;
+}
+
+.archive-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 18px;
+}
+
+.archive-toolbar p {
+  margin: 0;
+}
+
+.archive-toolbar div {
+  display: flex;
+  gap: 5px;
+}
+
+.archive-toolbar button {
+  border: 1px solid var(--line);
+  background: transparent;
+  padding: 7px 10px;
+  border-radius: 20px;
+  font-family: var(--mono);
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+.archive-toolbar button.is-active {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.archive-grid article {
+  min-height: 165px;
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  gap: 20px;
+  padding: 28px 25px 28px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.archive-grid article:nth-child(odd) {
+  border-right: 1px solid var(--line);
+}
+
+.archive-grid article:nth-child(even) {
+  padding-left: 25px;
+}
+
+.archive-grid article > span,
+.archive-grid time {
+  font-family: var(--mono);
+  font-size: 9px;
+}
+
+.archive-grid h2 {
+  font-family: var(--display);
+  font-size: 31px;
+  font-weight: 400;
+  margin: 0 0 8px;
+}
+
+.archive-grid p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.empty-state {
+  padding: 60px 0;
+  text-align: center;
+  font-family: var(--display);
+  font-size: 32px;
+}
+
+.puzzle-index-hero {
+  min-height: 520px;
+}
+
+.puzzle-index-hero > p:last-child {
+  max-width: 540px;
+  margin: 35px 0 0 auto;
+  line-height: 1.7;
+}
+
+.puzzle-cards {
+  border-top: 2px solid var(--ink);
+}
+
+.puzzle-card {
+  display: grid;
+  grid-template-columns: 120px 1fr auto;
+  gap: 34px;
+  align-items: center;
+  min-height: 175px;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  padding: 25px 0;
+}
+
+a.puzzle-card:hover h2 {
+  color: var(--coral);
+}
+
+.puzzle-card__grid {
+  width: 100px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 2px solid var(--ink);
+}
+
+.puzzle-card__grid i {
+  aspect-ratio: 1;
+  border: 0.5px solid var(--ink);
+}
+
+.puzzle-card__grid i.is-dark {
+  background: var(--ink);
+}
+
+.puzzle-card p,
+.puzzle-card span,
+.puzzle-card time {
+  font-family: var(--mono);
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+.puzzle-card h2 {
+  font-family: var(--display);
+  font-size: 36px;
+  font-weight: 400;
+  margin: 4px 0;
+}
+
+.puzzle-card--disabled {
+  opacity: 0.5;
+}
+
+.puzzle-card__number {
+  width: 100px;
+  aspect-ratio: 1;
+  border: 1px dashed var(--ink);
+  display: grid;
+  place-items: center;
+  font-family: var(--display);
+  font-size: 43px;
+}
+
+.puzzle-page {
+  padding: 45px 5vw 100px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 34px;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.crossword-shell {
+  background: var(--paper-light);
+  border: 1px solid var(--line);
+  padding: 55px;
+  box-shadow: 14px 14px 0 rgba(23, 61, 53, 0.1);
+}
+
+.crossword-shell__header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+}
+
+.crossword-shell__header h1 {
+  font-family: var(--display);
+  font-size: clamp(48px, 6vw, 85px);
+  line-height: 0.9;
+  font-weight: 400;
+  margin: 0;
+  letter-spacing: -0.05em;
+}
+
+.crossword-shell__date {
+  margin: 12px 0 0;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.crossword-progress {
+  text-align: right;
+}
+
+.crossword-progress span {
+  display: block;
+  font-family: var(--display);
+  font-size: 45px;
+  color: var(--coral);
+}
+
+.crossword-progress small {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  font-size: 8px;
+}
+
+.crossword-layout {
+  display: grid;
+  grid-template-columns: minmax(430px, 680px) 1fr;
+  gap: 6vw;
+}
+
+.crossword-board {
+  display: grid;
+  grid-template-columns: repeat(var(--grid-size), 1fr);
+  border: 3px solid var(--ink);
+  background: var(--ink);
+  gap: 1px;
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.crossword-cell,
+.crossword-block {
+  min-width: 0;
+  aspect-ratio: 1;
+}
+
+.crossword-block {
+  background: var(--ink);
+}
+
+.crossword-cell {
+  background: white;
+  position: relative;
+  transition: background 100ms ease;
+}
+
+.crossword-cell > span {
+  position: absolute;
+  z-index: 1;
+  left: 3px;
+  top: 1px;
+  font-family: var(--mono);
+  font-size: clamp(6px, 0.55vw, 9px);
+  color: var(--ink);
+  pointer-events: none;
+}
+
+.crossword-cell input {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--ink);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: var(--sans);
+  font-size: clamp(15px, 2vw, 28px);
+  font-weight: 600;
+}
+
+.crossword-cell.is-highlighted {
+  background: #f5dda3;
+}
+
+.crossword-cell:focus-within {
+  background: var(--mustard);
+}
+
+.crossword-cell.is-wrong {
+  background: #f2a89b;
+}
+
+.crossword-cell.is-correct {
+  background: #c8dfc7;
+}
+
+.crossword-actions {
+  min-height: 72px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.text-button {
+  border: 0;
+  background: transparent;
+  text-decoration: underline;
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.crossword-actions [data-message] {
+  margin-left: auto;
+  font-family: var(--display);
+  font-size: 17px;
+}
+
+.crossword-clues {
+  display: grid;
+  gap: 35px;
+}
+
+.crossword-clues h2 {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 12px;
+}
+
+.crossword-clues ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.crossword-clues button {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  text-align: left;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink);
+  padding: 12px 6px;
+  cursor: pointer;
+  line-height: 1.45;
+}
+
+.crossword-clues button.is-active {
+  background: var(--mustard);
+}
+
+.crossword-clues b {
+  font-family: var(--mono);
+  font-size: 10px;
+}
+
+.crossword-clues span {
+  font-family: var(--display);
+  font-size: 17px;
+}
+
+.puzzle-note {
+  max-width: 720px;
+  margin: 100px auto 0;
+  text-align: center;
+}
+
+.puzzle-note p:last-child {
+  max-width: 580px;
+  margin: 25px auto 0;
+  line-height: 1.7;
+}
+
+.reveal {
+  animation: reveal 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: var(--delay, 0ms);
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 1050px) {
+  .site-header {
+    grid-template-columns: 1fr auto;
+  }
+
+  .edition {
+    display: none;
+  }
+
+  .hero {
+    grid-template-columns: 90px 1fr;
+  }
+
+  .hero__marginalia {
+    display: none;
+  }
+
+  .word-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .word-card:nth-child(2) {
+    border-right: 0;
+  }
+
+  .word-card:nth-child(-n + 2) {
+    border-bottom: 1px solid rgba(243, 234, 216, 0.25);
+  }
+
+  .crossword-feature {
+    grid-template-columns: 100px 1fr;
+  }
+
+  .mini-grid {
+    grid-column: 2;
+  }
+
+  .crossword-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .crossword-clues {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .site-header {
+    min-height: 72px;
+    padding: 0 20px;
+  }
+
+  .site-header nav {
+    display: none;
+  }
+
+  .hero {
+    min-height: 610px;
+    padding: 55px 22px;
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .hero__date {
+    width: 100px;
+  }
+
+  .hero h1,
+  .archive-hero h1,
+  .puzzle-index-hero h1 {
+    font-size: 57px;
+  }
+
+  .hero__scribble {
+    display: none;
+  }
+
+  .today-section,
+  .recent-section,
+  .archive-section,
+  .puzzle-index {
+    padding: 75px 20px;
+  }
+
+  .section-heading,
+  .section-heading--compact {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .word-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .word-card {
+    border-right: 0;
+    border-bottom: 1px solid rgba(243, 234, 216, 0.25);
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .word-card__definition {
+    min-height: 0;
+  }
+
+  .crossword-feature {
+    padding: 70px 22px;
+    grid-template-columns: 1fr;
+  }
+
+  .crossword-feature__stamp {
+    width: 90px;
+    height: 90px;
+  }
+
+  .mini-grid {
+    grid-column: 1;
+  }
+
+  .recent-list article {
+    grid-template-columns: 42px 1fr;
+  }
+
+  .recent-list time {
+    display: none;
+  }
+
+  .site-footer {
+    grid-template-columns: 1fr;
+    padding: 45px 22px;
+  }
+
+  .archive-hero {
+    padding: 70px 22px;
+    grid-template-columns: 1fr;
+    gap: 55px;
+  }
+
+  .archive-hero > .kicker {
+    grid-column: auto;
+  }
+
+  .archive-toolbar {
+    align-items: flex-start;
+    gap: 15px;
+    flex-direction: column;
+  }
+
+  .archive-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .archive-grid article:nth-child(odd) {
+    border-right: 0;
+  }
+
+  .archive-grid article:nth-child(even) {
+    padding-left: 0;
+  }
+
+  .puzzle-index-hero {
+    padding: 70px 22px;
+  }
+
+  .puzzle-card {
+    grid-template-columns: 75px 1fr;
+    gap: 18px;
+  }
+
+  .puzzle-card time {
+    display: none;
+  }
+
+  .puzzle-card__grid,
+  .puzzle-card__number {
+    width: 72px;
+  }
+
+  .puzzle-page {
+    padding: 30px 12px 75px;
+  }
+
+  .crossword-shell {
+    padding: 28px 12px;
+  }
+
+  .crossword-shell__header {
+    align-items: flex-start;
+  }
+
+  .crossword-progress {
+    display: none;
+  }
+
+  .crossword-board {
+    border-width: 2px;
+  }
+
+  .crossword-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .crossword-clues {
+    grid-template-columns: 1fr;
+  }
+
+  .crossword-actions {
+    flex-wrap: wrap;
+    padding-top: 15px;
+  }
+
+  .crossword-actions [data-message] {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

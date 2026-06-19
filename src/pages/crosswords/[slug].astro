@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Crossword from "../../components/Crossword.astro";
+import { previewPuzzle } from "../../data/puzzles";
+
+export function getStaticPaths() {
+  return [
+    {
+      params: { slug: previewPuzzle.slug },
+      props: { puzzle: previewPuzzle },
+    },
+  ];
+}
+
+const { puzzle } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<BaseLayout
+  title={`${puzzle.title} · Joecabulary Crossword`}
+  description={`Play ${puzzle.title}, a Joecabulary Sunday crossword.`}
+>
+  <div class="puzzle-page">
+    <a class="back-link" href={`${base}/crosswords`}>← All crosswords</a>
+    <Crossword puzzle={puzzle} />
+    <aside class="puzzle-note">
+      <p class="kicker">After the solve</p>
+      <h2>The words stay useful.</h2>
+      <p>
+        In the finished version, each featured answer will unlock its complete
+        glossary card: roots, nuance, and the original example from the daily edition.
+      </p>
+    </aside>
+  </div>
+</BaseLayout>

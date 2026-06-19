@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { archivePuzzles } from "../../data/puzzles";
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<BaseLayout
+  title="Sunday Crosswords · Joecabulary"
+  description="Play and revisit weekly Joecabulary crosswords."
+>
+  <section class="puzzle-index-hero">
+    <p class="kicker">Every Sunday morning</p>
+    <h1>The weekly<br /><em>word workout.</em></h1>
+    <p>
+      Each puzzle draws from the previous week’s vocabulary. Your progress saves
+      automatically, so coffee refills are fully supported.
+    </p>
+  </section>
+  <section class="puzzle-index">
+    <div class="section-heading section-heading--compact">
+      <div>
+        <p class="kicker">Puzzle archive</p>
+        <h2>All crosswords</h2>
+      </div>
+    </div>
+    <div class="puzzle-cards">
+      {
+        archivePuzzles.map((puzzle, index) =>
+          puzzle.slug ? (
+            <a href={`${base}/crosswords/${puzzle.slug}`} class="puzzle-card">
+              <div class="puzzle-card__grid" aria-hidden="true">
+                {Array.from({ length: 25 }, (_, cell) => (
+                  <i class:list={{ "is-dark": [0, 4, 6, 8, 12, 16, 18, 20, 24].includes(cell) }} />
+                ))}
+              </div>
+              <div>
+                <p>{puzzle.number} · {puzzle.status}</p>
+                <h2>{puzzle.title}</h2>
+                <span>{puzzle.words} featured words</span>
+              </div>
+              <time>{puzzle.date}</time>
+            </a>
+          ) : (
+            <article class="puzzle-card puzzle-card--disabled">
+              <div class="puzzle-card__number">{String(index + 1).padStart(2, "0")}</div>
+              <div>
+                <p>{puzzle.number} · {puzzle.status}</p>
+                <h2>{puzzle.title}</h2>
+                <span>The week’s words are still arriving.</span>
+              </div>
+              <time>{puzzle.date}</time>
+            </article>
+          )
+        )
+      }
+    </div>
+  </section>
+</BaseLayout>

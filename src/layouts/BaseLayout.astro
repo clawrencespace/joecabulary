@@ -1,0 +1,54 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site ?? "https://joecabulary.example");
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="site-noise" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="wordmark" href={`${base}/`}>
+        <span>J</span>
+        <strong>Joecabulary</strong>
+      </a>
+      <nav aria-label="Main navigation">
+        <a href={`${base}/#today`}>Today</a>
+        <a href={`${base}/words`}>Word archive</a>
+        <a href={`${base}/crosswords`}>Crosswords</a>
+      </nav>
+      <p class="edition">Four words daily · A new crossword Sunday</p>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <a class="wordmark wordmark--footer" href={`${base}/`}>
+        <span>J</span>
+        <strong>Joecabulary</strong>
+      </a>
+      <p>A growing collection of useful words and the puzzles they become.</p>
+      <p class="site-footer__small">Working title, very real vocabulary.</p>
+    </footer>
+  </body>
+</html>
