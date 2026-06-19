@@ -1112,6 +1112,10 @@ a.puzzle-card:hover h2 {
     gap: 40px;
   }
 
+  .hero::after {
+    display: none;
+  }
+
   .hero__date {
     width: 100px;
   }
