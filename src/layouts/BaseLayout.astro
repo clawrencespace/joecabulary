@@ -9,6 +9,7 @@ interface Props {
 const { title, description } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site ?? "https://joecabulary.example");
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? canonical);
 ---
 
 <!doctype html>
@@ -18,18 +19,26 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
+    <meta name="theme-color" content="#f3ead8" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={socialImage} />
+    <meta property="og:image:alt" content="The Joecabulary J, combining crossword squares and a pencil." />
+    <meta name="twitter:card" content="summary_large_image" />
     <title>{title}</title>
   </head>
   <body>
     <div class="site-noise" aria-hidden="true"></div>
     <header class="site-header">
       <a class="wordmark" href={`${base}/`}>
-        <span>J</span>
+        <span class="wordmark__mark" aria-hidden="true">
+          <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
+        </span>
         <strong>Joecabulary</strong>
       </a>
       <nav aria-label="Main navigation">
@@ -44,7 +53,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     </main>
     <footer class="site-footer">
       <a class="wordmark wordmark--footer" href={`${base}/`}>
-        <span>J</span>
+        <span class="wordmark__mark" aria-hidden="true">
+          <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
+        </span>
         <strong>Joecabulary</strong>
       </a>
       <p>A growing collection of useful words and the puzzles they become.</p>
