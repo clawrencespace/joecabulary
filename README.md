@@ -2,7 +2,7 @@
 
 Public vocabulary and weekly crossword site prototype.
 
-Live site: https://clawrencespace.github.io/joecabulary/
+Live site: https://joecabulary.com/
 
 ## Run locally
 

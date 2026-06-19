@@ -1,8 +1,7 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://clawrencespace.github.io",
-  base: "/joecabulary",
+  site: "https://joecabulary.com",
   output: "static",
   trailingSlash: "never",
 });
