@@ -1,0 +1,578 @@
+[
+  {
+    "word": "heuristic",
+    "definition": "a practical rule-of-thumb method.",
+    "origin": "From Greek heuriskein, “to find.”",
+    "nuance": "useful shortcut, not guaranteed truth.",
+    "example": "My heuristic is to distrust any metric that improves without a clear mechanism.",
+    "date": "2026-05-31"
+  },
+  {
+    "word": "provisional",
+    "definition": "temporary but usable pending better information.",
+    "origin": "From Latin providere, “to foresee/provide.”",
+    "nuance": "stronger than “tentative”; it implies something can operate for now.",
+    "example": "Let’s make a provisional call now and revisit once we have the vendor numbers.",
+    "date": "2026-05-31"
+  },
+  {
+    "word": "dispositive",
+    "definition": "settling the issue decisively.",
+    "origin": "From Latin disponere, “to arrange.”",
+    "nuance": "not just relevant, but outcome-determining; often misused as a fancy synonym for “important.”",
+    "example": "The dispositive question is whether this actually reduces cycle time.",
+    "date": "2026-05-31"
+  },
+  {
+    "word": "spurious",
+    "definition": "seeming real or persuasive but actually false or unsound.",
+    "origin": "From Latin spurius, “false/illegitimate.”",
+    "nuance": "great for bad correlations, fake precision, or shaky arguments.",
+    "example": "That looks like a spurious correlation, not a causal signal.",
+    "date": "2026-05-31"
+  },
+  {
+    "word": "salient",
+    "definition": "most relevant or noticeable.",
+    "origin": "From Latin salire, “to leap.”",
+    "nuance": "not just important; the point that jumps out.",
+    "example": "The salient issue isn’t model quality, it’s integration friction.",
+    "date": "2026-06-01"
+  },
+  {
+    "word": "tractable",
+    "definition": "manageable, solvable.",
+    "origin": "From Latin tractare, “to handle.”",
+    "nuance": "means workable, not easy.",
+    "example": "This gets tractable if we narrow scope and instrument it.",
+    "date": "2026-06-01"
+  },
+  {
+    "word": "orthogonal",
+    "definition": "independent on a separate axis.",
+    "origin": "From Greek orthos + gonia, “right angle.”",
+    "nuance": "often overused for “different”; better when two concerns barely interact.",
+    "example": "Cost optimization is mostly orthogonal to the UX question.",
+    "date": "2026-06-01"
+  },
+  {
+    "word": "asymmetric",
+    "definition": "uneven in risk, payoff, leverage, or information.",
+    "origin": "From Greek asymmetros, “without proportion.”",
+    "nuance": "especially useful when downside and upside are mismatched.",
+    "example": "The risk here is asymmetric: modest upside, ugly failure mode.",
+    "date": "2026-06-01"
+  },
+  {
+    "word": "material",
+    "definition": "significant enough to matter, especially in legal/financial/executive contexts.",
+    "origin": "Root idea: Latin materia, substance.",
+    "nuance": "not “physical”; it means consequential.",
+    "example": "The risk is real, but I’m not sure it’s material to this quarter.",
+    "date": "2026-06-03"
+  },
+  {
+    "word": "contingent",
+    "definition": "dependent on some condition being met.",
+    "origin": "From Latin contingere, to touch/happen.",
+    "nuance": "often confused with “temporary”; the sharper meaning is conditional.",
+    "example": "Expansion is contingent on the pilot proving out in two more regions.",
+    "date": "2026-06-03"
+  },
+  {
+    "word": "cogent",
+    "definition": "clear, tight, and convincing.",
+    "origin": "From Latin cogere, to compel.",
+    "nuance": "stronger than merely smart or articulate; the argument actually holds together.",
+    "example": "That’s a cogent case for slowing down before we replatform.",
+    "date": "2026-06-03"
+  },
+  {
+    "word": "specious",
+    "definition": "superficially plausible but actually misleading.",
+    "origin": "From Latin species, appearance.",
+    "nuance": "close cousin of “spurious,” but more about seductive plausibility.",
+    "example": "It sounds efficient on first pass, but the savings argument is a little specious.",
+    "date": "2026-06-03"
+  },
+  {
+    "word": "tenable",
+    "definition": "defensible or able to be maintained.",
+    "origin": "Root: Latin tenere, to hold.",
+    "nuance": "people often use it for “possible,” but it’s stronger than that; it implies the position can withstand scrutiny.",
+    "example": "That timeline isn’t really tenable if infra work slips another week.",
+    "date": "2026-06-04"
+  },
+  {
+    "word": "granular",
+    "definition": "finely detailed or broken into meaningful small parts.",
+    "origin": "Root: Latin granum, grain.",
+    "nuance": "useful word, but overused as filler; best when the level of detail actually matters.",
+    "example": "Let’s get more granular on the rollout risks by customer segment.",
+    "date": "2026-06-04"
+  },
+  {
+    "word": "durable",
+    "definition": "built to last; resilient over time.",
+    "origin": "Root: Latin durare, to harden or endure.",
+    "nuance": "stronger than “good” or “solid”; it suggests the thing holds up under changing conditions.",
+    "example": "We need a durable fix, not another patch that buys two weeks.",
+    "date": "2026-06-04"
+  },
+  {
+    "word": "inchoate",
+    "definition": "partly formed, still emerging, not yet fully shaped.",
+    "origin": "Root: Latin incohare, to begin.",
+    "nuance": "better than “vague” when the idea has real substance but isn’t mature yet.",
+    "example": "There’s an inchoate product idea there, but it needs a sharper user story.",
+    "date": "2026-06-04"
+  },
+  {
+    "word": "operative",
+    "definition": "the factor actually doing the work or controlling the outcome.",
+    "origin": "Root: Latin operari, to work.",
+    "nuance": "better than “main” when you mean causally active.",
+    "example": "The operative constraint here is time, not headcount.",
+    "date": "2026-06-05"
+  },
+  {
+    "word": "amortize",
+    "definition": "spread cost or effort over time or across outputs.",
+    "origin": "Root: Old French/Latin, literally to “kill off” a debt.",
+    "nuance": "often used well outside finance for reusable engineering effort.",
+    "example": "If we automate this once, we can amortize the setup cost over every future run.",
+    "date": "2026-06-05"
+  },
+  {
+    "word": "priors",
+    "definition": "baseline assumptions or probabilities you bring in before new evidence.",
+    "origin": "Root: Latin prior, earlier.",
+    "nuance": "more precise than “biases”; it implies assumptions that can be updated.",
+    "example": "My priors were wrong on that vendor; the last two weeks changed the picture.",
+    "date": "2026-06-05"
+  },
+  {
+    "word": "brittle",
+    "definition": "works in ideal conditions but breaks under variation or edge cases.",
+    "origin": "Root: Old English brytel, fragile.",
+    "nuance": "useful for systems, plans, and arguments, not just code.",
+    "example": "That workflow is fast, but it’s brittle if the input format shifts.",
+    "date": "2026-06-05"
+  },
+  {
+    "word": "legible",
+    "definition": "easy to understand in structure, not just readable.",
+    "origin": "From Latin legere, “to read.”",
+    "nuance": "people often use it for text, but it’s stronger when applied to systems or decisions.",
+    "example": "Let’s make the ownership model more legible before we scale the team.",
+    "date": "2026-06-06"
+  },
+  {
+    "word": "catalytic",
+    "definition": "causing change without being the whole cause.",
+    "origin": "From Greek katalysis, “dissolution.”",
+    "nuance": "better than “helpful” when something triggers outsized downstream effects.",
+    "example": "That one customer conversation was catalytic for the roadmap reset.",
+    "date": "2026-06-06"
+  },
+  {
+    "word": "bounded",
+    "definition": "constrained by explicit limits.",
+    "origin": "From Old French bonde/bound.",
+    "nuance": "more precise than “limited” because it implies known edges.",
+    "example": "We can take this on if we keep the scope tightly bounded.",
+    "date": "2026-06-06"
+  },
+  {
+    "word": "adjacent",
+    "definition": "closely related but not identical.",
+    "origin": "From Latin adiacere, “to lie near.”",
+    "nuance": "often overused to mean “basically the same”; it really means near enough to transfer insight, not equivalence.",
+    "example": "Payments isn’t our lane, but it’s adjacent enough that the compliance lessons still matter.",
+    "date": "2026-06-06"
+  },
+  {
+    "word": "inflect",
+    "definition": "to modify, bend, or alter direction/tone.",
+    "origin": "From Latin inflectere, “to bend.”",
+    "nuance": "useful for shifts in tone, trajectory, or interpretation, not just grammar.",
+    "example": "That new data doesn’t reverse the argument, but it does inflect it.",
+    "date": "2026-06-07"
+  },
+  {
+    "word": "reconcile",
+    "definition": "to bring competing views, numbers, or constraints into coherence.",
+    "origin": "From Latin reconciliare, “restore, make friendly again.”",
+    "nuance": "stronger than “compare”; it implies resolving tension.",
+    "example": "We need to reconcile the roadmap ambition with the actual staffing curve.",
+    "date": "2026-06-07"
+  },
+  {
+    "word": "latent",
+    "definition": "present but not yet visible or active.",
+    "origin": "From Latin latere, “to lie hidden.”",
+    "nuance": "better than “potential” when the thing already exists in buried form.",
+    "example": "There’s latent demand for this if the onboarding gets simpler.",
+    "date": "2026-06-07"
+  },
+  {
+    "word": "attenuate",
+    "definition": "to reduce force, intensity, or effect.",
+    "origin": "From Latin attenuare, “to make thin.”",
+    "nuance": "precise for weakening without eliminating.",
+    "example": "A tighter approval policy would attenuate the risk without killing the workflow.",
+    "date": "2026-06-07"
+  },
+  {
+    "word": "proximate",
+    "definition": "nearest or most immediate in time/causation.",
+    "origin": "Latin proximus, “nearest.”",
+    "nuance": "stronger than “related”; often means the direct cause, not just a contributing one.",
+    "example": "The proximate issue wasn’t demand, it was execution.",
+    "date": "2026-06-08"
+  },
+  {
+    "word": "canonical",
+    "definition": "standard, authoritative, or widely accepted as the reference version.",
+    "origin": "Greek kanon, “rule” or “measuring rod.”",
+    "nuance": "not just “popular”; it implies benchmark status.",
+    "example": "Let’s use the canonical deck, not three slightly different copies.",
+    "date": "2026-06-08"
+  },
+  {
+    "word": "exogenous",
+    "definition": "coming",
+    "origin": "from outside the system. Greek exo- + -genous, “produced from outside.”",
+    "nuance": "useful when separating internal failure from outside shock.",
+    "example": "That miss was partly exogenous; the market moved under us.",
+    "date": "2026-06-08"
+  },
+  {
+    "word": "parsimonious",
+    "definition": "elegantly minimal; explaining a lot with little.",
+    "origin": "Latin parsimonia, “frugality.”",
+    "nuance": "positive in analysis, less so if it becomes oversimplified.",
+    "example": "The parsimonious read is that the workflow is too fragmented.",
+    "date": "2026-06-08"
+  },
+  {
+    "word": "invariant",
+    "definition": "something that stays unchanged across cases.",
+    "origin": "Root: Latin invarians, “not changing.”",
+    "nuance": "stronger than “consistent”; it implies a property that should survive transformation.",
+    "example": "The invariant here is that the workflow needs a human confirmation step.",
+    "date": "2026-06-09"
+  },
+  {
+    "word": "materiality",
+    "definition": "practical significance, especially enough to affect judgment or action.",
+    "origin": "Root: Latin materialis.",
+    "nuance": "not just “important”; it asks whether something changes the decision.",
+    "example": "I’m not sure that bug has real materiality for users.",
+    "date": "2026-06-09"
+  },
+  {
+    "word": "aperture",
+    "definition": "an opening; figuratively, the width of attention or scope.",
+    "origin": "Root: Latin aperire, “to open.”",
+    "nuance": "cleaner than saying “bandwidth” when you mean strategic scope rather than time.",
+    "example": "Let’s narrow the aperture and solve the onboarding path first.",
+    "date": "2026-06-09"
+  },
+  {
+    "word": "contour",
+    "definition": "the shape or defining outline of something.",
+    "origin": "Root: Italian/French from Latin contornare, “to draw around.”",
+    "nuance": "useful for describing a situation without pretending to know every detail.",
+    "example": "The contour of the deal looks fine, but I want to inspect the edge cases.",
+    "date": "2026-06-09"
+  },
+  {
+    "word": "obviate",
+    "definition": "remove the need for.",
+    "origin": "From Latin obviare, “to go against / prevent.”",
+    "nuance": "stronger than “avoid”; it means the requirement itself disappears.",
+    "example": "A better deploy check would obviate this whole manual rollback dance.",
+    "date": "2026-06-10"
+  },
+  {
+    "word": "substrate",
+    "definition": "the underlying layer something depends on.",
+    "origin": "From Latin substernere, “to spread underneath.”",
+    "nuance": "useful for the base system, assumptions, or environment beneath the visible feature.",
+    "example": "The product issue wasn’t UI-deep; it was in the data substrate.",
+    "date": "2026-06-10"
+  },
+  {
+    "word": "ratchet",
+    "definition": "a mechanism, or metaphorically a one-way tightening pressure.",
+    "origin": "Likely from the mechanical tool sense.",
+    "nuance": "implies movement that’s hard to reverse.",
+    "example": "Once we ship that pricing change, customer expectations will ratchet upward.",
+    "date": "2026-06-10"
+  },
+  {
+    "word": "reify",
+    "definition": "make an abstraction concrete, sometimes too concretely.",
+    "origin": "From Latin res, “thing.”",
+    "nuance": "often used when a model, workaround, or metaphor starts getting treated as reality.",
+    "example": "We accidentally reified a temporary workflow into permanent process.",
+    "date": "2026-06-10"
+  },
+  {
+    "word": "adjudicate",
+    "definition": "to resolve or decide formally.",
+    "origin": "Latin ad + judicare, “to judge.”",
+    "nuance": "better than “decide” when you’re sorting competing claims or tradeoffs.",
+    "example": "We need to adjudicate the platform tradeoff before we start optimizing around it.",
+    "date": "2026-06-11"
+  },
+  {
+    "word": "bifurcate",
+    "definition": "to split into two branches.",
+    "origin": "Latin bi + furca, “two-forked.”",
+    "nuance": "cleaner than “fragment”; it implies a distinct two-track split.",
+    "example": "The roadmap is starting to bifurcate into enterprise and prosumer needs.",
+    "date": "2026-06-11"
+  },
+  {
+    "word": "instrumentalize",
+    "definition": "to treat something as a tool for another end.",
+    "origin": "From instrumentum.",
+    "nuance": "usually a little critical; stronger than plain “use.”",
+    "example": "He’s instrumentalizing the AI-safety argument for a market-positioning play.",
+    "date": "2026-06-11"
+  },
+  {
+    "word": "underwrite",
+    "definition": "to support, guarantee, or absorb the risk behind something.",
+    "origin": "From insurance practice.",
+    "nuance": "more precise than “back”; it implies real responsibility.",
+    "example": "We can move faster if leadership is willing to underwrite the operational risk.",
+    "date": "2026-06-11"
+  },
+  {
+    "word": "remit",
+    "definition": "scope of responsibility or charge.",
+    "origin": "From Latin remittere, “send back.”",
+    "nuance": "often cleaner than saying “lane,” and distinct from the payment noun.",
+    "example": "That’s probably in product’s remit, but I want engineering in the loop.",
+    "date": "2026-06-12"
+  },
+  {
+    "word": "tranche",
+    "definition": "a distinct portion of something released or handled in stages.",
+    "origin": "From French for “slice.”",
+    "nuance": "best when the partitioning matters, not just as a fancy synonym for “group.”",
+    "example": "Let’s ship the first tranche of fixes and hold the risky refactor for next week.",
+    "date": "2026-06-12"
+  },
+  {
+    "word": "overdetermined",
+    "definition": "explained by multiple causes at once.",
+    "origin": "Built from Greek-rooted determine; popularized in philosophy/psychoanalysis.",
+    "nuance": "not “inevitable,” more “too many forces are pushing the same outcome.”",
+    "example": "That decision was overdetermined: cost, timing, and org design were all pointing the same way.",
+    "date": "2026-06-12"
+  },
+  {
+    "word": "probabilistic",
+    "definition": "based on likelihoods rather than certainties.",
+    "origin": "From Latin probare, “test/prove.”",
+    "nuance": "useful when you want to sound calibrated, not hand-wavy.",
+    "example": "My probabilistic take is that this slips unless the dependency gets resolved today.",
+    "date": "2026-06-12"
+  },
+  {
+    "word": "tacit",
+    "definition": "understood without being said.",
+    "origin": "Root: Latin tacitus, “silent.”",
+    "nuance": "not merely unspoken, but mutually understood.",
+    "example": "There’s a tacit agreement that we only escalate once the data is solid.",
+    "date": "2026-06-13"
+  },
+  {
+    "word": "fungible",
+    "definition": "interchangeable without meaningful loss.",
+    "origin": "Root: legal/financial usage from Latin fungi, “perform.”",
+    "nuance": "people use it as “flexible,” but it really means replaceable like-for-like.",
+    "example": "Compute is mostly fungible; institutional trust isn’t.",
+    "date": "2026-06-13"
+  },
+  {
+    "word": "allocative",
+    "definition": "relating to how resources get distributed.",
+    "origin": "Root: Latin allocare, “to place.”",
+    "nuance": "useful for capital, time, headcount, and attention, not just budgets.",
+    "example": "The real issue isn’t cost, it’s allocative discipline.",
+    "date": "2026-06-13"
+  },
+  {
+    "word": "confound",
+    "definition": "to mix up, thwart, or invalidate an expected read.",
+    "origin": "Root: Latin confundere, “pour together.”",
+    "nuance": "stronger than “confuse”; it often means the signal is no longer clean.",
+    "example": "That pricing change confounds the quarter-over-quarter comparison.",
+    "date": "2026-06-13"
+  },
+  {
+    "word": "proviso",
+    "definition": "a condition attached to an agreement or claim.",
+    "origin": "From Latin provisus, “provided.”",
+    "nuance": "stronger than a casual caveat; it’s an explicit if-clause.",
+    "example": "I’m fine with the plan, with one proviso: we keep rollback simple.",
+    "date": "2026-06-14"
+  },
+  {
+    "word": "disambiguate",
+    "definition": "to make something less open to multiple interpretations.",
+    "origin": "From Latin roots meaning “drive apart.”",
+    "nuance": "best when the problem is confusion between plausible meanings, not just vagueness.",
+    "example": "Let’s disambiguate whether ‘owner’ means product owner or engineering owner.",
+    "date": "2026-06-14"
+  },
+  {
+    "word": "fulcrum",
+    "definition": "the pivot point something turns on.",
+    "origin": "From Latin fulcire, “to prop up.”",
+    "nuance": "useful beyond physics for leverage, negotiation, or decision structure.",
+    "example": "Distribution is the fulcrum here; the product is good enough.",
+    "date": "2026-06-14"
+  },
+  {
+    "word": "slippage",
+    "definition": "the gap between intended execution and actual execution.",
+    "origin": "Built from slip; modern business/ops usage is very natural.",
+    "nuance": "implies drift or loss of grip, not outright failure.",
+    "example": "Most of the schedule risk is just slippage between handoffs.",
+    "date": "2026-06-14"
+  },
+  {
+    "word": "regime",
+    "definition": "an organizing system or governing setup.",
+    "origin": "Root: French régime, from Latin regimen, “rule/direction.”",
+    "nuance": "stronger than “environment”; implies structure, incentives, or constraints.",
+    "example": "We’re basically operating under a new pricing regime now.",
+    "date": "2026-06-15"
+  },
+  {
+    "word": "ascribe",
+    "definition": "to attribute something to a cause, source, or author.",
+    "origin": "Root: Latin ascribere, “to write to.”",
+    "nuance": "cleaner than “blame” or “credit”; useful when causality is interpretive.",
+    "example": "I wouldn’t ascribe the slowdown to demand alone.",
+    "date": "2026-06-15"
+  },
+  {
+    "word": "frictional",
+    "definition": "involving drag, resistance, or process impedance.",
+    "origin": "Root: from Latin fricare, “to rub.”",
+    "nuance": "often used in economics and operations; suggests delays or inefficiencies, not total blockage.",
+    "example": "Most of this feels frictional, not fundamental.",
+    "date": "2026-06-15"
+  },
+  {
+    "word": "robustness",
+    "definition": "the ability to hold up under variation, stress, or edge cases.",
+    "origin": "Root: from Latin robur, “strength/oak.”",
+    "nuance": "better than just “strength”; implies resilience across conditions.",
+    "example": "The question isn’t speed, it’s robustness once real users hit it.",
+    "date": "2026-06-15"
+  },
+  {
+    "word": "provenance",
+    "definition": "origin or chain of custody.",
+    "origin": "From French/Latin for “to come forth.”",
+    "nuance": "stronger than “source”; it implies traceable history.",
+    "example": "I want the provenance on that metric before we make it board-facing.",
+    "date": "2026-06-16"
+  },
+  {
+    "word": "topology",
+    "definition": "the structure of how parts connect.",
+    "origin": "From Greek topos (place).",
+    "nuance": "useful beyond math; good for systems, orgs, and dependencies.",
+    "example": "The team topology is fine, but the decision topology is still muddy.",
+    "date": "2026-06-16"
+  },
+  {
+    "word": "valence",
+    "definition": "the force or charge something carries, especially affective or rhetorical.",
+    "origin": "From Latin valentia, strength.",
+    "nuance": "not just sentiment; more like directional weight.",
+    "example": "That phrase has a very different valence with customers than it does internally.",
+    "date": "2026-06-16"
+  },
+  {
+    "word": "fidelity",
+    "definition": "faithfulness to the original or to reality.",
+    "origin": "From Latin fidelitas, faithfulness.",
+    "nuance": "often better than just saying “accuracy” when representation matters.",
+    "example": "The summary is fast, but I’m not sure it preserves enough fidelity.",
+    "date": "2026-06-16"
+  },
+  {
+    "word": "germane",
+    "definition": "directly relevant.",
+    "origin": "From Latin germanus, “closely related.”",
+    "nuance": "stronger than merely “related”; it means the point actually bears on the issue.",
+    "example": "That’s interesting, but it’s not germane to the decision in front of us.",
+    "date": "2026-06-17"
+  },
+  {
+    "word": "precipitate",
+    "definition": "to cause something abruptly; also “sudden” as an adjective.",
+    "origin": "From Latin praeceps, “headlong.”",
+    "nuance": "usually implies hasty or destabilizing acceleration, not just speed.",
+    "example": "I don’t want to precipitate a reorg before we’ve aligned on ownership.",
+    "date": "2026-06-17"
+  },
+  {
+    "word": "stochastic",
+    "definition": "involving randomness or probability.",
+    "origin": "From Greek stokhastikos, “good at guessing/aiming.”",
+    "nuance": "not the same as chaotic; it can be statistically well-behaved.",
+    "example": "Individual usage is stochastic, but the weekly pattern is pretty stable.",
+    "date": "2026-06-17"
+  },
+  {
+    "word": "gambit",
+    "definition": "an opening move with calculated risk.",
+    "origin": "From chess, via Italian gambetto.",
+    "nuance": "better reserved for a strategic setup, not just any idea.",
+    "example": "The free tier is a smart acquisition gambit if conversion actually holds.",
+    "date": "2026-06-17"
+  },
+  {
+    "word": "lodestar",
+    "definition": "guiding principle or reference point.",
+    "origin": "From Old English for “leading star.”",
+    "nuance": "stronger than “goal”; it’s what you steer by.",
+    "example": "Our lodestar should be reducing friction for the user, not just adding features.",
+    "date": "2026-06-18"
+  },
+  {
+    "word": "prescriptive",
+    "definition": "rule-setting rather than merely descriptive.",
+    "origin": "From Latin praescribere, “to write beforehand.”",
+    "nuance": "people often use it when they really mean “opinionated.”",
+    "example": "That framework is pretty prescriptive about project structure.",
+    "date": "2026-06-18"
+  },
+  {
+    "word": "manifold",
+    "definition": "many-sided or varied; in technical contexts, a structure with multiple connected dimensions.",
+    "origin": "From Latin manus + fold.",
+    "nuance": "cleaner than just saying “complex.”",
+    "example": "The tradeoffs here are manifold, but the operational risk is the real story.",
+    "date": "2026-06-18"
+  },
+  {
+    "word": "irreducible",
+    "definition": "cannot be simplified further without losing something essential.",
+    "origin": "From Latin reducere, “to lead back.”",
+    "nuance": "useful when a problem stays stubbornly real even after abstraction.",
+    "example": "There’s an irreducible amount of coordination overhead in this kind of migration.",
+    "date": "2026-06-18"
+  }
+]

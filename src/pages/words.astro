@@ -1,19 +1,13 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { todayWords, recentWords } from "../data/words";
+import { archiveWords } from "../data/words";
 
-const allWords = [
-  ...todayWords.map((entry) => ({
-    word: entry.word,
-    date: "Jun 18",
-    note: entry.definition,
-    tags: entry.tags,
-  })),
-  ...recentWords.map((entry) => ({
-    ...entry,
-    tags: ["archive"],
-  })),
-];
+const displayDate = new Intl.DateTimeFormat("en-US", {
+  month: "short",
+  day: "numeric",
+  year: "numeric",
+  timeZone: "UTC",
+});
 ---
 
 <BaseLayout
@@ -34,24 +28,47 @@ const allWords = [
 
   <section class="archive-section">
     <div class="archive-toolbar">
-      <p><strong>{allWords.length}</strong> words shown in this draft</p>
+      <p><strong data-visible-count>{archiveWords.length}</strong> words in the archive</p>
       <div>
-        <button class="is-active" type="button">All words</button>
-        <button type="button">Newest</button>
-        <button type="button">A–Z</button>
+        <button class="is-active" type="button" data-sort="newest">Newest</button>
+        <button type="button" data-sort="alpha">A–Z</button>
       </div>
     </div>
     <div class="archive-grid" data-word-list>
       {
-        allWords.map((entry, index) => (
-          <article data-word={`${entry.word} ${entry.note} ${entry.tags.join(" ")}`.toLowerCase()}>
-            <span>{String(index + 1).padStart(2, "0")}</span>
-            <div>
-              <h2>{entry.word}</h2>
-              <p>{entry.note}</p>
+        archiveWords.map((entry, index) => (
+          <details
+            class="archive-card"
+            data-word={`${entry.word} ${entry.definition} ${entry.origin} ${entry.nuance} ${entry.example}`.toLowerCase()}
+            data-date={entry.date}
+            data-name={entry.word.toLowerCase()}
+            data-index={index}
+          >
+            <summary>
+              <span class="archive-card__number">
+                {String(archiveWords.length - index).padStart(3, "0")}
+              </span>
+              <div class="archive-card__intro">
+                <h2>{entry.word}</h2>
+                <p>{entry.definition}</p>
+              </div>
+              <time datetime={entry.date}>
+                {displayDate.format(new Date(`${entry.date}T00:00:00Z`))}
+              </time>
+              <span class="archive-card__toggle" aria-hidden="true">↓</span>
+            </summary>
+            <div class="archive-card__body">
+              <div>
+                <strong>Origin</strong>
+                <p>{entry.origin}</p>
+              </div>
+              <div>
+                <strong>Nuance</strong>
+                <p>{entry.nuance}</p>
+              </div>
+              <blockquote>“{entry.example}”</blockquote>
             </div>
-            <time>{entry.date}</time>
-          </article>
+          </details>
         ))
       }
     </div>
@@ -60,11 +77,14 @@ const allWords = [
 
   <script>
     const search = document.querySelector<HTMLInputElement>("#word-search");
-    const cards = Array.from(document.querySelectorAll<HTMLElement>("[data-word]"));
+    const list = document.querySelector<HTMLElement>("[data-word-list]");
+    const cards = Array.from(document.querySelectorAll<HTMLDetailsElement>("[data-word]"));
     const empty = document.querySelector<HTMLElement>("[data-empty]");
+    const visibleCount = document.querySelector<HTMLElement>("[data-visible-count]");
+    const sortButtons = Array.from(document.querySelectorAll<HTMLButtonElement>("[data-sort]"));
 
-    search?.addEventListener("input", () => {
-      const query = search.value.trim().toLowerCase();
+    const filterCards = () => {
+      const query = search?.value.trim().toLowerCase() ?? "";
       let visible = 0;
       cards.forEach((card) => {
         const match = card.dataset.word?.includes(query) ?? false;
@@ -72,6 +92,26 @@ const allWords = [
         if (match) visible += 1;
       });
       if (empty) empty.hidden = visible > 0;
+      if (visibleCount) visibleCount.textContent = String(visible);
+    };
+
+    search?.addEventListener("input", filterCards);
+
+    sortButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const mode = button.dataset.sort;
+        const sorted = [...cards].sort((a, b) => {
+          if (mode === "alpha") {
+            return (a.dataset.name ?? "").localeCompare(b.dataset.name ?? "");
+          }
+          const dateOrder = (b.dataset.date ?? "").localeCompare(a.dataset.date ?? "");
+          if (dateOrder !== 0) return dateOrder;
+          return Number(a.dataset.index) - Number(b.dataset.index);
+        });
+
+        sorted.forEach((card) => list?.append(card));
+        sortButtons.forEach((item) => item.classList.toggle("is-active", item === button));
+      });
     });
   </script>
 </BaseLayout>

@@ -701,41 +701,115 @@ input {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.archive-grid article {
-  min-height: 165px;
-  display: grid;
-  grid-template-columns: 40px 1fr auto;
-  gap: 20px;
-  padding: 28px 25px 28px 0;
+.archive-card {
   border-bottom: 1px solid var(--line);
 }
 
-.archive-grid article:nth-child(odd) {
+.archive-card:nth-child(odd) {
   border-right: 1px solid var(--line);
 }
 
-.archive-grid article:nth-child(even) {
+.archive-card summary {
+  min-height: 165px;
+  display: grid;
+  grid-template-columns: 40px minmax(0, 1fr) auto 20px;
+  gap: 20px;
+  align-items: start;
+  padding: 28px 25px 28px 0;
+  list-style: none;
+  cursor: pointer;
+  transition: background 180ms ease, padding 180ms ease;
+}
+
+.archive-card:nth-child(even) summary,
+.archive-card:nth-child(even) .archive-card__body {
   padding-left: 25px;
 }
 
-.archive-grid article > span,
-.archive-grid time {
+.archive-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive-card summary:hover,
+.archive-card summary:focus-visible {
+  background: rgba(216, 169, 61, 0.12);
+}
+
+.archive-card summary:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: -2px;
+}
+
+.archive-card__number,
+.archive-card time {
   font-family: var(--mono);
   font-size: 9px;
 }
 
-.archive-grid h2 {
+.archive-card h2 {
   font-family: var(--display);
   font-size: 31px;
   font-weight: 400;
   margin: 0 0 8px;
 }
 
-.archive-grid p {
+.archive-card p {
   margin: 0;
   color: var(--ink-soft);
   font-size: 13px;
   line-height: 1.5;
+}
+
+.archive-card__toggle {
+  display: block;
+  color: var(--coral);
+  font-size: 18px;
+  line-height: 0.8;
+  transition: transform 220ms ease;
+}
+
+.archive-card[open] .archive-card__toggle {
+  transform: rotate(180deg);
+}
+
+.archive-card__body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px 34px;
+  padding: 0 25px 30px 60px;
+  animation: archive-expand 260ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.archive-card__body strong {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--coral);
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.archive-card__body blockquote {
+  grid-column: 1 / -1;
+  margin: 2px 0 0;
+  padding: 15px 0 2px 18px;
+  border-left: 2px solid var(--mustard);
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 18px;
+  line-height: 1.45;
+}
+
+@keyframes archive-expand {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .empty-state {
@@ -1210,12 +1284,34 @@ a.puzzle-card:hover h2 {
     grid-template-columns: 1fr;
   }
 
-  .archive-grid article:nth-child(odd) {
+  .archive-card:nth-child(odd) {
     border-right: 0;
   }
 
-  .archive-grid article:nth-child(even) {
+  .archive-card:nth-child(even) summary,
+  .archive-card:nth-child(even) .archive-card__body {
     padding-left: 0;
+  }
+
+  .archive-card summary {
+    grid-template-columns: 32px minmax(0, 1fr) 18px;
+    gap: 14px;
+    min-height: 145px;
+    padding-right: 0;
+  }
+
+  .archive-card time {
+    display: none;
+  }
+
+  .archive-card__body {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 0 0 28px 46px;
+  }
+
+  .archive-card__body blockquote {
+    grid-column: auto;
   }
 
   .puzzle-index-hero {

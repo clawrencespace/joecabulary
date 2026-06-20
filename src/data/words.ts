@@ -1,3 +1,5 @@
+import archiveWordData from "./archive-words.json";
+
 export interface WordEntry {
   word: string;
   pronunciation: string;
@@ -8,6 +10,15 @@ export interface WordEntry {
   example: string;
   date: string;
   tags: string[];
+}
+
+export interface ArchiveWordEntry {
+  word: string;
+  definition: string;
+  origin: string;
+  nuance: string;
+  example: string;
+  date: string;
 }
 
 export const todayWords: WordEntry[] = [
@@ -69,13 +80,25 @@ export const todayWords: WordEntry[] = [
   },
 ];
 
-export const recentWords = [
-  { word: "germane", date: "Jun 17", note: "Directly relevant to the matter at hand." },
-  { word: "stochastic", date: "Jun 17", note: "Determined partly by random probability." },
-  { word: "provenance", date: "Jun 16", note: "The origin and history of an object or idea." },
-  { word: "valence", date: "Jun 16", note: "The emotional or associative charge something carries." },
-  { word: "frictional", date: "Jun 15", note: "Arising from resistance within a process or system." },
-  { word: "disambiguate", date: "Jun 14", note: "To remove uncertainty between possible meanings." },
-  { word: "fungible", date: "Jun 13", note: "Interchangeable with another item of the same kind." },
-  { word: "overdetermined", date: "Jun 12", note: "Explained by more causes than are necessary." },
-];
+export const archiveWords: ArchiveWordEntry[] = [...archiveWordData].sort((a, b) =>
+  b.date.localeCompare(a.date),
+);
+
+export const wordCount = archiveWords.length;
+export const editionCount = new Set(archiveWords.map((entry) => entry.date)).size;
+
+const latestDate = archiveWords[0]?.date;
+const shortDate = new Intl.DateTimeFormat("en-US", {
+  month: "short",
+  day: "numeric",
+  timeZone: "UTC",
+});
+
+export const recentWords = archiveWords
+  .filter((entry) => entry.date !== latestDate)
+  .slice(0, 8)
+  .map((entry) => ({
+    word: entry.word,
+    date: shortDate.format(new Date(`${entry.date}T00:00:00Z`)),
+    note: entry.definition,
+  }));
