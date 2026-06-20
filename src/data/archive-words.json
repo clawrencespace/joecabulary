@@ -654,5 +654,61 @@
       "leadership",
       "rhetoric"
     ]
+  },
+  {
+    "word": "salience",
+    "pronunciation": "SAY-lee-uhns",
+    "partOfSpeech": "noun",
+    "definition": "what stands out as most relevant.",
+    "origin": "From Latin salire, “to leap.”",
+    "nuance": "more than “important”; it implies perceptual prominence.",
+    "example": "The salience here isn’t the feature set, it’s the rollout risk.",
+    "date": "2026-06-20",
+    "tags": [
+      "analysis",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "cadence",
+    "pronunciation": "KAY-duhns",
+    "partOfSpeech": "noun",
+    "definition": "the rhythm or tempo of something.",
+    "origin": "From Latin cadere, “to fall.”",
+    "nuance": "better than “frequency” when pattern and pacing matter too.",
+    "example": "We should fix the decision cadence before we add another weekly meeting.",
+    "date": "2026-06-20",
+    "tags": [
+      "leadership",
+      "process"
+    ]
+  },
+  {
+    "word": "optionality",
+    "pronunciation": "op-shuh-NAL-ih-tee",
+    "partOfSpeech": "noun",
+    "definition": "preserved freedom to choose later.",
+    "origin": "Built from option, from Latin optare, “to choose.”",
+    "nuance": "not just having options, but deliberately avoiding premature lock-in.",
+    "example": "Let’s keep some optionality on the roadmap until pricing settles.",
+    "date": "2026-06-20",
+    "tags": [
+      "strategy",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "arbitrage",
+    "pronunciation": "AR-bih-trahzh",
+    "partOfSpeech": "noun",
+    "definition": "advantage gained from a mismatch in price, structure, or context.",
+    "origin": "From Latin arbitrari, “to judge.”",
+    "nuance": "often used too loosely for any edge; it’s sharpest when there’s an actual asymmetry to exploit.",
+    "example": "There’s real distribution arbitrage in being early on that channel.",
+    "date": "2026-06-20",
+    "tags": [
+      "strategy",
+      "economics"
+    ]
   }
 ]
