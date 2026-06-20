@@ -141,8 +141,18 @@ const down = puzzle.entries.filter((entry) => entry.direction === "down");
     const progress = root.querySelector<HTMLElement>("[data-progress]");
     let activeEntry = 1;
 
+    const cellKey = (input: HTMLInputElement) => {
+      const cell = input.closest<HTMLElement>("[data-cell]");
+      return cell ? `${cell.dataset.row}-${cell.dataset.col}` : "";
+    };
+
     const save = () => {
-      localStorage.setItem(storageKey, inputs.map((input) => input.value).join(""));
+      const letters = Object.fromEntries(
+        inputs
+          .map((input) => [cellKey(input), input.value])
+          .filter(([key]) => key)
+      );
+      localStorage.setItem(storageKey, JSON.stringify({ version: 2, letters }));
     };
 
     const updateProgress = () => {
@@ -167,9 +177,29 @@ const down = puzzle.entries.filter((entry) => entry.direction === "down");
 
     const saved = localStorage.getItem(storageKey);
     if (saved) {
-      inputs.forEach((input, index) => {
-        input.value = saved[index] ?? "";
-      });
+      try {
+        const state = JSON.parse(saved) as {
+          version?: number;
+          letters?: Record<string, string>;
+        };
+
+        if (state.version === 2 && state.letters) {
+          inputs.forEach((input) => {
+            input.value = state.letters?.[cellKey(input)] ?? "";
+          });
+        }
+      } catch {
+        // The original save format discarded empty squares, so a partial puzzle
+        // cannot be restored reliably. A fully filled legacy puzzle is safe.
+        if (saved.length === inputs.length) {
+          inputs.forEach((input, index) => {
+            input.value = saved[index] ?? "";
+          });
+          save();
+        } else {
+          localStorage.removeItem(storageKey);
+        }
+      }
     }
 
     inputs.forEach((input) => {
