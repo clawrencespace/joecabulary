@@ -13,20 +13,24 @@ const { entry, index } = Astro.props;
   <div class="word-card__topline">
     <span class="word-card__number">{String(index + 1).padStart(2, "0")}</span>
     <div class="word-card__tags">
-      {entry.tags.map((tag) => <span>{tag}</span>)}
+      {(entry.tags ?? []).map((tag) => <span>{tag}</span>)}
     </div>
   </div>
   <h3>{entry.word}</h3>
-  <p class="word-card__meta">
-    <span>{entry.pronunciation}</span>
-    <i></i>
-    <em>{entry.partOfSpeech}</em>
-  </p>
+  {
+    (entry.pronunciation || entry.partOfSpeech) && (
+      <p class="word-card__meta">
+        {entry.pronunciation && <span>{entry.pronunciation}</span>}
+        {entry.pronunciation && entry.partOfSpeech && <i></i>}
+        {entry.partOfSpeech && <em>{entry.partOfSpeech}</em>}
+      </p>
+    )
+  }
   <p class="word-card__definition">{entry.definition}</p>
   <details>
     <summary>Go deeper <span aria-hidden="true">↘</span></summary>
     <div class="word-card__details">
-      <p><strong>Roots</strong>{entry.etymology}</p>
+      <p><strong>Roots</strong>{entry.origin}</p>
       <p><strong>Nuance</strong>{entry.nuance}</p>
       <blockquote>“{entry.example}”</blockquote>
     </div>

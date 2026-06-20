@@ -545,34 +545,46 @@
   },
   {
     "word": "lodestar",
+    "pronunciation": "LOHD-star",
+    "partOfSpeech": "noun",
     "definition": "guiding principle or reference point.",
-    "origin": "From Old English for “leading star.”",
+    "origin": "From Old English lād, meaning “course” or “journey,” plus star: literally, a star that shows the way.",
     "nuance": "stronger than “goal”; it’s what you steer by.",
     "example": "Our lodestar should be reducing friction for the user, not just adding features.",
-    "date": "2026-06-18"
+    "date": "2026-06-18",
+    "tags": ["leadership", "rhetoric"]
   },
   {
     "word": "prescriptive",
+    "pronunciation": "prih-SKRIP-tiv",
+    "partOfSpeech": "adjective",
     "definition": "rule-setting rather than merely descriptive.",
     "origin": "From Latin praescribere, “to write beforehand.”",
     "nuance": "people often use it when they really mean “opinionated.”",
     "example": "That framework is pretty prescriptive about project structure.",
-    "date": "2026-06-18"
+    "date": "2026-06-18",
+    "tags": ["analysis", "management"]
   },
   {
     "word": "manifold",
+    "pronunciation": "MAN-ih-fohld",
+    "partOfSpeech": "adjective",
     "definition": "many-sided or varied; in technical contexts, a structure with multiple connected dimensions.",
-    "origin": "From Latin manus + fold.",
+    "origin": "From Old English manigfeald, “many-fold.” Its mathematical sense later described a space with complex dimensions.",
     "nuance": "cleaner than just saying “complex.”",
     "example": "The tradeoffs here are manifold, but the operational risk is the real story.",
-    "date": "2026-06-18"
+    "date": "2026-06-18",
+    "tags": ["systems", "analysis"]
   },
   {
     "word": "irreducible",
+    "pronunciation": "ir-ih-DOO-suh-buhl",
+    "partOfSpeech": "adjective",
     "definition": "cannot be simplified further without losing something essential.",
     "origin": "From Latin reducere, “to lead back.”",
     "nuance": "useful when a problem stays stubbornly real even after abstraction.",
     "example": "There’s an irreducible amount of coordination overhead in this kind of migration.",
-    "date": "2026-06-18"
+    "date": "2026-06-18",
+    "tags": ["philosophy", "analysis"]
   }
 ]

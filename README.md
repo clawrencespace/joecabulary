@@ -27,5 +27,7 @@ npm run preview
 - Playable crossword with clue highlighting, checking, and local autosave
 - Responsive desktop and mobile layouts
 
-The prototype uses its own static sample data. It does not modify the daily digest
-prompt or the rules used to select Joe's vocabulary words.
+Daily vocabulary is finalized in the OpenClaw workspace before publication.
+Joecabulary and Joe's personal digest consume the same dated edition file so the
+public archive retains the exact definition, origin, nuance, and example that
+appeared in the digest.
