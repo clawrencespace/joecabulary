@@ -440,6 +440,30 @@ input {
   letter-spacing: 0.08em;
 }
 
+.pronunciation-details {
+  margin-bottom: 20px;
+}
+
+.pronunciation-details p {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 10px;
+  margin: 6px 0 0;
+}
+
+.pronunciation-details p span {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.68;
+}
+
+.pronunciation-details code {
+  font-family: var(--mono);
+  font-size: 0.95em;
+}
+
 .word-card__details blockquote {
   margin: 22px 0 0;
   padding-left: 14px;
@@ -778,6 +802,12 @@ input {
   gap: 24px 34px;
   padding: 0 25px 30px 60px;
   animation: archive-expand 260ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.archive-card__body .pronunciation-details {
+  grid-column: 1 / -1;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
 }
 
 .archive-card__body strong {

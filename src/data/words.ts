@@ -4,6 +4,8 @@ import editionData from "./editions.json";
 export interface WordEntry {
   word: string;
   pronunciation?: string;
+  ipa?: string;
+  soundsLike?: string;
   partOfSpeech?: string;
   definition: string;
   origin: string;

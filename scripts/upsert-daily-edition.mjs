@@ -21,6 +21,8 @@ const edition = JSON.parse(await readFile(path.resolve(sourcePath), "utf8"));
 const requiredWordFields = [
   "word",
   "pronunciation",
+  "ipa",
+  "soundsLike",
   "partOfSpeech",
   "definition",
   "origin",
@@ -54,6 +56,8 @@ const normalizedWords = edition.words.map((entry, index) => {
   return {
     word: entry.word.trim(),
     pronunciation: entry.pronunciation.trim(),
+    ipa: entry.ipa.trim().replace(/^\/|\/$/g, ""),
+    soundsLike: entry.soundsLike.trim(),
     partOfSpeech: entry.partOfSpeech.trim(),
     definition: entry.definition.trim(),
     origin: entry.origin.trim(),

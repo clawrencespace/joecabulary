@@ -17,19 +17,17 @@ const { entry, index } = Astro.props;
     </div>
   </div>
   <h3>{entry.word}</h3>
-  {
-    (entry.pronunciation || entry.partOfSpeech) && (
-      <p class="word-card__meta">
-        {entry.pronunciation && <span>{entry.pronunciation}</span>}
-        {entry.pronunciation && entry.partOfSpeech && <i></i>}
-        {entry.partOfSpeech && <em>{entry.partOfSpeech}</em>}
-      </p>
-    )
-  }
+  {entry.partOfSpeech && <p class="word-card__meta"><em>{entry.partOfSpeech}</em></p>}
   <p class="word-card__definition">{entry.definition}</p>
   <details>
     <summary>Go deeper <span aria-hidden="true">↘</span></summary>
     <div class="word-card__details">
+      <div class="pronunciation-details">
+        <strong>Pronunciation</strong>
+        <p><span>IPA</span><code>/{entry.ipa}/</code></p>
+        <p><span>American</span>{entry.pronunciation}</p>
+        <p><span>Sounds like</span>{entry.soundsLike}</p>
+      </div>
       <p><strong>Roots</strong>{entry.origin}</p>
       <p><strong>Nuance</strong>{entry.nuance}</p>
       <blockquote>“{entry.example}”</blockquote>

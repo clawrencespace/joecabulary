@@ -39,7 +39,7 @@ const displayDate = new Intl.DateTimeFormat("en-US", {
         archiveWords.map((entry, index) => (
           <details
             class="archive-card"
-            data-word={`${entry.word} ${entry.definition} ${entry.origin} ${entry.nuance} ${entry.example}`.toLowerCase()}
+            data-word={`${entry.word} ${entry.pronunciation ?? ""} ${entry.ipa ?? ""} ${entry.soundsLike ?? ""} ${entry.definition} ${entry.origin} ${entry.nuance} ${entry.example}`.toLowerCase()}
             data-date={entry.date}
             data-name={entry.word.toLowerCase()}
             data-index={index}
@@ -58,6 +58,12 @@ const displayDate = new Intl.DateTimeFormat("en-US", {
               <span class="archive-card__toggle" aria-hidden="true">↓</span>
             </summary>
             <div class="archive-card__body">
+              <div class="pronunciation-details">
+                <strong>Pronunciation</strong>
+                <p><span>IPA</span><code>/{entry.ipa}/</code></p>
+                <p><span>American</span>{entry.pronunciation}</p>
+                <p><span>Sounds like</span>{entry.soundsLike}</p>
+              </div>
               <div>
                 <strong>Origin</strong>
                 <p>{entry.origin}</p>
