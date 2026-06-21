@@ -52,7 +52,17 @@ const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
       <aside class="sunday-cta reveal" aria-label="Sunday crossword">
         <p><span>Sunday edition</span> The weekly crossword is ready.</p>
         <a href={`${base}/crosswords/${currentPuzzle.slug}`}>
-          Play crossword <span aria-hidden="true">↗</span>
+          <svg
+            class="sunday-cta__icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+          >
+            <rect x="2.5" y="2.5" width="19" height="19" rx="1.5"></rect>
+            <path d="M8.8 3v18M15.2 3v18M3 8.8h18M3 15.2h18"></path>
+            <path class="sunday-cta__icon-blocks" d="M3 3h5.8v5.8H3zM15.2 8.8H21v6.4h-5.8zM8.8 15.2h6.4V21H8.8z"></path>
+          </svg>
+          <span>Play crossword</span>
+          <span class="sunday-cta__arrow" aria-hidden="true">↗</span>
         </a>
       </aside>
     )
