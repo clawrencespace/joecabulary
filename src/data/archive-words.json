@@ -938,5 +938,73 @@
     ],
     "ipa": "ˈɑːɹbɪˌtɹɑːʒ",
     "soundsLike": "Starts like “arbiter” through “arbi,” then ends with the sound in “garage.”"
+  },
+  {
+    "word": "triangulate",
+    "pronunciation": "try-ANG-gyuh-layt",
+    "ipa": "traɪˈæŋɡjəˌleɪt",
+    "soundsLike": "Starts like \"try,\" hits \"angle\" in the middle, and ends like \"late.\"",
+    "partOfSpeech": "verb",
+    "definition": "To infer or locate something by comparing multiple sources, signals, or perspectives.",
+    "origin": "From Latin triangulum, \"triangle,\" via surveying and navigation.",
+    "nuance": "Often used loosely for any cross-checking; it works best when separate inputs help narrow uncertainty.",
+    "example": "Before we call that a trend, I want to triangulate customer feedback, usage data, and pipeline chatter.",
+    "date": "2026-06-21",
+    "tags": [
+      "analysis",
+      "decision-making",
+      "communication"
+    ]
+  },
+  {
+    "word": "tenor",
+    "pronunciation": "TEN-er",
+    "ipa": "ˈtɛnɚ",
+    "soundsLike": "Sounds like \"ten\" followed by \"her\" without the h.",
+    "partOfSpeech": "noun",
+    "definition": "The general character, mood, or direction of something said, written, or unfolding.",
+    "origin": "From Latin tenere, \"to hold\"; later developed into the sense of the prevailing course or drift.",
+    "nuance": "More about the overall drift than the literal wording; useful when tone and implications matter more than exact phrasing.",
+    "example": "The tenor of the board discussion was supportive, but they clearly want tighter milestones.",
+    "date": "2026-06-21",
+    "tags": [
+      "rhetoric",
+      "leadership",
+      "tone"
+    ]
+  },
+  {
+    "word": "throughline",
+    "pronunciation": "THROO-line",
+    "ipa": "ˈθruːˌlaɪn",
+    "soundsLike": "Just like saying \"through line\" as one word.",
+    "partOfSpeech": "noun",
+    "definition": "A unifying theme or logic that connects separate parts into a coherent whole.",
+    "origin": "From theater and narrative craft, where it names the continuous thread carrying a story or performance.",
+    "nuance": "Stronger than \"theme\" when you mean an organizing thread that makes disparate pieces hang together.",
+    "example": "The throughline for the roadmap should be reducing customer effort, not just shipping more features.",
+    "date": "2026-06-21",
+    "tags": [
+      "strategy",
+      "storytelling",
+      "product"
+    ]
+  },
+  {
+    "word": "overfit",
+    "pronunciation": "oh-ver-FIT",
+    "ipa": "ˌoʊvɚˈfɪt",
+    "soundsLike": "Starts like \"over\" and ends exactly like \"fit.\"",
+    "partOfSpeech": "verb",
+    "definition": "To tailor an explanation, model, or solution too closely to past data so it performs poorly in broader use.",
+    "origin": "From statistics and machine learning, built from over- plus fit.",
+    "nuance": "Now used metaphorically beyond modeling; the point is not just being too detailed, but optimizing for noise or edge cases at the expense of generality.",
+    "example": "We may be overfitting the process to one noisy customer instead of solving the broader pattern.",
+    "date": "2026-06-21",
+    "tags": [
+      "technical",
+      "judgment",
+      "models"
+    ]
   }
 ]
