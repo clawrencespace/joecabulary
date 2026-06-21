@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import WordCard from "../components/WordCard.astro";
+import { archivePuzzles } from "../data/puzzles";
 import {
   archiveWords,
   currentEdition,
@@ -38,12 +39,25 @@ const editionNumber = String(
     .sort()
     .indexOf(latestDate) + 1,
 ).padStart(3, "0");
+const isSunday = editionDate.getUTCDay() === 0;
+const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
 ---
 
 <BaseLayout
   title="Joecabulary · Four useful words every day"
   description="A daily collection of useful vocabulary, plus a fresh crossword every Sunday."
 >
+  {
+    isSunday && currentPuzzle && (
+      <aside class="sunday-cta reveal" aria-label="Sunday crossword">
+        <p><span>Sunday edition</span> The weekly crossword is ready.</p>
+        <a href={`${base}/crosswords/${currentPuzzle.slug}`}>
+          Play crossword <span aria-hidden="true">↗</span>
+        </a>
+      </aside>
+    )
+  }
+
   <section class="hero">
     <div class="hero__date reveal">
       <span>{weekday}</span>

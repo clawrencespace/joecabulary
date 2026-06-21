@@ -138,6 +138,45 @@ input {
   margin: 0;
 }
 
+.sunday-cta {
+  min-height: 62px;
+  padding: 12px 8vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  background: var(--ink);
+  color: var(--paper-light);
+  border-bottom: 1px solid rgba(243, 234, 216, 0.2);
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.sunday-cta p {
+  margin: 0;
+}
+
+.sunday-cta p span {
+  color: var(--coral);
+  margin-right: 12px;
+}
+
+.sunday-cta a {
+  flex: none;
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--coral);
+  padding-bottom: 3px;
+}
+
+.sunday-cta a span {
+  color: var(--coral);
+  margin-left: 6px;
+}
+
 .hero {
   min-height: 650px;
   padding: 90px 8vw 70px;
@@ -1208,6 +1247,17 @@ a.puzzle-card:hover h2 {
   .site-header {
     min-height: 72px;
     padding: 0 20px;
+  }
+
+  .sunday-cta {
+    padding: 15px 20px;
+    align-items: flex-start;
+    gap: 18px;
+  }
+
+  .sunday-cta p span {
+    display: block;
+    margin: 0 0 4px;
   }
 
   .site-header nav {
