@@ -1006,5 +1006,73 @@
       "judgment",
       "models"
     ]
+  },
+  {
+    "word": "warrant",
+    "pronunciation": "WOR-uhnt",
+    "ipa": "ˈwɔɹənt",
+    "soundsLike": "Starts like \"war\" and ends like the second half of \"parent.\"",
+    "partOfSpeech": "verb",
+    "definition": "To justify, require, or make something appropriate.",
+    "origin": "From Old North French warantir, \"to protect or guarantee.\"",
+    "nuance": "Stronger and more precise than \"suggest\" or \"call for\"; if facts warrant something, they substantively justify it rather than merely permit it.",
+    "example": "I don't think the current signal warrants a full reorg, but it does warrant a closer look.",
+    "date": "2026-06-22",
+    "tags": [
+      "judgment",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "ambient",
+    "pronunciation": "AM-bee-uhnt",
+    "ipa": "ˈæmbiənt",
+    "soundsLike": "Starts like \"amber\" without the r and ends a bit like \"brilliant.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Present all around; surrounding and shaping the general atmosphere or conditions.",
+    "origin": "From Latin ambire, \"to go around.\"",
+    "nuance": "Not just background in a visual or audio sense; it can describe the surrounding mood, pressure, or context that quietly influences decisions.",
+    "example": "There's still some ambient anxiety from the last incident, even if nobody is saying it outright.",
+    "date": "2026-06-22",
+    "tags": [
+      "tone",
+      "context",
+      "culture"
+    ]
+  },
+  {
+    "word": "accrete",
+    "pronunciation": "uh-KREET",
+    "ipa": "əˈkɹiːt",
+    "soundsLike": "Starts with a soft \"uh\" and rhymes the end with \"street.\"",
+    "partOfSpeech": "verb",
+    "definition": "To grow or build up gradually by adding layers, pieces, or small increments.",
+    "origin": "From Latin accrescere, \"to grow to\" or \"increase.\"",
+    "nuance": "Useful when growth happens bit by bit over time; it's more organic than \"add\" and less intentional-sounding than \"assemble.\"",
+    "example": "Process debt tends to accrete when every exception feels reasonable in the moment.",
+    "date": "2026-06-22",
+    "tags": [
+      "growth",
+      "systems",
+      "operations"
+    ]
+  },
+  {
+    "word": "elastic",
+    "pronunciation": "ee-LAS-tik",
+    "ipa": "iˈlæstɪk",
+    "soundsLike": "Starts like the letter \"E\" and then sounds like \"last tick.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Able to stretch, adapt, or absorb strain without breaking.",
+    "origin": "From Greek elastos, \"beaten out\" or \"ductile,\" via modern scientific usage.",
+    "nuance": "Often used metaphorically for plans, teams, or demand; it implies flexible resilience, not vagueness or lack of constraints.",
+    "example": "The schedule needs to be elastic enough to absorb a surprise integration issue without derailing the quarter.",
+    "date": "2026-06-22",
+    "tags": [
+      "strategy",
+      "resilience",
+      "planning"
+    ]
   }
 ]
