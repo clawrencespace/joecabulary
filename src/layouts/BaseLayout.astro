@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { archiveWords } from "../data/words";
 
 interface Props {
   title: string;
@@ -10,10 +11,11 @@ const { title, description } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site ?? "https://joecabulary.example");
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? canonical);
+const latestEdition = archiveWords[0]?.date ?? "";
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" data-current-edition={latestEdition}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, viewport-fit=cover" />
@@ -37,6 +39,13 @@ const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? cano
     <title>{title}</title>
   </head>
   <body>
+    <aside class="update-banner" data-update-banner hidden aria-live="polite">
+      <div>
+        <strong>Fresh words have landed.</strong>
+        <span>A new Joecabulary edition is ready.</span>
+      </div>
+      <button type="button" data-update-now>Update now</button>
+    </aside>
     <div class="pull-refresh" aria-hidden="true">
       <svg viewBox="0 0 24 24">
         <path d="M19 8a7.5 7.5 0 1 0 .4 7"></path>
@@ -75,6 +84,96 @@ const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? cano
       </footer>
     </div>
     <script>
+      const appBase = import.meta.env.BASE_URL.replace(/\/$/, "");
+      const isProduction = import.meta.env.PROD;
+      const currentEdition = document.documentElement.dataset.currentEdition ?? "";
+      const updateBanner = document.querySelector<HTMLElement>("[data-update-banner]");
+      const updateNow = document.querySelector<HTMLButtonElement>("[data-update-now]");
+      const badgeNavigator = navigator as unknown as {
+        setAppBadge?: (contents?: number) => Promise<void>;
+        clearAppBadge?: () => Promise<void>;
+      };
+
+      const setUpdateBadge = () => {
+        badgeNavigator.setAppBadge?.(1).catch(() => undefined);
+      };
+
+      const clearUpdateBadge = () => {
+        badgeNavigator.clearAppBadge?.().catch(() => undefined);
+      };
+
+      const checkForNewEdition = async () => {
+        if (!navigator.onLine) return;
+        try {
+          const response = await fetch(`${appBase}/version.json?t=${Date.now()}`, {
+            cache: "no-store",
+          });
+          if (!response.ok) return;
+          const version = (await response.json()) as { latestEdition?: string };
+          const latest = version.latestEdition ?? "";
+
+          if (latest && latest > currentEdition) {
+            if (updateBanner) updateBanner.hidden = false;
+            setUpdateBadge();
+            return;
+          }
+
+          if (latest && latest === currentEdition) {
+            localStorage.setItem("joecabulary-last-seen-edition", latest);
+            clearUpdateBadge();
+          }
+        } catch {
+          // Offline is an expected state; cached pages remain available.
+        }
+      };
+
+      updateNow?.addEventListener("click", () => window.location.reload());
+      window.addEventListener("online", checkForNewEdition);
+      window.addEventListener("focus", checkForNewEdition);
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") checkForNewEdition();
+      });
+
+      if (isProduction && "serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register(`${appBase}/sw.js`, { scope: `${appBase || ""}/` })
+          .then((registration) => registration.update())
+          .catch(() => undefined);
+      }
+
+      checkForNewEdition();
+
+      document.addEventListener("click", async (event) => {
+        const button = (event.target as Element | null)?.closest<HTMLButtonElement>("[data-share]");
+        if (!button) return;
+
+        const originalLabel = button.querySelector<HTMLElement>("span")?.textContent;
+        const relativeUrl = button.dataset.shareUrl;
+        const url = relativeUrl ? new URL(`${appBase}${relativeUrl}`, window.location.origin).href : window.location.href;
+        const shareData = {
+          title: button.dataset.shareTitle ?? document.title,
+          text: button.dataset.shareText,
+          url,
+        };
+
+        try {
+          if (navigator.share) {
+            await navigator.share(shareData);
+          } else {
+            await navigator.clipboard.writeText(url);
+            const label = button.querySelector<HTMLElement>("span");
+            if (label) {
+              label.textContent = "Link copied";
+              window.setTimeout(() => {
+                label.textContent = originalLabel ?? "Share";
+              }, 1600);
+            }
+          }
+        } catch (error) {
+          if (error instanceof DOMException && error.name === "AbortError") return;
+        }
+      });
+
       const standalone =
         window.matchMedia("(display-mode: standalone)").matches ||
         ("standalone" in navigator && navigator.standalone === true);

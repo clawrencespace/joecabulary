@@ -97,9 +97,27 @@ const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
         <p class="kicker">{shortEditionDate} · Edition No. {editionNumber}</p>
         <h2>Today’s words</h2>
       </div>
-      <p>
-        {currentEdition?.summary ?? "Four useful words for sharper thinking and clearer writing."}
-      </p>
+      <div class="section-heading__aside">
+        <p>
+          {currentEdition?.summary ?? "Four useful words for sharper thinking and clearer writing."}
+        </p>
+        <button
+          class="share-button"
+          type="button"
+          data-share
+          data-share-title={`${shortEditionDate} · Joecabulary`}
+          data-share-text="Four useful words worth keeping around."
+          data-share-url="/#today"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="18" cy="5" r="2.5"></circle>
+            <circle cx="6" cy="12" r="2.5"></circle>
+            <circle cx="18" cy="19" r="2.5"></circle>
+            <path d="m8.2 10.8 7.6-4.5M8.2 13.2l7.6 4.5"></path>
+          </svg>
+          <span>Share edition</span>
+        </button>
+      </div>
     </div>
     <div class="word-grid">
       {todayWords.map((entry, index) => <WordCard entry={entry} index={index} />)}

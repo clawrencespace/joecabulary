@@ -26,6 +26,8 @@ npm run preview
 - Weekly crossword archive
 - Playable crossword with clue highlighting, checking, and local autosave
 - Home-screen web app support with themed system chrome and pull-to-refresh
+- Offline caching with automatic new-edition checks when the app opens or resumes
+- Native sharing for daily editions, individual words, and crosswords
 - Responsive desktop and mobile layouts
 
 Daily vocabulary is finalized in the OpenClaw workspace before publication.

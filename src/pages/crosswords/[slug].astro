@@ -21,7 +21,24 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   description={`Play ${puzzle.title}, a Joecabulary Sunday crossword.`}
 >
   <div class="puzzle-page">
-    <a class="back-link" href={`${base}/crosswords`}>← All crosswords</a>
+    <div class="puzzle-page__toolbar">
+      <a class="back-link" href={`${base}/crosswords`}>← All crosswords</a>
+      <button
+        class="share-button"
+        type="button"
+        data-share
+        data-share-title={`${puzzle.title} · Joecabulary`}
+        data-share-text={`Play ${puzzle.title}, a Joecabulary Sunday crossword.`}
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="18" cy="5" r="2.5"></circle>
+          <circle cx="6" cy="12" r="2.5"></circle>
+          <circle cx="18" cy="19" r="2.5"></circle>
+          <path d="m8.2 10.8 7.6-4.5M8.2 13.2l7.6 4.5"></path>
+        </svg>
+        <span>Share puzzle</span>
+      </button>
+    </div>
     <Crossword puzzle={puzzle} />
     <aside class="puzzle-note">
       <p class="kicker">After the solve</p>
