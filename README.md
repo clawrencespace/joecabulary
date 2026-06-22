@@ -25,6 +25,7 @@ npm run preview
 - Searchable word archive
 - Weekly crossword archive
 - Playable crossword with clue highlighting, checking, and local autosave
+- Home-screen web app support with themed system chrome and pull-to-refresh
 - Responsive desktop and mobile layouts
 
 Daily vocabulary is finalized in the OpenClaw workspace before publication.

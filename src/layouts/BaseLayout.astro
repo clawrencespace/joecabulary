@@ -16,13 +16,17 @@ const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? cano
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, viewport-fit=cover" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#f3ead8" />
+    <meta name="theme-color" content="#173d35" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Joecabulary" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
+    <link rel="manifest" href={`${base}/site.webmanifest`} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
@@ -33,33 +37,127 @@ const socialImage = new URL(`${base}/joecabulary-social.png`, Astro.site ?? cano
     <title>{title}</title>
   </head>
   <body>
-    <div class="site-noise" aria-hidden="true"></div>
-    <header class="site-header">
-      <a class="wordmark" href={`${base}/`}>
-        <span class="wordmark__mark" aria-hidden="true">
-          <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
-        </span>
-        <strong>Joecabulary</strong>
-      </a>
-      <nav aria-label="Main navigation">
-        <a href={`${base}/#today`}>Today</a>
-        <a href={`${base}/words`}>Word archive</a>
-        <a href={`${base}/crosswords`}>Crosswords</a>
-      </nav>
-      <p class="edition">Four words daily · A new crossword Sunday</p>
-    </header>
-    <main>
-      <slot />
-    </main>
-    <footer class="site-footer">
-      <a class="wordmark wordmark--footer" href={`${base}/`}>
-        <span class="wordmark__mark" aria-hidden="true">
-          <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
-        </span>
-        <strong>Joecabulary</strong>
-      </a>
-      <p>A growing collection of useful words and the puzzles they become.</p>
-      <p class="site-footer__small">Working title, very real vocabulary.</p>
-    </footer>
+    <div class="pull-refresh" aria-hidden="true">
+      <svg viewBox="0 0 24 24">
+        <path d="M19 8a7.5 7.5 0 1 0 .4 7"></path>
+        <path d="M19 3v5h-5"></path>
+      </svg>
+      <span data-pull-refresh-label>Pull to refresh</span>
+    </div>
+    <div class="app-shell">
+      <div class="site-noise" aria-hidden="true"></div>
+      <header class="site-header">
+        <a class="wordmark" href={`${base}/`}>
+          <span class="wordmark__mark" aria-hidden="true">
+            <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
+          </span>
+          <strong>Joecabulary</strong>
+        </a>
+        <nav aria-label="Main navigation">
+          <a href={`${base}/#today`}>Today</a>
+          <a href={`${base}/words`}>Word archive</a>
+          <a href={`${base}/crosswords`}>Crosswords</a>
+        </nav>
+        <p class="edition">Four words daily · A new crossword Sunday</p>
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="site-footer">
+        <a class="wordmark wordmark--footer" href={`${base}/`}>
+          <span class="wordmark__mark" aria-hidden="true">
+            <img src={`${base}/joecabulary-mark.png`} alt="" width="372" height="512" />
+          </span>
+          <strong>Joecabulary</strong>
+        </a>
+        <p>A growing collection of useful words and the puzzles they become.</p>
+        <p class="site-footer__small">Working title, very real vocabulary.</p>
+      </footer>
+    </div>
+    <script>
+      const standalone =
+        window.matchMedia("(display-mode: standalone)").matches ||
+        ("standalone" in navigator && navigator.standalone === true);
+
+      if (standalone) {
+        document.documentElement.classList.add("is-standalone");
+
+        const root = document.documentElement;
+        const label = document.querySelector<HTMLElement>("[data-pull-refresh-label]");
+        const threshold = 68;
+        let startY = 0;
+        let distance = 0;
+        let tracking = false;
+
+        const setDistance = (nextDistance: number) => {
+          distance = nextDistance;
+          root.style.setProperty("--pull-distance", `${distance}px`);
+          root.classList.toggle("is-pull-ready", distance >= threshold);
+          if (label) {
+            label.textContent = distance >= threshold ? "Release to refresh" : "Pull to refresh";
+          }
+        };
+
+        const reset = () => {
+          tracking = false;
+          root.classList.remove("is-pulling", "is-pull-ready");
+          root.classList.add("is-pull-settling");
+          setDistance(0);
+          window.setTimeout(() => root.classList.remove("is-pull-settling"), 240);
+        };
+
+        window.addEventListener(
+          "touchstart",
+          (event) => {
+            const target = event.target as Element | null;
+            if (
+              event.touches.length !== 1 ||
+              window.scrollY > 0 ||
+              target?.closest("input, textarea, select, [contenteditable], [data-crossword]")
+            ) {
+              return;
+            }
+
+            startY = event.touches[0].clientY;
+            tracking = true;
+          },
+          { passive: true },
+        );
+
+        window.addEventListener(
+          "touchmove",
+          (event) => {
+            if (!tracking || event.touches.length !== 1) return;
+            const delta = event.touches[0].clientY - startY;
+
+            if (delta <= 0 || window.scrollY > 0) {
+              reset();
+              return;
+            }
+
+            event.preventDefault();
+            root.classList.add("is-pulling");
+            setDistance(Math.min(108, delta * 0.48));
+          },
+          { passive: false },
+        );
+
+        window.addEventListener("touchend", () => {
+          if (!tracking) return;
+          if (distance >= threshold) {
+            tracking = false;
+            root.classList.remove("is-pulling", "is-pull-ready");
+            root.classList.add("is-refreshing");
+            if (label) label.textContent = "Refreshing";
+            setDistance(76);
+            window.setTimeout(() => window.location.reload(), 180);
+            return;
+          }
+          reset();
+        });
+
+        window.addEventListener("touchcancel", reset);
+      }
+    </script>
   </body>
 </html>
