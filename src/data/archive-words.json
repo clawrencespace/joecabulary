@@ -1074,5 +1074,73 @@
       "resilience",
       "planning"
     ]
+  },
+  {
+    "word": "commensurate",
+    "pronunciation": "kuh-MEN-sur-it",
+    "ipa": "kəˈmɛnsɚət",
+    "soundsLike": "Starts like \"comment\" without the t and ends a bit like \"temperate.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Proportional in size, degree, or importance to something else.",
+    "origin": "From Latin commensuratus, from com- plus mensura, meaning \"measured together.\"",
+    "nuance": "Use it when something properly matches the scale of the situation; it's more exact than just saying \"appropriate\" or \"fair.\"",
+    "example": "I want the process overhead to be commensurate with the actual risk, not with our anxiety level.",
+    "date": "2026-06-23",
+    "tags": [
+      "judgment",
+      "leadership",
+      "proportion"
+    ]
+  },
+  {
+    "word": "temper",
+    "pronunciation": "TEM-per",
+    "ipa": "ˈtɛmpɚ",
+    "soundsLike": "Exactly like \"temp\" plus \"her.\"",
+    "partOfSpeech": "verb",
+    "definition": "To moderate, soften, or restrain something so it is less extreme.",
+    "origin": "From Latin temperare, meaning \"to mix properly\" or \"moderate.\"",
+    "nuance": "Often used for judgment, expectations, or language; it means to balance or rein in, not to water down thoughtlessly.",
+    "example": "We should temper the roadmap rhetoric until we know the integration constraints are real.",
+    "date": "2026-06-23",
+    "tags": [
+      "rhetoric",
+      "judgment",
+      "management"
+    ]
+  },
+  {
+    "word": "implicate",
+    "pronunciation": "IM-pli-kayt",
+    "ipa": "ˈɪmpləˌkeɪt",
+    "soundsLike": "Starts like \"simple\" without the s and ends like \"locate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To show that something is involved in, connected to, or partly responsible for something else.",
+    "origin": "From Latin implicare, meaning \"to entwine\" or \"involve.\"",
+    "nuance": "Not the same as directly accuse; to implicate is to suggest meaningful involvement or consequence, often by evidence or logic rather than by explicit blame.",
+    "example": "The latency spike seems to implicate the queueing layer more than the API itself.",
+    "date": "2026-06-23",
+    "tags": [
+      "analysis",
+      "causality",
+      "diagnosis"
+    ]
+  },
+  {
+    "word": "framing",
+    "pronunciation": "FRAY-ming",
+    "ipa": "ˈfɹeɪmɪŋ",
+    "soundsLike": "Exactly like \"frame\" plus \"ing.\"",
+    "partOfSpeech": "noun",
+    "definition": "The way an issue is presented or structured so it shapes how people interpret it.",
+    "origin": "From frame, ultimately from Old English framian, meaning \"to benefit or advance.\"",
+    "nuance": "Useful when the real difference is interpretive lens, not raw facts; people often treat framing like spin, but good framing can simply make the stakes or tradeoffs clearer.",
+    "example": "This is partly a prioritization problem and partly a framing problem about what we think success looks like.",
+    "date": "2026-06-23",
+    "tags": [
+      "communication",
+      "strategy",
+      "analysis"
+    ]
   }
 ]
