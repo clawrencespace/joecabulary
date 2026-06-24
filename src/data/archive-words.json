@@ -1142,5 +1142,73 @@
       "strategy",
       "analysis"
     ]
+  },
+  {
+    "word": "delineate",
+    "pronunciation": "dih-LIN-ee-ayt",
+    "ipa": "dɪˈlɪniˌeɪt",
+    "soundsLike": "Starts like \"de\" in \"deliver,\" then \"LIN,\" and ends like \"radiate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To describe or mark something out with clear boundaries or detail.",
+    "origin": "From Latin delineare, meaning \"to sketch\" or \"draw in outline.\"",
+    "nuance": "Use it when you're clarifying scope, responsibilities, or distinctions; it's more exact than just saying \"describe\" because it implies boundaries.",
+    "example": "Before we debate solutions, let's delineate which problems are actually architectural and which are just process debt.",
+    "date": "2026-06-24",
+    "tags": [
+      "clarity",
+      "strategy",
+      "scope"
+    ]
+  },
+  {
+    "word": "interrogate",
+    "pronunciation": "in-TER-uh-gayt",
+    "ipa": "ɪnˈtɛɹəˌɡeɪt",
+    "soundsLike": "Starts like \"internet\" and ends like \"propagate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To examine something closely and critically, especially by asking pointed questions.",
+    "origin": "From Latin interrogare, meaning \"to ask\" or \"question.\"",
+    "nuance": "In analytical or technical contexts, it usually means to probe assumptions or evidence, not to grill a person like a detective.",
+    "example": "I want to interrogate the churn numbers a bit before we build a whole narrative around them.",
+    "date": "2026-06-24",
+    "tags": [
+      "analysis",
+      "evidence",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "corollary",
+    "pronunciation": "KOR-uh-lair-ee",
+    "ipa": "ˈkɔɹəˌlɛɹi",
+    "soundsLike": "Starts like \"core,\" then \"uh,\" and ends a bit like \"Larry.\"",
+    "partOfSpeech": "noun",
+    "definition": "A natural consequence or result that follows from something else.",
+    "origin": "From Latin corollarium, originally a small garland, later something given as an added result.",
+    "nuance": "Use it for a conclusion that follows pretty directly from a premise; people often misuse it as just a fancy synonym for \"related point.\"",
+    "example": "If we optimize for local team speed, one corollary is that cross-org consistency will matter more, not less.",
+    "date": "2026-06-24",
+    "tags": [
+      "logic",
+      "reasoning",
+      "implication"
+    ]
+  },
+  {
+    "word": "instantiate",
+    "pronunciation": "in-STAN-shee-ayt",
+    "ipa": "ɪnˈstænʃiˌeɪt",
+    "soundsLike": "Starts like \"in stance\" and ends like \"negotiate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To create a concrete example or actual instance of an idea, model, or class.",
+    "origin": "Built from instance, from Latin instantia, with the sense of making something exist in a specific form.",
+    "nuance": "Especially useful in technical or abstract discussions when you need to move from concept to implementation; outside software, it still works for making an idea concrete.",
+    "example": "Let's instantiate this policy with two real scenarios so we can see where the edge cases show up.",
+    "date": "2026-06-24",
+    "tags": [
+      "technical",
+      "abstraction",
+      "implementation"
+    ]
   }
 ]
