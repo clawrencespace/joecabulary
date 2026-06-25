@@ -1210,5 +1210,73 @@
       "abstraction",
       "implementation"
     ]
+  },
+  {
+    "word": "calibrate",
+    "pronunciation": "KAL-uh-brayt",
+    "ipa": "ˈkælɪˌbɹeɪt",
+    "soundsLike": "Starts like \"calendar\" without the \"der,\" then rhymes with \"great.\"",
+    "partOfSpeech": "verb",
+    "definition": "To adjust something so it is properly measured, tuned, or aligned to reality.",
+    "origin": "From caliber, via Arabic qalib, referring to a mold or standard for measurement.",
+    "nuance": "Useful for expectations, strategy, forecasts, or tone, not just instruments; stronger than \"adjust\" because it implies using a reference point.",
+    "example": "We should calibrate the roadmap to what the team can actually absorb this quarter, not the aspirational version.",
+    "date": "2026-06-25",
+    "tags": [
+      "judgment",
+      "strategy",
+      "measurement"
+    ]
+  },
+  {
+    "word": "caveat",
+    "pronunciation": "KAV-ee-at",
+    "ipa": "ˈkæviˌæt",
+    "soundsLike": "Starts like \"cavity\" and ends like the word \"at.\"",
+    "partOfSpeech": "noun",
+    "definition": "A warning, qualification, or important condition attached to what you just said.",
+    "origin": "From Latin caveat, meaning \"let him or her beware.\"",
+    "nuance": "Best when a point is mostly true but needs a limiting condition; people sometimes misuse it as if it just means any objection.",
+    "example": "I’m on board with decentralizing that decision, with the caveat that we still need one shared definition of success.",
+    "date": "2026-06-25",
+    "tags": [
+      "rhetoric",
+      "constraints",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "synthesis",
+    "pronunciation": "SIN-thuh-sis",
+    "ipa": "ˈsɪnθəsɪs",
+    "soundsLike": "Starts like \"since,\" then has the \"thuh\" from \"the,\" and ends like \"sis.\"",
+    "partOfSpeech": "noun",
+    "definition": "The combining of separate ideas, inputs, or parts into a coherent whole.",
+    "origin": "From Greek synthesis, meaning \"a putting together\" or \"composition.\"",
+    "nuance": "Not just a summary; a synthesis integrates pieces into a sharper takeaway or model.",
+    "example": "What I need from this review isn’t more raw feedback, it’s a synthesis of the themes that actually matter.",
+    "date": "2026-06-25",
+    "tags": [
+      "analysis",
+      "communication",
+      "thinking"
+    ]
+  },
+  {
+    "word": "externality",
+    "pronunciation": "ek-ster-NAL-uh-tee",
+    "ipa": "ˌɛkstɚˈnælɪti",
+    "soundsLike": "Starts like \"extra,\" then \"NAL\" as in \"final,\" and ends like \"ity\" in \"clarity.\"",
+    "partOfSpeech": "noun",
+    "definition": "A side effect of an action or decision that affects others but is not fully accounted for in the original choice.",
+    "origin": "Built from external, from Latin externus, with the sense of something imposed outside the main transaction.",
+    "nuance": "Often used in economics, but very handy in product and org conversations when costs get pushed onto another team, customer, or future moment.",
+    "example": "The shortcut sped up this launch, but the externality is that support now owns a mess we never priced in.",
+    "date": "2026-06-25",
+    "tags": [
+      "systems",
+      "economics",
+      "tradeoffs"
+    ]
   }
 ]
