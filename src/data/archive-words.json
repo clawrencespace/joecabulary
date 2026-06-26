@@ -1278,5 +1278,73 @@
       "economics",
       "tradeoffs"
     ]
+  },
+  {
+    "word": "deference",
+    "pronunciation": "DEF-er-uhns",
+    "ipa": "ˈdɛfɚəns",
+    "soundsLike": "Starts like \"def\" in \"definite,\" then sounds like \"reference\" without the \"r.\"",
+    "partOfSpeech": "noun",
+    "definition": "Respectful willingness to yield to someone else's judgment, authority, or preference.",
+    "origin": "From Latin deferre, \"to carry down or yield,\" through French deference.",
+    "nuance": "Usually implies intentional restraint, not agreement; useful when authority or expertise settles a call, but it can also mask avoidance if overused.",
+    "example": "I have a view, but on the infra sequencing I’m comfortable showing some deference to the team that has to live with the blast radius.",
+    "date": "2026-06-26",
+    "tags": [
+      "leadership",
+      "judgment",
+      "communication"
+    ]
+  },
+  {
+    "word": "convergence",
+    "pronunciation": "kuhn-VER-juhns",
+    "ipa": "kənˈvɝdʒəns",
+    "soundsLike": "Starts like \"convert,\" then ends a bit like \"urgents\" without the \"t.\"",
+    "partOfSpeech": "noun",
+    "definition": "The process of separate things moving toward the same point, outcome, or view.",
+    "origin": "From Latin convergere, \"to incline together.\"",
+    "nuance": "Handy for data, opinions, incentives, or roadmaps; stronger than \"agreement\" because it suggests independent lines moving into alignment.",
+    "example": "What changed my mind wasn’t one loud argument, it was the convergence of customer feedback, metrics, and what the team kept tripping over.",
+    "date": "2026-06-26",
+    "tags": [
+      "analysis",
+      "strategy",
+      "alignment"
+    ]
+  },
+  {
+    "word": "equivocate",
+    "pronunciation": "ih-KWIV-uh-kayt",
+    "ipa": "ɪˈkwɪvəˌkeɪt",
+    "soundsLike": "Starts like \"equip\" without the \"p,\" then \"quiver,\" and ends like \"gate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To speak in a deliberately ambiguous or noncommittal way.",
+    "origin": "From Latin aequivocare, \"to call by the same name,\" later developing the sense of using ambiguous language.",
+    "nuance": "Usually carries a mildly critical edge; it is not the same as being nuanced or careful, and people misuse it when they simply mean \"qualify\" or \"hedge.\"",
+    "example": "If we think the deadline is fiction, I’d rather say that plainly than equivocate our way into a bad commitment.",
+    "date": "2026-06-26",
+    "tags": [
+      "rhetoric",
+      "clarity",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "path dependence",
+    "pronunciation": "PATH dih-PEN-duhns",
+    "ipa": "ˈpæθ dɪˈpɛndəns",
+    "soundsLike": "Exactly like the everyday words \"path\" and \"dependence\" said together.",
+    "partOfSpeech": "noun",
+    "definition": "The idea that earlier choices keep shaping what options are realistic later, even if the original reasons no longer fully apply.",
+    "origin": "A modern economics and systems term built from the literal notion that the path taken affects the destination.",
+    "nuance": "Especially useful for org design, architecture, and product bets; it names the sticky force of history, not just inertia or habit.",
+    "example": "A lot of our tooling weirdness is just path dependence from decisions that made sense when we were half this size.",
+    "date": "2026-06-26",
+    "tags": [
+      "systems",
+      "economics",
+      "architecture"
+    ]
   }
 ]
