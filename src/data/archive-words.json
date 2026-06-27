@@ -1346,5 +1346,73 @@
       "economics",
       "architecture"
     ]
+  },
+  {
+    "word": "constraint",
+    "pronunciation": "kuhn-STRAYNT",
+    "ipa": "kənˈstreɪnt",
+    "soundsLike": "Starts like \"contain\" without the \"t,\" then rhymes with \"paint.\"",
+    "partOfSpeech": "noun",
+    "definition": "A limit or restricting condition that shapes what is possible.",
+    "origin": "From Latin constringere, \"to bind tightly,\" through Old French constreindre.",
+    "nuance": "More precise than just saying \"problem\" or \"blocker\"; a constraint can be time, headcount, architecture, policy, or attention, and naming the real one often changes the plan.",
+    "example": "The main constraint is not engineering effort, it’s how much coordinated change the org can absorb this quarter.",
+    "date": "2026-06-27",
+    "tags": [
+      "strategy",
+      "systems",
+      "execution"
+    ]
+  },
+  {
+    "word": "counterfactual",
+    "pronunciation": "kown-ter-FAK-choo-uhl",
+    "ipa": "ˌkaʊntɚˈfæk.tʃu.əl",
+    "soundsLike": "Starts like \"counter,\" then sounds like \"factual\" with an extra \"k\" before the \"ch.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to what would be true if some key fact or prior condition had been different.",
+    "origin": "Built from counter- plus factual; popularized in philosophy, history, and causal analysis.",
+    "nuance": "Useful for postmortems and strategy debates, but it should stay tethered to evidence; people misuse it when they mean pure speculation with no disciplined basis.",
+    "example": "The useful question is the counterfactual one: if we had staffed this differently in January, would the outcome really have changed?",
+    "date": "2026-06-27",
+    "tags": [
+      "analysis",
+      "causality",
+      "postmortem"
+    ]
+  },
+  {
+    "word": "throughput",
+    "pronunciation": "THROO-put",
+    "ipa": "ˈθruˌpʊt",
+    "soundsLike": "Exactly like the everyday words \"through\" and \"put\" said together.",
+    "partOfSpeech": "noun",
+    "definition": "The amount of work, data, or output a system can move through in a given time.",
+    "origin": "A modern engineering and operations term formed from through plus put, on the model of output.",
+    "nuance": "Better than \"velocity\" when you mean actual flow capacity rather than optimism or activity; high effort does not always mean high throughput.",
+    "example": "We keep adding projects, but our decision-making throughput is the real bottleneck.",
+    "date": "2026-06-27",
+    "tags": [
+      "operations",
+      "engineering",
+      "capacity"
+    ]
+  },
+  {
+    "word": "dissonance",
+    "pronunciation": "DIS-uh-nuhns",
+    "ipa": "ˈdɪsənəns",
+    "soundsLike": "Starts like \"distance\" without the \"t,\" then ends like \"resonance.\"",
+    "partOfSpeech": "noun",
+    "definition": "A lack of harmony or a jarring mismatch between elements, ideas, or signals.",
+    "origin": "From Latin dissonare, \"to sound apart,\" through French and musical usage.",
+    "nuance": "Handy beyond psychology or music; it names tension between stated priorities and observed behavior, not just ordinary disagreement.",
+    "example": "There’s some dissonance between saying we want focus and continuing to fund every edge-case initiative.",
+    "date": "2026-06-27",
+    "tags": [
+      "communication",
+      "leadership",
+      "culture"
+    ]
   }
 ]
