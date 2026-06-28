@@ -1414,5 +1414,73 @@
       "leadership",
       "culture"
     ]
+  },
+  {
+    "word": "posture",
+    "pronunciation": "POS-chur",
+    "ipa": "ˈpɑstʃɚ",
+    "soundsLike": "Sounds like 'post' followed by the start of 'church.'",
+    "partOfSpeech": "noun",
+    "definition": "An overall stance, orientation, or strategic bearing toward an issue or environment.",
+    "origin": "From Latin ponere, 'to place,' through French posture, originally about physical position before extending to attitude or stance.",
+    "nuance": "Useful when 'position' feels too static; posture suggests a broader, lived stance reflected in behavior, incentives, and readiness, not just what someone says in a meeting.",
+    "example": "Our pricing posture is still too defensive for a market where the product is finally pulling ahead.",
+    "date": "2026-06-28",
+    "tags": [
+      "strategy",
+      "leadership",
+      "communication"
+    ]
+  },
+  {
+    "word": "gradient",
+    "pronunciation": "GRAY-dee-uhnt",
+    "ipa": "ˈɡreɪdiənt",
+    "soundsLike": "Starts like 'gray' and ends a bit like 'radiant' without the first syllable.",
+    "partOfSpeech": "noun",
+    "definition": "A rate of change across a range rather than a sharp binary difference.",
+    "origin": "From Latin gradi, 'to step or walk,' via French grade and mathematical usage about slope and progression.",
+    "nuance": "Handy when people flatten something into yes-or-no buckets; a gradient reminds you that risk, quality, confidence, or adoption often changes by degree.",
+    "example": "There isn't a hard line between experimentation and productization here; it's more of a gradient.",
+    "date": "2026-06-28",
+    "tags": [
+      "analysis",
+      "decision-making",
+      "systems"
+    ]
+  },
+  {
+    "word": "threshold",
+    "pronunciation": "THRESH-hohld",
+    "ipa": "ˈθrɛʃˌhoʊld",
+    "soundsLike": "Rhymes with 'fresh' in the first part, then 'hold' in the second.",
+    "partOfSpeech": "noun",
+    "definition": "The point at which a change, reaction, or new state begins.",
+    "origin": "Old English threscold, originally the strip at the bottom of a doorway, later extended metaphorically to entry points and trigger levels.",
+    "nuance": "More precise than 'limit' when you mean a tipping point or activation point; crossing a threshold implies behavior changes on the other side.",
+    "example": "Once support volume crosses a certain threshold, the lightweight process stops being lightweight.",
+    "date": "2026-06-28",
+    "tags": [
+      "operations",
+      "risk",
+      "systems"
+    ]
+  },
+  {
+    "word": "modulate",
+    "pronunciation": "MAHJ-uh-layt",
+    "ipa": "ˈmɑdʒəˌleɪt",
+    "soundsLike": "Starts like 'module' without the 'yool,' then ends like 'late.'",
+    "partOfSpeech": "verb",
+    "definition": "To adjust the level, intensity, tone, or pace of something in a controlled way.",
+    "origin": "From Latin modulus, 'measure' or 'small standard,' through French and Italian musical usage about varying tone.",
+    "nuance": "Stronger than 'change' or 'soften' because it implies deliberate calibration; people often underuse it when talking about how to tune messaging, rollout speed, or escalation.",
+    "example": "We probably need to modulate the rollout instead of treating every customer segment the same.",
+    "date": "2026-06-28",
+    "tags": [
+      "communication",
+      "execution",
+      "leadership"
+    ]
   }
 ]
