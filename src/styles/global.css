@@ -1331,7 +1331,8 @@ a.puzzle-card:hover h2 {
   text-align: center;
   text-transform: uppercase;
   font-family: var(--sans);
-  font-size: clamp(15px, 2vw, 28px);
+  font-size: clamp(16px, 2vw, 28px);
+  line-height: 1;
   font-weight: 600;
 }
 
