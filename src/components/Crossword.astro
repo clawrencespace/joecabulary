@@ -26,7 +26,7 @@ for (const entry of puzzle.entries) {
       row,
       col,
       solution: letter,
-      number: index === 0 ? entry.number : existing?.number,
+      number: existing?.number ?? (index === 0 ? entry.number : undefined),
       entries: [...(existing?.entries ?? []), entry.number],
     });
   });

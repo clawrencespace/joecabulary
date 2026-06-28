@@ -54,9 +54,21 @@ const grid = makeEmptyGrid();
 let placements = [];
 let bestPlacements = [];
 
+const isFilled = (row, col) => row >= 0 && row < size && col >= 0 && col < size && Boolean(grid[row][col]);
+
+const isValidCrossing = (row, col, direction) => {
+  if (direction === "across") {
+    return isFilled(row - 1, col) || isFilled(row + 1, col);
+  }
+
+  return isFilled(row, col - 1) || isFilled(row, col + 1);
+};
+
 const canPlace = (answer, row, col, direction) => {
   if (direction === "across" && col + answer.length > size) return false;
   if (direction === "down" && row + answer.length > size) return false;
+  if (direction === "across" && (isFilled(row, col - 1) || isFilled(row, col + answer.length))) return false;
+  if (direction === "down" && (isFilled(row - 1, col) || isFilled(row + answer.length, col))) return false;
 
   let crosses = 0;
   for (let index = 0; index < answer.length; index += 1) {
@@ -64,10 +76,77 @@ const canPlace = (answer, row, col, direction) => {
     const c = col + (direction === "across" ? index : 0);
     const current = grid[r][c];
     if (current && current !== answer[index]) return false;
-    if (current === answer[index]) crosses += 1;
+    if (current === answer[index]) {
+      if (!isValidCrossing(r, c, direction)) return false;
+      crosses += 1;
+    } else if (direction === "across" && (isFilled(r - 1, c) || isFilled(r + 1, c))) {
+      return false;
+    } else if (direction === "down" && (isFilled(r, c - 1) || isFilled(r, c + 1))) {
+      return false;
+    }
   }
 
   return placements.length === 0 || crosses > 0;
+};
+
+const makeGridFromPlacements = (items) => {
+  const candidateGrid = makeEmptyGrid();
+
+  for (const item of items) {
+    for (let index = 0; index < item.entry.answer.length; index += 1) {
+      const row = item.row + (item.direction === "down" ? index : 0);
+      const col = item.col + (item.direction === "across" ? index : 0);
+      const current = candidateGrid[row][col];
+      const letter = item.entry.answer[index];
+      if (current && current !== letter) return null;
+      candidateGrid[row][col] = letter;
+    }
+  }
+
+  return candidateGrid;
+};
+
+const scanSegments = (candidateGrid) => {
+  const segments = [];
+
+  for (let row = 0; row < size; row += 1) {
+    for (let col = 0; col < size; col += 1) {
+      if (!candidateGrid[row][col]) continue;
+
+      if (!candidateGrid[row][col - 1]) {
+        let answer = "";
+        let cursor = col;
+        while (candidateGrid[row][cursor]) {
+          answer += candidateGrid[row][cursor];
+          cursor += 1;
+        }
+        if (answer.length > 1) segments.push({ answer, row, col, direction: "across" });
+      }
+
+      if (!candidateGrid[row - 1]?.[col]) {
+        let answer = "";
+        let cursor = row;
+        while (candidateGrid[cursor]?.[col]) {
+          answer += candidateGrid[cursor][col];
+          cursor += 1;
+        }
+        if (answer.length > 1) segments.push({ answer, row, col, direction: "down" });
+      }
+    }
+  }
+
+  return segments;
+};
+
+const isStandardGrid = (items) => {
+  const candidateGrid = makeGridFromPlacements(items);
+  if (!candidateGrid) return false;
+
+  const expected = new Set(items.map((item) => `${item.entry.answer}:${item.row}:${item.col}:${item.direction}`));
+  const segments = scanSegments(candidateGrid);
+  if (segments.length !== items.length) return false;
+
+  return segments.every((segment) => expected.has(`${segment.answer}:${segment.row}:${segment.col}:${segment.direction}`));
 };
 
 const scorePlacement = (answer, row, col, direction) => {
@@ -124,7 +203,7 @@ const unplace = () => {
 };
 
 const search = (remaining) => {
-  if (placements.length > bestPlacements.length) {
+  if (placements.length > bestPlacements.length && isStandardGrid(placements)) {
     bestPlacements = placements.map(({ entry, row, col, direction }) => ({ entry, row, col, direction }));
   }
 
