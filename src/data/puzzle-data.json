@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "preview-001",
+    "title": "The First Pass",
+    "eyebrow": "Sunday No. 001 · Preview",
+    "date": "June 21, 2026",
+    "size": 13,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "IRREDUCIBLE",
+        "clue": "Resistant to any further simplification",
+        "row": 1,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "GERMANE",
+        "clue": "Actually relevant, not merely adjacent",
+        "row": 3,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "answer": "MANIFOLD",
+        "clue": "Numerous and meaningfully varied",
+        "row": 4,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "LODESTAR",
+        "clue": "A principle that keeps decisions pointed true",
+        "row": 5,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "answer": "GAMBIT",
+        "clue": "A calculated opening move",
+        "row": 9,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "answer": "VALENCE",
+        "clue": "Emotional charge or associative weight",
+        "row": 10,
+        "col": 6,
+        "direction": "across"
+      }
+    ]
+  },
+  {
+    "slug": "sunday-2026-06-28",
+    "title": "Calibrate Effects",
+    "eyebrow": "Sunday No. 002 · Live",
+    "date": "June 28, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CALIBRATE",
+        "clue": "To adjust something so it is properly measured, tuned, or aligned to reality",
+        "row": 0,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "PATHDEPENDENCE",
+        "clue": "The idea that earlier choices keep shaping what options are realistic later, even if the original reasons no longer fully apply",
+        "row": 0,
+        "col": 5,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "COMMENSURATE",
+        "clue": "Proportional in size, degree, or importance to something else",
+        "row": 0,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "THRESHOLD",
+        "clue": "The point at which a change, reaction, or new state begins",
+        "row": 0,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "EXTERNALITY",
+        "clue": "A side effect of an action or decision that affects others but is not fully accounted for in the original choice",
+        "row": 1,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "CONVERGENCE",
+        "clue": "The process of separate things moving toward the same point, outcome, or view",
+        "row": 2,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "THROUGHPUT",
+        "clue": "The amount of work, data, or output a system can move through in a given time",
+        "row": 3,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "SYNTHESIS",
+        "clue": "The combining of separate ideas, inputs, or parts into a coherent whole",
+        "row": 4,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "answer": "COUNTERFACTUAL",
+        "clue": "Relating to what would be true if some key fact or prior condition had been different",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "INTERROGATE",
+        "clue": "To examine something closely and critically, especially by asking pointed questions",
+        "row": 13,
+        "col": 2,
+        "direction": "across"
+      }
+    ]
+  }
+]

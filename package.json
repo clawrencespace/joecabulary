@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",
+    "generate-crossword": "node scripts/generate-sunday-crossword.mjs",
     "preview": "astro preview",
     "publish-daily": "node scripts/upsert-daily-edition.mjs"
   },

@@ -1,15 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Crossword from "../../components/Crossword.astro";
-import { previewPuzzle } from "../../data/puzzles";
+import { allPuzzles } from "../../data/puzzles";
 
 export function getStaticPaths() {
-  return [
-    {
-      params: { slug: previewPuzzle.slug },
-      props: { puzzle: previewPuzzle },
-    },
-  ];
+  return allPuzzles.map((puzzle) => ({
+    params: { slug: puzzle.slug },
+    props: { puzzle },
+  }));
 }
 
 const { puzzle } = Astro.props;

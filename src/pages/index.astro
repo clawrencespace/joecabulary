@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import WordCard from "../components/WordCard.astro";
-import { archivePuzzles } from "../data/puzzles";
+import { archivePuzzles, latestPuzzle } from "../data/puzzles";
 import {
   archiveWords,
   currentEdition,
@@ -40,7 +40,7 @@ const editionNumber = String(
     .indexOf(latestDate) + 1,
 ).padStart(3, "0");
 const isSunday = editionDate.getUTCDay() === 0;
-const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
+const puzzleCount = archivePuzzles.filter((puzzle) => puzzle.slug).length;
 ---
 
 <BaseLayout
@@ -48,10 +48,10 @@ const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
   description="A daily collection of useful vocabulary, plus a fresh crossword every Sunday."
 >
   {
-    isSunday && currentPuzzle && (
+    isSunday && latestPuzzle && (
       <aside class="sunday-cta reveal" aria-label="Sunday crossword">
         <p><span>Sunday edition</span> The weekly crossword is ready.</p>
-        <a href={`${base}/crosswords/${currentPuzzle.slug}`}>
+        <a href={`${base}/crosswords/${latestPuzzle.slug}`}>
           <svg
             class="sunday-cta__icon"
             viewBox="0 0 24 24"
@@ -86,7 +86,7 @@ const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
     <aside class="hero__marginalia reveal" style="--delay: 200ms">
       <p><span>{wordCount}</span> words collected</p>
       <p><span>{editionCount}</span> daily editions</p>
-      <p><span>01</span> Sunday puzzle</p>
+      <p><span>{String(puzzleCount).padStart(2, "0")}</span> Sunday puzzles</p>
     </aside>
     <div class="hero__scribble" aria-hidden="true">Words make worlds.</div>
   </section>
@@ -136,11 +136,11 @@ const currentPuzzle = archivePuzzles.find((puzzle) => puzzle.slug);
         A compact crossword built from the strongest vocabulary of the week.
         Definitions help. Understanding helps more.
       </p>
-      <a class="button button--paper" href={`${base}/crosswords/preview-001`}>
-        Play the preview <span>↗</span>
+      <a class="button button--paper" href={`${base}/crosswords/${latestPuzzle?.slug ?? "preview-001"}`}>
+        Play the latest <span>↗</span>
       </a>
     </div>
-    <a class="mini-grid" href={`${base}/crosswords/preview-001`} aria-label="Play the crossword preview">
+    <a class="mini-grid" href={`${base}/crosswords/${latestPuzzle?.slug ?? "preview-001"}`} aria-label="Play the latest crossword">
       {
         Array.from({ length: 49 }, (_, index) => (
           <span class:list={{ "is-block": miniGridBlocks.includes(index) }}>
