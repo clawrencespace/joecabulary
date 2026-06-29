@@ -1482,5 +1482,73 @@
       "execution",
       "leadership"
     ]
+  },
+  {
+    "word": "dilutive",
+    "pronunciation": "dih-LOO-tiv",
+    "ipa": "dɪˈlutɪv",
+    "soundsLike": "Starts like 'dill,' then sounds like 'loot,' and ends like the start of 'tivy.'",
+    "partOfSpeech": "adjective",
+    "definition": "Reducing strength, value, clarity, or impact by spreading something too thin.",
+    "origin": "From Latin diluere, 'to wash away or dissolve,' via dilute; the idea is weakening concentration.",
+    "nuance": "Useful well beyond finance. It can describe strategy, messaging, ownership, or priorities that lose force when too many things get bundled together.",
+    "example": "Adding three more goals to the quarter would be dilutive when the real problem is focus, not ambition.",
+    "date": "2026-06-29",
+    "tags": [
+      "strategy",
+      "finance",
+      "leadership"
+    ]
+  },
+  {
+    "word": "sequencing",
+    "pronunciation": "SEE-kwuhn-sing",
+    "ipa": "ˈsikwənsɪŋ",
+    "soundsLike": "Starts like 'seek' and flows into 'wince-ing' without the hard break.",
+    "partOfSpeech": "noun",
+    "definition": "The deliberate ordering of steps, decisions, or actions so they land effectively.",
+    "origin": "From Latin sequi, 'to follow,' through sequence; the core idea is what comes next and why.",
+    "nuance": "More strategic than just 'timing.' Sequencing is about dependency and leverage, not only when something happens but what has to happen first.",
+    "example": "The issue isn't whether we should do both projects; it's the sequencing.",
+    "date": "2026-06-29",
+    "tags": [
+      "execution",
+      "strategy",
+      "operations"
+    ]
+  },
+  {
+    "word": "dispersion",
+    "pronunciation": "dih-SPUR-zhuhn",
+    "ipa": "dɪˈspɝʒən",
+    "soundsLike": "Starts like 'disperse' and ends like the second syllable of 'version.'",
+    "partOfSpeech": "noun",
+    "definition": "The degree to which things are spread out rather than tightly clustered.",
+    "origin": "From Latin dispergere, 'to scatter,' through French and scientific usage about spread or distribution.",
+    "nuance": "Handy when average alone hides the story. Dispersion tells you whether performance, opinion, or risk is tightly grouped or all over the map.",
+    "example": "The median looks fine, but the dispersion across teams says the process still isn't really stable.",
+    "date": "2026-06-29",
+    "tags": [
+      "analysis",
+      "data",
+      "systems"
+    ]
+  },
+  {
+    "word": "preempt",
+    "pronunciation": "pree-EMPT",
+    "ipa": "priˈɛmpt",
+    "soundsLike": "Starts like 'pree' in 'preview' and ends like 'tempt' without the first 't.'",
+    "partOfSpeech": "verb",
+    "definition": "To act early enough to prevent, head off, or take the place of something else.",
+    "origin": "From Latin praeemere, 'to buy beforehand,' later broadened into acting in advance to block another move.",
+    "nuance": "Stronger than 'anticipate.' To preempt is not just to see something coming, but to move first in a way that changes what follows.",
+    "example": "Let's preempt the usual budget debate by showing where the efficiency gains actually come from.",
+    "date": "2026-06-29",
+    "tags": [
+      "communication",
+      "strategy",
+      "decision-making"
+    ]
   }
 ]
