@@ -1550,5 +1550,73 @@
       "strategy",
       "decision-making"
     ]
+  },
+  {
+    "word": "implicit",
+    "pronunciation": "im-PLISS-it",
+    "ipa": "ɪmˈplɪsət",
+    "soundsLike": "Starts like 'him' without the h, then 'PLISS,' and ends like 'it.'",
+    "partOfSpeech": "adjective",
+    "definition": "Understood or built in without being stated directly.",
+    "origin": "From Latin implicare, 'to entwine or involve'; the sense is that meaning is folded in rather than spelled out.",
+    "nuance": "People often use it as a vague synonym for hidden. Implicit usually means the assumption or meaning is there to be inferred, not necessarily secret or intentional.",
+    "example": "The deck never says headcount is frozen, but that assumption feels implicit in the whole plan.",
+    "date": "2026-06-30",
+    "tags": [
+      "communication",
+      "analysis",
+      "leadership"
+    ]
+  },
+  {
+    "word": "bimodal",
+    "pronunciation": "bye-MOH-duhl",
+    "ipa": "baɪˈmoʊdəl",
+    "soundsLike": "Starts like 'buy' and rhymes the middle with 'modal.'",
+    "partOfSpeech": "adjective",
+    "definition": "Having two distinct peaks, clusters, or common patterns instead of one.",
+    "origin": "Built from bi-, 'two,' and mode, from Latin modus, 'measure or manner.'",
+    "nuance": "Useful when an average hides the story. If a team, dataset, or audience is bimodal, the problem is often that two different realities are being collapsed into one summary.",
+    "example": "The survey results are basically bimodal, which tells me we're dealing with two very different user experiences.",
+    "date": "2026-06-30",
+    "tags": [
+      "data",
+      "analytics",
+      "systems"
+    ]
+  },
+  {
+    "word": "backstop",
+    "pronunciation": "BACK-stop",
+    "ipa": "ˈbækˌstɑp",
+    "soundsLike": "Exactly like 'back' plus 'stop.'",
+    "partOfSpeech": "noun",
+    "definition": "A safeguard or fallback that prevents a failure from becoming catastrophic.",
+    "origin": "Originally a baseball term for a barrier behind home plate, later broadened into policy, finance, and operations.",
+    "nuance": "Stronger than a generic backup. A backstop is the thing that catches you when the primary plan breaks, especially when consequences would otherwise spill outward.",
+    "example": "We can move faster on the migration if we have a clean rollback backstop.",
+    "date": "2026-06-30",
+    "tags": [
+      "risk",
+      "operations",
+      "strategy"
+    ]
+  },
+  {
+    "word": "distill",
+    "pronunciation": "dih-STILL",
+    "ipa": "dɪˈstɪl",
+    "soundsLike": "Starts like 'diss' and ends like 'still.'",
+    "partOfSpeech": "verb",
+    "definition": "To extract the most important or essential part from something more complex.",
+    "origin": "From Latin destillare, 'to drip down,' via the process of purifying liquid by condensation.",
+    "nuance": "More selective than summarize. To distill is to refine and isolate the core signal, not just shorten the material.",
+    "example": "Can you distill the customer feedback into the two issues that actually matter for roadmap decisions?",
+    "date": "2026-06-30",
+    "tags": [
+      "communication",
+      "thinking",
+      "execution"
+    ]
   }
 ]
