@@ -1618,5 +1618,73 @@
       "thinking",
       "execution"
     ]
+  },
+  {
+    "word": "qualifier",
+    "pronunciation": "KWAH-luh-fy-er",
+    "ipa": "ˈkwɑləˌfaɪər",
+    "soundsLike": "Starts like 'quality' without the t, then ends like 'fire.'",
+    "partOfSpeech": "noun",
+    "definition": "A word, phrase, or condition that narrows, limits, or softens a claim.",
+    "origin": "From Late Latin qualificare, 'to attribute a quality to'; the modern sense is a term that modifies how strongly something is asserted.",
+    "nuance": "Useful when a statement needs precision rather than retreat. A qualifier is not necessarily a dodge; it can be the thing that keeps a claim accurate instead of overstated.",
+    "example": "I agree with the direction, but we should add a qualifier about this only working if adoption stays above baseline.",
+    "date": "2026-07-01",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "precision"
+    ]
+  },
+  {
+    "word": "decouple",
+    "pronunciation": "dee-KUHP-uhl",
+    "ipa": "diˈkʌpəl",
+    "soundsLike": "Starts like 'dee,' then 'couple' with the stress on 'cup.'",
+    "partOfSpeech": "verb",
+    "definition": "To separate two things so they can operate, change, or be considered more independently.",
+    "origin": "Built from de-, 'apart,' and couple, from Latin copula, 'link or bond.'",
+    "nuance": "Often used too casually to mean 'ignore the relationship.' To decouple something is not to pretend the pieces are unrelated; it is to reduce tight dependency so one does not automatically drag the other around.",
+    "example": "We should decouple the release train from the infrastructure migration so one schedule slip doesn't jam both efforts.",
+    "date": "2026-07-01",
+    "tags": [
+      "systems",
+      "strategy",
+      "engineering"
+    ]
+  },
+  {
+    "word": "interpolate",
+    "pronunciation": "in-TUR-puh-layt",
+    "ipa": "ɪnˈtɝpəˌleɪt",
+    "soundsLike": "Starts like 'internal,' then 'puh,' and ends like 'late.'",
+    "partOfSpeech": "verb",
+    "definition": "To estimate or infer a value, step, or idea from known points around it.",
+    "origin": "From Latin interpolare, 'to alter or polish up,' later taking on the sense of inserting something in between.",
+    "nuance": "In technical use it means filling in between known data points, not making a wild guess. In conversation it can also mean mentally bridging gaps from surrounding evidence.",
+    "example": "We only measured quarterly, so I had to interpolate the trend between those checkpoints rather than pretend we had weekly certainty.",
+    "date": "2026-07-01",
+    "tags": [
+      "analysis",
+      "data",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "asymptotic",
+    "pronunciation": "ass-imp-TAH-tik",
+    "ipa": "ˌæsɪmˈtɑtɪk",
+    "soundsLike": "Starts like 'as' plus 'imp,' then rhymes the middle with 'exotic.'",
+    "partOfSpeech": "adjective",
+    "definition": "Getting ever closer to a limit or ideal value without fully reaching it.",
+    "origin": "From Greek asymptotos, 'not falling together,' via mathematics, where a curve approaches a line indefinitely.",
+    "nuance": "Handy for progress that keeps yielding smaller gains near a ceiling. People sometimes use it as a fancy synonym for slow, but the key idea is approaching a bound, not merely moving lazily.",
+    "example": "Our latency work is getting asymptotic now, so each extra improvement costs more for a much smaller win.",
+    "date": "2026-07-01",
+    "tags": [
+      "math",
+      "optimization",
+      "decision-making"
+    ]
   }
 ]
