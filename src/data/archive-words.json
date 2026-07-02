@@ -1686,5 +1686,73 @@
       "optimization",
       "decision-making"
     ]
+  },
+  {
+    "word": "predicate",
+    "pronunciation": "PRED-uh-kayt",
+    "ipa": "ˈprɛdəˌkeɪt",
+    "soundsLike": "Starts like 'credit' without the c, then ends like 'Kate.'",
+    "partOfSpeech": "verb",
+    "definition": "To base one thing on another; to make a claim, plan, or conclusion depend on a stated premise.",
+    "origin": "From Latin praedicare, 'to proclaim or assert'; in logic it developed into the idea of stating something of a subject, then more broadly grounding one claim on another.",
+    "nuance": "Often heard in phrases like 'predicated on.' It is more precise than just 'related to' or 'influenced by' because it implies a real dependency, not a loose association.",
+    "example": "I’m fine with the timeline, but it’s predicated on getting legal review done this week.",
+    "date": "2026-07-02",
+    "tags": [
+      "reasoning",
+      "strategy",
+      "communication"
+    ]
+  },
+  {
+    "word": "abate",
+    "pronunciation": "uh-BAYT",
+    "ipa": "əˈbeɪt",
+    "soundsLike": "Rhymes with 'a bait.'",
+    "partOfSpeech": "verb",
+    "definition": "To become less intense, or to make something less intense.",
+    "origin": "From Old French abatre, 'to beat down or bring low,' from Latin battuere, 'to beat.'",
+    "nuance": "Useful when something is easing but not gone. It is stronger and cleaner than saying a problem 'kind of died down,' and it does not imply full resolution.",
+    "example": "Once the launch noise abates, we should have a clearer read on what users actually think.",
+    "date": "2026-07-02",
+    "tags": [
+      "decision-making",
+      "risk",
+      "timing"
+    ]
+  },
+  {
+    "word": "bracket",
+    "pronunciation": "BRAK-it",
+    "ipa": "ˈbrækət",
+    "soundsLike": "Sounds like 'jacket' with 'br' instead of 'j.'",
+    "partOfSpeech": "verb",
+    "definition": "To set something aside temporarily, or to treat it as bounded for the sake of analysis or discussion.",
+    "origin": "From bracket, the enclosing punctuation mark; the verbal sense grew from the idea of marking off or containing something within limits.",
+    "nuance": "Helpful when you are not dismissing an issue, just parking it so the current conversation stays tractable. People sometimes use it too vaguely; the point is temporary containment, not avoidance.",
+    "example": "Let’s bracket the org-design question for now and focus on whether the migration plan is technically sound.",
+    "date": "2026-07-02",
+    "tags": [
+      "analysis",
+      "meetings",
+      "focus"
+    ]
+  },
+  {
+    "word": "telegraph",
+    "pronunciation": "TEL-uh-graf",
+    "ipa": "ˈtɛləˌɡræf",
+    "soundsLike": "Starts like 'telephone' and ends like 'graph.'",
+    "partOfSpeech": "verb",
+    "definition": "To signal an intention, reaction, or move so clearly that other people can see it coming.",
+    "origin": "From the nineteenth-century communication system that sent messages over distance; the modern figurative sense is to send a signal in advance, often unintentionally.",
+    "nuance": "Usually implies that the signal was a little too obvious. It is useful for strategy, negotiation, and presentations where revealing your next move early can change how others respond.",
+    "example": "If we telegraph the pricing change too early, every enterprise customer will try to renegotiate first.",
+    "date": "2026-07-02",
+    "tags": [
+      "strategy",
+      "rhetoric",
+      "negotiation"
+    ]
   }
 ]
