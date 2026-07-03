@@ -1754,5 +1754,73 @@
       "rhetoric",
       "negotiation"
     ]
+  },
+  {
+    "word": "notional",
+    "pronunciation": "NOH-shuh-nuhl",
+    "ipa": "ˈnoʊʃənəl",
+    "soundsLike": "Starts like 'notion' and ends like 'tunnel' without the t.",
+    "partOfSpeech": "adjective",
+    "definition": "Existing as an estimate, model, or conceptual figure rather than as a final real-world amount.",
+    "origin": "From Latin notio, 'idea or concept,' via the sense of something that exists in thought before it exists in fact.",
+    "nuance": "Useful for placeholder budgets, timelines, or valuations. People sometimes misuse it to mean 'fictional'; it usually means provisional or model-based, not made up out of thin air.",
+    "example": "That’s a notional headcount plan, not a commitment to open those roles this quarter.",
+    "date": "2026-07-03",
+    "tags": [
+      "finance",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "word": "discrete",
+    "pronunciation": "dih-SKREET",
+    "ipa": "dɪˈskrit",
+    "soundsLike": "Rhymes with 'repeat' after starting with 'dis.'",
+    "partOfSpeech": "adjective",
+    "definition": "Separate, distinct, and individually bounded rather than continuous or blended together.",
+    "origin": "From Latin discretus, 'separated or distinguished,' from the same root behind 'discern.'",
+    "nuance": "Handy in product, data, and org discussions when things need to be treated as distinct units. Commonly confused with 'discreet,' which means tactful or unobtrusive.",
+    "example": "We should treat onboarding, activation, and retention as three discrete problems instead of one funnel blob.",
+    "date": "2026-07-03",
+    "tags": [
+      "analysis",
+      "product",
+      "precision"
+    ]
+  },
+  {
+    "word": "encumber",
+    "pronunciation": "en-KUHM-ber",
+    "ipa": "ɪnˈkʌmbər",
+    "soundsLike": "Starts like 'in' and ends like 'cumber' in 'cucumber' without the cue.",
+    "partOfSpeech": "verb",
+    "definition": "To burden, restrict, or weigh something down with obligations, complications, or limits.",
+    "origin": "From Old French encombrer, 'to obstruct or block up,' related to ideas of congestion and hindrance.",
+    "nuance": "Stronger than simply 'slow down.' It implies a drag created by debt, process, legacy commitments, or legal constraints that meaningfully limit movement.",
+    "example": "I don’t want to encumber the team with a governance layer that costs more than the risk it reduces.",
+    "date": "2026-07-03",
+    "tags": [
+      "operations",
+      "risk",
+      "leadership"
+    ]
+  },
+  {
+    "word": "hedge",
+    "pronunciation": "HEJ",
+    "ipa": "hɛdʒ",
+    "soundsLike": "Rhymes with 'edge' with an h in front.",
+    "partOfSpeech": "verb",
+    "definition": "To reduce exposure or soften a claim by adding protection, conditions, or ambiguity.",
+    "origin": "From the physical hedge as a boundary or protective barrier; the figurative sense became guarding against risk or overcommitment.",
+    "nuance": "Can be smart risk management or weak communication, depending on intent. In speech, it often shows up as qualifiers that keep a statement from sounding more certain than the evidence supports.",
+    "example": "I’m comfortable making the call, but I’d still hedge it with a note about the sample size.",
+    "date": "2026-07-03",
+    "tags": [
+      "rhetoric",
+      "risk",
+      "decision-making"
+    ]
   }
 ]
