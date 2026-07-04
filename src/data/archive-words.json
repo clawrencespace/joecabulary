@@ -1822,5 +1822,73 @@
       "risk",
       "decision-making"
     ]
+  },
+  {
+    "word": "determinative",
+    "pronunciation": "dih-TUR-muh-nuh-tiv",
+    "ipa": "dɪˈtɝmənətɪv",
+    "soundsLike": "Starts like 'determine' and ends like 'narrative' without the rr.",
+    "partOfSpeech": "adjective",
+    "definition": "Having the power to decide the outcome of something rather than merely influencing it.",
+    "origin": "Built on Latin determinare, 'to set bounds or settle,' the same root behind 'determine.'",
+    "nuance": "Useful when one factor actually settles the question. People often overuse it for anything important; it should imply outcome-deciding weight, not just relevance.",
+    "example": "The customer demand signal mattered, but the margin profile was determinative.",
+    "date": "2026-07-04",
+    "tags": [
+      "decision-making",
+      "analysis",
+      "leadership"
+    ]
+  },
+  {
+    "word": "variance",
+    "pronunciation": "VAIR-ee-unts",
+    "ipa": "ˈvɛriəns",
+    "soundsLike": "Starts like 'very' and ends like 'dance' without the d.",
+    "partOfSpeech": "noun",
+    "definition": "The amount by which something differs from a plan, expectation, baseline, or norm.",
+    "origin": "From Latin variare, 'to change,' via the idea of deviation or difference.",
+    "nuance": "Handy in finance, operations, and analytics. It is more precise than 'change' because it implies a comparison against a reference point, and it is not automatically bad.",
+    "example": "Most of the schedule variance came from review cycles, not from the build work itself.",
+    "date": "2026-07-04",
+    "tags": [
+      "analytics",
+      "finance",
+      "operations"
+    ]
+  },
+  {
+    "word": "tripwire",
+    "pronunciation": "TRIP-wyre",
+    "ipa": "ˈtrɪpˌwaɪɚ",
+    "soundsLike": "Exactly like 'trip' plus 'wire.'",
+    "partOfSpeech": "noun",
+    "definition": "A condition, threshold, or signal that triggers an immediate response or reevaluation.",
+    "origin": "From the literal wire set to trigger an alarm or explosive when someone trips it.",
+    "nuance": "In strategy or operations, it suggests a pre-agreed trigger point, not just a vague concern. It works best when the response is defined in advance.",
+    "example": "If churn goes above that level for two straight weeks, that’s our tripwire to pause the rollout.",
+    "date": "2026-07-04",
+    "tags": [
+      "risk",
+      "strategy",
+      "operations"
+    ]
+  },
+  {
+    "word": "rebuttable",
+    "pronunciation": "rih-BUHT-uh-buhl",
+    "ipa": "rɪˈbʌtəbəl",
+    "soundsLike": "Starts like 'rebut' and ends like 'comfortable' without the comf.",
+    "partOfSpeech": "adjective",
+    "definition": "Open to being challenged or overturned by contrary evidence or argument.",
+    "origin": "From Latin rebuttere, 'to beat back or repel,' via the legal and rhetorical sense of refutation.",
+    "nuance": "Especially useful for assumptions, presumptions, and working conclusions that are solid enough to use but not sacred. It signals disciplined confidence without pretending certainty.",
+    "example": "My working assumption is that pricing is the issue, but that’s rebuttable if the next cohort behaves differently.",
+    "date": "2026-07-04",
+    "tags": [
+      "rhetoric",
+      "reasoning",
+      "analysis"
+    ]
   }
 ]
