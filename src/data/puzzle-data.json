@@ -136,5 +136,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-07-05",
+    "title": "Dispersion Effects",
+    "eyebrow": "Sunday No. 003 · Live",
+    "date": "July 5, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "DISPERSION",
+        "clue": "The degree to which things are spread out rather than tightly clustered",
+        "row": 0,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "SEQUENCING",
+        "clue": "The deliberate ordering of steps, decisions, or actions so they land effectively",
+        "row": 0,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "QUALIFIER",
+        "clue": "A word, phrase, or condition that narrows, limits, or softens a claim",
+        "row": 0,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "MARGINAL",
+        "clue": "Relating to the incremental edge or added effect of one more unit, choice, or change",
+        "row": 1,
+        "col": 9,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "INTERPOLATE",
+        "clue": "To estimate or infer a value, step, or idea from known points around it",
+        "row": 3,
+        "col": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "PREDICATE",
+        "clue": "To base one thing on another; to make a claim, plan, or conclusion depend on a stated premise",
+        "row": 4,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "NOTIONAL",
+        "clue": "Existing as an estimate, model, or conceptual figure rather than as a final real-world amount",
+        "row": 5,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "DETERMINATIVE",
+        "clue": "Having the power to decide the outcome of something rather than merely influencing it",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "ASYMPTOTIC",
+        "clue": "Getting ever closer to a limit or ideal value without fully reaching it",
+        "row": 11,
+        "col": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "REBUTTABLE",
+        "clue": "Open to being challenged or overturned by contrary evidence or argument",
+        "row": 13,
+        "col": 4,
+        "direction": "across"
+      }
+    ]
   }
 ]

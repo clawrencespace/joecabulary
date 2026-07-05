@@ -1890,5 +1890,73 @@
       "reasoning",
       "analysis"
     ]
+  },
+  {
+    "word": "marginal",
+    "pronunciation": "MAR-juh-nuhl",
+    "ipa": "ˈmɑɹdʒənəl",
+    "soundsLike": "Starts like 'margin' and ends like the start of 'nullify.'",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to the incremental edge or added effect of one more unit, choice, or change.",
+    "origin": "From Latin margo, 'edge' or 'border,' via margin.",
+    "nuance": "Often misheard as meaning trivial or low-status. In strategy, economics, and operations, marginal usually means 'at the edge of change' or 'incremental,' which can be the most decision-relevant part.",
+    "example": "The topline looked healthy, but the marginal customer was getting a lot more expensive to acquire.",
+    "date": "2026-07-05",
+    "tags": [
+      "strategy",
+      "economics",
+      "analysis"
+    ]
+  },
+  {
+    "word": "ratify",
+    "pronunciation": "RAT-uh-fye",
+    "ipa": "ˈɹætəˌfaɪ",
+    "soundsLike": "Starts like 'rattle' without the l and ends like 'verify' without the ver.",
+    "partOfSpeech": "verb",
+    "definition": "To formally approve or confirm a decision, agreement, or policy.",
+    "origin": "From Latin ratus, 'fixed or settled,' plus facere, 'to make.'",
+    "nuance": "Stronger than 'agree with' or 'endorse'; it implies an official act that makes something binding, operative, or settled.",
+    "example": "If we align on the terms this week, the board can ratify the plan at the next meeting.",
+    "date": "2026-07-05",
+    "tags": [
+      "governance",
+      "leadership",
+      "legal"
+    ]
+  },
+  {
+    "word": "telemetry",
+    "pronunciation": "tuh-LEM-uh-tree",
+    "ipa": "təˈlɛmətɹi",
+    "soundsLike": "Starts like 'today,' then 'lemon,' and ends like 'tree.'",
+    "partOfSpeech": "noun",
+    "definition": "Operational data automatically measured and sent back from a system for monitoring or analysis.",
+    "origin": "From Greek tele, 'far,' plus metron, 'measure.'",
+    "nuance": "More precise than 'metrics' or 'logging'; telemetry implies instrumented signals flowing back from the thing being observed, often continuously and with operational intent.",
+    "example": "We need better telemetry on the handoff so we're not arguing from anecdotes in every incident review.",
+    "date": "2026-07-05",
+    "tags": [
+      "engineering",
+      "observability",
+      "data"
+    ]
+  },
+  {
+    "word": "locus",
+    "pronunciation": "LOH-kuss",
+    "ipa": "ˈloʊkəs",
+    "soundsLike": "Rhymes with 'focus' without the f.",
+    "partOfSpeech": "noun",
+    "definition": "The central place, point, or source where something is concentrated or occurs.",
+    "origin": "Latin locus, 'place.'",
+    "nuance": "Useful when you want to identify where responsibility, control, leverage, or disruption actually sits. It's more exact than saying 'area' or 'part.'",
+    "example": "The real locus of risk isn't the model itself; it's the workflow around who can act on its output.",
+    "date": "2026-07-05",
+    "tags": [
+      "systems",
+      "reasoning",
+      "leadership"
+    ]
   }
 ]
