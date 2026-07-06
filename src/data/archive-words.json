@@ -1958,5 +1958,73 @@
       "reasoning",
       "leadership"
     ]
+  },
+  {
+    "word": "latitude",
+    "pronunciation": "LAT-ih-tood",
+    "ipa": "ˈlætəˌtud",
+    "soundsLike": "Starts like 'ladder' without the dder and ends like 'attitude' without the at-ti.",
+    "partOfSpeech": "noun",
+    "definition": "Room to act, interpret, or decide within a set of constraints.",
+    "origin": "From Latin latitudo, 'breadth' or 'width,' which broadened into figurative room or scope.",
+    "nuance": "Often used better than 'flexibility' when the point is permitted discretion rather than loose structure. It implies boundaries still exist.",
+    "example": "I want the team to have latitude on implementation, but not on the customer promise.",
+    "date": "2026-07-06",
+    "tags": [
+      "leadership",
+      "decision-making",
+      "governance"
+    ]
+  },
+  {
+    "word": "proxy",
+    "pronunciation": "PRAHK-see",
+    "ipa": "ˈprɑksi",
+    "soundsLike": "Rhymes with 'foxy' after starting with 'prock.'",
+    "partOfSpeech": "noun",
+    "definition": "A stand-in measure, person, or mechanism used to represent something else.",
+    "origin": "From Latin procuratio by way of proxy/procuracy traditions, carrying the idea of acting on another's behalf.",
+    "nuance": "Useful when the thing you're measuring or optimizing is indirect. The risk is forgetting that a proxy is only a stand-in, not the thing that ultimately matters.",
+    "example": "NPS is a useful proxy for sentiment, but it's not a full read on retention risk.",
+    "date": "2026-07-06",
+    "tags": [
+      "analytics",
+      "strategy",
+      "product"
+    ]
+  },
+  {
+    "word": "adverse",
+    "pronunciation": "ad-VURS",
+    "ipa": "ædˈvɝs",
+    "soundsLike": "Starts like 'add' and ends like 'verse' in 'universe.'",
+    "partOfSpeech": "adjective",
+    "definition": "Unfavorable, harmful, or working against the desired outcome.",
+    "origin": "From Latin adversus, 'turned against' or 'opposed.'",
+    "nuance": "More exact than merely 'bad' because it names opposition to your goal. Commonly confused with 'averse,' which describes a person's dislike, not an external condition.",
+    "example": "The launch timing got more adverse once the partner changed their review window.",
+    "date": "2026-07-06",
+    "tags": [
+      "risk",
+      "communication",
+      "analysis"
+    ]
+  },
+  {
+    "word": "perfunctory",
+    "pronunciation": "per-FUNK-tuh-ree",
+    "ipa": "pɚˈfʌŋktəri",
+    "soundsLike": "Starts like 'perform' without orm, then sounds like 'funk' plus 'tory.'",
+    "partOfSpeech": "adjective",
+    "definition": "Done with minimal effort or attention, mainly to satisfy an obligation.",
+    "origin": "From Late Latin perfunctorius, from perfungi, 'to get through' or 'dispatch.'",
+    "nuance": "Stronger than 'quick' or 'lightweight'; it suggests going through the motions. Useful when the form happened but the real thinking probably did not.",
+    "example": "The postmortem checked the boxes, but the root-cause section felt pretty perfunctory.",
+    "date": "2026-07-06",
+    "tags": [
+      "management",
+      "execution",
+      "rhetoric"
+    ]
   }
 ]
