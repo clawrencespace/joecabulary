@@ -2026,5 +2026,73 @@
       "execution",
       "rhetoric"
     ]
+  },
+  {
+    "word": "residual",
+    "pronunciation": "rih-ZID-joo-uhl",
+    "ipa": "rɪˈzɪdʒuəl",
+    "soundsLike": "Starts like 'rid' with a soft i, then sounds like 'zid,' and ends like 'jewel' plus a light 'uhl.'",
+    "partOfSpeech": "adjective",
+    "definition": "Remaining after the main part has been removed, resolved, or accounted for.",
+    "origin": "From Latin residuus, 'remaining behind,' from residere, 'to remain.'",
+    "nuance": "Useful when something is not primary but still materially present, like residual risk or residual confusion. More precise than just saying 'leftover.'",
+    "example": "Even after the migration, we still have some residual complexity in the billing path.",
+    "date": "2026-07-07",
+    "tags": [
+      "analysis",
+      "risk",
+      "operations"
+    ]
+  },
+  {
+    "word": "emergent",
+    "pronunciation": "ih-MUR-jent",
+    "ipa": "ɪˈmɝdʒənt",
+    "soundsLike": "Starts like 'immerge' and ends like the 'gent' in 'intelligent' without the intel-li.",
+    "partOfSpeech": "adjective",
+    "definition": "Arising from interaction or development rather than being centrally planned in advance.",
+    "origin": "From Latin emergere, 'to rise out' or 'bring to light.'",
+    "nuance": "Best when a pattern or behavior comes from the system itself, not from a single explicit instruction. People often misuse it as a fancy synonym for merely 'new.'",
+    "example": "A lot of the team culture is emergent, so we should shape incentives before we try to script behavior.",
+    "date": "2026-07-07",
+    "tags": [
+      "systems",
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "word": "antecedent",
+    "pronunciation": "an-tuh-SEE-dent",
+    "ipa": "ˌæntəˈsidənt",
+    "soundsLike": "Starts like 'ant' plus 'uh,' then sounds like 'see dent.'",
+    "partOfSpeech": "noun",
+    "definition": "A prior event, condition, or factor that helps explain what follows.",
+    "origin": "From Latin antecedere, 'to go before.'",
+    "nuance": "Stronger than 'background' when you want to name a specific precursor with causal or explanatory weight. In grammar it also means the noun a pronoun refers back to.",
+    "example": "The outage looked sudden, but the antecedent was weeks of rising error rates we normalized away.",
+    "date": "2026-07-07",
+    "tags": [
+      "causality",
+      "analysis",
+      "communication"
+    ]
+  },
+  {
+    "word": "exacting",
+    "pronunciation": "ig-ZAK-ting",
+    "ipa": "ɪɡˈzæktɪŋ",
+    "soundsLike": "Starts like 'egg' softened into 'ig,' then sounds like 'zack ting.'",
+    "partOfSpeech": "adjective",
+    "definition": "Demanding a high level of precision, effort, or care.",
+    "origin": "From exact, from Latin exigere, 'to drive out, weigh, or demand.'",
+    "nuance": "Usually positive or neutral when high standards are justified, unlike 'punishing,' which centers the burden. It can describe work, requirements, or a person's expectations.",
+    "example": "The customer migration plan is exacting, but it is the kind of detail that keeps surprises off the board.",
+    "date": "2026-07-07",
+    "tags": [
+      "execution",
+      "standards",
+      "leadership"
+    ]
   }
 ]
