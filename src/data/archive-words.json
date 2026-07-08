@@ -2094,5 +2094,73 @@
       "standards",
       "leadership"
     ]
+  },
+  {
+    "word": "construe",
+    "pronunciation": "kuhn-STROO",
+    "ipa": "kənˈstru",
+    "soundsLike": "Sounds like 'can' without the a, followed by 'strew' as in 'strew papers around.'",
+    "partOfSpeech": "verb",
+    "definition": "To interpret or understand something in a particular way.",
+    "origin": "From Latin construere, 'to pile together' or 'construct,' later shifting toward 'interpret' in English.",
+    "nuance": "Best when the act of interpretation itself matters. It is more precise than 'take' or 'read' and often highlights that the same facts can be understood differently.",
+    "example": "I do not construe that email as resistance so much as a request for clearer ownership.",
+    "date": "2026-07-08",
+    "tags": [
+      "communication",
+      "interpretation",
+      "leadership"
+    ]
+  },
+  {
+    "word": "mitigate",
+    "pronunciation": "MIT-ih-gayt",
+    "ipa": "ˈmɪtəˌɡeɪt",
+    "soundsLike": "Starts like 'mitt,' then 'ih,' and ends like 'gate.'",
+    "partOfSpeech": "verb",
+    "definition": "To make something less severe, harmful, or likely.",
+    "origin": "From Latin mitigare, 'to soften' or 'make mild.'",
+    "nuance": "Mitigate means reduce, not eliminate. People often overstate it as if a mitigation removes the problem entirely, when it usually just lowers the impact or probability.",
+    "example": "We cannot mitigate every dependency risk, but we can shrink the blast radius.",
+    "date": "2026-07-08",
+    "tags": [
+      "risk",
+      "operations",
+      "strategy"
+    ]
+  },
+  {
+    "word": "recursive",
+    "pronunciation": "rih-KUR-siv",
+    "ipa": "rɪˈkɝsɪv",
+    "soundsLike": "Starts like 'recur' and ends like 'sieve' without the e at the end.",
+    "partOfSpeech": "adjective",
+    "definition": "Defined in terms of itself, or repeating by feeding the output of a process back into the same process.",
+    "origin": "From Latin recurrere, 'to run back,' via recur.",
+    "nuance": "In technical contexts it names a specific self-referential structure, not just something repetitive. In broader use it can also describe arguments or dynamics that loop back on themselves.",
+    "example": "The planning issue is recursive: every missing decision creates three more decisions downstream.",
+    "date": "2026-07-08",
+    "tags": [
+      "technical",
+      "systems",
+      "analysis"
+    ]
+  },
+  {
+    "word": "endogenous",
+    "pronunciation": "en-DOJ-uh-nus",
+    "ipa": "ɛnˈdɑdʒənəs",
+    "soundsLike": "Starts like 'end,' then 'dodge,' and ends like 'uh-nuss.'",
+    "partOfSpeech": "adjective",
+    "definition": "Originating from within a system, organization, or process rather than from outside it.",
+    "origin": "From Greek endon, 'within,' plus -genous, 'produced by.'",
+    "nuance": "Useful when you want to distinguish internal causes from external shocks. It is more exact than 'internal' because it emphasizes where the force or behavior was generated.",
+    "example": "Most of the churn looks endogenous to our onboarding flow, not a market-wide demand issue.",
+    "date": "2026-07-08",
+    "tags": [
+      "causality",
+      "strategy",
+      "analysis"
+    ]
   }
 ]
