@@ -2162,5 +2162,73 @@
       "strategy",
       "analysis"
     ]
+  },
+  {
+    "word": "disaggregate",
+    "pronunciation": "dis-AG-rih-gayt",
+    "ipa": "dɪsˈæɡrɪˌɡeɪt",
+    "soundsLike": "Starts like 'this' with a d, then sounds like 'aggregate' without the first syllable.",
+    "partOfSpeech": "verb",
+    "definition": "To break something down into smaller parts so the components can be examined separately.",
+    "origin": "Built from Latin aggregate roots, with dis- added to mean 'separate from the whole.'",
+    "nuance": "Useful when the aggregate view hides meaningful differences. Stronger than just 'split up' because it implies analysis, not merely division.",
+    "example": "Before we react to the topline churn number, I want to disaggregate it by segment and onboarding path.",
+    "date": "2026-07-09",
+    "tags": [
+      "analysis",
+      "data",
+      "strategy"
+    ]
+  },
+  {
+    "word": "facile",
+    "pronunciation": "FASS-uhl",
+    "ipa": "ˈfæsəl",
+    "soundsLike": "Rhymes loosely with 'castle' if you soften the t out of it.",
+    "partOfSpeech": "adjective",
+    "definition": "Superficially neat or easy-looking in a way that oversimplifies the real issue.",
+    "origin": "From Latin facilis, 'easy,' entering English through French.",
+    "nuance": "A facile answer is not just simple; it is too easy to be trustworthy. People often misuse it as if it simply meant 'fluent' or 'effortless.'",
+    "example": "The claim that we can fix this with one reorg feels a little facile given how many dependencies are in play.",
+    "date": "2026-07-09",
+    "tags": [
+      "rhetoric",
+      "judgment",
+      "communication"
+    ]
+  },
+  {
+    "word": "impute",
+    "pronunciation": "im-PYOOT",
+    "ipa": "ɪmˈpjut",
+    "soundsLike": "Starts like 'input' without the n, then ends like 'cute' with a p in front.",
+    "partOfSpeech": "verb",
+    "definition": "To attribute a cause, motive, responsibility, or quality to someone or something.",
+    "origin": "From Latin imputare, 'to reckon or charge to an account.'",
+    "nuance": "Best when assigning responsibility or inferred cause, especially when that attribution may be debatable. It is more deliberate and slightly more formal than 'blame' or 'credit.'",
+    "example": "I would not impute the delay to engineering alone when the scope changed twice midstream.",
+    "date": "2026-07-09",
+    "tags": [
+      "causality",
+      "leadership",
+      "analysis"
+    ]
+  },
+  {
+    "word": "contingency",
+    "pronunciation": "kun-TIN-juhn-see",
+    "ipa": "kənˈtɪndʒənsi",
+    "soundsLike": "Starts like 'contains' without the s, then sounds like 'jin' and ends like 'see.'",
+    "partOfSpeech": "noun",
+    "definition": "A possible future event or condition that may require a different response or backup plan.",
+    "origin": "From Latin contingere, 'to touch upon' or 'befall,' via contingent.",
+    "nuance": "Useful for planning around uncertainty. A contingency is not the main plan itself; it is the branch you prepare in case a condition changes.",
+    "example": "Let's ship the core plan, but I want a clear contingency if the partner slips another week.",
+    "date": "2026-07-09",
+    "tags": [
+      "planning",
+      "risk",
+      "execution"
+    ]
   }
 ]
