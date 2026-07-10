@@ -2230,5 +2230,73 @@
       "risk",
       "execution"
     ]
+  },
+  {
+    "word": "extrapolate",
+    "pronunciation": "ek-STRAP-uh-layt",
+    "ipa": "ɪkˈstræpəˌleɪt",
+    "soundsLike": "Starts like 'extra' without the a, then sounds like 'strap' and ends like 'late.'",
+    "partOfSpeech": "verb",
+    "definition": "To infer or project beyond the known data by extending an existing pattern or trend.",
+    "origin": "From extra- plus a Latin root related to 'shape or form'; it entered English through mathematical and scientific usage.",
+    "nuance": "Best when you are extending from evidence, not just guessing. People often use it too loosely when they really mean speculate.",
+    "example": "We can extrapolate from the last two quarters, but I would not treat that forecast as destiny.",
+    "date": "2026-07-10",
+    "tags": [
+      "analysis",
+      "forecasting",
+      "strategy"
+    ]
+  },
+  {
+    "word": "abstraction",
+    "pronunciation": "ab-STRAK-shuhn",
+    "ipa": "æbˈstrækʃən",
+    "soundsLike": "Starts like 'cab' without the c, then sounds like 'strack' and ends like 'shun.'",
+    "partOfSpeech": "noun",
+    "definition": "A simplified conceptual layer that hides lower-level detail so you can reason at a higher level.",
+    "origin": "From Latin abstrahere, 'to draw away,' via abstract and French-derived English forms.",
+    "nuance": "Usually positive when simplification makes complexity manageable, but it can become a criticism if the model is too detached from operational reality.",
+    "example": "The dashboard is a useful abstraction, but we still need to inspect the raw events when something looks off.",
+    "date": "2026-07-10",
+    "tags": [
+      "technology",
+      "systems",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "anodyne",
+    "pronunciation": "AN-uh-dyne",
+    "ipa": "ˈænəˌdaɪn",
+    "soundsLike": "Starts like 'Anna' and ends like 'dine.'",
+    "partOfSpeech": "adjective",
+    "definition": "So mild, bland, or inoffensive that it avoids friction but also avoids saying much.",
+    "origin": "From Greek anodyne roots meaning 'without pain,' first used for pain-relieving medicine before broadening metaphorically.",
+    "nuance": "Useful for describing language that is deliberately harmless or generic. It does not just mean calm; it often implies a lack of force or substance.",
+    "example": "The memo is polished, but the conclusion feels so anodyne that nobody will know what to do next.",
+    "date": "2026-07-10",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "leadership"
+    ]
+  },
+  {
+    "word": "recourse",
+    "pronunciation": "REE-kors",
+    "ipa": "ˈrikɔrs",
+    "soundsLike": "Sounds like 're-course,' with the second part like 'course.'",
+    "partOfSpeech": "noun",
+    "definition": "A source of help, remedy, or fallback action available when the main path fails.",
+    "origin": "From French recours, rooted in Latin recurrere, 'to run back' or 'turn back.'",
+    "nuance": "Usually appears in contexts where options are constrained. Stronger and more formal than just saying backup, especially in legal, operational, or escalation settings.",
+    "example": "If the vendor misses the date again, our recourse is to cut scope and bring the migration in-house.",
+    "date": "2026-07-10",
+    "tags": [
+      "risk",
+      "operations",
+      "decision-making"
+    ]
   }
 ]
