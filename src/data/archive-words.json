@@ -2298,5 +2298,73 @@
       "operations",
       "decision-making"
     ]
+  },
+  {
+    "word": "deprecate",
+    "pronunciation": "DEP-ri-kayt",
+    "ipa": "ˈdɛprəˌkeɪt",
+    "soundsLike": "Starts like 'debt' without the t, then sounds like 'pruh,' and ends like 'Kate.'",
+    "partOfSpeech": "verb",
+    "definition": "To label something as discouraged or on the way out, especially without removing it immediately.",
+    "origin": "From Latin deprecari, 'to ward off by prayer' or 'express disapproval of'; the technical sense grew out of the older idea of disfavor.",
+    "nuance": "In software, deprecate does not mean delete right now; it means people should stop relying on it because retirement is coming.",
+    "example": "We should deprecate that endpoint this quarter, but give customers a clean migration path before we turn it off.",
+    "date": "2026-07-11",
+    "tags": [
+      "technology",
+      "product",
+      "change-management"
+    ]
+  },
+  {
+    "word": "delimit",
+    "pronunciation": "dih-LIM-it",
+    "ipa": "dɪˈlɪmɪt",
+    "soundsLike": "Sounds like 'duh-LIMIT,' with the stress on 'limit.'",
+    "partOfSpeech": "verb",
+    "definition": "To set the boundaries or scope of something clearly.",
+    "origin": "From Latin delimitare, built from de- plus limes, meaning 'boundary' or 'frontier.'",
+    "nuance": "More precise than limit because it emphasizes drawing the line, not just shrinking the size. Useful when the real task is defining scope.",
+    "example": "Before we debate solutions, let's delimit the actual problem so we're not solving three different things at once.",
+    "date": "2026-07-11",
+    "tags": [
+      "strategy",
+      "scope",
+      "analysis"
+    ]
+  },
+  {
+    "word": "premise",
+    "pronunciation": "PREM-iss",
+    "ipa": "ˈprɛmɪs",
+    "soundsLike": "Sounds like 'press' swapped with 'prem,' then ends like 'miss.'",
+    "partOfSpeech": "noun",
+    "definition": "A foundational assumption or starting proposition that supports an argument or decision.",
+    "origin": "From Latin praemissa, 'things set before,' passing through logic and rhetorical usage into English.",
+    "nuance": "People often use it loosely to mean topic or plot setup, but in reasoning it is the claim everything else depends on.",
+    "example": "If the premise is that support volume stays flat, then the staffing model makes sense; if not, it falls apart fast.",
+    "date": "2026-07-11",
+    "tags": [
+      "reasoning",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "countervailing",
+    "pronunciation": "kown-ter-VAY-ling",
+    "ipa": "ˌkaʊntərˈveɪlɪŋ",
+    "soundsLike": "Starts like 'counter' and ends like 'veiling' without the second i sound stretched out too much.",
+    "partOfSpeech": "adjective",
+    "definition": "Acting in the opposite direction to offset, balance, or resist another force.",
+    "origin": "Built from counter- plus avail in its older sense of 'to have force or effect.'",
+    "nuance": "Best for describing competing pressures, not just generic disagreement. It suggests one influence is meaningfully checking another.",
+    "example": "There are countervailing incentives here: speed argues for a patch, but trust argues for a more careful rollout.",
+    "date": "2026-07-11",
+    "tags": [
+      "strategy",
+      "incentives",
+      "risk"
+    ]
   }
 ]
