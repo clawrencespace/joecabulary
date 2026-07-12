@@ -2366,5 +2366,73 @@
       "incentives",
       "risk"
     ]
+  },
+  {
+    "word": "stipulate",
+    "pronunciation": "STIP-yuh-layt",
+    "ipa": "ˈstɪpjəˌleɪt",
+    "soundsLike": "Starts like 'step' with an i sound, then 'yuh,' and ends like 'late.'",
+    "partOfSpeech": "verb",
+    "definition": "To state a condition, requirement, or term explicitly and formally.",
+    "origin": "From Latin stipulari, 'to demand a promise' or 'make an agreement,' which gave the word its contractual flavor.",
+    "nuance": "Stronger than just say or mention. It implies that the condition is part of the deal, not casual commentary.",
+    "example": "We should stipulate success metrics up front so nobody is rewriting the definition of done in week six.",
+    "date": "2026-07-12",
+    "tags": [
+      "negotiation",
+      "contracts",
+      "leadership"
+    ]
+  },
+  {
+    "word": "substantive",
+    "pronunciation": "sub-STAN-tiv",
+    "ipa": "səbˈstæntɪv",
+    "soundsLike": "Starts like 'sub,' then sounds like 'stand' without the d, and ends like 'tiv' as in 'give' without the g.",
+    "partOfSpeech": "adjective",
+    "definition": "Meaningful in content or effect, not merely formal, procedural, or cosmetic.",
+    "origin": "From Latin substantivus, related to substance and the idea of what has real standing or essence.",
+    "nuance": "Useful when something looks official but may not have real weight. People sometimes use it as a fancier version of big; the real contrast is with superficial or procedural.",
+    "example": "The meeting was polite, but the only substantive change was finally assigning an owner to the migration.",
+    "date": "2026-07-12",
+    "tags": [
+      "communication",
+      "decision-making",
+      "governance"
+    ]
+  },
+  {
+    "word": "equivocal",
+    "pronunciation": "ih-KWIV-uh-kuhl",
+    "ipa": "ɪˈkwɪvəkəl",
+    "soundsLike": "Starts like 'it' without the t, then sounds like 'quiver' without the r, and ends like 'cull.'",
+    "partOfSpeech": "adjective",
+    "definition": "Open to more than one interpretation, especially in a way that avoids a clear commitment.",
+    "origin": "From Latin aequivocus, 'called by the same name' or 'having equal voice,' which led to the sense of ambiguity.",
+    "nuance": "Not just vague. Equivocal often suggests that the ambiguity matters rhetorically or politically because someone is keeping room to maneuver.",
+    "example": "His answer on timeline risk was equivocal enough that I still cannot tell whether he expects to ship this month.",
+    "date": "2026-07-12",
+    "tags": [
+      "rhetoric",
+      "leadership",
+      "analysis"
+    ]
+  },
+  {
+    "word": "apportion",
+    "pronunciation": "uh-POR-shuhn",
+    "ipa": "əˈpɔrʃən",
+    "soundsLike": "Starts like 'uh,' then sounds like 'portion.'",
+    "partOfSpeech": "verb",
+    "definition": "To divide and assign shares of something, especially responsibility, cost, time, or credit.",
+    "origin": "From Old French aportioner, built on portion, meaning 'share' or 'part.'",
+    "nuance": "More deliberate than split. It implies allocation by judgment, policy, or fairness rather than simple division.",
+    "example": "We need to apportion the support burden realistically instead of assuming one team will absorb it for free.",
+    "date": "2026-07-12",
+    "tags": [
+      "operations",
+      "resource-allocation",
+      "management"
+    ]
   }
 ]

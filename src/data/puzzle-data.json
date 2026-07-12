@@ -225,5 +225,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-07-12",
+    "title": "Deprecate Effects",
+    "eyebrow": "Sunday No. 004 · Live",
+    "date": "July 12, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "DEPRECATE",
+        "clue": "To label something as discouraged or on the way out, especially without removing it immediately",
+        "row": 0,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "PERFUNCTORY",
+        "clue": "Done with minimal effort or attention, mainly to satisfy an obligation",
+        "row": 0,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "EXTRAPOLATE",
+        "clue": "To infer or project beyond the known data by extending an existing pattern or trend",
+        "row": 0,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "ABSTRACTION",
+        "clue": "A simplified conceptual layer that hides lower-level detail so you can reason at a higher level",
+        "row": 1,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "RESIDUAL",
+        "clue": "Remaining after the main part has been removed, resolved, or accounted for",
+        "row": 2,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "RECOURSE",
+        "clue": "A source of help, remedy, or fallback action available when the main path fails",
+        "row": 2,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "SUBSTANTIVE",
+        "clue": "Meaningful in content or effect, not merely formal, procedural, or cosmetic",
+        "row": 2,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "DISAGGREGATE",
+        "clue": "To break something down into smaller parts so the components can be examined separately",
+        "row": 2,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "answer": "COUNTERVAILING",
+        "clue": "Acting in the opposite direction to offset, balance, or resist another force",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "ANTECEDENT",
+        "clue": "A prior event, condition, or factor that helps explain what follows",
+        "row": 12,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
   }
 ]
