@@ -2434,5 +2434,73 @@
       "resource-allocation",
       "management"
     ]
+  },
+  {
+    "word": "portend",
+    "pronunciation": "por-TEND",
+    "ipa": "pɔrˈtɛnd",
+    "soundsLike": "Sounds like 'pour' plus 'tend.'",
+    "partOfSpeech": "verb",
+    "definition": "To signal or foreshadow that something, often consequential, is likely to happen.",
+    "origin": "From Latin portendere, 'to predict or foretell,' built from roots meaning 'to stretch forth' a sign.",
+    "nuance": "Stronger than suggest or hint. It implies that a present sign points ahead to a likely outcome, often with some gravity.",
+    "example": "That spike in churn does not automatically portend a trend, but it is enough to warrant a closer look.",
+    "date": "2026-07-13",
+    "tags": [
+      "analysis",
+      "risk",
+      "forecasting"
+    ]
+  },
+  {
+    "word": "surgical",
+    "pronunciation": "SER-jih-kuhl",
+    "ipa": "ˈsɝdʒɪkəl",
+    "soundsLike": "Starts like 'surge' and ends like 'ickle.'",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely precise, targeted, and limited to the specific thing that needs attention.",
+    "origin": "From Greek kheirourgia by way of Latin and French, literally referring to hand-work in medicine.",
+    "nuance": "In business or strategy, surgical is metaphorical: not merely small, but carefully targeted. People misuse it when they really just mean aggressive or fast.",
+    "example": "We do not need a reorg here; we need a surgical fix to the approval bottleneck.",
+    "date": "2026-07-13",
+    "tags": [
+      "leadership",
+      "strategy",
+      "precision"
+    ]
+  },
+  {
+    "word": "decompose",
+    "pronunciation": "dee-kum-POHZ",
+    "ipa": "ˌdikəmˈpoʊz",
+    "soundsLike": "Starts like 'deacon' without the n, then 'pose' with a z sound.",
+    "partOfSpeech": "verb",
+    "definition": "To break something into smaller parts so its structure, causes, or tasks are easier to understand.",
+    "origin": "From Latin de- 'apart' plus componere 'to put together,' yielding the sense of taking apart what was composed.",
+    "nuance": "Useful in engineering, planning, and analysis. It is more systematic than just break down because it implies component structure, not mere fragmentation.",
+    "example": "Let’s decompose the migration into dependency, data, and rollout tracks instead of treating it like one giant project.",
+    "date": "2026-07-13",
+    "tags": [
+      "engineering",
+      "systems",
+      "problem-solving"
+    ]
+  },
+  {
+    "word": "credence",
+    "pronunciation": "KREE-duhns",
+    "ipa": "ˈkridəns",
+    "soundsLike": "Sounds like 'creed' plus 'dance' without the a.",
+    "partOfSpeech": "noun",
+    "definition": "Acceptance of something as believable or worthy of trust.",
+    "origin": "From Latin credentia, related to credere, 'to believe,' the same root behind credit and creed.",
+    "nuance": "You give credence to a claim; you do not usually call a person credence. It is about how much belief a statement deserves, not about someone’s charisma or authority.",
+    "example": "I give more credence to the usage data than to the story we told ourselves in the kickoff meeting.",
+    "date": "2026-07-13",
+    "tags": [
+      "judgment",
+      "evidence",
+      "rhetoric"
+    ]
   }
 ]
