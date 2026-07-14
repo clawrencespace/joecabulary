@@ -2502,5 +2502,73 @@
       "evidence",
       "rhetoric"
     ]
+  },
+  {
+    "word": "belie",
+    "pronunciation": "bih-LYE",
+    "ipa": "bɪˈlaɪ",
+    "soundsLike": "Rhymes with 'deny,' but starts with 'bih' like the start of 'begin.'",
+    "partOfSpeech": "verb",
+    "definition": "To give a false impression of something or to contradict what appears to be true.",
+    "origin": "From Old English belēogan, meaning 'to deceive' or 'mislead.'",
+    "nuance": "Usually used when appearances point one way but the facts point another. People sometimes misuse it to mean simply 'show' or 'reveal,' when it really implies contradiction or false appearance.",
+    "example": "The calm rollout notes belie how much messy coordination happened behind the scenes.",
+    "date": "2026-07-14",
+    "tags": [
+      "rhetoric",
+      "analysis",
+      "perception"
+    ]
+  },
+  {
+    "word": "supersede",
+    "pronunciation": "soo-per-SEED",
+    "ipa": "ˌsupɚˈsid",
+    "soundsLike": "Starts like 'super' and ends like 'seed.'",
+    "partOfSpeech": "verb",
+    "definition": "To replace something older or less effective with something newer, stronger, or more authoritative.",
+    "origin": "From Latin supersedere, 'to sit above' or 'refrain,' which developed into the sense of displacing what came before.",
+    "nuance": "Stronger than update or revise. If one thing supersedes another, the old version is no longer the controlling one.",
+    "example": "That new policy should supersede the tribal rule we have been carrying around in Slack threads.",
+    "date": "2026-07-14",
+    "tags": [
+      "leadership",
+      "governance",
+      "change"
+    ]
+  },
+  {
+    "word": "salutary",
+    "pronunciation": "SAL-yuh-ter-ee",
+    "ipa": "ˈsæljəˌtɛri",
+    "soundsLike": "Starts like 'salary' but with 'terry' at the end.",
+    "partOfSpeech": "adjective",
+    "definition": "Producing a helpful, corrective, or beneficial effect, especially after something has gone off course.",
+    "origin": "From Latin salutaris, 'healthful' or 'beneficial,' related to salus, meaning 'well-being.'",
+    "nuance": "Often used for tough but useful consequences, like a setback or constraint that improves behavior. It is more precise than good because it suggests a corrective benefit.",
+    "example": "Missing that deadline was painful, but it had a salutary effect on how seriously we now treat dependencies.",
+    "date": "2026-07-14",
+    "tags": [
+      "judgment",
+      "leadership",
+      "improvement"
+    ]
+  },
+  {
+    "word": "vitiate",
+    "pronunciation": "VISH-ee-ayt",
+    "ipa": "ˈvɪʃiˌeɪt",
+    "soundsLike": "Starts like 'vicious' without the ous, and ends like 'create' without the cr.",
+    "partOfSpeech": "verb",
+    "definition": "To impair, weaken, or spoil the validity or effectiveness of something.",
+    "origin": "From Latin vitiare, meaning 'to spoil' or 'corrupt,' from vitium, 'fault' or 'defect.'",
+    "nuance": "Best used when a flaw undermines an argument, contract, process, or result. It is more formal and exact than hurt or weaken.",
+    "example": "A few bad edge cases do not vitiate the whole plan, but they do change how confident we should be in the rollout.",
+    "date": "2026-07-14",
+    "tags": [
+      "logic",
+      "risk",
+      "evaluation"
+    ]
   }
 ]
