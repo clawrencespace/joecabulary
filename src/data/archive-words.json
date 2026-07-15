@@ -2570,5 +2570,73 @@
       "risk",
       "evaluation"
     ]
+  },
+  {
+    "word": "winnow",
+    "pronunciation": "WIN-oh",
+    "ipa": "ˈwɪnoʊ",
+    "soundsLike": "Sounds like 'window' without the 'd'.",
+    "partOfSpeech": "verb",
+    "definition": "To narrow a set of options, ideas, or data by separating the useful from the less useful.",
+    "origin": "From an Old English farming term for separating grain from chaff by tossing it in the wind.",
+    "nuance": "More selective than just reduce. Winnow implies filtering by judgment, not merely cutting by volume.",
+    "example": "Let's winnow the roadmap to the three bets that actually move the quarter.",
+    "date": "2026-07-15",
+    "tags": [
+      "decision-making",
+      "analysis",
+      "strategy"
+    ]
+  },
+  {
+    "word": "impetus",
+    "pronunciation": "IM-puh-tus",
+    "ipa": "ˈɪmpətəs",
+    "soundsLike": "Starts like 'important' and ends a bit like 'pet us'.",
+    "partOfSpeech": "noun",
+    "definition": "The force, incentive, or momentum that gets something moving.",
+    "origin": "From Latin impetus, meaning 'attack, rush, or impulse.'",
+    "nuance": "Useful when you mean the thing that drives action, not just a vague reason. It is stronger and more kinetic than motivation.",
+    "example": "Customer churn was the real impetus for cleaning up the onboarding flow.",
+    "date": "2026-07-15",
+    "tags": [
+      "leadership",
+      "momentum",
+      "cause"
+    ]
+  },
+  {
+    "word": "malleable",
+    "pronunciation": "MAL-ee-uh-buhl",
+    "ipa": "ˈmæliəbəl",
+    "soundsLike": "Starts like 'Mallory' and ends like 'able'.",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be shaped, adapted, or influenced without breaking.",
+    "origin": "From Latin malleus, 'hammer,' via the idea of metal that can be hammered into shape.",
+    "nuance": "Can be positive or negative. A malleable plan is adaptable; a malleable person may be too easily swayed.",
+    "example": "We should keep the spec malleable until we learn a bit more from the pilot customers.",
+    "date": "2026-07-15",
+    "tags": [
+      "adaptability",
+      "planning",
+      "judgment"
+    ]
+  },
+  {
+    "word": "interlocutor",
+    "pronunciation": "in-ter-LOK-yuh-ter",
+    "ipa": "ˌɪntɚˈlɑkjətɚ",
+    "soundsLike": "Starts like 'inter', then 'LOCK', then ends a bit like 'computer' without the 'comp'.",
+    "partOfSpeech": "noun",
+    "definition": "A person taking part in a conversation, dialogue, or exchange.",
+    "origin": "From Latin interloqui, 'to speak between,' from inter- 'between' and loqui 'to speak.'",
+    "nuance": "More precise than person or counterpart when you want to emphasize a substantive exchange. It can sound formal if overused in casual conversation.",
+    "example": "He was a thoughtful interlocutor, even when we disagreed on the rollout tradeoffs.",
+    "date": "2026-07-15",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "relationships"
+    ]
   }
 ]
