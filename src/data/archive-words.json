@@ -2638,5 +2638,73 @@
       "rhetoric",
       "relationships"
     ]
+  },
+  {
+    "word": "taxonomy",
+    "pronunciation": "tak-SON-uh-mee",
+    "ipa": "tækˈsɑnəmi",
+    "soundsLike": "Starts like 'tax' and 'son', then ends like 'uh-mee'.",
+    "partOfSpeech": "noun",
+    "definition": "A structured system for classifying things into useful categories.",
+    "origin": "From Greek roots meaning 'arrangement' and 'law' or 'ordering.'",
+    "nuance": "More deliberate than just a list or grouping. A taxonomy implies categories with logic behind them, not a grab bag of labels.",
+    "example": "Before we add more metrics, let's agree on a taxonomy for what counts as acquisition, activation, and retention.",
+    "date": "2026-07-16",
+    "tags": [
+      "classification",
+      "strategy",
+      "analysis"
+    ]
+  },
+  {
+    "word": "cohere",
+    "pronunciation": "koh-HEER",
+    "ipa": "koʊˈhɪr",
+    "soundsLike": "Starts like 'go' with a k sound, then ends like 'here'.",
+    "partOfSpeech": "verb",
+    "definition": "To fit together in a clear, logical, or consistent way.",
+    "origin": "From Latin cohaerere, 'to stick together.'",
+    "nuance": "Useful when parts align into a convincing whole. It is stronger than merely relate; if something coheres, it holds together under scrutiny.",
+    "example": "The pieces only really cohere once you look at the pricing, support load, and product complexity together.",
+    "date": "2026-07-16",
+    "tags": [
+      "reasoning",
+      "communication",
+      "judgment"
+    ]
+  },
+  {
+    "word": "diffuse",
+    "pronunciation": "dih-FYOOS",
+    "ipa": "dɪˈfjuz",
+    "soundsLike": "Starts like 'did' without the final d, then rhymes with 'fuse'.",
+    "partOfSpeech": "adjective",
+    "definition": "Spread out, unfocused, or not concentrated in one place or idea.",
+    "origin": "From Latin diffundere, 'to pour out' or 'spread widely.'",
+    "nuance": "Often used for attention, responsibility, writing, or light. Common misuse: people sometimes mean defuse, which is about reducing tension, not spreading something out.",
+    "example": "The ownership is too diffuse right now, so every decision turns into a slow group negotiation.",
+    "date": "2026-07-16",
+    "tags": [
+      "management",
+      "clarity",
+      "communication"
+    ]
+  },
+  {
+    "word": "apposite",
+    "pronunciation": "AP-uh-zit",
+    "ipa": "ˈæpəzɪt",
+    "soundsLike": "Starts like 'app', then a soft 'uh', and ends like 'zit'.",
+    "partOfSpeech": "adjective",
+    "definition": "Especially appropriate, relevant, or well suited to the point at hand.",
+    "origin": "From Latin apponere, 'to place near,' via the sense of something fitting closely.",
+    "nuance": "More precise than apt when you want to stress exact relevance. It works best for comments, examples, or comparisons, and can sound a bit formal if overused.",
+    "example": "His point about support burden was apposite because we'd been treating the launch as purely a revenue question.",
+    "date": "2026-07-16",
+    "tags": [
+      "rhetoric",
+      "precision",
+      "judgment"
+    ]
   }
 ]
