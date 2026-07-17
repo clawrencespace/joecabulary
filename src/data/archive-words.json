@@ -2706,5 +2706,73 @@
       "precision",
       "judgment"
     ]
+  },
+  {
+    "word": "exemplar",
+    "pronunciation": "ig-ZEM-plar",
+    "ipa": "ɪɡˈzɛmplɑr",
+    "soundsLike": "Starts like 'exist' without the 'ist,' then ends like 'templar' without the first t.",
+    "partOfSpeech": "noun",
+    "definition": "A particularly strong example that represents a larger category or standard.",
+    "origin": "From Latin exemplum, meaning 'sample' or 'pattern,' via Medieval Latin exemplar.",
+    "nuance": "Stronger than just example. An exemplar is a model worth pointing to, not merely an instance that happens to exist.",
+    "example": "If we want a template for the new onboarding flow, the mobile signup redesign is probably the best exemplar.",
+    "date": "2026-07-17",
+    "tags": [
+      "leadership",
+      "communication",
+      "analysis"
+    ]
+  },
+  {
+    "word": "frictive",
+    "pronunciation": "FRIK-tiv",
+    "ipa": "ˈfrɪktɪv",
+    "soundsLike": "Rhymes with 'predictive' minus the 'pre-di'.",
+    "partOfSpeech": "adjective",
+    "definition": "Marked by friction, tension, or resistance between people, forces, or parts of a process.",
+    "origin": "Built from friction, ultimately from Latin fricare, 'to rub.'",
+    "nuance": "Useful when the issue is not outright conflict but persistent rubbing that slows progress. It is more precise than simply saying tense or difficult.",
+    "example": "The handoff between product and support is still pretty frictive, which is why simple launches keep feeling harder than they should.",
+    "date": "2026-07-17",
+    "tags": [
+      "management",
+      "teamwork",
+      "operations"
+    ]
+  },
+  {
+    "word": "interleave",
+    "pronunciation": "in-ter-LEEV",
+    "ipa": "ˌɪntərˈliv",
+    "soundsLike": "Starts like 'internet' and ends like 'leave.'",
+    "partOfSpeech": "verb",
+    "definition": "To alternate or combine things in a woven, back-and-forth sequence.",
+    "origin": "From inter- 'between' and leaf, from the old printing sense of inserting pages between others.",
+    "nuance": "More structured than mix. If you interleave things, they remain distinct while being deliberately arranged together.",
+    "example": "I want to interleave the customer quotes with the metrics so the deck feels grounded instead of purely abstract.",
+    "date": "2026-07-17",
+    "tags": [
+      "strategy",
+      "technical",
+      "communication"
+    ]
+  },
+  {
+    "word": "ossify",
+    "pronunciation": "AH-suh-fy",
+    "ipa": "ˈɑsəˌfaɪ",
+    "soundsLike": "Starts like 'awesome' without the 'm,' then ends like 'fie.'",
+    "partOfSpeech": "verb",
+    "definition": "To become rigid, fixed, or resistant to change over time.",
+    "origin": "From Latin os, meaning 'bone'; literally, to turn into bone.",
+    "nuance": "Often used for organizations, habits, or policies that harden past the point of usefulness. It implies gradual stiffening, not a sudden freeze.",
+    "example": "We should clean up the process now before a temporary workaround ossifies into the default way we operate.",
+    "date": "2026-07-17",
+    "tags": [
+      "change",
+      "organizations",
+      "judgment"
+    ]
   }
 ]
