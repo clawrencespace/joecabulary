@@ -2774,5 +2774,73 @@
       "organizations",
       "judgment"
     ]
+  },
+  {
+    "word": "conflate",
+    "pronunciation": "kuhn-FLAYT",
+    "ipa": "kənˈfleɪt",
+    "soundsLike": "Starts like 'connect' without the 'nect,' then rhymes with 'late.'",
+    "partOfSpeech": "verb",
+    "definition": "To combine distinct things in a way that blurs important differences.",
+    "origin": "From Latin conflare, 'to blow together' or 'melt together.'",
+    "nuance": "Usually a warning word. It implies that two ideas should stay separate, not merely that they happen to overlap.",
+    "example": "I think we're conflating customer dissatisfaction with a temporary drop in activation, and those probably need different fixes.",
+    "date": "2026-07-18",
+    "tags": [
+      "analysis",
+      "communication",
+      "strategy"
+    ]
+  },
+  {
+    "word": "abeyance",
+    "pronunciation": "uh-BAY-uhns",
+    "ipa": "əˈbeɪəns",
+    "soundsLike": "Starts like 'about,' then 'bay,' and ends like 'once' with an 'uhns' sound.",
+    "partOfSpeech": "noun",
+    "definition": "A temporary state of suspension, delay, or inactivity.",
+    "origin": "From Old French abeance, linked to the idea of something being held in expectation.",
+    "nuance": "More precise than hold or pause when the thing is not canceled, just set aside pending some trigger or decision.",
+    "example": "Let's keep the partner rollout in abeyance until legal finishes the revised terms.",
+    "date": "2026-07-18",
+    "tags": [
+      "operations",
+      "decision-making",
+      "legal"
+    ]
+  },
+  {
+    "word": "restive",
+    "pronunciation": "RES-tiv",
+    "ipa": "ˈrɛstɪv",
+    "soundsLike": "Sounds like 'rest' plus the ending in 'active.'",
+    "partOfSpeech": "adjective",
+    "definition": "Impatient, uneasy, or difficult to keep still or under control.",
+    "origin": "From Old French restif, meaning resistant, from rester, 'to remain.'",
+    "nuance": "Often misused to mean restful. It actually suggests pent-up resistance, agitation, or impatience in people, teams, or audiences.",
+    "example": "If we drag this decision out another week, the team is going to get pretty restive.",
+    "date": "2026-07-18",
+    "tags": [
+      "leadership",
+      "team-dynamics",
+      "tone"
+    ]
+  },
+  {
+    "word": "fulsome",
+    "pronunciation": "FUHL-suhm",
+    "ipa": "ˈfʊlsəm",
+    "soundsLike": "Sounds like 'full' and 'some' said together.",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively flattering, praising, or elaborate to the point of seeming insincere.",
+    "origin": "From Middle English, originally carrying a sense of being abundant or excessive.",
+    "nuance": "A classic trap word because many people use it to mean simply generous or thorough. In careful usage, it usually implies too much and a whiff of overdoing it.",
+    "example": "The intro was nice, but it started to feel a little fulsome once it turned into a five-minute tribute.",
+    "date": "2026-07-18",
+    "tags": [
+      "rhetoric",
+      "communication",
+      "usage"
+    ]
   }
 ]
