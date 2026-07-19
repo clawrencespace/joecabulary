@@ -314,5 +314,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-07-19",
+    "title": "Inelastic Effects",
+    "eyebrow": "Sunday No. 005 · Live",
+    "date": "July 19, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "INELASTIC",
+        "clue": "Not very responsive to changes in price, pressure, or other inputs",
+        "row": 0,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "TAXONOMY",
+        "clue": "A structured system for classifying things into useful categories",
+        "row": 0,
+        "col": 6,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "answer": "MALLEABLE",
+        "clue": "Able to be shaped, adapted, or influenced without breaking",
+        "row": 0,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "APPOSITE",
+        "clue": "Especially appropriate, relevant, or well suited to the point at hand",
+        "row": 2,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "INTERLOCUTOR",
+        "clue": "A person taking part in a conversation, dialogue, or exchange",
+        "row": 3,
+        "col": 5,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "SALUTARY",
+        "clue": "Producing a helpful, corrective, or beneficial effect, especially after something has gone off course",
+        "row": 5,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "answer": "INTERSTITIAL",
+        "clue": "Existing in the small spaces between larger parts, stages, or structures",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "DECOMPOSE",
+        "clue": "To break something into smaller parts so its structure, causes, or tasks are easier to understand",
+        "row": 9,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "SUPERSEDE",
+        "clue": "To replace something older or less effective with something newer, stronger, or more authoritative",
+        "row": 11,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "CREDENCE",
+        "clue": "Acceptance of something as believable or worthy of trust",
+        "row": 14,
+        "col": 4,
+        "direction": "across"
+      }
+    ]
   }
 ]

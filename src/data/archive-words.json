@@ -2842,5 +2842,73 @@
       "communication",
       "usage"
     ]
+  },
+  {
+    "word": "putative",
+    "pronunciation": "PYOO-tuh-tiv",
+    "ipa": "ˈpjuːtətɪv",
+    "soundsLike": "Starts like 'pure' with a t sound added, then ends like 'positive' without the 'posi.'",
+    "partOfSpeech": "adjective",
+    "definition": "Generally assumed or reputed to be something, whether or not it has been proven.",
+    "origin": "From Latin putare, 'to think' or 'to reckon.'",
+    "nuance": "Useful when something is being treated as established a little too early. It is sharper than alleged and less loaded than so-called.",
+    "example": "The putative source of the regression is the caching layer, but I don't think we've actually isolated it yet.",
+    "date": "2026-07-19",
+    "tags": [
+      "analysis",
+      "evidence",
+      "communication"
+    ]
+  },
+  {
+    "word": "perverse",
+    "pronunciation": "per-VURS",
+    "ipa": "pɚˈvɝːs",
+    "soundsLike": "Starts like 'purr' and rhymes with 'verse.'",
+    "partOfSpeech": "adjective",
+    "definition": "Showing an outcome or incentive that works against the intended goal in a stubborn or counterproductive way.",
+    "origin": "From Latin perversus, 'turned the wrong way.'",
+    "nuance": "Especially useful in phrases like perverse incentive or perverse outcome. It does not just mean weird; it implies a bad twist relative to what should have happened.",
+    "example": "If we tie the metric too tightly to ticket closure, we'll create a perverse incentive to avoid the hard cases.",
+    "date": "2026-07-19",
+    "tags": [
+      "strategy",
+      "leadership",
+      "incentives"
+    ]
+  },
+  {
+    "word": "interstitial",
+    "pronunciation": "in-ter-STISH-uhl",
+    "ipa": "ˌɪntɚˈstɪʃəl",
+    "soundsLike": "Starts like 'internet,' then the stressed middle sounds like 'stitch,' and it ends like 'special' without the 'pe.'",
+    "partOfSpeech": "adjective",
+    "definition": "Existing in the small spaces between larger parts, stages, or structures.",
+    "origin": "From Latin interstitium, 'a space between.'",
+    "nuance": "Handy for naming the work or time that falls between formal milestones, org boxes, or product surfaces. More precise than miscellaneous or in-between.",
+    "example": "A lot of the real coordination cost lives in the interstitial work between product, legal, and support.",
+    "date": "2026-07-19",
+    "tags": [
+      "operations",
+      "org-design",
+      "process"
+    ]
+  },
+  {
+    "word": "inelastic",
+    "pronunciation": "in-ih-LAS-tik",
+    "ipa": "ˌɪnəˈlæstɪk",
+    "soundsLike": "Starts like 'in a,' then the stressed middle matches 'last,' and it ends like 'stick' without the second s.",
+    "partOfSpeech": "adjective",
+    "definition": "Not very responsive to changes in price, pressure, or other inputs.",
+    "origin": "Built from in- plus elastic, from Greek elastos, 'driven' or 'beaten out.'",
+    "nuance": "Often used in economics, but it travels well to budgets, timelines, and constraints that do not flex much when you push on them.",
+    "example": "Our cloud spend is more inelastic than people think because most of it is tied to baseline traffic and storage.",
+    "date": "2026-07-19",
+    "tags": [
+      "economics",
+      "finance",
+      "constraints"
+    ]
   }
 ]
