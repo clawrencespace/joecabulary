@@ -2910,5 +2910,73 @@
       "finance",
       "constraints"
     ]
+  },
+  {
+    "word": "diagnostic",
+    "pronunciation": "dye-ug-NOS-tik",
+    "ipa": "ˌdaɪəɡˈnɑstɪk",
+    "soundsLike": "Starts like 'die,' then a quick 'uhg,' and the stressed part rhymes with 'nostic' in 'agnostic.'",
+    "partOfSpeech": "adjective",
+    "definition": "Useful for identifying the nature or source of a problem.",
+    "origin": "From Greek diagnostikos, 'able to distinguish or discern.'",
+    "nuance": "Best when something helps you tell among possible causes, not just when it is informative in a general way. People often overuse it for any metric or dashboard.",
+    "example": "That metric is interesting, but it is not diagnostic unless it helps us separate a traffic issue from a conversion issue.",
+    "date": "2026-07-20",
+    "tags": [
+      "analysis",
+      "engineering",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "symptomatic",
+    "pronunciation": "simp-tuh-MAT-ik",
+    "ipa": "ˌsɪmptəˈmætɪk",
+    "soundsLike": "Starts like 'simp,' then 'tuh,' and the stressed part sounds like 'mat' plus 'ick.'",
+    "partOfSpeech": "adjective",
+    "definition": "Serving as a sign of a larger condition or underlying issue.",
+    "origin": "From Greek symptoma, 'that which befalls,' via Latin and French medical usage.",
+    "nuance": "Use it when something is evidence of a deeper pattern rather than the root cause itself. It is sharper than saying a problem is just related or connected.",
+    "example": "The missed deadline is symptomatic of a planning gap, not the planning gap itself.",
+    "date": "2026-07-20",
+    "tags": [
+      "leadership",
+      "analysis",
+      "root-cause"
+    ]
+  },
+  {
+    "word": "apocryphal",
+    "pronunciation": "uh-POK-ruh-fuhl",
+    "ipa": "əˈpɑkrəfəl",
+    "soundsLike": "Starts with 'uh,' the stressed part sounds like 'pock,' and it ends a bit like 'ruffle' without the last l sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Widely told or believed but of doubtful authenticity.",
+    "origin": "From Greek apokryphos, 'hidden' or 'obscure.'",
+    "nuance": "Useful for company lore, origin stories, and tidy anecdotes that may be too neat to trust. It does not mean false with certainty; it means the story is shaky or unverified.",
+    "example": "The story about that policy existing because of one bad outage might be apocryphal, but people still cite it like doctrine.",
+    "date": "2026-07-20",
+    "tags": [
+      "communication",
+      "culture",
+      "evidence"
+    ]
+  },
+  {
+    "word": "preclusive",
+    "pronunciation": "pree-KLOO-siv",
+    "ipa": "priˈklusɪv",
+    "soundsLike": "Starts like 'pre,' the stressed middle rhymes with 'blue,' and it ends like 'sieve' with a softer final sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Preventing something else from being considered, allowed, or possible.",
+    "origin": "From Latin praecludere, 'to shut off in front' or 'close beforehand.'",
+    "nuance": "Handy when one fact, constraint, or ruling effectively closes off the rest of the debate. Stronger and more precise than merely saying something is limiting.",
+    "example": "If legal says that data residency requirement is preclusive, we should stop pretending the current vendor is still a viable option.",
+    "date": "2026-07-20",
+    "tags": [
+      "strategy",
+      "legal",
+      "decision-making"
+    ]
   }
 ]
