@@ -2978,5 +2978,73 @@
       "legal",
       "decision-making"
     ]
+  },
+  {
+    "word": "constitutive",
+    "pronunciation": "kun-STIT-oo-tiv",
+    "ipa": "kənˈstɪtutɪv",
+    "soundsLike": "Starts like \"can,\" the stressed middle sounds like \"stit\" in \"institute,\" and it ends like \"two-tiv.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Helping form the essential nature of something, not just accompanying it.",
+    "origin": "From Latin constituere, \"to set up\" or \"establish.\"",
+    "nuance": "Use it when something is part of what makes a system, culture, or identity what it is. It is stronger than saying a factor is merely important or influential.",
+    "example": "That feedback loop is constitutive of the culture, not just a side effect of it.",
+    "date": "2026-07-21",
+    "tags": [
+      "strategy",
+      "culture",
+      "analysis"
+    ]
+  },
+  {
+    "word": "incumbent",
+    "pronunciation": "in-KUM-bunt",
+    "ipa": "ɪnˈkʌmbənt",
+    "soundsLike": "Starts like \"in,\" the stressed middle rhymes with \"come,\" and it ends like \"bent.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Required as a duty or obligation because of one's role or position.",
+    "origin": "From Latin incumbere, \"to lean upon\" or \"rest on.\"",
+    "nuance": "In executive speech it usually appears in phrases like \"it is incumbent on us,\" meaning the responsibility properly rests with us. It is more duty-laden than simply saying something is important.",
+    "example": "It is incumbent on us to make the migration path boring before we ask every team to adopt it.",
+    "date": "2026-07-21",
+    "tags": [
+      "leadership",
+      "responsibility",
+      "communication"
+    ]
+  },
+  {
+    "word": "disinterested",
+    "pronunciation": "dis-IN-truh-stid",
+    "ipa": "dɪsˈɪntrəstɪd",
+    "soundsLike": "Starts like \"diss,\" then the stressed part sounds like \"interest\" with the emphasis on \"IN,\" and it ends like \"stid\" in \"twisted.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Impartial and not influenced by a personal stake in the outcome.",
+    "origin": "Built from dis- plus interested; the older sense meant \"free from self-interest.\"",
+    "nuance": "People often misuse it to mean uninterested or bored. Disinterested means unbiased, which makes it especially useful when you want a fair read from someone outside the fight.",
+    "example": "We need a disinterested read on this plan from someone who does not own the roadmap.",
+    "date": "2026-07-21",
+    "tags": [
+      "judgment",
+      "rhetoric",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "pretextual",
+    "pronunciation": "pree-TEKS-choo-uhl",
+    "ipa": "priˈtɛkstʃuəl",
+    "soundsLike": "Starts like \"pre,\" the stressed part sounds like \"text,\" and it ends like \"chew-uhl.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Offered as a stated reason, but really serving as a cover for a different motive.",
+    "origin": "From pretext, via Latin praetextus, \"pretext\" or \"outward show.\"",
+    "nuance": "Best when the official explanation feels convenient but not genuine. It is sharper than saying an excuse is weak, because it implies the reason may be a mask rather than the real cause.",
+    "example": "If the budget freeze becomes a pretextual excuse for every delay, we will stop learning anything useful.",
+    "date": "2026-07-21",
+    "tags": [
+      "management",
+      "analysis",
+      "organizational-dynamics"
+    ]
   }
 ]
