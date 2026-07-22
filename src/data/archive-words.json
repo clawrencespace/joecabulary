@@ -3046,5 +3046,73 @@
       "analysis",
       "organizational-dynamics"
     ]
+  },
+  {
+    "word": "probative",
+    "pronunciation": "PRO-buh-tiv",
+    "ipa": "ˈproʊbətɪv",
+    "soundsLike": "Starts like \"probe\" and ends like \"positive\" without the \"si.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Tending to prove something or provide real evidentiary weight.",
+    "origin": "From Latin probare, \"to test\" or \"prove.\"",
+    "nuance": "Use it for evidence that actually helps establish a point, not just information that is related or interesting. Something can be relevant without being very probative.",
+    "example": "A few anecdotes are interesting, but they are not very probative if we are trying to understand the system-wide impact.",
+    "date": "2026-07-22",
+    "tags": [
+      "analysis",
+      "evidence",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "jurisdictional",
+    "pronunciation": "joor-is-DIK-shuh-nuhl",
+    "ipa": "ˌdʒʊrɪsˈdɪkʃənəl",
+    "soundsLike": "Starts like \"jury,\" the stressed middle sounds like \"diction,\" and it ends like \"uhl-null.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to the official scope of authority, control, or decision rights.",
+    "origin": "From Latin juris dictio, literally \"speaking of the law.\"",
+    "nuance": "It is useful beyond legal contexts when a question is really about who owns the call. It is sharper than saying something is organizational or procedural because it points to authority boundaries.",
+    "example": "That is not a tooling debate so much as a jurisdictional one about which team gets to set the standard.",
+    "date": "2026-07-22",
+    "tags": [
+      "leadership",
+      "governance",
+      "org-design"
+    ]
+  },
+  {
+    "word": "performative",
+    "pronunciation": "per-FOR-muh-tiv",
+    "ipa": "pərˈfɔrmətɪv",
+    "soundsLike": "Starts like \"perform,\" with the stress on \"FOR,\" and ends like \"uh-tiv.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Done mainly as a display or signal rather than for substantive effect.",
+    "origin": "From perform, from Old French parfornir, \"to carry out\"; the modern critical sense grew from language and cultural theory.",
+    "nuance": "People often use it loosely for anything public-facing. The sharper meaning is that the act is more about being seen than about changing reality.",
+    "example": "If the postmortem action items are mostly performative, people will notice fast and stop taking the process seriously.",
+    "date": "2026-07-22",
+    "tags": [
+      "culture",
+      "rhetoric",
+      "management"
+    ]
+  },
+  {
+    "word": "severable",
+    "pronunciation": "SEV-er-uh-buhl",
+    "ipa": "ˈsɛvərəbəl",
+    "soundsLike": "Starts like \"several\" without the last \"l\" sound, then ends like \"able.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being separated without breaking the rest of the whole.",
+    "origin": "From Latin severare, \"to separate\" or \"set apart.\"",
+    "nuance": "Useful in contracts, architecture, and strategy when one piece can be removed cleanly while the rest still stands. It is more precise than just saying something is modular or optional.",
+    "example": "We should design the reporting layer so it is severable from the core workflow if the requirements keep shifting.",
+    "date": "2026-07-22",
+    "tags": [
+      "architecture",
+      "strategy",
+      "contracts"
+    ]
   }
 ]
