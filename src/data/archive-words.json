@@ -3114,5 +3114,73 @@
       "strategy",
       "contracts"
     ]
+  },
+  {
+    "word": "prerogative",
+    "pronunciation": "pri-ROG-uh-tiv",
+    "ipa": "prɪˈrɑɡətɪv",
+    "soundsLike": "Starts like \"pre,\" the middle rhymes with \"log,\" and it ends like \"uh-tiv.\"",
+    "partOfSpeech": "noun",
+    "definition": "A right or authority reserved to a particular person, role, or group.",
+    "origin": "From Latin praerogativa, originally referring to a tribe with the privilege of voting first.",
+    "nuance": "Use it when the issue is not just influence but legitimate decision rights. It is stronger and narrower than preference or discretion.",
+    "example": "It is the product lead's prerogative to make the final call once the tradeoffs are clear.",
+    "date": "2026-07-23",
+    "tags": [
+      "leadership",
+      "governance",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "colorable",
+    "pronunciation": "KUL-er-uh-buhl",
+    "ipa": "ˈkʌlərəbəl",
+    "soundsLike": "Starts like \"color\" and ends like \"able.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Appearing valid or plausible on the surface, even if the underlying case is weak.",
+    "origin": "From color in the older sense of an outward appearance or pretext, from Latin color.",
+    "nuance": "Useful for claims, arguments, or excuses that are not absurd but do not necessarily hold up under scrutiny. It is sharper than merely saying something is plausible.",
+    "example": "They have a colorable argument for the exception, but I do not think it survives a closer look.",
+    "date": "2026-07-23",
+    "tags": [
+      "rhetoric",
+      "analysis",
+      "argumentation"
+    ]
+  },
+  {
+    "word": "defeasible",
+    "pronunciation": "di-FEE-zuh-buhl",
+    "ipa": "dɪˈfizəbəl",
+    "soundsLike": "Starts like \"defeat\" without the \"t,\" and ends like \"feasible\" without the first syllable.",
+    "partOfSpeech": "adjective",
+    "definition": "Valid or justified for now, but capable of being overturned by stronger evidence or reasoning.",
+    "origin": "From Anglo-French defeter and Latin dis plus facere, carrying the sense of undoing or nullifying.",
+    "nuance": "This is a great word for conclusions you can act on while still leaving room for revision. It is more precise than tentative because it suggests the claim currently stands unless rebutted.",
+    "example": "My working view is that the outage was vendor-induced, but that is a defeasible conclusion until we finish the trace review.",
+    "date": "2026-07-23",
+    "tags": [
+      "reasoning",
+      "evidence",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "endemic",
+    "pronunciation": "en-DEM-ik",
+    "ipa": "ɛnˈdɛmɪk",
+    "soundsLike": "Starts like \"end,\" the middle sounds like \"them,\" and it ends like \"ick.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Regularly present within a particular environment, system, or group.",
+    "origin": "From Greek endemos, meaning \"native to a people or place.\"",
+    "nuance": "People often use it as a stronger version of common. The better use is for something that is persistent and built into the local conditions, not just frequent.",
+    "example": "If handoffs keep failing across teams, that is not a one-off bug but an endemic coordination problem.",
+    "date": "2026-07-23",
+    "tags": [
+      "systems",
+      "culture",
+      "diagnosis"
+    ]
   }
 ]
