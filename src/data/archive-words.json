@@ -3182,5 +3182,73 @@
       "culture",
       "diagnosis"
     ]
+  },
+  {
+    "word": "operationalize",
+    "pronunciation": "op-er-AY-shuh-nuh-lize",
+    "ipa": "ˌɑpərəˈʃeɪʃənəˌlaɪz",
+    "soundsLike": "Starts like \"operation,\" then ends like \"lies.\"",
+    "partOfSpeech": "verb",
+    "definition": "To turn an idea, goal, or policy into concrete steps, metrics, and working practice.",
+    "origin": "Built from operational plus -ize, ultimately from Latin operari, \"to work.\"",
+    "nuance": "Best when the gap is between agreement and execution. It is more specific than implement, though it can sound like corporate fog when plain \"do\" would be clearer.",
+    "example": "We agree on the principle; now we need to operationalize it in the roadmap and the review cadence.",
+    "date": "2026-07-24",
+    "tags": [
+      "execution",
+      "strategy",
+      "management"
+    ]
+  },
+  {
+    "word": "underdetermined",
+    "pronunciation": "un-der-di-TER-mind",
+    "ipa": "ˌʌndərdɪˈtɝmaɪnd",
+    "soundsLike": "Starts with \"under,\" then sounds like \"determined\" without the final \"d.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Not fixed to one clear conclusion because the available evidence or constraints leave multiple plausible answers.",
+    "origin": "From under- plus determine; it became prominent in philosophy and science for cases where facts do not force a single theory.",
+    "nuance": "Useful when the issue is not just uncertainty but insufficient basis for choosing uniquely. People sometimes use it when they merely mean complicated.",
+    "example": "From the dashboard alone, the retention dip is underdetermined; three different causes still fit the data.",
+    "date": "2026-07-24",
+    "tags": [
+      "analysis",
+      "evidence",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "modality",
+    "pronunciation": "moh-DAL-uh-tee",
+    "ipa": "moʊˈdæləti",
+    "soundsLike": "Starts like \"mode,\" then rhymes the middle with \"salary\" minus the \"r.\"",
+    "partOfSpeech": "noun",
+    "definition": "A particular mode, channel, or way something is expressed, delivered, or experienced.",
+    "origin": "From Latin modus, \"measure\" or \"manner,\" through later scholarly use meaning a mode or form.",
+    "nuance": "Helpful when medium matters, like text versus voice or policy versus practice. It is more precise than format and less vague than mode in technical contexts.",
+    "example": "Email is the wrong modality for this conversation; we should handle it live in the staff meeting.",
+    "date": "2026-07-24",
+    "tags": [
+      "communication",
+      "analysis",
+      "design"
+    ]
+  },
+  {
+    "word": "protean",
+    "pronunciation": "pro-TEE-un",
+    "ipa": "ˈproʊˌtiən",
+    "soundsLike": "Starts like \"protein\" but ends with \"ee-un\" instead of \"een.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Readily changing form or adapting to different situations.",
+    "origin": "From Proteus, the shape-shifting sea god in Greek mythology.",
+    "nuance": "Use it for things that keep changing shape, not just for people who are versatile. Depending on context, it can imply either creative adaptability or slippery instability.",
+    "example": "The market is so protean right now that a rigid annual plan will age badly by October.",
+    "date": "2026-07-24",
+    "tags": [
+      "change",
+      "strategy",
+      "adaptability"
+    ]
   }
 ]
