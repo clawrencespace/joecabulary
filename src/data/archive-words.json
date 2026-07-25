@@ -3250,5 +3250,73 @@
       "strategy",
       "adaptability"
     ]
+  },
+  {
+    "word": "capacious",
+    "pronunciation": "kuh-PAY-shus",
+    "ipa": "kəˈpeɪʃəs",
+    "soundsLike": "Starts like \"capacity\" and ends like \"spacious.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Broad, roomy, or inclusive enough to hold a lot, whether physically or conceptually.",
+    "origin": "From Latin capax, meaning \"able to hold much,\" from capere, \"to take or hold.\"",
+    "nuance": "Useful for arguments, systems, or strategies that need real range rather than just size. It is sharper than broad because it suggests enough room to accommodate complexity without collapsing it.",
+    "example": "We need a more capacious view of the platform strategy than just next quarter's revenue targets.",
+    "date": "2026-07-25",
+    "tags": [
+      "strategy",
+      "analysis",
+      "communication"
+    ]
+  },
+  {
+    "word": "prophylactic",
+    "pronunciation": "pro-fuh-LAK-tik",
+    "ipa": "ˌproʊfəˈlæktɪk",
+    "soundsLike": "Starts like \"profile\" without the \"ile,\" and rhymes the stressed part with \"tactic.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Intended to prevent a problem before it happens.",
+    "origin": "From Greek prophylaktikos, \"guarding beforehand,\" from pro, \"before,\" plus phylassein, \"to guard.\"",
+    "nuance": "Often used in medicine, but it works well for controls, reviews, and policies designed to stop predictable failures early. It is more precise than proactive when the emphasis is specifically preventive.",
+    "example": "The design review is not bureaucracy; it is a prophylactic step against expensive rework later.",
+    "date": "2026-07-25",
+    "tags": [
+      "risk",
+      "process",
+      "management"
+    ]
+  },
+  {
+    "word": "sclerotic",
+    "pronunciation": "skluh-ROT-ik",
+    "ipa": "skləˈrɑtɪk",
+    "soundsLike": "Starts like \"sclera,\" and the stressed middle sounds like \"rot.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Rigid, hardened, and slow to adapt.",
+    "origin": "From Greek skleros, meaning \"hard.\" It came into English through medical language before broadening into institutional and political use.",
+    "nuance": "Best for systems, organizations, or habits that have become stiff from accumulated layers, not merely slow or large. It suggests hardening over time, not just temporary inertia.",
+    "example": "The approval path has become so sclerotic that even obvious fixes take three meetings and a memo.",
+    "date": "2026-07-25",
+    "tags": [
+      "organizations",
+      "change",
+      "diagnosis"
+    ]
+  },
+  {
+    "word": "animating",
+    "pronunciation": "AN-uh-may-ting",
+    "ipa": "ˈænəˌmeɪtɪŋ",
+    "soundsLike": "Starts like \"animal,\" then ends like \"mating\" with a soft middle.",
+    "partOfSpeech": "adjective",
+    "definition": "Providing the underlying energy, motive, or driving force.",
+    "origin": "From Latin animare, \"to give life to,\" from anima, \"breath\" or \"spirit.\"",
+    "nuance": "Most useful in phrases like animating idea, animating question, or animating principle. It is stronger than motivating when the force is shaping the whole direction rather than just nudging effort.",
+    "example": "The animating question behind the reorg should be how we reduce coordination drag, not who gets which box on the chart.",
+    "date": "2026-07-25",
+    "tags": [
+      "leadership",
+      "rhetoric",
+      "strategy"
+    ]
   }
 ]
