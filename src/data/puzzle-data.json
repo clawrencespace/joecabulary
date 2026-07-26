@@ -403,5 +403,78 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-07-26",
+    "title": "Diagnostic Effects",
+    "eyebrow": "Sunday No. 006 · Live",
+    "date": "July 26, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CONSTITUTIVE",
+        "clue": "Helping form the essential nature of something, not just accompanying it",
+        "row": 0,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "DIAGNOSTIC",
+        "clue": "Useful for identifying the nature or source of a problem",
+        "row": 0,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "AMELIORATE",
+        "clue": "To make a bad situation better or more tolerable",
+        "row": 1,
+        "col": 9,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "OPERATIONALIZE",
+        "clue": "To turn an idea, goal, or policy into concrete steps, metrics, and working practice",
+        "row": 1,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "PREPONDERANCE",
+        "clue": "The greater weight or majority of something, especially evidence or influence",
+        "row": 1,
+        "col": 14,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "UNDERDETERMINED",
+        "clue": "Not fixed to one clear conclusion because the available evidence or constraints leave multiple plausible answers",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "answer": "PROPHYLACTIC",
+        "clue": "Intended to prevent a problem before it happens",
+        "row": 12,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "DISINTERESTED",
+        "clue": "Impartial and not influenced by a personal stake in the outcome",
+        "row": 14,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]

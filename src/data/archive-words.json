@@ -3318,5 +3318,73 @@
       "rhetoric",
       "strategy"
     ]
+  },
+  {
+    "word": "exigent",
+    "pronunciation": "EK-suh-junt",
+    "ipa": "ˈɛksədʒənt",
+    "soundsLike": "Starts like \"exit\" with a soft j sound in the middle, then ends like \"urgent\" without the r.",
+    "partOfSpeech": "adjective",
+    "definition": "Demanding immediate attention because the circumstances are pressing.",
+    "origin": "From Latin exigere, \"to drive out or demand,\" which also gives us exact and exigency.",
+    "nuance": "Stronger and more specific than urgent because it points to the pressure created by the situation itself, not just the speaker's intensity.",
+    "example": "This is not a nice-to-have cleanup; the security issue is exigent and we need to treat it that way today.",
+    "date": "2026-07-26",
+    "tags": [
+      "risk",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "preponderance",
+    "pronunciation": "pri-PON-duh-runs",
+    "ipa": "prɪˈpɑndərəns",
+    "soundsLike": "Starts like \"pre\" plus \"ponder,\" then ends like \"runs.\"",
+    "partOfSpeech": "noun",
+    "definition": "The greater weight or majority of something, especially evidence or influence.",
+    "origin": "From Latin praeponderare, \"to weigh more,\" from prae, \"before,\" plus pondus, \"weight.\"",
+    "nuance": "Useful when the case is strongest because the balance tilts one way, not because every single fact agrees. It is often cleaner than saying most when the emphasis is on weight, not count.",
+    "example": "The preponderance of the evidence says the migration pain is coming from process drift, not the new vendor.",
+    "date": "2026-07-26",
+    "tags": [
+      "analysis",
+      "evidence",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "ameliorate",
+    "pronunciation": "uh-MEEL-yuh-rayt",
+    "ipa": "əˈmilyəˌreɪt",
+    "soundsLike": "Starts with \"a meal,\" then ends like \"rate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To make a bad situation better or more tolerable.",
+    "origin": "From Late Latin meliorare, \"to improve,\" from melior, \"better.\"",
+    "nuance": "Best when the fix meaningfully improves a problem without fully solving it. People often misuse it as a fancy synonym for solve, but it usually implies partial relief rather than total resolution.",
+    "example": "The runbook will not eliminate every incident, but it should materially ameliorate the on-call chaos.",
+    "date": "2026-07-26",
+    "tags": [
+      "operations",
+      "management",
+      "problem-solving"
+    ]
+  },
+  {
+    "word": "tendentious",
+    "pronunciation": "ten-DEN-shus",
+    "ipa": "tɛnˈdɛnʃəs",
+    "soundsLike": "Rhymes the middle with \"attention,\" and ends like \"precious\" without the pre.",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing or advancing a particular viewpoint in a way that feels slanted or agenda-driven.",
+    "origin": "From Latin tendere, \"to stretch or aim,\" through French and German forms meaning \"having a tendency.\"",
+    "nuance": "More pointed than biased because it suggests the framing is actively steering the audience toward a conclusion. It fits writing, decks, and narratives more naturally than people.",
+    "example": "That summary is a little tendentious; it highlights the misses and barely mentions the dependencies that drove them.",
+    "date": "2026-07-26",
+    "tags": [
+      "communication",
+      "analysis",
+      "judgment"
+    ]
   }
 ]
