@@ -3386,5 +3386,73 @@
       "analysis",
       "judgment"
     ]
+  },
+  {
+    "word": "substantiate",
+    "pronunciation": "sub-STAN-shee-ayt",
+    "ipa": "səbˈstænʃiˌeɪt",
+    "soundsLike": "Starts like \"sub,\" then \"stan\" as in \"stand,\" and ends like the \"shee-ayt\" in \"differentiate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To support a claim with evidence or concrete facts.",
+    "origin": "From Late Latin substantiare, \"to give substance to,\" from substantia, \"substance.\"",
+    "nuance": "Use it when you need to back something up, not just repeat it more confidently. People sometimes use it as if it means prove beyond doubt, but it more often means provide enough grounding to make the claim credible.",
+    "example": "If we want to escalate this, we need to substantiate the pattern with a few weeks of clean incident data.",
+    "date": "2026-07-27",
+    "tags": [
+      "evidence",
+      "leadership",
+      "analysis"
+    ]
+  },
+  {
+    "word": "circumscribe",
+    "pronunciation": "SER-kum-skrybe",
+    "ipa": "ˈsərkəmˌskraɪb",
+    "soundsLike": "Starts like \"circle,\" then ends like \"scribe.\"",
+    "partOfSpeech": "verb",
+    "definition": "To limit something deliberately, or to define its boundaries precisely.",
+    "origin": "From Latin circumscribere, \"to draw around,\" from circum, \"around,\" plus scribere, \"to write.\"",
+    "nuance": "Useful when the point is controlled scope, not total prevention. It can mean either set boundaries around a problem or describe the exact boundaries of an issue, so context matters.",
+    "example": "Let’s circumscribe the first release to the workflows we actually understand well enough to support.",
+    "date": "2026-07-27",
+    "tags": [
+      "strategy",
+      "scope",
+      "operations"
+    ]
+  },
+  {
+    "word": "dispassionate",
+    "pronunciation": "dis-PASH-uh-nuht",
+    "ipa": "dɪsˈpæʃənət",
+    "soundsLike": "Starts like \"this\" without the th, then sounds like \"passion,\" and ends like \"it.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Free from emotional bias; calm and objectively reasoned.",
+    "origin": "Built from dis- plus passionate, originally meaning \"not acted on by passion.\"",
+    "nuance": "It does not mean cold, uncaring, or disengaged. The best use is for judgment that stays fair even when the stakes are high.",
+    "example": "We need a dispassionate read on whether this is really a product issue or just an ugly but isolated customer edge case.",
+    "date": "2026-07-27",
+    "tags": [
+      "judgment",
+      "communication",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "oblique",
+    "pronunciation": "oh-BLEEK",
+    "ipa": "oʊˈblik",
+    "soundsLike": "Rhymes with \"bleak\" and starts with \"oh.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Indirect, angled, or not stated in a straightforward way.",
+    "origin": "From Latin obliquus, \"slanting or sideways.\"",
+    "nuance": "Best when something is hinted at rather than said plainly. It is stronger than vague because it suggests the speaker is approaching the point sideways, intentionally or stylistically.",
+    "example": "He made an oblique reference to budget pressure, but he never actually said the headcount plan was changing.",
+    "date": "2026-07-27",
+    "tags": [
+      "rhetoric",
+      "communication",
+      "analysis"
+    ]
   }
 ]
