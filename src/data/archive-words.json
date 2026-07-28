@@ -3454,5 +3454,73 @@
       "communication",
       "analysis"
     ]
+  },
+  {
+    "word": "corroborate",
+    "pronunciation": "kuh-ROB-uh-rayt",
+    "ipa": "kəˈrɑbəˌreɪt",
+    "soundsLike": "Starts like \"ca-\" in \"correct,\" then \"ROB,\" and ends like \"rate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To confirm or support something with additional evidence or independent agreement.",
+    "origin": "From Latin corroborare, \"to strengthen,\" built from com-, \"together,\" plus roborare, \"to strengthen.\"",
+    "nuance": "Use it when one source backs up another, not when someone is merely repeating the same claim. It suggests added support, not absolute proof.",
+    "example": "Before we call this a trend, I want a second data source to corroborate what the dashboard is showing.",
+    "date": "2026-07-28",
+    "tags": [
+      "evidence",
+      "analysis",
+      "leadership"
+    ]
+  },
+  {
+    "word": "nominal",
+    "pronunciation": "NOM-uh-nuhl",
+    "ipa": "ˈnɑmənəl",
+    "soundsLike": "Sounds like \"nom\" plus the end of \"final.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Existing in name, stated amount, or formal designation more than in substantial effect.",
+    "origin": "From Latin nominalis, \"pertaining to a name,\" from nomen, \"name.\"",
+    "nuance": "It often means small or only formal, depending on context. A nominal fee is tiny; nominal ownership or control may exist on paper but not in practice.",
+    "example": "The budget increase is nominal once you account for the extra vendor spend we absorbed this quarter.",
+    "date": "2026-07-28",
+    "tags": [
+      "finance",
+      "precision",
+      "strategy"
+    ]
+  },
+  {
+    "word": "idempotent",
+    "pronunciation": "eye-dem-POTE-uhnt",
+    "ipa": "ˌaɪdəmˈpoʊtənt",
+    "soundsLike": "Starts like \"item\" with an \"eye\" sound up front, then rhymes with \"potent.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Producing the same result even if applied or executed more than once.",
+    "origin": "From French idempotent, built from Latin idem, \"same,\" plus potent, \"having power.\"",
+    "nuance": "In engineering, it means repeat-safe in outcome, not necessarily that nothing happened under the hood. A retry can still perform work as long as it does not change the final state again.",
+    "example": "Make the backfill idempotent so we can rerun it without worrying about duplicate writes.",
+    "date": "2026-07-28",
+    "tags": [
+      "engineering",
+      "systems",
+      "reliability"
+    ]
+  },
+  {
+    "word": "deliberative",
+    "pronunciation": "dih-LIB-er-uh-tiv",
+    "ipa": "dɪˈlɪbərətɪv",
+    "soundsLike": "Starts like \"deliver\" without the v, then ends like \"uh-tiv.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Characterized by careful thought, discussion, and considered judgment.",
+    "origin": "From Latin deliberare, \"to weigh carefully or consider.\"",
+    "nuance": "It implies thoughtful process, not drift or indecision. A deliberative team can move fast once it has actually framed the choice well.",
+    "example": "We should be deliberative about the reorg, but that doesn’t mean letting it drag for six weeks.",
+    "date": "2026-07-28",
+    "tags": [
+      "decision-making",
+      "leadership",
+      "communication"
+    ]
   }
 ]
