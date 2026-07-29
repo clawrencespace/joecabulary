@@ -3522,5 +3522,73 @@
       "leadership",
       "communication"
     ]
+  },
+  {
+    "word": "cursory",
+    "pronunciation": "KUR-suh-ree",
+    "ipa": "ˈkɝsəri",
+    "soundsLike": "Sounds like \"cursor\" with an \"ee\" ending.",
+    "partOfSpeech": "adjective",
+    "definition": "Done quickly and with too little attention to detail.",
+    "origin": "From Latin currere, \"to run,\" via a sense of running over something quickly.",
+    "nuance": "Use it when something is not just brief but insufficiently thorough. It is often misused as if it simply meant efficient or concise.",
+    "example": "The review felt cursory; we touched the symptoms but never really got to root cause.",
+    "date": "2026-07-29",
+    "tags": [
+      "analysis",
+      "leadership",
+      "feedback"
+    ]
+  },
+  {
+    "word": "derivative",
+    "pronunciation": "duh-RIV-uh-tiv",
+    "ipa": "dɪˈrɪvətɪv",
+    "soundsLike": "Starts like \"deliver\" without the \"liv,\" then \"RIV,\" and ends like \"uh-tiv.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Based heavily on something else and not notably original.",
+    "origin": "From Latin derivare, \"to draw off or derive,\" from de- plus rivus, \"stream.\"",
+    "nuance": "It can be neutral in technical contexts, but in creative or strategic talk it usually carries a mild critique of imitation rather than inspiration.",
+    "example": "The roadmap idea is directionally fine, but the positioning still feels derivative of what every AI startup said last quarter.",
+    "date": "2026-07-29",
+    "tags": [
+      "strategy",
+      "creativity",
+      "critique"
+    ]
+  },
+  {
+    "word": "adversarial",
+    "pronunciation": "ad-vuh-SAIR-ee-uhl",
+    "ipa": "ˌædvɚˈsɛriəl",
+    "soundsLike": "Starts like \"adverse,\" then adds \"airy-uhl\" at the end.",
+    "partOfSpeech": "adjective",
+    "definition": "Characterized by opposition, contest, or a win-lose posture.",
+    "origin": "From Latin adversarius, \"opponent or rival,\" from adversus, \"turned against.\"",
+    "nuance": "It describes a relationship or process built around opposition, not just disagreement. People often overuse it for any tense conversation, even when the parties still share goals.",
+    "example": "I want the vendor discussion to be rigorous, not adversarial, because we still need a workable partnership on the other side.",
+    "date": "2026-07-29",
+    "tags": [
+      "negotiation",
+      "leadership",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "prefigure",
+    "pronunciation": "pree-FIG-yer",
+    "ipa": "priˈfɪɡjɚ",
+    "soundsLike": "Starts with \"pree\" and then sounds like \"figure.\"",
+    "partOfSpeech": "verb",
+    "definition": "To point ahead to, suggest, or foreshadow something that comes later.",
+    "origin": "From Latin prae-, \"before,\" plus figura, \"shape or form.\"",
+    "nuance": "Use it for early signs that meaningfully anticipate a later pattern. It is stronger than merely accompany but lighter than guarantee.",
+    "example": "That spike in support tickets may prefigure a bigger onboarding issue once this reaches the long tail of customers.",
+    "date": "2026-07-29",
+    "tags": [
+      "signals",
+      "forecasting",
+      "analysis"
+    ]
   }
 ]
