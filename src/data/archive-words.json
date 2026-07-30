@@ -3590,5 +3590,73 @@
       "forecasting",
       "analysis"
     ]
+  },
+  {
+    "word": "fraught",
+    "pronunciation": "FRAWT",
+    "ipa": "frɔt",
+    "soundsLike": "Rhymes with \"brought\" and \"thought.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Full of tension, difficulty, or potential trouble.",
+    "origin": "From Middle English, originally tied to freight or loading; the modern sense shifted toward something burdened or charged.",
+    "nuance": "Use it when a situation carries real strain or risk, not just mild complexity. People sometimes overuse it for anything merely busy or complicated.",
+    "example": "The reorg conversation is a little fraught, so I want the rationale to be crisp before we roll it out.",
+    "date": "2026-07-30",
+    "tags": [
+      "leadership",
+      "risk",
+      "communication"
+    ]
+  },
+  {
+    "word": "dovetail",
+    "pronunciation": "DUV-tayl",
+    "ipa": "ˈdʌvˌteɪl",
+    "soundsLike": "Starts like \"dove\" and ends like \"tail.\"",
+    "partOfSpeech": "verb",
+    "definition": "To fit together neatly or reinforce each other in a natural way.",
+    "origin": "From the dovetail woodworking joint, known for pieces that lock together cleanly.",
+    "nuance": "It suggests an elegant fit between ideas, plans, or efforts, not just rough alignment. It is stronger and more specific than simply saying two things relate.",
+    "example": "That hiring plan dovetails with the platform roadmap better than trying to patch the gap team by team.",
+    "date": "2026-07-30",
+    "tags": [
+      "strategy",
+      "execution",
+      "alignment"
+    ]
+  },
+  {
+    "word": "rescind",
+    "pronunciation": "rih-SIND",
+    "ipa": "rɪˈsɪnd",
+    "soundsLike": "Starts like \"re\" in \"return\" and rhymes with \"pinned\" at the end.",
+    "partOfSpeech": "verb",
+    "definition": "To officially revoke, cancel, or take back a decision or agreement.",
+    "origin": "From Latin rescindere, \"to cut back or annul,\" from re- plus scindere, \"to cut.\"",
+    "nuance": "Use it for formal reversals, especially of policies, offers, or approvals. It is more exact than back off or walk back, which can sound softer or more informal.",
+    "example": "If the dependency risk keeps growing, we should rescind the launch date now instead of pretending it still holds.",
+    "date": "2026-07-30",
+    "tags": [
+      "governance",
+      "decision-making",
+      "operations"
+    ]
+  },
+  {
+    "word": "inure",
+    "pronunciation": "ih-NYOOR",
+    "ipa": "ɪˈnjʊr",
+    "soundsLike": "Starts like \"in\" and ends like \"your,\" with a y sound in the middle.",
+    "partOfSpeech": "verb",
+    "definition": "To accustom someone to something difficult, unpleasant, or demanding.",
+    "origin": "From Latin in usu, \"in use,\" which evolved through Old French and English toward the sense of becoming used to something.",
+    "nuance": "It usually implies hardening through repeated exposure, often at some human cost. It is not just familiarity; it often suggests blunted sensitivity or increased tolerance.",
+    "example": "You can get inured to low-grade process pain and stop noticing how much drag it adds to the week.",
+    "date": "2026-07-30",
+    "tags": [
+      "psychology",
+      "workplace",
+      "analysis"
+    ]
   }
 ]
