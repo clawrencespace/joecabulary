@@ -3658,5 +3658,73 @@
       "workplace",
       "analysis"
     ]
+  },
+  {
+    "word": "consequential",
+    "pronunciation": "kon-suh-KWEN-shuhl",
+    "ipa": "ˌkɑnsəˈkwɛnʃəl",
+    "soundsLike": "Starts like \"conference\" and ends like \"sequential.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Important because it carries meaningful effects or downstream implications.",
+    "origin": "From Latin sequi, \"to follow\"; it came into English through consequence, pointing to what follows from something.",
+    "nuance": "It implies real practical impact, not just abstract importance. People sometimes use it as a puffed-up synonym for big when the actual consequences are minor.",
+    "example": "That looks like a small contract tweak, but it's consequential if it changes who owns the support burden.",
+    "date": "2026-07-31",
+    "tags": [
+      "strategy",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "expedient",
+    "pronunciation": "ik-SPEE-dee-uhnt",
+    "ipa": "ɪkˈspidiənt",
+    "soundsLike": "Starts like \"ick,\" then \"speedy,\" then ends like \"ant.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Convenient or useful for the immediate situation, especially in a way that may sacrifice principle or long-term quality.",
+    "origin": "From Latin expedire, \"to set free or make ready,\" which evolved into the sense of what gets things moving quickly.",
+    "nuance": "It often carries a faint warning: the choice works now, but may be shallow, political, or debt-inducing. It is not the same as wise or durable.",
+    "example": "It might be expedient to patch around that dependency, but I don't want to normalize a brittle workaround.",
+    "date": "2026-07-31",
+    "tags": [
+      "execution",
+      "tradeoffs",
+      "governance"
+    ]
+  },
+  {
+    "word": "deterministic",
+    "pronunciation": "dih-TUR-muh-NIS-tik",
+    "ipa": "dɪˌtɝməˈnɪstɪk",
+    "soundsLike": "Starts like \"determine\" and ends like \"artistic\" without the ar.",
+    "partOfSpeech": "adjective",
+    "definition": "Producing the same result every time when the same inputs and conditions are used.",
+    "origin": "Built from determine, from Latin determinare, \"to set bounds or fix.\"",
+    "nuance": "In technical and analytical contexts, it is stronger than predictable. It means the outcome is fixed by the inputs, not just likely or usually consistent.",
+    "example": "I want that migration check to be deterministic so we stop debating whether the failure was just timing noise.",
+    "date": "2026-07-31",
+    "tags": [
+      "engineering",
+      "systems",
+      "analysis"
+    ]
+  },
+  {
+    "word": "pathological",
+    "pronunciation": "path-uh-LAH-jih-kul",
+    "ipa": "ˌpæθəˈlɑdʒɪkəl",
+    "soundsLike": "Starts like \"path,\" then \"uh-LODGE,\" and ends like \"ical\" in \"logical.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Abnormally bad, extreme, or revealing of a deeper flaw.",
+    "origin": "From Greek pathos, \"suffering or disease,\" through pathology; the broader figurative sense spread from medicine into analysis and engineering.",
+    "nuance": "Outside medicine, it is useful for edge cases or behaviors that expose structural weakness. It should signal more than merely annoying or uncommon.",
+    "example": "The normal load is fine; the pathological case is when one customer can monopolize the queue for an hour.",
+    "date": "2026-07-31",
+    "tags": [
+      "engineering",
+      "risk",
+      "edge-cases"
+    ]
   }
 ]
