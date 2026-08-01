@@ -3726,5 +3726,73 @@
       "risk",
       "edge-cases"
     ]
+  },
+  {
+    "word": "sanguine",
+    "pronunciation": "SANG-gwin",
+    "ipa": "ˈsæŋɡwɪn",
+    "soundsLike": "Starts like \"sang\" and ends like \"twin\" without the t.",
+    "partOfSpeech": "adjective",
+    "definition": "Confidently optimistic, especially in a way that stays calm under uncertainty.",
+    "origin": "From Latin sanguis, \"blood\"; in medieval temperament theory it described a cheerful, hopeful disposition.",
+    "nuance": "It suggests grounded optimism, not blind cheerleading. People misuse it when they really mean certain or unconcerned.",
+    "example": "I’m still sanguine about the roadmap, but only if we cut the nice-to-haves before they harden into commitments.",
+    "date": "2026-08-01",
+    "tags": [
+      "leadership",
+      "judgment",
+      "tone"
+    ]
+  },
+  {
+    "word": "discretionary",
+    "pronunciation": "dih-SKRESH-uh-nair-ee",
+    "ipa": "dɪˈskrɛʃəˌnɛri",
+    "soundsLike": "Starts like \"discretion\" and ends like \"airy.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Left to personal judgment rather than strictly required by rule or necessity.",
+    "origin": "From discretion, via Latin discretio, tied to discernment and the ability to judge wisely.",
+    "nuance": "Discretionary does not mean trivial or consequence-free; it means someone has latitude. A discretionary choice can still carry real strategic weight.",
+    "example": "That spend is technically discretionary, but if we cut it too bluntly we’ll feel it in recruiting and morale.",
+    "date": "2026-08-01",
+    "tags": [
+      "management",
+      "governance",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "inflection",
+    "pronunciation": "in-FLEK-shun",
+    "ipa": "ɪnˈflɛkʃən",
+    "soundsLike": "Starts like \"in,\" has the \"flex\" sound in the middle, and ends like \"shun.\"",
+    "partOfSpeech": "noun",
+    "definition": "A noticeable change in direction, tone, or pattern.",
+    "origin": "From Latin inflectere, \"to bend,\" which is why the word still implies a meaningful turn.",
+    "nuance": "It is stronger than a minor tweak but subtler than a full reversal. In business talk, it works well for moments when the trajectory clearly shifts.",
+    "example": "There was a real inflection in the conversation once we stopped debating outputs and started talking about customer trust.",
+    "date": "2026-08-01",
+    "tags": [
+      "rhetoric",
+      "strategy",
+      "analysis"
+    ]
+  },
+  {
+    "word": "nexus",
+    "pronunciation": "NEK-suhs",
+    "ipa": "ˈnɛksəs",
+    "soundsLike": "Starts like \"neck\" and ends like \"cuss\" without the hard c.",
+    "partOfSpeech": "noun",
+    "definition": "The central link or connection between related things.",
+    "origin": "From Latin nectere, \"to bind or tie,\" through nexus, meaning a bond or linkage.",
+    "nuance": "Use it when the connection itself matters, not just when two things happen to sit near each other. People sometimes use it as a vague stand-in for area or topic, which weakens it.",
+    "example": "The nexus between support load and churn is clearer than ever once you isolate the accounts stuck in long unresolved loops.",
+    "date": "2026-08-01",
+    "tags": [
+      "systems",
+      "causality",
+      "communication"
+    ]
   }
 ]
