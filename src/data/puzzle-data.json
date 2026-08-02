@@ -476,5 +476,70 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-08-02",
+    "title": "Expedient Effects",
+    "eyebrow": "Sunday No. 007 · Live",
+    "date": "August 2, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CONSEQUENTIAL",
+        "clue": "Important because it carries meaningful effects or downstream implications",
+        "row": 0,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "DETERMINISTIC",
+        "clue": "Producing the same result every time when the same inputs and conditions are used",
+        "row": 1,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "SUBSTANTIATE",
+        "clue": "To support a claim with evidence or concrete facts",
+        "row": 1,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "DELIBERATIVE",
+        "clue": "Characterized by careful thought, discussion, and considered judgment",
+        "row": 1,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "ADVERSARIAL",
+        "clue": "Characterized by opposition, contest, or a win-lose posture",
+        "row": 2,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "EXPEDIENT",
+        "clue": "Convenient or useful for the immediate situation, especially in a way that may sacrifice principle or long-term quality",
+        "row": 3,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "DISCRETIONARY",
+        "clue": "Left to personal judgment rather than strictly required by rule or necessity",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
   }
 ]

@@ -3794,5 +3794,73 @@
       "causality",
       "communication"
     ]
+  },
+  {
+    "word": "elide",
+    "pronunciation": "ih-LYDE",
+    "ipa": "ɪˈlaɪd",
+    "soundsLike": "Starts like \"ill\" and rhymes with \"slide\" without the s.",
+    "partOfSpeech": "verb",
+    "definition": "To leave something out, skip over it, or gloss it too quickly.",
+    "origin": "From Latin elidere, \"to strike out,\" later used for omitting sounds or passages.",
+    "nuance": "It usually implies the omission matters. People sometimes confuse it with allude; elide means omit, not refer indirectly.",
+    "example": "The write-up is directionally right, but it elides the dependency on legal review and makes the timeline look cleaner than it is.",
+    "date": "2026-08-02",
+    "tags": [
+      "communication",
+      "analysis",
+      "editing"
+    ]
+  },
+  {
+    "word": "demur",
+    "pronunciation": "dih-MUR",
+    "ipa": "dɪˈmɝ",
+    "soundsLike": "Starts like \"dim\" with a quick i sound and ends like \"fur.\"",
+    "partOfSpeech": "verb",
+    "definition": "To raise an objection or hesitate because something seems questionable.",
+    "origin": "From Old French demorer, \"to delay or linger,\" which is why the word still carries a sense of holding back.",
+    "nuance": "Demur is milder and more measured than outright refuse. It fits polite resistance, skepticism, or a principled pause.",
+    "example": "I’d demur on calling this a platform problem until we separate the one-off implementation mistakes from the actual shared constraints.",
+    "date": "2026-08-02",
+    "tags": [
+      "judgment",
+      "rhetoric",
+      "leadership"
+    ]
+  },
+  {
+    "word": "elicit",
+    "pronunciation": "ih-LISS-it",
+    "ipa": "ɪˈlɪsɪt",
+    "soundsLike": "Starts like \"ill,\" has the word \"listen\" without the n, and ends with \"it.\"",
+    "partOfSpeech": "verb",
+    "definition": "To draw out a response, insight, or reaction that was already there to be uncovered.",
+    "origin": "From Latin elicere, \"to draw out or lure forth.\"",
+    "nuance": "You elicit something from a person or system; you do not elicit an action by doing it yourself. It is often misused where evoke or solicit would be cleaner.",
+    "example": "That question tends to elicit more honest answers from candidates than asking them to recite their strengths.",
+    "date": "2026-08-02",
+    "tags": [
+      "conversation",
+      "management",
+      "interviewing"
+    ]
+  },
+  {
+    "word": "subsume",
+    "pronunciation": "sub-SOOM",
+    "ipa": "səbˈsum",
+    "soundsLike": "Starts like \"sub\" and rhymes with \"zoom\" with an s.",
+    "partOfSpeech": "verb",
+    "definition": "To include a narrower thing within a larger category or framework.",
+    "origin": "Built from Latin sub-, \"under,\" and sumere, \"to take,\" giving the sense of taking something under a broader heading.",
+    "nuance": "Subsume works when the bigger category genuinely contains the smaller one. It can sound sloppy if you use it to flatten meaningful distinctions.",
+    "example": "I don’t want to subsume trust and safety under generic quality work, because the incentives and failure modes are different.",
+    "date": "2026-08-02",
+    "tags": [
+      "strategy",
+      "classification",
+      "systems"
+    ]
   }
 ]
