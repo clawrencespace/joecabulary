@@ -3862,5 +3862,73 @@
       "classification",
       "systems"
     ]
+  },
+  {
+    "word": "militate",
+    "pronunciation": "MIL-uh-tayt",
+    "ipa": "ˈmɪləˌteɪt",
+    "soundsLike": "Starts like \"mill,\" has a quick \"uh,\" and ends like \"late\" with a t.",
+    "partOfSpeech": "verb",
+    "definition": "To have a strong influence that works against a result or course of action.",
+    "origin": "From Latin militare, \"to serve as a soldier,\" which gave it the sense of acting forcefully in favor of or against something.",
+    "nuance": "Most often appears in the phrase \"militate against.\" It does not mean literally fight; it means the circumstances weigh meaningfully in one direction.",
+    "example": "The integration upside is real, but the support burden and migration risk still militate against doing this in Q4.",
+    "date": "2026-08-03",
+    "tags": [
+      "strategy",
+      "judgment",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "impute",
+    "pronunciation": "im-PYOOT",
+    "ipa": "ɪmˈpjut",
+    "soundsLike": "Starts like \"him\" without the h and rhymes with \"commute\" without the c-m.",
+    "partOfSpeech": "verb",
+    "definition": "To attribute a motive, cause, responsibility, or quality to someone or something.",
+    "origin": "From Latin imputare, \"to reckon, charge, or ascribe.\"",
+    "nuance": "Impute is usually about assigning responsibility or meaning, often with some interpretive risk. People sometimes use it too casually when simple attribute would be less loaded.",
+    "example": "I wouldn’t impute bad intent to the team here when a simpler explanation is that the requirements changed midstream.",
+    "date": "2026-08-03",
+    "tags": [
+      "attribution",
+      "leadership",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "extant",
+    "pronunciation": "ik-STANT",
+    "ipa": "ɪkˈstænt",
+    "soundsLike": "Starts like \"ick\" and ends like \"stand\" without the d.",
+    "partOfSpeech": "adjective",
+    "definition": "Still existing, available, or surviving.",
+    "origin": "From Latin exstare, \"to stand out or exist.\"",
+    "nuance": "Extant is useful when you need to distinguish what currently exists from what is planned, assumed, or already gone. It is more precise than just current.",
+    "example": "Before we invent a new workflow, I want to see the extant process docs and the actual exceptions people are routing around.",
+    "date": "2026-08-03",
+    "tags": [
+      "operations",
+      "analysis",
+      "documentation"
+    ]
+  },
+  {
+    "word": "impugn",
+    "pronunciation": "im-PYOON",
+    "ipa": "ɪmˈpjun",
+    "soundsLike": "Starts like \"him\" without the h and rhymes with \"commune\" without the c-m.",
+    "partOfSpeech": "verb",
+    "definition": "To challenge the truth, integrity, or validity of something.",
+    "origin": "From Latin impugnare, \"to attack or assail.\"",
+    "nuance": "Impugn is stronger than question. It suggests casting serious doubt on a claim, method, or person’s integrity, so it can sound accusatory if used too broadly.",
+    "example": "I’m not trying to impugn the vendor’s competence, but their reliability claims look a lot stronger in the deck than in the incident record.",
+    "date": "2026-08-03",
+    "tags": [
+      "critique",
+      "evidence",
+      "communication"
+    ]
   }
 ]
