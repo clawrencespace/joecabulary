@@ -3930,5 +3930,73 @@
       "evidence",
       "communication"
     ]
+  },
+  {
+    "word": "belie",
+    "pronunciation": "bih-LYE",
+    "ipa": "bɪˈlaɪ",
+    "soundsLike": "Starts like \"bit\" with an l added and rhymes with \"sly.\"",
+    "partOfSpeech": "verb",
+    "definition": "To give a false impression of something, or to contradict what appearances suggest.",
+    "origin": "From Old English belicgan, \"to deceive or betray,\" later narrowing toward misleading appearances.",
+    "nuance": "Belie is often misused as if it meant show or support. In careful usage, it points the other way: the outward signal misleads, or the facts undercut the appearance.",
+    "example": "The calm rollout notes belie how much messy migration work the team had to absorb behind the scenes.",
+    "date": "2026-08-04",
+    "tags": [
+      "perception",
+      "evidence",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "disaggregate",
+    "pronunciation": "dis-AG-rih-gayt",
+    "ipa": "dɪsˈæɡrɪˌɡeɪt",
+    "soundsLike": "Starts like \"dis\" and \"ag,\" then ends like the word \"gate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To separate a whole into smaller components for closer analysis.",
+    "origin": "Built from Latin aggregate, \"to gather together,\" with dis- adding the sense of taking apart.",
+    "nuance": "More precise than just break down when the point is to inspect how the parts behave, not merely to summarize them.",
+    "example": "Before we redraw the roadmap, I want to disaggregate support load by customer tier, product area, and failure mode.",
+    "date": "2026-08-04",
+    "tags": [
+      "analysis",
+      "data",
+      "operations"
+    ]
+  },
+  {
+    "word": "apposite",
+    "pronunciation": "AP-uh-zit",
+    "ipa": "ˈæpəzɪt",
+    "soundsLike": "Starts like \"app,\" then a quick \"uh,\" and ends like \"visit\" without the v.",
+    "partOfSpeech": "adjective",
+    "definition": "Especially apt, well chosen, and directly relevant to the point at hand.",
+    "origin": "From Latin appositus, \"placed near,\" which led to the sense of fitting neatly with something else.",
+    "nuance": "Stronger than relevant. An apposite example or remark does not just relate to the issue; it lands with unusual precision.",
+    "example": "That customer anecdote was apposite because it exposed the exact tradeoff we keep discussing in the abstract.",
+    "date": "2026-08-04",
+    "tags": [
+      "communication",
+      "judgment",
+      "writing"
+    ]
+  },
+  {
+    "word": "fulsome",
+    "pronunciation": "FULL-sum",
+    "ipa": "ˈfʊlsəm",
+    "soundsLike": "Sounds like \"full\" plus \"some.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively lavish, overdone, or insincerely effusive, especially in praise.",
+    "origin": "From Old English fullsum, originally meaning abundant or generous before shifting toward overdone excess.",
+    "nuance": "People often use fulsome to mean merely thorough or comprehensive, but careful usage usually implies praise or language that goes too far.",
+    "example": "The opening paragraph was so fulsome that it made the recommendation sound less credible, not more.",
+    "date": "2026-08-04",
+    "tags": [
+      "tone",
+      "leadership",
+      "rhetoric"
+    ]
   }
 ]
