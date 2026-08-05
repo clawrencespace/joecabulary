@@ -3998,5 +3998,73 @@
       "leadership",
       "rhetoric"
     ]
+  },
+  {
+    "word": "contiguous",
+    "pronunciation": "kun-TIG-yoo-us",
+    "ipa": "kənˈtɪɡjuəs",
+    "soundsLike": "Starts like \"continue\" without the \"nue,\" then ends like \"us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Touching or sharing a common boundary; next to each other in a continuous sequence.",
+    "origin": "From Latin contingere, \"to touch,\" via contiguus, \"bordering on or adjacent.\"",
+    "nuance": "Contiguous is stricter than nearby or related. It usually implies actual contact or uninterrupted sequence, whether in space, data, or time.",
+    "example": "We should keep the onboarding docs contiguous with the setup steps instead of scattering them across three different repos.",
+    "date": "2026-08-05",
+    "tags": [
+      "structure",
+      "systems",
+      "precision"
+    ]
+  },
+  {
+    "word": "parochial",
+    "pronunciation": "puh-ROH-kee-ul",
+    "ipa": "pəˈroʊkiəl",
+    "soundsLike": "Starts like \"puh,\" then \"row,\" and ends a bit like \"key all.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Narrow in outlook, especially because it is limited to a small local or self-interested view.",
+    "origin": "From Greek paroikia, \"sojourning in a district,\" through church parish language before broadening to mean narrowly local.",
+    "nuance": "Often used for thinking that is too inward-looking, not merely small in scale. It critiques perspective more than size.",
+    "example": "If we optimize only for one team's workflow, we're making a parochial decision that the rest of the org will pay for later.",
+    "date": "2026-08-05",
+    "tags": [
+      "strategy",
+      "leadership",
+      "judgment"
+    ]
+  },
+  {
+    "word": "multivalent",
+    "pronunciation": "mul-tih-VAY-lent",
+    "ipa": "ˌmʌltiˈveɪlənt",
+    "soundsLike": "Starts like \"multi,\" then rhymes with the first part of \"valentines.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Having several meanings, effects, or functions at the same time.",
+    "origin": "Built from multi-, \"many,\" and valence, from Latin valentia, \"strength or capacity.\"",
+    "nuance": "Useful when one signal or decision is doing several kinds of work at once. It is broader than ambiguous, which focuses mainly on unclear meaning.",
+    "example": "That announcement was multivalent: it reassured customers, warned competitors, and quietly reset expectations inside the company.",
+    "date": "2026-08-05",
+    "tags": [
+      "communication",
+      "analysis",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "untenable",
+    "pronunciation": "un-TEN-uh-bul",
+    "ipa": "ʌnˈtɛnəbəl",
+    "soundsLike": "Starts like \"un,\" then \"ten,\" and ends like \"a bull\" without the full \"oo\" sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to defend, maintain, or continue successfully.",
+    "origin": "From Latin tenere, \"to hold,\" with un- marking what cannot be held or sustained.",
+    "nuance": "Stronger than flawed or weak. An untenable position has crossed the line from debatable to no longer supportable.",
+    "example": "Once the migration started missing basic reporting requirements, the original timeline became untenable.",
+    "date": "2026-08-05",
+    "tags": [
+      "decision-making",
+      "risk",
+      "argument"
+    ]
   }
 ]
