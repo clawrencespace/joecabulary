@@ -4066,5 +4066,73 @@
       "risk",
       "argument"
     ]
+  },
+  {
+    "word": "perfunctory",
+    "pronunciation": "per-FUNK-tuh-ree",
+    "ipa": "pərˈfʌŋktəri",
+    "soundsLike": "Starts like \"purr,\" has \"funk\" in the middle, and ends like \"tree\" with an extra \"uh.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Done with minimal effort or attention, more out of routine than real engagement.",
+    "origin": "From Latin perfungi, \"to get through or dispatch,\" which fits the idea of doing something just to be done with it.",
+    "nuance": "Perfunctory suggests checking a box without real care. It is stronger than brief or efficient, and often carries a note of disrespect or low seriousness.",
+    "example": "The postmortem felt perfunctory, like we wanted closure faster than we wanted insight.",
+    "date": "2026-08-06",
+    "tags": [
+      "leadership",
+      "feedback",
+      "execution"
+    ]
+  },
+  {
+    "word": "anodyne",
+    "pronunciation": "AN-uh-dyne",
+    "ipa": "ˈænəˌdaɪn",
+    "soundsLike": "Starts like \"Anna\" and ends like \"dine.\"",
+    "partOfSpeech": "adjective",
+    "definition": "So mild, bland, or noncontroversial that it has little force or distinctiveness.",
+    "origin": "From Greek anodyne, \"without pain,\" originally used for pain-relieving remedies before broadening to bland or soothing language.",
+    "nuance": "Often used for statements or ideas that are harmless to the point of being empty. It does not just mean polite; it implies a lack of edge, clarity, or consequence.",
+    "example": "The customer note was so anodyne that it never really acknowledged the severity of the outage.",
+    "date": "2026-08-06",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "tone"
+    ]
+  },
+  {
+    "word": "malleable",
+    "pronunciation": "MAL-ee-uh-bul",
+    "ipa": "ˈmæliəbəl",
+    "soundsLike": "Starts like \"Mally\" and ends a bit like \"able.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be shaped, adapted, or influenced without breaking.",
+    "origin": "From Latin malleus, \"hammer,\" via the idea of metal that can be worked into new forms.",
+    "nuance": "Malleable can be positive when it means flexible and workable, but negative when it implies weakly held principles or easily manipulated judgment.",
+    "example": "The architecture is still malleable enough that we can simplify it before the next round of scale pressure hits.",
+    "date": "2026-08-06",
+    "tags": [
+      "systems",
+      "strategy",
+      "adaptability"
+    ]
+  },
+  {
+    "word": "portend",
+    "pronunciation": "por-TEND",
+    "ipa": "pɔrˈtɛnd",
+    "soundsLike": "Sounds like \"pour\" followed by \"tend.\"",
+    "partOfSpeech": "verb",
+    "definition": "To signal or foreshadow that something, usually significant, is likely to happen.",
+    "origin": "From Latin portendere, \"to foretell or predict,\" built from roots suggesting stretching a sign forward.",
+    "nuance": "Portend is for interpreting signals, not causing outcomes. It is more pointed than suggest and often carries a sense of consequence, sometimes ominous but not always.",
+    "example": "That spike in support tickets may portend a broader onboarding problem, not just a bad release.",
+    "date": "2026-08-06",
+    "tags": [
+      "analysis",
+      "forecasting",
+      "risk"
+    ]
   }
 ]
