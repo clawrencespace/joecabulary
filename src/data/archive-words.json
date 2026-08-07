@@ -4134,5 +4134,73 @@
       "forecasting",
       "risk"
     ]
+  },
+  {
+    "word": "inferential",
+    "pronunciation": "in-fuh-REN-shul",
+    "ipa": "ˌɪnfəˈrɛnʃəl",
+    "soundsLike": "Starts like \"infer\" and ends like the \"shul\" in \"essential.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Based on reasoning from evidence rather than direct observation or explicit statement.",
+    "origin": "Built from Latin inferre, \"to bring in or conclude,\" via infer and inference.",
+    "nuance": "Inferential means a conclusion is reasoned out, not plainly seen. People sometimes use it where speculative would be fairer; inferential still implies some evidentiary basis.",
+    "example": "That’s still an inferential case, not a direct proof, so let’s be careful how confidently we frame it.",
+    "date": "2026-08-07",
+    "tags": [
+      "analysis",
+      "reasoning",
+      "evidence"
+    ]
+  },
+  {
+    "word": "admissible",
+    "pronunciation": "ad-MISS-uh-bul",
+    "ipa": "ədˈmɪsəbəl",
+    "soundsLike": "Starts like \"ad\" and sounds like \"miss\" plus \"uh-bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Allowed to be considered or accepted as valid evidence or input.",
+    "origin": "From Latin admittere, \"to allow in,\" which is the core idea behind evidence or arguments being accepted.",
+    "nuance": "Admissible is narrower than true or persuasive. A point can be admissible for consideration without being decisive, and people often blur that distinction.",
+    "example": "That anecdote is directionally interesting, but it’s not really admissible evidence for a product decision.",
+    "date": "2026-08-07",
+    "tags": [
+      "judgment",
+      "evidence",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "defensible",
+    "pronunciation": "dih-FEN-suh-bul",
+    "ipa": "dɪˈfɛnsəbəl",
+    "soundsLike": "Sounds like \"defense\" with an \"uh-bull\" ending.",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be justified with solid reasons or protected against criticism.",
+    "origin": "From Latin defendere, \"to ward off or protect,\" which broadened into the sense of something that can hold up under attack.",
+    "nuance": "Defensible usually means a choice can be reasonably justified, not that it is ideal. It is often strongest in tradeoff-heavy situations where perfect options do not exist.",
+    "example": "Shipping this now is defensible if we document the risk and put the mitigation work on the next sprint.",
+    "date": "2026-08-07",
+    "tags": [
+      "strategy",
+      "leadership",
+      "tradeoffs"
+    ]
+  },
+  {
+    "word": "reversible",
+    "pronunciation": "rih-VUR-suh-bul",
+    "ipa": "rɪˈvɝsəbəl",
+    "soundsLike": "Starts like \"reverse\" and ends like \"uh-bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be undone, rolled back, or returned to an earlier state.",
+    "origin": "From Latin revertere, \"to turn back,\" via reverse.",
+    "nuance": "Reversible is useful for decisions where experimentation matters. It does not mean consequence-free; it means the main state change can still be unwound without disproportionate cost.",
+    "example": "Let’s keep the first rollout reversible so we can learn quickly without boxing ourselves in.",
+    "date": "2026-08-07",
+    "tags": [
+      "execution",
+      "risk",
+      "experimentation"
+    ]
   }
 ]
