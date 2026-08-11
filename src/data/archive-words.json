@@ -4202,5 +4202,73 @@
       "risk",
       "experimentation"
     ]
+  },
+  {
+    "word": "precarious",
+    "pronunciation": "prih-KAIR-ee-us",
+    "ipa": "prɪˈkɛriəs",
+    "soundsLike": "Starts like \"prepare\" without the last sound, then \"care,\" then ends like \"see us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Unstable or insecure in a way that could turn bad quickly.",
+    "origin": "From Latin precarius, originally meaning \"obtained by favor or entreaty,\" which evolved into the sense of something uncertain or insecure.",
+    "nuance": "Precarious is stronger than merely difficult or risky; it suggests a position that feels exposed or hard to sustain. People often overuse it for any challenge that is actually manageable.",
+    "example": "The vendor situation is getting precarious, so I’d rather lock down a fallback before we’re negotiating from weakness.",
+    "date": "2026-08-10",
+    "tags": [
+      "risk",
+      "strategy",
+      "leadership"
+    ]
+  },
+  {
+    "word": "opportune",
+    "pronunciation": "op-er-TOON",
+    "ipa": "ˌɑpɚˈtun",
+    "soundsLike": "Starts like \"opera\" without the last sound and ends like \"tune.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Well-timed for a specific purpose or advantage.",
+    "origin": "From Latin opportunus, \"favorable or convenient,\" likely tied to the idea of a wind or harbor being favorable for arrival.",
+    "nuance": "Opportune means timely in a useful way, not just random luck. It often works better than convenient when the timing itself creates the advantage.",
+    "example": "This is an opportune moment to simplify the roadmap while the team is already rethinking scope.",
+    "date": "2026-08-10",
+    "tags": [
+      "timing",
+      "judgment",
+      "execution"
+    ]
+  },
+  {
+    "word": "coalesce",
+    "pronunciation": "koh-uh-LESS",
+    "ipa": "ˌkoʊəˈlɛs",
+    "soundsLike": "Starts like \"co\" in \"co-owner\" and ends like \"less.\"",
+    "partOfSpeech": "verb",
+    "definition": "To come together into a more unified whole.",
+    "origin": "From Latin coalescere, \"to grow together,\" built from co- plus a root meaning \"to nourish or grow.\"",
+    "nuance": "Coalesce suggests separate pieces gradually forming something more coherent, not just being placed side by side. It is stronger than align and less mechanical than merge.",
+    "example": "The strategy is finally starting to coalesce now that product, sales, and engineering are reacting to the same numbers.",
+    "date": "2026-08-10",
+    "tags": [
+      "strategy",
+      "communication",
+      "systems"
+    ]
+  },
+  {
+    "word": "stewardship",
+    "pronunciation": "STOO-erd-ship",
+    "ipa": "ˈstuɚdˌʃɪp",
+    "soundsLike": "Sounds like \"steward\" plus \"ship.\"",
+    "partOfSpeech": "noun",
+    "definition": "The responsible management and care of something entrusted to you.",
+    "origin": "From Old English stigweard, \"house guardian,\" which became steward and then stewardship.",
+    "nuance": "Stewardship emphasizes duty and long-term care, not just ownership or control. It is especially useful when the real job is preserving trust, quality, or continuity over time.",
+    "example": "Part of the VP job is stewardship of the engineering culture, not just hitting the quarter’s delivery targets.",
+    "date": "2026-08-10",
+    "tags": [
+      "leadership",
+      "responsibility",
+      "culture"
+    ]
   }
 ]
