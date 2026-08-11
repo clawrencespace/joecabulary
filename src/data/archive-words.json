@@ -4270,5 +4270,73 @@
       "responsibility",
       "culture"
     ]
+  },
+  {
+    "word": "circumspect",
+    "pronunciation": "SUR-kum-spekt",
+    "ipa": "ˈsɝkəmˌspɛkt",
+    "soundsLike": "Starts like \"sir,\" then \"come,\" and ends like \"specked\" without the d.",
+    "partOfSpeech": "adjective",
+    "definition": "Careful, prudent, and alert to possible consequences.",
+    "origin": "From Latin circumspectus, \"looking around,\" from circum- plus specere, \"to look.\"",
+    "nuance": "Circumspect suggests disciplined caution, not timidity. It fits when someone is being deliberate because the stakes or optics matter.",
+    "example": "I want to be circumspect about the reorg until we’ve pressure-tested the downstream effects.",
+    "date": "2026-08-11",
+    "tags": [
+      "judgment",
+      "leadership",
+      "risk"
+    ]
+  },
+  {
+    "word": "broach",
+    "pronunciation": "BROHCH",
+    "ipa": "broʊtʃ",
+    "soundsLike": "Rhymes with \"coach\" and \"approach.\"",
+    "partOfSpeech": "verb",
+    "definition": "To bring up a subject for discussion, especially a sensitive one.",
+    "origin": "From Old French broche, \"spit or pointed tool\"; the sense evolved toward piercing or opening a topic.",
+    "nuance": "Broach is best for introducing a topic, not fully resolving it. People sometimes use it as if it just means mention, but it usually implies a little delicacy or risk.",
+    "example": "I should probably broach the succession question before it turns into hallway speculation.",
+    "date": "2026-08-11",
+    "tags": [
+      "communication",
+      "management",
+      "tact"
+    ]
+  },
+  {
+    "word": "equitable",
+    "pronunciation": "EK-wih-tuh-buhl",
+    "ipa": "ˈɛkwɪtəbəl",
+    "soundsLike": "Starts like \"echo\" without the o and ends like \"itable\" in \"profitable.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Fair in a way that accounts for relevant differences and context.",
+    "origin": "From Latin aequitas, \"fairness or evenness,\" through French and then English legal usage.",
+    "nuance": "Equitable is not always the same as equal. It is useful when the fair answer depends on need, contribution, or circumstance rather than identical treatment.",
+    "example": "We need an equitable on-call arrangement, not just a mathematically even one.",
+    "date": "2026-08-11",
+    "tags": [
+      "fairness",
+      "leadership",
+      "policy"
+    ]
+  },
+  {
+    "word": "incisive",
+    "pronunciation": "in-SY-siv",
+    "ipa": "ɪnˈsaɪsɪv",
+    "soundsLike": "Starts like \"inside\" without the d and ends like \"sieve.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Clear, direct, and sharply insightful.",
+    "origin": "From Latin incidere, \"to cut into,\" which also gave English words related to incision.",
+    "nuance": "Incisive praise is about analytical sharpness, not harshness. A comment can be blunt without being incisive, and incisive without being rude.",
+    "example": "Her readout was short but incisive, and it exposed the actual tradeoff in about two sentences.",
+    "date": "2026-08-11",
+    "tags": [
+      "analysis",
+      "communication",
+      "rhetoric"
+    ]
   }
 ]
