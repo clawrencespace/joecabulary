@@ -4338,5 +4338,73 @@
       "communication",
       "rhetoric"
     ]
+  },
+  {
+    "word": "judicious",
+    "pronunciation": "joo-DISH-uhs",
+    "ipa": "dʒuˈdɪʃəs",
+    "soundsLike": "Starts like \"Jew\" and ends like \"delicious\" without the l.",
+    "partOfSpeech": "adjective",
+    "definition": "Showing good judgment; careful, sensible, and well considered.",
+    "origin": "From Latin judicium, \"judgment,\" via French; tied to the same root as judge and judicial.",
+    "nuance": "Judicious implies discernment, not hesitation. It fits when a choice is thoughtful and proportionate, especially under uncertainty.",
+    "example": "We should be judicious about where we add process so we do not slow the team down for marginal gain.",
+    "date": "2026-08-12",
+    "tags": [
+      "judgment",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "acuity",
+    "pronunciation": "uh-KYOO-uh-tee",
+    "ipa": "əˈkjuəti",
+    "soundsLike": "Starts like \"a cute\" and ends like \"tea.\"",
+    "partOfSpeech": "noun",
+    "definition": "Sharpness of perception, insight, or mental quickness.",
+    "origin": "From Latin acuitas, from acuere, \"to sharpen.\"",
+    "nuance": "Acuity is not just intelligence; it is sharp discernment in the moment. It works well for analytical, business, and interpersonal read-the-room contexts.",
+    "example": "Her product acuity is unusually strong; she spots the real user friction before the metrics fully catch up.",
+    "date": "2026-08-12",
+    "tags": [
+      "analysis",
+      "insight",
+      "product"
+    ]
+  },
+  {
+    "word": "leverage",
+    "pronunciation": "LEE-ver-ij",
+    "ipa": "ˈlivərɪdʒ",
+    "soundsLike": "Starts like \"leave\" and ends a bit like \"average\" without the a.",
+    "partOfSpeech": "verb",
+    "definition": "To use something to maximum advantage.",
+    "origin": "Built from lever, from Old French levier and Latin levare, \"to raise.\"",
+    "nuance": "Leverage is useful when an asset, relationship, or constraint meaningfully amplifies an outcome. It is sometimes overused as a vague business verb, so it lands best when the advantage is concrete.",
+    "example": "We can leverage the migration window to clean up some long-standing permission weirdness instead of doing it piecemeal later.",
+    "date": "2026-08-12",
+    "tags": [
+      "strategy",
+      "execution",
+      "business"
+    ]
+  },
+  {
+    "word": "deft",
+    "pronunciation": "DEFT",
+    "ipa": "dɛft",
+    "soundsLike": "Rhymes with \"left\" if you swap the l for a d.",
+    "partOfSpeech": "adjective",
+    "definition": "Skillful, quick, and neatly effective.",
+    "origin": "From Old English gedaefte, \"mild or fitting,\" with the sense evolving toward aptness and skill.",
+    "nuance": "Deft suggests agility and precision together. It is stronger than merely competent, but less grandiose than masterful.",
+    "example": "That was a deft way to reset the conversation without making the disagreement feel personal.",
+    "date": "2026-08-12",
+    "tags": [
+      "communication",
+      "execution",
+      "tact"
+    ]
   }
 ]
