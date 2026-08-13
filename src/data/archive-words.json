@@ -4406,5 +4406,73 @@
       "execution",
       "tact"
     ]
+  },
+  {
+    "word": "winnow",
+    "pronunciation": "WIN-oh",
+    "ipa": "ˈwɪnoʊ",
+    "soundsLike": "Sounds like \"win\" followed by \"no.\"",
+    "partOfSpeech": "verb",
+    "definition": "To narrow a set by separating what matters from what does not.",
+    "origin": "From Old English winnan, tied to the farm practice of separating grain from chaff.",
+    "nuance": "Winnow implies deliberate filtering, not just cutting. It fits when you're reducing choices, hypotheses, or requirements by judgment rather than by brute force.",
+    "example": "Let's winnow this roadmap to the handful of bets that would actually move the quarter.",
+    "date": "2026-08-13",
+    "tags": [
+      "decision-making",
+      "strategy",
+      "prioritization"
+    ]
+  },
+  {
+    "word": "candid",
+    "pronunciation": "KAN-did",
+    "ipa": "ˈkændɪd",
+    "soundsLike": "Sounds like \"can\" plus \"did.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Frank, direct, and honest without being evasive.",
+    "origin": "From Latin candidus, \"bright, white, clear,\" which took on the sense of openness and sincerity.",
+    "nuance": "Candid is usually positive when the honesty is useful and proportionate. It is not a license to be blunt or careless under the banner of \"just being honest.\"",
+    "example": "I'll be candid: the integration works, but the operational overhead is still higher than I want.",
+    "date": "2026-08-13",
+    "tags": [
+      "communication",
+      "leadership",
+      "candor"
+    ]
+  },
+  {
+    "word": "calculus",
+    "pronunciation": "KAL-kyuh-luhs",
+    "ipa": "ˈkælkjələs",
+    "soundsLike": "Starts like \"cal\" in \"calendar\" and ends like \"culus\" in \"molecules\" without the mo.",
+    "partOfSpeech": "noun",
+    "definition": "A method of reasoning through factors, incentives, or tradeoffs behind a decision.",
+    "origin": "From Latin calculus, \"small stone,\" from the pebbles once used for counting.",
+    "nuance": "Outside math, calculus means the logic or decision framework underneath a choice. It works best when multiple constraints or incentives are in play.",
+    "example": "The calculus changes if we assume the partner API will stay unstable for another six months.",
+    "date": "2026-08-13",
+    "tags": [
+      "analysis",
+      "tradeoffs",
+      "strategy"
+    ]
+  },
+  {
+    "word": "vitiate",
+    "pronunciation": "VISH-ee-ayt",
+    "ipa": "ˈvɪʃieɪt",
+    "soundsLike": "Starts like \"wish\" and ends like \"create\" without the cr.",
+    "partOfSpeech": "verb",
+    "definition": "To impair, weaken, or make something less sound or valid.",
+    "origin": "From Latin vitiare, \"to spoil or corrupt,\" related to vitium, \"fault or defect.\"",
+    "nuance": "Vitiate is stronger and more precise than merely hurt or complicate. It suggests that a flaw undercuts the integrity of an argument, process, or agreement.",
+    "example": "If the sample is biased enough, it can vitiate the whole conclusion even if the analysis looks polished.",
+    "date": "2026-08-13",
+    "tags": [
+      "analysis",
+      "risk",
+      "reasoning"
+    ]
   }
 ]
