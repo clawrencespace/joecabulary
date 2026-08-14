@@ -4474,5 +4474,73 @@
       "risk",
       "reasoning"
     ]
+  },
+  {
+    "word": "probity",
+    "pronunciation": "PROH-bih-tee",
+    "ipa": "ˈproʊbəti",
+    "soundsLike": "Starts like \"pro\" and ends like \"bitty.\"",
+    "partOfSpeech": "noun",
+    "definition": "Strong integrity and principled honesty, especially in professional judgment.",
+    "origin": "From Latin probitas, from probus, \"good, upright.\"",
+    "nuance": "Probity is more than being likable or decent; it points to trustworthiness under pressure, especially when money, influence, or discretion are involved.",
+    "example": "His probity on vendor decisions is one reason people trust his judgment even when the call is unpopular.",
+    "date": "2026-08-14",
+    "tags": [
+      "leadership",
+      "ethics",
+      "governance"
+    ]
+  },
+  {
+    "word": "scaffold",
+    "pronunciation": "SKAF-ohld",
+    "ipa": "ˈskæfoʊld",
+    "soundsLike": "Starts like \"scat\" without the t and ends like \"fold.\"",
+    "partOfSpeech": "verb",
+    "definition": "To give a developing project or idea enough structure to make progress.",
+    "origin": "From Old French eschafaut, a raised platform or staging.",
+    "nuance": "As a verb, scaffold implies supportive framing that may be temporary. It is not the finished system; it is the structure that helps you build one.",
+    "example": "Let's scaffold the migration with a thin compatibility layer instead of trying to rewrite the whole thing in one pass.",
+    "date": "2026-08-14",
+    "tags": [
+      "engineering",
+      "execution",
+      "planning"
+    ]
+  },
+  {
+    "word": "indicia",
+    "pronunciation": "in-DISH-ee-uh",
+    "ipa": "ɪnˈdɪʃiə",
+    "soundsLike": "Starts like \"in,\" has the stressed sound of \"dish,\" and ends like \"Mia\" without the m.",
+    "partOfSpeech": "plural noun",
+    "definition": "Signs or markers that point toward a conclusion without fully proving it.",
+    "origin": "Plural of Latin indicium, \"sign\" or \"indication.\"",
+    "nuance": "Indicia are clues, not proof. The word is useful when the pattern matters but the evidence is still circumstantial or incomplete.",
+    "example": "There are enough indicia of real demand here that I'd green-light a tighter pilot.",
+    "date": "2026-08-14",
+    "tags": [
+      "evidence",
+      "analysis",
+      "signal"
+    ]
+  },
+  {
+    "word": "administrable",
+    "pronunciation": "ad-MIN-uh-struh-buhl",
+    "ipa": "ədˈmɪnəstrəbəl",
+    "soundsLike": "Starts like \"admin,\" then \"uh,\" and ends a bit like \"struble\" in \"indestructible\" without the inde-.",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being carried out, managed, or enforced in real practice.",
+    "origin": "Built from administer, from Latin administrare, \"to manage or direct.\"",
+    "nuance": "Administrable is about operational reality, not theoretical merit. A policy can sound smart on paper and still fail because it is not administrable at scale.",
+    "example": "The rule is directionally right, but I don't think it's administrable across three business units with different tooling.",
+    "date": "2026-08-14",
+    "tags": [
+      "operations",
+      "policy",
+      "execution"
+    ]
   }
 ]
