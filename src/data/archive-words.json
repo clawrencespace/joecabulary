@@ -4542,5 +4542,73 @@
       "policy",
       "execution"
     ]
+  },
+  {
+    "word": "adduce",
+    "pronunciation": "uh-DOOSS",
+    "ipa": "əˈdus",
+    "soundsLike": "Starts like the \"uh\" in \"about\" and rhymes with \"goose.\"",
+    "partOfSpeech": "verb",
+    "definition": "To cite or bring forward as evidence in support of a claim.",
+    "origin": "From Latin adducere, \"to bring to\" or \"lead toward.\"",
+    "nuance": "Adduce is more precise than just mention or point to. It fits when the thing you are bringing up is meant to support an argument, not merely add color.",
+    "example": "If we want approval for the spend, we should adduce the retention data instead of relying on intuition.",
+    "date": "2026-08-15",
+    "tags": [
+      "evidence",
+      "argument",
+      "leadership"
+    ]
+  },
+  {
+    "word": "gainsay",
+    "pronunciation": "GAYN-say",
+    "ipa": "ˌɡeɪnˈseɪ",
+    "soundsLike": "Sounds like \"gain\" followed by \"say.\"",
+    "partOfSpeech": "verb",
+    "definition": "To deny, dispute, or speak against something.",
+    "origin": "From Middle English, literally \"to say against.\"",
+    "nuance": "Gainsay usually appears when a point is difficult to contest, as in \"hard to gainsay.\" It sounds more considered than flatly saying someone disagrees.",
+    "example": "It's hard to gainsay the trend once you look at three quarters of consistent margin pressure.",
+    "date": "2026-08-15",
+    "tags": [
+      "rhetoric",
+      "analysis",
+      "debate"
+    ]
+  },
+  {
+    "word": "pragmatic",
+    "pronunciation": "prag-MAT-ik",
+    "ipa": "præɡˈmætɪk",
+    "soundsLike": "Starts like \"rag\" with a p in front and ends like \"static\" without the st.",
+    "partOfSpeech": "adjective",
+    "definition": "Focused on what will work in practice rather than on theory alone.",
+    "origin": "From Greek pragma, \"deed\" or \"thing done,\" via Latin and French.",
+    "nuance": "Pragmatic is often used as praise, but it should not mean unprincipled or shortsighted. It suggests a bias toward workable outcomes while still respecting constraints and values.",
+    "example": "We can keep the long-term architecture in mind and still take a pragmatic path through this quarter.",
+    "date": "2026-08-15",
+    "tags": [
+      "execution",
+      "strategy",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "temperate",
+    "pronunciation": "TEM-per-it",
+    "ipa": "ˈtɛmpərət",
+    "soundsLike": "Starts like \"temper\" and ends like \"it.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Moderate, measured, and not excessive in tone or behavior.",
+    "origin": "From Latin temperatus, \"restrained\" or \"properly mixed.\"",
+    "nuance": "Temperate is not weak or vague. It describes restraint that adds credibility, especially in argument or leadership, and it is often misheard as only referring to climate.",
+    "example": "He made a temperate case for slowing the rollout without sounding alarmist.",
+    "date": "2026-08-15",
+    "tags": [
+      "communication",
+      "judgment",
+      "leadership"
+    ]
   }
 ]
