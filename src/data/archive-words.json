@@ -4610,5 +4610,73 @@
       "judgment",
       "leadership"
     ]
+  },
+  {
+    "word": "forensic",
+    "pronunciation": "fuh-REN-zik",
+    "ipa": "fəˈrɛnzɪk",
+    "soundsLike": "Starts like \"fur\" and ends like \"REN-zik,\" with the middle sounding like \"wren.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Marked by close, methodical analysis of evidence or details.",
+    "origin": "From Latin forensis, \"of the forum,\" because public argument and examination happened there.",
+    "nuance": "People often hear forensic and think only of crime labs. More broadly, it describes analytical work that is painstaking, evidence-driven, and exact.",
+    "example": "We need a more forensic read on where the churn is actually coming from before we change the pricing model.",
+    "date": "2026-08-16",
+    "tags": [
+      "analysis",
+      "evidence",
+      "leadership"
+    ]
+  },
+  {
+    "word": "explicate",
+    "pronunciation": "EK-splih-kayt",
+    "ipa": "ˈɛksplɪˌkeɪt",
+    "soundsLike": "Starts like \"X\" and \"split,\" then ends like \"Kate.\"",
+    "partOfSpeech": "verb",
+    "definition": "To explain something carefully by drawing out its meaning or logic.",
+    "origin": "From Latin explicare, \"to unfold\" or \"unravel.\"",
+    "nuance": "Explicate is more deliberate than explain. It suggests unpacking structure, assumptions, or implications rather than just restating the point in simpler words.",
+    "example": "Can you explicate the dependency between those two roadmap bets before we commit to the sequence?",
+    "date": "2026-08-16",
+    "tags": [
+      "communication",
+      "reasoning",
+      "strategy"
+    ]
+  },
+  {
+    "word": "sober",
+    "pronunciation": "SOH-ber",
+    "ipa": "ˈsoʊbər",
+    "soundsLike": "Sounds like \"sew\" plus \"ber,\" as in \"berry\" without the \"ree.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Serious, clear-eyed, and not inflated by emotion or wishful thinking.",
+    "origin": "From Latin sobrius, meaning \"temperate\" or \"not intoxicated.\"",
+    "nuance": "Sober does not just mean not drunk. In executive and analytical contexts, it often signals disciplined judgment that resists hype, panic, or self-deception.",
+    "example": "A sober read is that the upside is real, but the integration cost is still bigger than we wanted to admit.",
+    "date": "2026-08-16",
+    "tags": [
+      "judgment",
+      "leadership",
+      "analysis"
+    ]
+  },
+  {
+    "word": "secular",
+    "pronunciation": "SEK-yuh-ler",
+    "ipa": "ˈsɛkjələr",
+    "soundsLike": "Starts like \"sec\" in \"second\" and ends like \"yuh-ler,\" like \"regular\" without the \"reg.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Long-term and structural rather than temporary, seasonal, or cyclical.",
+    "origin": "From Latin saeculum, meaning \"age\" or \"generation.\"",
+    "nuance": "Beyond its religion-related sense, secular is common in business and economics for trends that persist across cycles. It is often misused when someone just means recent or widespread.",
+    "example": "I think this is a secular shift in buyer expectations, not a one-quarter wobble we can wait out.",
+    "date": "2026-08-16",
+    "tags": [
+      "strategy",
+      "economics",
+      "trends"
+    ]
   }
 ]

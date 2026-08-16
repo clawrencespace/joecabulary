@@ -541,5 +541,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-08-16",
+    "title": "Precarious Effects",
+    "eyebrow": "Sunday No. 008 · Live",
+    "date": "August 16, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "PRECARIOUS",
+        "clue": "Unstable or insecure in a way that could turn bad quickly",
+        "row": 1,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "CIRCUMSPECT",
+        "clue": "Careful, prudent, and alert to possible consequences",
+        "row": 1,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "STEWARDSHIP",
+        "clue": "The responsible management and care of something entrusted to you",
+        "row": 3,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "EXPLICATE",
+        "clue": "To explain something carefully by drawing out its meaning or logic",
+        "row": 3,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "PRAGMATIC",
+        "clue": "Focused on what will work in practice rather than on theory alone",
+        "row": 3,
+        "col": 6,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "answer": "JUDICIOUS",
+        "clue": "Showing good judgment; careful, sensible, and well considered",
+        "row": 5,
+        "col": 6,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "answer": "COALESCE",
+        "clue": "To come together into a more unified whole",
+        "row": 5,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "ADMINISTRABLE",
+        "clue": "Capable of being carried out, managed, or enforced in real practice",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "TEMPERATE",
+        "clue": "Moderate, measured, and not excessive in tone or behavior",
+        "row": 9,
+        "col": 6,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "OPPORTUNE",
+        "clue": "Well-timed for a specific purpose or advantage",
+        "row": 13,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]
