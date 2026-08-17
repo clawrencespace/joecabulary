@@ -4678,5 +4678,73 @@
       "economics",
       "trends"
     ]
+  },
+  {
+    "word": "granularity",
+    "pronunciation": "gran-yuh-LAIR-uh-tee",
+    "ipa": "ˌɡrænjəˈlærəti",
+    "soundsLike": "Starts like \"gran\" in \"granite,\" then \"yuh-LAIR-uh-tee.\"",
+    "partOfSpeech": "noun",
+    "definition": "The level of detail at which something is analyzed, described, or controlled.",
+    "origin": "From granule, ultimately from Latin granum, meaning \"grain.\"",
+    "nuance": "Granularity is about resolution, not just complexity. More granularity means a finer breakdown, which can clarify a decision or bury it in noise.",
+    "example": "Before we debate headcount, I want more granularity on which teams are actually at capacity.",
+    "date": "2026-08-17",
+    "tags": [
+      "analysis",
+      "data",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "overhang",
+    "pronunciation": "OH-ver-hang",
+    "ipa": "ˈoʊvərˌhæŋ",
+    "soundsLike": "Exactly like saying \"over\" and then \"hang.\"",
+    "partOfSpeech": "noun",
+    "definition": "A lingering burden, excess, or unresolved condition that continues to weigh on future decisions or performance.",
+    "origin": "From the literal verb overhang, meaning \"to project over\" or \"hang above.\"",
+    "nuance": "In business and finance, overhang usually means leftover pressure from an earlier decision or condition, not just a generic problem in the background.",
+    "example": "The integration overhang from last quarter is still slowing decisions we should have made weeks ago.",
+    "date": "2026-08-17",
+    "tags": [
+      "strategy",
+      "finance",
+      "operations"
+    ]
+  },
+  {
+    "word": "ballast",
+    "pronunciation": "BAL-ust",
+    "ipa": "ˈbæləst",
+    "soundsLike": "Starts like \"bal\" in \"balance\" and ends like \"ust,\" rhyming with the start of \"mustard.\"",
+    "partOfSpeech": "noun",
+    "definition": "A stabilizing weight or steadying force that keeps something from swinging too far or becoming erratic.",
+    "origin": "From Germanic roots for worthless or bare load, later used for the heavy material that stabilizes ships.",
+    "nuance": "Ballast can mean dead weight in some contexts, but used well it suggests stabilizing discipline or perspective, not useless drag.",
+    "example": "That customer advisory board gives the strategy some ballast when the room starts chasing shiny objects.",
+    "date": "2026-08-17",
+    "tags": [
+      "leadership",
+      "stability",
+      "strategy"
+    ]
+  },
+  {
+    "word": "triage",
+    "pronunciation": "tree-AHZH",
+    "ipa": "triˈɑːʒ",
+    "soundsLike": "Sounds like \"tree\" plus the \"ahzh\" sound at the end of \"massage.\"",
+    "partOfSpeech": "verb",
+    "definition": "To sort and prioritize items based on urgency, importance, or limited capacity.",
+    "origin": "From French trier, meaning \"to sort.\"",
+    "nuance": "Triage is not just organizing a list. It implies constrained resources and the need to decide what gets attention now versus later or not at all.",
+    "example": "Let's triage the roadmap instead of pretending all twelve asks are equally urgent.",
+    "date": "2026-08-17",
+    "tags": [
+      "prioritization",
+      "operations",
+      "leadership"
+    ]
   }
 ]
