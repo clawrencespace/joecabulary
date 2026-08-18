@@ -4746,5 +4746,73 @@
       "operations",
       "leadership"
     ]
+  },
+  {
+    "word": "discretion",
+    "pronunciation": "dih-SKRESH-uhn",
+    "ipa": "dɪˈskrɛʃən",
+    "soundsLike": "Starts like \"dis\" in \"dismiss\" and ends like \"KRESH-uhn,\" like the middle of \"expression.\"",
+    "partOfSpeech": "noun",
+    "definition": "The freedom and judgment to decide what should be done in a particular situation.",
+    "origin": "From Latin discernere, \"to separate\" or \"to distinguish,\" via the sense of sound judgment.",
+    "nuance": "Discretion is not randomness or unchecked authority; it implies judgment within bounds. People also misuse it to mean secrecy alone, when the core idea is careful choice.",
+    "example": "I trust her discretion on customer exceptions because she knows where the policy ends and the principle starts.",
+    "date": "2026-08-18",
+    "tags": [
+      "leadership",
+      "judgment",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "overread",
+    "pronunciation": "oh-ver-REED",
+    "ipa": "ˌoʊvərˈriːd",
+    "soundsLike": "Exactly like saying \"over\" and then \"read.\"",
+    "partOfSpeech": "verb",
+    "definition": "To draw more meaning, intention, or certainty from something than it can reasonably support.",
+    "origin": "Built from over- plus read; the modern figurative sense comes from interpreting a text or signal too aggressively.",
+    "nuance": "Useful when someone is making too much of a stray comment, metric blip, or isolated event. It is more precise than overreact because the problem is interpretation, not emotion.",
+    "example": "I would not overread one ugly week of usage data before we see whether the pattern holds.",
+    "date": "2026-08-18",
+    "tags": [
+      "analysis",
+      "interpretation",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "hinge",
+    "pronunciation": "HINJ",
+    "ipa": "hɪndʒ",
+    "soundsLike": "Rhymes with \"binge\" without the b.",
+    "partOfSpeech": "verb",
+    "definition": "To depend chiefly on a particular factor, condition, or decision.",
+    "origin": "From the hardware hinge that lets a door pivot; the figurative sense extends that idea to the point something turns on.",
+    "nuance": "Hinge points to the decisive dependency, not just any influence. It is stronger than relate to or connect to because it names what the outcome turns on.",
+    "example": "This whole timeline may hinge on whether legal can finish the review by Friday.",
+    "date": "2026-08-18",
+    "tags": [
+      "strategy",
+      "dependencies",
+      "planning"
+    ]
+  },
+  {
+    "word": "governance",
+    "pronunciation": "GUHV-er-nuhns",
+    "ipa": "ˈɡʌvərnəns",
+    "soundsLike": "Starts like \"govern\" and ends like \"uhns,\" similar to the end of \"maintenance.\"",
+    "partOfSpeech": "noun",
+    "definition": "The rules, roles, and decision structures used to direct and oversee a group, system, or process.",
+    "origin": "From govern, ultimately from Greek kybernan, \"to steer\" or \"to pilot.\"",
+    "nuance": "Governance is not just bureaucracy or paperwork. At its best it means clear decision rights and accountability; at its worst people use the word as a euphemism for adding process.",
+    "example": "We do not have a tooling problem as much as a governance problem around who gets to standardize what.",
+    "date": "2026-08-18",
+    "tags": [
+      "leadership",
+      "organizations",
+      "operations"
+    ]
   }
 ]
