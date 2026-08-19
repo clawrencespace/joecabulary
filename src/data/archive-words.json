@@ -4814,5 +4814,73 @@
       "organizations",
       "operations"
     ]
+  },
+  {
+    "word": "ossify",
+    "pronunciation": "AH-suh-fy",
+    "ipa": "ˈɑsəˌfaɪ",
+    "soundsLike": "Starts with \"ah\" like the doctor sound and ends like \"modify.\"",
+    "partOfSpeech": "verb",
+    "definition": "To become rigid, stagnant, or resistant to change over time.",
+    "origin": "From Latin os, meaning \"bone\"; the literal sense is to turn into bone.",
+    "nuance": "Ossify implies a living system hardening past its useful flexibility, not merely maturing or settling. It is especially apt for process, culture, and org structure.",
+    "example": "If every exception needs three approvals, the whole process is going to ossify.",
+    "date": "2026-08-19",
+    "tags": [
+      "organizations",
+      "process",
+      "change"
+    ]
+  },
+  {
+    "word": "pretext",
+    "pronunciation": "PREE-tekst",
+    "ipa": "ˈpriːtɛkst",
+    "soundsLike": "Sounds like \"pree\" as in \"preview\" plus \"text.\"",
+    "partOfSpeech": "noun",
+    "definition": "A stated reason offered to hide or soften the real reason for something.",
+    "origin": "From Latin praetextus, \"outward show\" or \"pretense.\"",
+    "nuance": "A pretext is not just any explanation; it carries the idea that the given reason is cover for the real motive. People sometimes use it too loosely when they simply mean rationale.",
+    "example": "I do not want cost to become the pretext for a decision we are really making for control reasons.",
+    "date": "2026-08-19",
+    "tags": [
+      "rhetoric",
+      "motives",
+      "communication"
+    ]
+  },
+  {
+    "word": "entropy",
+    "pronunciation": "EN-truh-pee",
+    "ipa": "ˈɛntrəpi",
+    "soundsLike": "Sounds like \"entry\" with a p before the \"ee\" ending.",
+    "partOfSpeech": "noun",
+    "definition": "A tendency toward disorder, drift, or loss of structure in a system.",
+    "origin": "From Greek trope, meaning \"turning,\" adopted in physics and later broadened metaphorically.",
+    "nuance": "In technical contexts entropy has a precise scientific meaning, but in everyday strategic talk it usefully names the way systems decay when nobody is tending them. It is stronger and more structural than generic chaos.",
+    "example": "Without an owner, that dashboard will pick up entropy every quarter until nobody trusts it.",
+    "date": "2026-08-19",
+    "tags": [
+      "systems",
+      "analysis",
+      "operations"
+    ]
+  },
+  {
+    "word": "entrench",
+    "pronunciation": "en-TRENCH",
+    "ipa": "ɪnˈtrɛntʃ",
+    "soundsLike": "Starts like \"in\" and ends like \"trench,\" the ditch.",
+    "partOfSpeech": "verb",
+    "definition": "To establish something so firmly that it becomes difficult to change or remove.",
+    "origin": "From French trencher, \"to cut,\" through the image of digging in defensively.",
+    "nuance": "Entrench suggests more than simply establishing a habit or position; it implies reinforcing it in a way that makes reversal costly. It often carries a warning tone.",
+    "example": "I would rather take the migration hit now than entrench a workaround we will regret next year.",
+    "date": "2026-08-19",
+    "tags": [
+      "strategy",
+      "decision-making",
+      "change"
+    ]
   }
 ]
