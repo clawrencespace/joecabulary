@@ -4882,5 +4882,73 @@
       "decision-making",
       "change"
     ]
+  },
+  {
+    "word": "ambit",
+    "pronunciation": "AM-bit",
+    "ipa": "ˈæmbɪt",
+    "soundsLike": "Sounds like \"rabbit\" without the \"r\" and with a shorter ending.",
+    "partOfSpeech": "noun",
+    "definition": "The scope, range, or limits of something such as authority, inquiry, or discussion.",
+    "origin": "From Latin ambitus, meaning \"a going around\" or \"circuit.\"",
+    "nuance": "Ambit is tighter and more formal than generic scope; it emphasizes the boundaries within which something properly belongs.",
+    "example": "That is a fair question, but it is outside the ambit of what this team can decide this quarter.",
+    "date": "2026-08-20",
+    "tags": [
+      "strategy",
+      "scope",
+      "governance"
+    ]
+  },
+  {
+    "word": "onerous",
+    "pronunciation": "AH-nuh-rus",
+    "ipa": "ˈɑnərəs",
+    "soundsLike": "Starts like \"on,\" then sounds like \"a\" plus the end of \"generous.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Unusually burdensome, demanding, or costly to carry out.",
+    "origin": "From Latin onus, meaning \"burden\" or \"load.\"",
+    "nuance": "Onerous suggests a burden heavy enough to change behavior, not just something mildly inconvenient or annoying.",
+    "example": "The reporting requirement is so onerous that teams will route around it instead of complying well.",
+    "date": "2026-08-20",
+    "tags": [
+      "operations",
+      "workload",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "animus",
+    "pronunciation": "AN-uh-mus",
+    "ipa": "ˈænəməs",
+    "soundsLike": "Starts like \"animal\" without the \"l\" and ends like \"muss.\"",
+    "partOfSpeech": "noun",
+    "definition": "A strong feeling of hostility, or the underlying motive driving a person's stance.",
+    "origin": "From Latin animus, meaning \"mind,\" \"spirit,\" or \"disposition.\"",
+    "nuance": "Animus is stronger and more revealing than simple dislike; it points to hostility coloring the judgment itself. In legal or rhetorical settings, it often implies bias beneath the stated argument.",
+    "example": "If the pushback is really about security, fine, but I do not want personal animus disguised as process feedback.",
+    "date": "2026-08-20",
+    "tags": [
+      "rhetoric",
+      "motives",
+      "leadership"
+    ]
+  },
+  {
+    "word": "stricture",
+    "pronunciation": "STRIK-cher",
+    "ipa": "ˈstrɪktʃər",
+    "soundsLike": "Sounds like \"strict\" followed by \"chair\" without the long vowel.",
+    "partOfSpeech": "noun",
+    "definition": "A restrictive condition, limit, or exacting rule.",
+    "origin": "From Latin stringere, meaning \"to draw tight\" or \"bind.\"",
+    "nuance": "Stricture is more precise than rule or criticism; it names a constraint that materially narrows what is allowed. People sometimes miss that the word often implies excessive tightness.",
+    "example": "The vendor terms come with enough strictures that the discount is probably not worth it.",
+    "date": "2026-08-20",
+    "tags": [
+      "contracts",
+      "constraints",
+      "policy"
+    ]
   }
 ]
