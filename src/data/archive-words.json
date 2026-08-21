@@ -4950,5 +4950,73 @@
       "constraints",
       "policy"
     ]
+  },
+  {
+    "word": "probative",
+    "pronunciation": "PRO-buh-tiv",
+    "ipa": "ˈproʊbətɪv",
+    "soundsLike": "Starts like \"probe\" and ends like \"positive\" without the middle syllable.",
+    "partOfSpeech": "adjective",
+    "definition": "Having real value as evidence; tending to prove or clarify something important.",
+    "origin": "From Latin probare, meaning \"to test\" or \"prove.\"",
+    "nuance": "Probative means evidentially helpful, not necessarily decisive. People often confuse it with dispositive, which would settle the matter by itself.",
+    "example": "The timing is interesting, but unless we have something more probative than a hunch, I do not want to overstate the case.",
+    "date": "2026-08-21",
+    "tags": [
+      "evidence",
+      "analysis",
+      "judgment"
+    ]
+  },
+  {
+    "word": "conflate",
+    "pronunciation": "kuhn-FLAYT",
+    "ipa": "kənˈfleɪt",
+    "soundsLike": "Starts like the first syllable of \"confess\" and rhymes with \"late.\"",
+    "partOfSpeech": "verb",
+    "definition": "To treat two distinct things as if they were the same.",
+    "origin": "From Latin conflare, meaning \"to fuse together\" or \"blow together.\"",
+    "nuance": "Conflate is not just combine. It usually implies an analytical mistake, where separate issues get blurred into one argument.",
+    "example": "We are starting to conflate delivery risk with strategy risk, and they need different conversations.",
+    "date": "2026-08-21",
+    "tags": [
+      "reasoning",
+      "communication",
+      "strategy"
+    ]
+  },
+  {
+    "word": "exigent",
+    "pronunciation": "EK-suh-jent",
+    "ipa": "ˈɛksədʒənt",
+    "soundsLike": "Starts like \"exit\" without the \"it,\" then ends like \"agent\" with a \"j\" sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Demanding immediate attention because the situation is pressing or urgent.",
+    "origin": "From Latin exigere, meaning \"to drive out\" or \"demand.\"",
+    "nuance": "Exigent is stronger and narrower than urgent; it suggests circumstances that compress time and make delay hard to justify.",
+    "example": "If this is truly exigent, we should treat it like an incident and stop pretending it belongs in the normal queue.",
+    "date": "2026-08-21",
+    "tags": [
+      "urgency",
+      "operations",
+      "leadership"
+    ]
+  },
+  {
+    "word": "preclusive",
+    "pronunciation": "pree-KLOO-siv",
+    "ipa": "priˈklusɪv",
+    "soundsLike": "Starts like \"pre\" and rhymes the middle with \"clue,\" then ends like \"massive\" without the \"ma.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Serving to prevent, rule out, or effectively close off an option.",
+    "origin": "From Latin praecludere, meaning \"to shut off beforehand.\"",
+    "nuance": "Preclusive implies a barrier strong enough to foreclose a path, not just make it less attractive or less likely.",
+    "example": "The security review is not preclusive by itself, but it does mean we cannot credibly launch on the original date.",
+    "date": "2026-08-21",
+    "tags": [
+      "constraints",
+      "planning",
+      "decisions"
+    ]
   }
 ]
