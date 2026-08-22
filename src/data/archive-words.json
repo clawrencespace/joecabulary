@@ -5018,5 +5018,73 @@
       "planning",
       "decisions"
     ]
+  },
+  {
+    "word": "causal",
+    "pronunciation": "KAW-zuhl",
+    "ipa": "ˈkɔzəl",
+    "soundsLike": "Rhymes with \"pause all,\" but with a crisp \"k\" at the front.",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to cause and effect; actually helping explain what produced an outcome.",
+    "origin": "From Latin causa, meaning \"cause\" or \"reason.\"",
+    "nuance": "Causal is stronger than correlated. It implies a mechanism or explanatory link, not just two things moving together.",
+    "example": "I buy that the metrics moved together, but I am not convinced we have a causal story yet.",
+    "date": "2026-08-22",
+    "tags": [
+      "analysis",
+      "reasoning",
+      "data"
+    ]
+  },
+  {
+    "word": "preemptive",
+    "pronunciation": "pree-EMP-tiv",
+    "ipa": "priˈɛmptɪv",
+    "soundsLike": "Starts like \"pre\" and sounds like \"emptive\" in \"attemptive,\" with the stress on \"EMP.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Taken in advance to prevent a problem, objection, or competing move.",
+    "origin": "From Latin praeemere, meaning \"to buy before,\" later developing the sense of taking something before another can.",
+    "nuance": "Preemptive suggests getting ahead of a risk or response. It is not just early; it is strategically early.",
+    "example": "Let’s send a preemptive note to the team so nobody spins up the wrong workaround.",
+    "date": "2026-08-22",
+    "tags": [
+      "strategy",
+      "communication",
+      "planning"
+    ]
+  },
+  {
+    "word": "rigor",
+    "pronunciation": "RIG-er",
+    "ipa": "ˈrɪɡər",
+    "soundsLike": "Starts like \"rig\" and ends like \"grr\" with a soft \"er.\"",
+    "partOfSpeech": "noun",
+    "definition": "Thoroughness, discipline, and exactness in thinking or execution.",
+    "origin": "From Latin rigor, meaning \"stiffness\" or \"strictness.\"",
+    "nuance": "Rigor is about disciplined method, not performative complexity. People sometimes mistake more process for more rigor.",
+    "example": "I am fine moving fast, but I do want a little more rigor around how we are sizing the downside.",
+    "date": "2026-08-22",
+    "tags": [
+      "judgment",
+      "execution",
+      "standards"
+    ]
+  },
+  {
+    "word": "irreconcilable",
+    "pronunciation": "ih-REK-un-SIGH-luh-buhl",
+    "ipa": "ɪˌrɛkənˈsaɪləbəl",
+    "soundsLike": "Starts like \"wreck,\" then sounds like \"reconcile\" with \"uh-bull\" at the end.",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to bring into agreement or make consistent with each other.",
+    "origin": "Built from reconcile, from Latin reconciliare, with the prefix ir- marking negation.",
+    "nuance": "Irreconcilable is stronger than merely different or tense. It means the positions or facts cannot be made to fit without giving something up.",
+    "example": "If product wants flexibility and finance wants a fixed headcount target, those assumptions may be irreconcilable.",
+    "date": "2026-08-22",
+    "tags": [
+      "conflict",
+      "alignment",
+      "decision-making"
+    ]
   }
 ]
