@@ -630,5 +630,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-08-23",
+    "title": "Probative Effects",
+    "eyebrow": "Sunday No. 009 · Live",
+    "date": "August 23, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "PROBATIVE",
+        "clue": "Having real value as evidence; tending to prove or clarify something important",
+        "row": 0,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "PRECLUSIVE",
+        "clue": "Serving to prevent, rule out, or effectively close off an option",
+        "row": 0,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "ENTRENCH",
+        "clue": "To establish something so firmly that it becomes difficult to change or remove",
+        "row": 2,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "answer": "ANTIPATTERN",
+        "clue": "A common response or design move that seems useful but usually causes problems",
+        "row": 2,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "GRANULARITY",
+        "clue": "The level of detail at which something is analyzed, described, or controlled",
+        "row": 2,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "FALSIFIABLE",
+        "clue": "Able to be tested in a way that could prove it wrong",
+        "row": 3,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "PREEMPTIVE",
+        "clue": "Taken in advance to prevent a problem, objection, or competing move",
+        "row": 5,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "IRRECONCILABLE",
+        "clue": "Impossible to bring into agreement or make consistent with each other",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "STRICTURE",
+        "clue": "A restrictive condition, limit, or exacting rule",
+        "row": 9,
+        "col": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "ONEROUS",
+        "clue": "Unusually burdensome, demanding, or costly to carry out",
+        "row": 14,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
   }
 ]

@@ -5086,5 +5086,73 @@
       "alignment",
       "decision-making"
     ]
+  },
+  {
+    "word": "falsifiable",
+    "pronunciation": "FAL-suh-fy-uh-buhl",
+    "ipa": "ˈfɔlsəˌfaɪəbəl",
+    "soundsLike": "Starts like \"false,\" then sounds like \"uh-fy,\" and ends like \"a bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be tested in a way that could prove it wrong.",
+    "origin": "Built from Latin falsus, meaning \"false,\" plus the English verb-forming pattern in falsify.",
+    "nuance": "A falsifiable claim is not just debatable; it makes a prediction reality can check. People often misuse it to mean merely skeptical or hard to prove.",
+    "example": "If we are calling that a hypothesis, it should be falsifiable enough that next week’s data could actually disconfirm it.",
+    "date": "2026-08-23",
+    "tags": [
+      "reasoning",
+      "science",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "composite",
+    "pronunciation": "kuhm-PAZ-it",
+    "ipa": "kəmˈpɑzət",
+    "soundsLike": "Sounds like \"come POS it,\" with the stress on \"PAZ.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Made from multiple distinct parts or elements considered together.",
+    "origin": "From Latin componere, meaning \"to put together.\"",
+    "nuance": "Composite is useful when a number, portrait, or judgment blends inputs that should not be mistaken for a single pure thing.",
+    "example": "That dashboard is really a composite view, so I do not want us treating one score like a single ground-truth metric.",
+    "date": "2026-08-23",
+    "tags": [
+      "analysis",
+      "metrics",
+      "communication"
+    ]
+  },
+  {
+    "word": "antipattern",
+    "pronunciation": "AN-tee-PAT-ern",
+    "ipa": "ˈæntiˌpætərn",
+    "soundsLike": "Starts like \"anti\" and ends like the word \"pattern.\"",
+    "partOfSpeech": "noun",
+    "definition": "A common response or design move that seems useful but usually causes problems.",
+    "origin": "Formed in software and design discourse by analogy to pattern, with anti- marking an undesirable recurring form.",
+    "nuance": "An antipattern is more than a bad one-off idea; it is a recognizable failure mode people keep repeating because it looks attractive at first.",
+    "example": "Adding another approval layer every time we miss a target is an antipattern, not a management system.",
+    "date": "2026-08-23",
+    "tags": [
+      "engineering",
+      "management",
+      "systems"
+    ]
+  },
+  {
+    "word": "counterproductive",
+    "pronunciation": "kown-ter-pruh-DUK-tiv",
+    "ipa": "ˌkaʊntərprəˈdʌktɪv",
+    "soundsLike": "Starts like \"counter\" and ends like \"productive,\" but with the stress on \"DUK.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Having the opposite effect of the one intended.",
+    "origin": "Built from counter-, meaning \"against,\" and productive.",
+    "nuance": "Counterproductive is stronger than inefficient. It means the move actively worsens the outcome instead of merely failing to help.",
+    "example": "If the rollback process takes so long that teams stop using it, the control is becoming counterproductive.",
+    "date": "2026-08-23",
+    "tags": [
+      "strategy",
+      "execution",
+      "judgment"
+    ]
   }
 ]
