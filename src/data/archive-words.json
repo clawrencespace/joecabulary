@@ -5154,5 +5154,73 @@
       "execution",
       "judgment"
     ]
+  },
+  {
+    "word": "discreet",
+    "pronunciation": "dih-SKREET",
+    "ipa": "dɪˈskrit",
+    "soundsLike": "Rhymes with \"repeat\" and starts like the first syllable of \"dismiss.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Careful and restrained, especially in handling sensitive information or delicate situations.",
+    "origin": "From Latin discretus, meaning \"separate\" or \"discerned,\" later developing the sense of showing judgment and tact.",
+    "nuance": "Discreet is about tact and careful handling, not size or separation. People often confuse it with discrete, which means distinct or separate.",
+    "example": "I want to be discreet about the org discussion until we have actually decided what we are doing.",
+    "date": "2026-08-24",
+    "tags": [
+      "communication",
+      "leadership",
+      "judgment"
+    ]
+  },
+  {
+    "word": "nontrivial",
+    "pronunciation": "nahn-TRIV-ee-uhl",
+    "ipa": "ˌnɑnˈtrɪviəl",
+    "soundsLike": "Starts like \"non\" and then sounds like \"trivia\" with an l at the end.",
+    "partOfSpeech": "adjective",
+    "definition": "Significant enough to matter; not minor, obvious, or easy to dismiss.",
+    "origin": "Built from Latin trivialis, meaning \"common\" or \"ordinary,\" with non- marking the opposite.",
+    "nuance": "Nontrivial does not just mean complicated. It usually signals that something has real weight, consequence, or difficulty and should not be waved away.",
+    "example": "There is nontrivial execution risk here, so I do not want us treating this like a routine dependency.",
+    "date": "2026-08-24",
+    "tags": [
+      "analysis",
+      "risk",
+      "execution"
+    ]
+  },
+  {
+    "word": "inapt",
+    "pronunciation": "in-APT",
+    "ipa": "ɪnˈæpt",
+    "soundsLike": "Sounds like \"in\" plus \"apt,\" with the stress on \"apt.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Poorly suited to the purpose or situation; not fitting.",
+    "origin": "From Latin aptus, meaning \"fit\" or \"suitable,\" with in- marking negation.",
+    "nuance": "Inapt is more precise than awkward or wrong. It means the choice does not match the context, whether that is a metaphor, tool, process, or response.",
+    "example": "Calling that a staffing problem feels inapt when the real issue is decision latency.",
+    "date": "2026-08-24",
+    "tags": [
+      "reasoning",
+      "communication",
+      "fit"
+    ]
+  },
+  {
+    "word": "imprudent",
+    "pronunciation": "im-PROO-dent",
+    "ipa": "ɪmˈprudənt",
+    "soundsLike": "Starts like \"improve\" and ends like \"dent,\" with the stress on \"PROO.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Showing poor judgment by failing to account for likely risk or consequence.",
+    "origin": "From Latin prudentia, meaning \"foresight\" or \"practical wisdom,\" with im- marking its absence.",
+    "nuance": "Imprudent is stronger than merely aggressive or optimistic. It suggests a choice a careful person should recognize as unwise given foreseeable downside.",
+    "example": "It would be imprudent to promise that date before we have even pressure-tested the migration path.",
+    "date": "2026-08-24",
+    "tags": [
+      "judgment",
+      "strategy",
+      "decision-making"
+    ]
   }
 ]
