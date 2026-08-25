@@ -5222,5 +5222,73 @@
       "strategy",
       "decision-making"
     ]
+  },
+  {
+    "word": "vexed",
+    "pronunciation": "VEKST",
+    "ipa": "vɛkst",
+    "soundsLike": "Rhymes with \"next\" and starts like \"vet.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Difficult and persistently disputed, especially in a way that resists a clean solution.",
+    "origin": "From Latin vexare, \"to shake or harass,\" which evolved into the sense of something troublesome or deeply problematic.",
+    "nuance": "Vexed does not just mean annoying. It usually describes an issue that is both hard and contested, with smart people still arguing about it.",
+    "example": "Vendor consolidation is still a vexed question because the savings are real but the migration cost is not hypothetical.",
+    "date": "2026-08-25",
+    "tags": [
+      "strategy",
+      "analysis",
+      "judgment"
+    ]
+  },
+  {
+    "word": "qualified",
+    "pronunciation": "KWAHL-uh-fyd",
+    "ipa": "ˈkwɑləˌfaɪd",
+    "soundsLike": "Starts like \"quality\" without the t and ends like \"fied\" in \"certified.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Limited, conditional, or true only with important reservations.",
+    "origin": "From Latin qualis, \"of what kind,\" via qualify, originally meaning to modify or assign a particular character.",
+    "nuance": "Qualified often means not absolute. A qualified yes is not full endorsement, and a qualified success means the result came with real caveats.",
+    "example": "I am a qualified yes on the rollout, but only if we tighten the rollback plan first.",
+    "date": "2026-08-25",
+    "tags": [
+      "communication",
+      "decision-making",
+      "precision"
+    ]
+  },
+  {
+    "word": "attenuated",
+    "pronunciation": "uh-TEN-yoo-ay-tid",
+    "ipa": "əˈtɛnjuˌeɪtɪd",
+    "soundsLike": "Starts like \"a ten\" and ends like \"you ate it.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Reduced in force, thickness, or directness; weakened or stretched thin.",
+    "origin": "From Latin attenuare, \"to make thin,\" built from ad- plus tenuis, \"thin.\"",
+    "nuance": "Attenuated is useful when a connection still exists but is weaker, more indirect, or less persuasive than it first appears.",
+    "example": "The link between that metric and actual customer value feels pretty attenuated once you unpack the assumptions.",
+    "date": "2026-08-25",
+    "tags": [
+      "reasoning",
+      "metrics",
+      "analysis"
+    ]
+  },
+  {
+    "word": "speculative",
+    "pronunciation": "SPEK-yuh-luh-tiv",
+    "ipa": "ˈspɛkjələtɪv",
+    "soundsLike": "Starts like \"spec\" and then sounds like \"you luh tiv.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Based more on conjecture than on firm evidence or confirmed fact.",
+    "origin": "From Latin speculari, \"to observe or look out,\" later developing the sense of reflecting, theorizing, or venturing beyond what is known.",
+    "nuance": "Speculative is not the same as false. It marks a claim, forecast, or rationale as not yet well grounded and therefore not something to treat as settled.",
+    "example": "That revenue upside is still speculative, so I do not want it carrying the case for the project.",
+    "date": "2026-08-25",
+    "tags": [
+      "forecasting",
+      "evidence",
+      "strategy"
+    ]
   }
 ]
