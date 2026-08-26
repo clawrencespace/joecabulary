@@ -5290,5 +5290,73 @@
       "evidence",
       "strategy"
     ]
+  },
+  {
+    "word": "capricious",
+    "pronunciation": "kuh-PRISH-us",
+    "ipa": "kəˈprɪʃəs",
+    "soundsLike": "Starts like \"cup\" without the p, then rhymes loosely with \"wish us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Given to sudden, unpredictable changes with little clear rationale.",
+    "origin": "From Italian capriccio, meaning a sudden fancy or whim.",
+    "nuance": "Capricious suggests arbitrariness, not just speed. A fast decision can still be principled; a capricious one feels whimsical or unevenly applied.",
+    "example": "If approval criteria shift from team to team, the process starts to feel capricious instead of rigorous.",
+    "date": "2026-08-26",
+    "tags": [
+      "judgment",
+      "governance",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "de minimis",
+    "pronunciation": "dee MIN-uh-miss",
+    "ipa": "di ˈmɪnɪmɪs",
+    "soundsLike": "Sounds like \"dee MIN ih miss.\"",
+    "partOfSpeech": "adjective",
+    "definition": "So minor or trivial that it does not meaningfully matter.",
+    "origin": "From the Latin phrase de minimis, short for de minimis non curat lex, \"the law does not concern itself with trifles.\"",
+    "nuance": "Use de minimis for impacts that are genuinely negligible, not merely small. It implies the item is below the threshold of practical concern.",
+    "example": "The hosting increase is de minimis relative to the engineering time we would save.",
+    "date": "2026-08-26",
+    "tags": [
+      "finance",
+      "judgment",
+      "prioritization"
+    ]
+  },
+  {
+    "word": "coherent",
+    "pronunciation": "koh-HEER-unt",
+    "ipa": "koʊˈhɪrənt",
+    "soundsLike": "Starts like \"go\" with a k sound and ends a bit like \"hear\" plus \"ent.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Logical, clear, and internally consistent enough to hold together as a whole.",
+    "origin": "From Latin cohaerere, \"to stick together,\" via the idea of parts that fit into a unified whole.",
+    "nuance": "Coherent is stronger than clear. A point can be easy to understand but still not cohere once you test the logic across the whole argument or plan.",
+    "example": "I can work with a hard tradeoff, but I need the rollout story to be coherent from staffing through support.",
+    "date": "2026-08-26",
+    "tags": [
+      "communication",
+      "strategy",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "frivolous",
+    "pronunciation": "FRIV-uh-lus",
+    "ipa": "ˈfrɪvələs",
+    "soundsLike": "Starts like \"frizz\" without the z and ends like \"of us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking seriousness, substance, or practical merit.",
+    "origin": "From Latin frivolus, meaning broken down or trifling, later developing the sense of something insubstantial.",
+    "nuance": "Frivolous is not just playful. In professional, legal, or analytical settings it usually means a claim, objection, or effort is too weak to merit serious consideration.",
+    "example": "If we cannot tie the request to a real customer problem, it starts to look frivolous no matter how excited people are about it.",
+    "date": "2026-08-26",
+    "tags": [
+      "rhetoric",
+      "judgment",
+      "analysis"
+    ]
   }
 ]
