@@ -5358,5 +5358,73 @@
       "judgment",
       "analysis"
     ]
+  },
+  {
+    "word": "apposite",
+    "pronunciation": "AP-uh-zit",
+    "ipa": "ˈæpəzɪt",
+    "soundsLike": "Starts like \"app\" and ends like the \"osite\" in \"composite\" without the \"com.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Especially relevant, well chosen, and appropriate to the matter at hand.",
+    "origin": "From Latin apponere, \"to place near,\" via the idea of something fitting a context closely.",
+    "nuance": "Apposite is stronger than merely relevant; it suggests a point or example lands neatly and precisely. It is often confused with opposite because of the spelling.",
+    "example": "His point about support load was apposite because the whole rollout hinges on who absorbs the edge cases.",
+    "date": "2026-08-27",
+    "tags": [
+      "communication",
+      "judgment",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "colorable",
+    "pronunciation": "KUL-er-uh-bul",
+    "ipa": "ˈkʌlərəbəl",
+    "soundsLike": "Sounds like \"color\" plus \"a bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Appearing valid or plausible on the surface, whether or not it ultimately holds up.",
+    "origin": "From color in the sense of an outward appearance or pretext, later shaped in legal English.",
+    "nuance": "Colorable does not mean vivid or stylistic here. It usually means there is at least a superficially defensible case, often one that may weaken under scrutiny.",
+    "example": "There is a colorable argument for keeping the old flow, but it gets much thinner once you look at the maintenance cost.",
+    "date": "2026-08-27",
+    "tags": [
+      "analysis",
+      "legal",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "salutary",
+    "pronunciation": "SAL-yuh-ter-ee",
+    "ipa": "ˈsæljəˌtɛri",
+    "soundsLike": "Starts like \"salute\" without the t sound and ends like \"terry.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Producing a beneficial or corrective effect.",
+    "origin": "From Latin salutaris, \"healthful\" or \"beneficial,\" from salus meaning health or well-being.",
+    "nuance": "Salutary often implies the benefit comes through correction, restraint, or a useful wake-up call, not just something pleasant or helpful.",
+    "example": "The incident review was salutary because it forced us to separate the real reliability work from the comforting theater.",
+    "date": "2026-08-27",
+    "tags": [
+      "leadership",
+      "learning",
+      "governance"
+    ]
+  },
+  {
+    "word": "practicable",
+    "pronunciation": "PRAK-ti-kuh-bul",
+    "ipa": "ˈpræktɪkəbəl",
+    "soundsLike": "Sounds like \"practical\" with a b sound near the end: \"PRAK-tick-a-bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being done or carried out in reality.",
+    "origin": "From practical, ultimately from Greek praktikos, tied to action and doing.",
+    "nuance": "Practicable is about feasibility, while practical often implies usefulness, efficiency, or good judgment. A plan can be practicable without being practical.",
+    "example": "A full migration this quarter is technically practicable, but I am not convinced it is practical given the team we have.",
+    "date": "2026-08-27",
+    "tags": [
+      "execution",
+      "strategy",
+      "operations"
+    ]
   }
 ]
