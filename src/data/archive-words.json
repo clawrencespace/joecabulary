@@ -5426,5 +5426,73 @@
       "strategy",
       "operations"
     ]
+  },
+  {
+    "word": "cognizable",
+    "pronunciation": "KOG-nuh-zye-zuh-bul",
+    "ipa": "ˈkɑɡnəˌzaɪzəbəl",
+    "soundsLike": "Starts like \"cog\" and \"nuh,\" then rhymes with \"sizeable.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being recognized, understood, or treated as a real and distinct matter.",
+    "origin": "From Latin cognoscere, \"to get to know,\" through legal and formal English.",
+    "nuance": "Cognizable is stronger than noticeable; it suggests something is concrete enough to identify or formally consider. It is often used in legal or analytical contexts, not as a synonym for cognitive.",
+    "example": "If the new workflow does not create a cognizable benefit for users, it is probably just internal tidiness dressed up as strategy.",
+    "date": "2026-08-28",
+    "tags": [
+      "analysis",
+      "judgment",
+      "legal"
+    ]
+  },
+  {
+    "word": "redound",
+    "pronunciation": "rih-DOWND",
+    "ipa": "rɪˈdaʊnd",
+    "soundsLike": "Rhymes with \"rebound\" without the b sound.",
+    "partOfSpeech": "verb",
+    "definition": "To result in or contribute to a particular outcome, especially a benefit or credit.",
+    "origin": "From Latin redundare, \"to overflow,\" which later developed into the idea of effects flowing back to someone or something.",
+    "nuance": "Redound usually appears with to, as in \"redound to our benefit.\" It sounds more deliberate and consequential than simply saying lead to or help.",
+    "example": "A calmer on-call rotation will redound to the team’s judgment because people stop making tired decisions at the margins.",
+    "date": "2026-08-28",
+    "tags": [
+      "leadership",
+      "outcomes",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "inhere",
+    "pronunciation": "in-HEER",
+    "ipa": "ɪnˈhɪr",
+    "soundsLike": "Sounds like \"in here\" said quickly.",
+    "partOfSpeech": "verb",
+    "definition": "To exist as a natural, essential, or permanent quality within something.",
+    "origin": "From Latin inhaerere, \"to stick in\" or \"cling to.\"",
+    "nuance": "Inhere is useful when a trait belongs to the thing itself, not just to current circumstances. It helps separate intrinsic risk or value from temporary noise.",
+    "example": "Some complexity does not come from sloppy execution; it inheres in the product once you support that many edge cases.",
+    "date": "2026-08-28",
+    "tags": [
+      "systems",
+      "analysis",
+      "precision"
+    ]
+  },
+  {
+    "word": "imbricated",
+    "pronunciation": "IM-bri-kay-tid",
+    "ipa": "ˈɪmbrəˌkeɪtəd",
+    "soundsLike": "Starts like \"imbro\" without the o and ends like \"catered\" with a k sound: \"IM-bri-kay-tid.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Overlapping in a layered, interlocking way.",
+    "origin": "From Latin imbrex, a roof tile, through the image of tiles laid over one another.",
+    "nuance": "Imbricated is more structural than intertwined; it suggests distinct layers that partially overlap rather than a total tangle. It is especially useful for org, policy, or system dependencies.",
+    "example": "Our permissions model and billing logic are too imbricated, which is why every pricing change drags a product review behind it.",
+    "date": "2026-08-28",
+    "tags": [
+      "architecture",
+      "organization",
+      "systems"
+    ]
   }
 ]
