@@ -5494,5 +5494,73 @@
       "organization",
       "systems"
     ]
+  },
+  {
+    "word": "desideratum",
+    "pronunciation": "dih-sid-uh-RAH-tum",
+    "ipa": "dɪˌsɪdəˈrɑtəm",
+    "soundsLike": "Starts like \"decider\" without the r and ends a bit like \"raw-tum.\"",
+    "partOfSpeech": "noun",
+    "definition": "Something that is needed, wanted, or especially worth having.",
+    "origin": "From Latin desiderare, \"to long for\" or \"desire.\"",
+    "nuance": "A desideratum is more than a nice-to-have; it suggests a genuinely important requirement or advantage. It is stronger and more precise than saying goal or wish list item.",
+    "example": "A clean audit trail is not polish at this point; it is a desideratum if we want this rollout to scale sanely.",
+    "date": "2026-08-29",
+    "tags": [
+      "strategy",
+      "priorities",
+      "requirements"
+    ]
+  },
+  {
+    "word": "penumbra",
+    "pronunciation": "puh-NUM-bruh",
+    "ipa": "pəˈnʌmbrə",
+    "soundsLike": "Sounds like \"puh\" plus \"number\" without the er at the end.",
+    "partOfSpeech": "noun",
+    "definition": "A partial shadow or, more broadly, an area of uncertainty or indirect effect around something clearer.",
+    "origin": "From Latin paene, \"almost,\" plus umbra, \"shadow.\"",
+    "nuance": "Penumbra is useful for the fuzzy edge around a core issue: secondary implications, gray-area obligations, or collateral effects. It is more structured than just saying blur or spillover.",
+    "example": "The decision itself is simple; the penumbra of support tickets, edge cases, and pricing exceptions is where the real cost lives.",
+    "date": "2026-08-29",
+    "tags": [
+      "analysis",
+      "risk",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "supervene",
+    "pronunciation": "soo-per-VEEN",
+    "ipa": "ˌsupərˈvin",
+    "soundsLike": "Sounds like \"super\" followed by \"veen,\" like the end of \"intervene.\"",
+    "partOfSpeech": "verb",
+    "definition": "To occur afterward as an additional development, often changing the situation.",
+    "origin": "From Latin supervenire, \"to come over\" or \"come in addition.\"",
+    "nuance": "Supervene is handy when a later event lands on top of an existing plan or condition. It is more precise than happen because it preserves the sense of sequence and complication.",
+    "example": "The migration plan was reasonable until a billing dependency supervened and turned a tidy cutover into a cross-team project.",
+    "date": "2026-08-29",
+    "tags": [
+      "systems",
+      "causality",
+      "planning"
+    ]
+  },
+  {
+    "word": "telescoping",
+    "pronunciation": "TEL-uh-skoh-ping",
+    "ipa": "ˈtɛləˌskoʊpɪŋ",
+    "soundsLike": "Sounds like \"telescope\" with an ing ending.",
+    "partOfSpeech": "adjective",
+    "definition": "Compressed so that separate stages or intervals are pushed closer together.",
+    "origin": "From telescope, by analogy to segments sliding into one another.",
+    "nuance": "Telescoping usually describes time, steps, or layers being collapsed together. It is more exact than accelerated because it implies compression of sequence, not just greater speed.",
+    "example": "We are telescoping discovery, implementation, and rollout into one quarter, so the coordination burden is going to show up fast.",
+    "date": "2026-08-29",
+    "tags": [
+      "execution",
+      "time",
+      "operations"
+    ]
   }
 ]
