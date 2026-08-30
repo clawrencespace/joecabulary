@@ -5562,5 +5562,73 @@
       "time",
       "operations"
     ]
+  },
+  {
+    "word": "tripartite",
+    "pronunciation": "try-PAR-tight",
+    "ipa": "traɪˈpɑrˌtaɪt",
+    "soundsLike": "Sounds like \"try\" plus \"part\" plus \"tight.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Involving three parties, groups, or parts.",
+    "origin": "From Latin tri-, \"three,\" plus partitus, \"divided\" or \"shared.\"",
+    "nuance": "More precise and formal than just saying three-way. It works best when the three sides are distinct stakeholders, not merely three items in a list.",
+    "example": "This is basically a tripartite negotiation between product, legal, and the partner team.",
+    "date": "2026-08-30",
+    "tags": [
+      "strategy",
+      "organization",
+      "coordination"
+    ]
+  },
+  {
+    "word": "bellwether",
+    "pronunciation": "BEL-weth-er",
+    "ipa": "ˈbɛlˌwɛðər",
+    "soundsLike": "Sounds like \"bell\" followed by \"weather\" with a th sound.",
+    "partOfSpeech": "noun",
+    "definition": "A leading indicator or trendsetter that signals where things are headed.",
+    "origin": "Originally the lead sheep wearing a bell; from bell plus wether, a castrated ram.",
+    "nuance": "Use it for a useful signal, not just any example. A bellwether points ahead; it is stronger than saying symptom or data point.",
+    "example": "Support volume from our earliest enterprise accounts is a bellwether for how messy this rollout could get.",
+    "date": "2026-08-30",
+    "tags": [
+      "analysis",
+      "signals",
+      "forecasting"
+    ]
+  },
+  {
+    "word": "exculpatory",
+    "pronunciation": "ek-SKUHL-puh-tor-ee",
+    "ipa": "ɪkˈskʌlpəˌtɔri",
+    "soundsLike": "Starts like \"excuse\" without the z sound and ends a bit like \"puh-tory.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Tending to clear someone from blame or guilt.",
+    "origin": "From Late Latin exculpare, \"to clear from blame,\" built from ex-, \"out of,\" plus culpa, \"fault.\"",
+    "nuance": "Most useful for evidence, facts, or context that materially reduce culpability. It is more exact than saying helpful or vindicating.",
+    "example": "The audit logs were exculpatory; they showed the bad write happened before our service ever touched the record.",
+    "date": "2026-08-30",
+    "tags": [
+      "evidence",
+      "risk",
+      "accountability"
+    ]
+  },
+  {
+    "word": "pathology",
+    "pronunciation": "puh-THOL-uh-jee",
+    "ipa": "pəˈθɑlədʒi",
+    "soundsLike": "Sounds like \"puh\" plus \"thaw\" plus \"luh-jee.\"",
+    "partOfSpeech": "noun",
+    "definition": "The study of disease or, by extension, a characteristic pattern of dysfunction.",
+    "origin": "From Greek pathos, \"suffering\" or \"disease,\" plus -logia, \"study.\"",
+    "nuance": "Outside medicine, pathology names a recurring unhealthy pattern in a system or culture, not just a one-off problem. It is sharper than bug, issue, or drama.",
+    "example": "The real pathology is that every priority change bypasses the same planning process we say matters.",
+    "date": "2026-08-30",
+    "tags": [
+      "systems",
+      "culture",
+      "diagnosis"
+    ]
   }
 ]

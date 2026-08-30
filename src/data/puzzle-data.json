@@ -719,5 +719,62 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-08-30",
+    "title": "Cognizable Effects",
+    "eyebrow": "Sunday No. 010 · Live",
+    "date": "August 30, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "COGNIZABLE",
+        "clue": "Capable of being recognized, understood, or treated as a real and distinct matter",
+        "row": 1,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "DESIDERATUM",
+        "clue": "Something that is needed, wanted, or especially worth having",
+        "row": 2,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "CAPRICIOUS",
+        "clue": "Given to sudden, unpredictable changes with little clear rationale",
+        "row": 2,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "SPECULATIVE",
+        "clue": "Based more on conjecture than on firm evidence or confirmed fact",
+        "row": 2,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "TRIPARTITE",
+        "clue": "Involving three parties, groups, or parts",
+        "row": 2,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "EXCULPATORY",
+        "clue": "Tending to clear someone from blame or guilt",
+        "row": 7,
+        "col": 2,
+        "direction": "across"
+      }
+    ]
   }
 ]
