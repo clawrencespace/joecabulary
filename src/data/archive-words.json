@@ -5630,5 +5630,73 @@
       "culture",
       "diagnosis"
     ]
+  },
+  {
+    "word": "disinterested",
+    "pronunciation": "dis-IN-tuh-rest-id",
+    "ipa": "dɪsˈɪntrəstɪd",
+    "soundsLike": "Starts like \"this\" with a d sound, then \"interest\" with the stress on IN.",
+    "partOfSpeech": "adjective",
+    "definition": "Impartial and not influenced by personal advantage.",
+    "origin": "Built from dis- plus interested; it originally meant free from self-interest, not bored.",
+    "nuance": "A classic misuse is treating it as a fancy synonym for uninterested. Disinterested means unbiased; uninterested means not curious or engaged.",
+    "example": "I want a disinterested read on this plan from someone who is not attached to the org chart.",
+    "date": "2026-08-31",
+    "tags": [
+      "judgment",
+      "governance",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "amenable",
+    "pronunciation": "uh-MEE-nuh-buhl",
+    "ipa": "əˈminəbəl",
+    "soundsLike": "Sounds like \"uh\" plus \"mean\" plus \"uh-bull.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Open to suggestion or suited to a particular treatment or approach.",
+    "origin": "From Latin minari, \"to drive,\" by way of Old French and legal English, eventually taking the sense of being answerable or responsive.",
+    "nuance": "It often means receptive rather than enthusiastic. It can also mean compatible with a method, as in data or systems being amenable to analysis or change.",
+    "example": "This service is much more amenable to incremental refactoring than a full rewrite.",
+    "date": "2026-08-31",
+    "tags": [
+      "collaboration",
+      "engineering",
+      "strategy"
+    ]
+  },
+  {
+    "word": "fulsome",
+    "pronunciation": "FUHL-suhm",
+    "ipa": "ˈfʊlsəm",
+    "soundsLike": "Sounds like \"full\" plus \"some.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively flattering, elaborate, or overdone.",
+    "origin": "From Middle English fulsom, related to full; the older sense carried the idea of offensive excess.",
+    "nuance": "People often use it to mean generous or comprehensive, but its sharper sense is too much, especially in praise. That caution makes it useful when tone matters.",
+    "example": "The note was appreciative without getting fulsome, which is exactly where it should have landed.",
+    "date": "2026-08-31",
+    "tags": [
+      "communication",
+      "tone",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "supersede",
+    "pronunciation": "soo-per-SEED",
+    "ipa": "ˌsupərˈsid",
+    "soundsLike": "Sounds like \"super\" plus \"seed.\"",
+    "partOfSpeech": "verb",
+    "definition": "To replace or take the place of something older, weaker, or less suitable.",
+    "origin": "From Latin supersedere, \"to sit above\" or \"refrain from,\" later developing the sense of replacing.",
+    "nuance": "Use it when one thing formally or functionally displaces another, not just when it comes later in time. The spelling is famously with s-e-d-e, not supercede.",
+    "example": "The new approval flow should supersede the spreadsheet workaround instead of living beside it forever.",
+    "date": "2026-08-31",
+    "tags": [
+      "decision-making",
+      "process",
+      "precision"
+    ]
   }
 ]
