@@ -5698,5 +5698,73 @@
       "process",
       "precision"
     ]
+  },
+  {
+    "word": "actionable",
+    "pronunciation": "AK-shuh-nuh-buhl",
+    "ipa": "ˈækʃənəbəl",
+    "soundsLike": "Starts like \"action\" and ends like \"able.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Specific enough to support a concrete next step or response.",
+    "origin": "From action plus -able; business and legal English popularized it for claims, insights, and feedback that justify action.",
+    "nuance": "People use it too loosely for anything interesting or important. Actionable should imply a clear basis for doing something, not just that a topic deserves more discussion.",
+    "example": "The review surfaced a few actionable fixes, but most of the feedback was still too abstract.",
+    "date": "2026-09-01",
+    "tags": [
+      "management",
+      "decision-making",
+      "communication"
+    ]
+  },
+  {
+    "word": "nonplussed",
+    "pronunciation": "non-PLUHST",
+    "ipa": "ˌnɑnˈplʌst",
+    "soundsLike": "Sounds like \"non\" plus \"plussed,\" with the second part rhyming with \"thrust.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Surprised, confused, or momentarily unsure how to respond.",
+    "origin": "From Latin non plus, \"no more,\" via the idea of being brought to a point where you cannot go further.",
+    "nuance": "A common misuse is to treat it as meaning unfazed or unbothered. It actually means perplexed or at a loss, even if only briefly.",
+    "example": "I was a little nonplussed when the vendor treated a prototype like a committed roadmap.",
+    "date": "2026-09-01",
+    "tags": [
+      "emotion",
+      "meetings",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "vacuous",
+    "pronunciation": "VAK-yoo-uhs",
+    "ipa": "ˈvækjuəs",
+    "soundsLike": "Starts like \"vacuum\" and ends like \"us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking real substance, intelligence, or meaningful content.",
+    "origin": "From Latin vacuus, \"empty.\"",
+    "nuance": "Use it for statements, expressions, or claims that sound polished but carry little thought. It is sharper than vague because it implies emptiness, not just imprecision.",
+    "example": "The memo sounded confident, but the central recommendation was still vacuous.",
+    "date": "2026-09-01",
+    "tags": [
+      "critique",
+      "writing",
+      "analysis"
+    ]
+  },
+  {
+    "word": "redolent",
+    "pronunciation": "RED-uh-luhnt",
+    "ipa": "ˈrɛdələnt",
+    "soundsLike": "Sounds like \"red\" plus \"uh-lent.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Strongly suggestive of something; often also literally fragrant or evocative in smell.",
+    "origin": "From Latin redolere, \"to emit a scent,\" later broadened to mean suggestive or reminiscent.",
+    "nuance": "In modern use it often means evocative of a mood, style, or influence rather than literally scented. It is useful when something carries the feel of another thing without being identical to it.",
+    "example": "The whole pitch was redolent of late-stage consultant jargon, which made me trust it less.",
+    "date": "2026-09-01",
+    "tags": [
+      "culture",
+      "tone",
+      "description"
+    ]
   }
 ]
