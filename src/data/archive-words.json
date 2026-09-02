@@ -5766,5 +5766,73 @@
       "tone",
       "description"
     ]
+  },
+  {
+    "word": "recalcitrant",
+    "pronunciation": "rih-KAL-suh-truhnt",
+    "ipa": "rɪˈkælsɪtrənt",
+    "soundsLike": "Starts like \"re\" plus \"CAL,\" then ends a bit like \"itrant\" in \"it ran.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Stubbornly resistant to control, direction, or correction.",
+    "origin": "From Latin recalcitrare, \"to kick back,\" which is exactly the image the word still carries.",
+    "nuance": "Use it for people, teams, vendors, or systems that resist reasonable change. It is stronger and more willful than merely difficult or buggy.",
+    "example": "The integration is still recalcitrant, so we should stop pretending one more config tweak will fix it.",
+    "date": "2026-09-02",
+    "tags": [
+      "systems",
+      "management",
+      "problem-solving"
+    ]
+  },
+  {
+    "word": "censorious",
+    "pronunciation": "sen-SOR-ee-uhs",
+    "ipa": "sɛnˈsɔriəs",
+    "soundsLike": "Sounds like \"sense\" without the final s, then \"SOR-ee-us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Harshly critical, especially in a moralizing or fault-finding way.",
+    "origin": "From Latin censere, \"to assess or judge,\" through censor and censure.",
+    "nuance": "It is not just critical. Censorious implies a scolding, superior, or overly condemnatory tone that can shut down useful discussion.",
+    "example": "I want the review to be rigorous, not censorious, or people will optimize for self-protection instead of clarity.",
+    "date": "2026-09-02",
+    "tags": [
+      "rhetoric",
+      "feedback",
+      "leadership"
+    ]
+  },
+  {
+    "word": "plenary",
+    "pronunciation": "PLEE-nuh-ree",
+    "ipa": "ˈplinəri",
+    "soundsLike": "Starts like \"plea\" and ends like \"nary.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Complete or full; involving everyone in a conference, council, or decision-making body.",
+    "origin": "From Latin plenarius, from plenus, \"full.\"",
+    "nuance": "Most often used for a full-session meeting rather than a breakout, or for authority that is complete rather than partial. It sounds formal but is still practical in executive and board contexts.",
+    "example": "Let’s save that call for the plenary session instead of relitigating it in five side conversations.",
+    "date": "2026-09-02",
+    "tags": [
+      "meetings",
+      "governance",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "liminal",
+    "pronunciation": "LIM-uh-nuhl",
+    "ipa": "ˈlɪmənəl",
+    "soundsLike": "Sounds like \"limb\" without the b, then \"uh-nuhl.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to a threshold or transitional state; between one condition and another.",
+    "origin": "From Latin limen, \"threshold.\"",
+    "nuance": "It is useful for phases, spaces, or moments that are not fully one thing or another yet. People sometimes use it as a vague aesthetic label; its strongest use is for real transition.",
+    "example": "We’re in that liminal stretch where the org chart is changing faster than the actual operating model.",
+    "date": "2026-09-02",
+    "tags": [
+      "strategy",
+      "change",
+      "culture"
+    ]
   }
 ]
