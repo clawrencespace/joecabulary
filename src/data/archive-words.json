@@ -5834,5 +5834,73 @@
       "change",
       "culture"
     ]
+  },
+  {
+    "word": "prudential",
+    "pronunciation": "proo-DEN-shuhl",
+    "ipa": "pruˈdɛnʃəl",
+    "soundsLike": "Starts like \"prude\" without the d sound hanging around, then \"DEN-shuhl\" like \"credential\" without the \"creh.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Guided by practical caution, judgment, or long-term risk awareness.",
+    "origin": "From Latin prudentia, meaning foresight or practical wisdom; same root as prudence.",
+    "nuance": "Use it for decisions shaped by sound judgment rather than fear. It is more strategic and defensible than simply conservative or risk-averse.",
+    "example": "Pausing the rollout for one more week feels prudential, not timid, given how much customer traffic is about to hit the system.",
+    "date": "2026-09-03",
+    "tags": [
+      "leadership",
+      "strategy",
+      "risk"
+    ]
+  },
+  {
+    "word": "dilatory",
+    "pronunciation": "DIL-uh-tor-ee",
+    "ipa": "ˈdɪləˌtɔri",
+    "soundsLike": "Starts like \"dill,\" then \"uh,\" then \"TOR-ee\" like the end of \"territory.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Slow in a way that causes avoidable delay.",
+    "origin": "From Latin differre and dilatorius, tied to putting something off or spreading it out over time.",
+    "nuance": "It usually carries blame. A process can be slow without being dilatory; this word implies needless stalling, drift, or foot-dragging.",
+    "example": "Legal review needs to be thorough, but this has become dilatory and it is starting to block obvious decisions.",
+    "date": "2026-09-03",
+    "tags": [
+      "execution",
+      "process",
+      "management"
+    ]
+  },
+  {
+    "word": "assiduous",
+    "pronunciation": "uh-SIJ-oo-uhs",
+    "ipa": "əˈsɪdʒuəs",
+    "soundsLike": "Starts with \"uh,\" then sounds like \"SID you us.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Showing steady, careful, persistent effort.",
+    "origin": "From Latin assiduus, meaning constantly present or continually engaged.",
+    "nuance": "It is diligence with staying power. Use it for effort that is consistent and attentive, not flashy. It is warmer and more human than merely disciplined.",
+    "example": "She has been assiduous about tightening the onboarding funnel, and the gains are finally compounding.",
+    "date": "2026-09-03",
+    "tags": [
+      "work",
+      "performance",
+      "discipline"
+    ]
+  },
+  {
+    "word": "demotic",
+    "pronunciation": "dih-MAH-tik",
+    "ipa": "dɪˈmɑtɪk",
+    "soundsLike": "Starts like \"duh\" or \"dih,\" then \"MAH-tik\" like the end of \"dramatic\" with a k sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Plain, everyday, or of the common people rather than formal or elite.",
+    "origin": "From Greek demotikos, from demos, meaning the people.",
+    "nuance": "Use it for language, style, or tone that feels ordinary and accessible. It is not the same as sloppy; demotic language can still be precise and effective.",
+    "example": "The product story got better once we dropped the platform jargon and used more demotic language about what the feature actually saves people.",
+    "date": "2026-09-03",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "culture"
+    ]
   }
 ]
