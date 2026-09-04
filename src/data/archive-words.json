@@ -5902,5 +5902,73 @@
       "rhetoric",
       "culture"
     ]
+  },
+  {
+    "word": "composable",
+    "pronunciation": "kuhm-POH-zuh-buhl",
+    "ipa": "kəmˈpoʊzəbəl",
+    "soundsLike": "Starts like \"come,\" then \"POSE,\" and ends like \"uh-bull\" as in \"comfortable\" without the \"fort.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be assembled from smaller parts that work well together.",
+    "origin": "Built from compose, from Latin componere, meaning to put together.",
+    "nuance": "Use it for systems, teams, or tools designed for clean recombination, not just anything modular on paper. A product can have many parts without being truly composable.",
+    "example": "The API is finally composable enough that different teams can build on it without waiting on a giant platform rewrite.",
+    "date": "2026-09-04",
+    "tags": [
+      "technology",
+      "architecture",
+      "product"
+    ]
+  },
+  {
+    "word": "fiduciary",
+    "pronunciation": "fih-DOO-shee-air-ee",
+    "ipa": "fəˈduʃiˌɛri",
+    "soundsLike": "Starts like \"fih,\" then \"DOO,\" then sounds like \"she airy.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to a duty to act in someone else's best interests with trust and care.",
+    "origin": "From Latin fiducia, meaning trust or confidence.",
+    "nuance": "It is stronger than merely responsible or ethical; it implies a formal duty of loyalty and care. People often use it loosely for any careful stewardship, but the word carries a real obligation.",
+    "example": "If we are handling customer data at that scale, we should think about the product with a fiduciary mindset, not just a growth mindset.",
+    "date": "2026-09-04",
+    "tags": [
+      "leadership",
+      "ethics",
+      "governance"
+    ]
+  },
+  {
+    "word": "doctrinaire",
+    "pronunciation": "dok-truh-NAIR",
+    "ipa": "ˌdɑktrəˈnɛr",
+    "soundsLike": "Starts like \"doctor,\" then ends like \"nair\" as in the hair-removal brand.",
+    "partOfSpeech": "adjective",
+    "definition": "Rigidly attached to a doctrine or theory, especially without enough regard for real-world complexity.",
+    "origin": "From French doctrinaire, from doctrine; originally tied to people arguing from fixed principles.",
+    "nuance": "Use it when someone is being rule-bound or ideological in a way that stops useful adaptation. It is sharper than principled because it suggests inflexibility rather than integrity.",
+    "example": "The architecture review got doctrinaire fast, like people were defending a school of thought instead of solving the problem in front of us.",
+    "date": "2026-09-04",
+    "tags": [
+      "strategy",
+      "culture",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "epistemic",
+    "pronunciation": "ep-ih-STEE-mik",
+    "ipa": "ˌɛpəˈstimɪk",
+    "soundsLike": "Starts like \"ep,\" then \"ih,\" then \"STEAM\" with an ik ending.",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to knowledge, evidence, or how we know what we claim to know.",
+    "origin": "From Greek episteme, meaning knowledge or understanding.",
+    "nuance": "Useful when the issue is not the conclusion itself but the basis for confidence in it. People sometimes use it to sound abstract; it works best when you are naming a real evidence or certainty problem.",
+    "example": "We have a real epistemic gap here: the dashboard shows a correlation, but it still does not tell us what changed user behavior.",
+    "date": "2026-09-04",
+    "tags": [
+      "analysis",
+      "evidence",
+      "reasoning"
+    ]
   }
 ]
