@@ -5970,5 +5970,73 @@
       "evidence",
       "reasoning"
     ]
+  },
+  {
+    "word": "salutary",
+    "pronunciation": "suh-LOO-ter-ee",
+    "ipa": "səˈluːtəri",
+    "soundsLike": "Starts like \"salute,\" then \"ruhr\" as in Ruhr valley, and ends like \"ree\" as in free.",
+    "partOfSpeech": "adjective",
+    "definition": "Producing good effects; beneficial, especially to health or well-being.",
+    "origin": "From Latin salutaris, from salus meaning safety or health.",
+    "nuance": "People often use it just for \"healthy,\" but it's stronger: it implies producing real positive outcomes, not just being harmless. You can have a salutary effect on morale, productivity, or habits.",
+    "example": "The new wellness policy has a salutary effect on retention, keeping people at PeopleConnect longer than before.",
+    "date": "2026-09-05",
+    "tags": [
+      "health",
+      "policy",
+      "product"
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "pronunciation": "SKR-yoo-tuh-naiz",
+    "ipa": "ˈskruːtənaɪz",
+    "soundsLike": "Starts like \"screen,\" then \"u-tee,\" and ends like \"noize\" as in noise.",
+    "partOfSpeech": "verb",
+    "definition": "To examine or inspect closely and critically.",
+    "origin": "From Latin scrutari, meaning to search carefully or examine thoroughly.",
+    "nuance": "Use it when you're looking for problems, not just checking boxes. It's stronger than review because it implies digging for issues. A code review should scrutinize, not just glance at.",
+    "example": "Before the release, we need to scrutinize the error logs to see if that new feature broke anything in production.",
+    "date": "2026-09-05",
+    "tags": [
+      "analysis",
+      "quality",
+      "process"
+    ]
+  },
+  {
+    "word": "conundrum",
+    "pronunciation": "kuh-NOO-n-drŭm",
+    "ipa": "kəˈnoʊndrəm",
+    "soundsLike": "Starts like \"come,\" then sounds like \"new,\" then \"drum.\"",
+    "partOfSpeech": "noun",
+    "definition": "A confusing or difficult problem or question.",
+    "origin": "From Medieval Latin conundrum, originally a type of riddle in Latin games.",
+    "nuance": "More specific than \"problem\" or \"challenge.\" It implies a puzzle that requires clever insight to solve. Don't use it for simple bugs; reserve it for tricky design or business questions.",
+    "example": "We have a conundrum here: we want to ship faster but need more QA time, and we're not sure which lever to pull.",
+    "date": "2026-09-05",
+    "tags": [
+      "strategy",
+      "problem-solving",
+      "product"
+    ]
+  },
+  {
+    "word": "prudent",
+    "pronunciation": "PROO-dent",
+    "ipa": "ˈpruːdənt",
+    "soundsLike": "Sounds like \"pro\" (forward-thinking) and \"dent\" (tooth or damage).",
+    "partOfSpeech": "adjective",
+    "definition": "Acting with or showing care for the future as well as the present; wise and cautious.",
+    "origin": "From Latin prudens, from praevidere meaning to foresee.",
+    "nuance": "It's not just being careful; it's being wise enough to anticipate problems before they hit. Being prudent doesn't mean being timid; it means making the right call when there's uncertainty.",
+    "example": "It would be prudent to back up the database before the migration, even if we've done it successfully before.",
+    "date": "2026-09-05",
+    "tags": [
+      "decision-making",
+      "risk",
+      "leadership"
+    ]
   }
 ]
