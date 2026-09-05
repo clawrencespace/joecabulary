@@ -5972,71 +5972,71 @@
     ]
   },
   {
-    "word": "salutary",
-    "pronunciation": "suh-LOO-ter-ee",
-    "ipa": "səˈluːtəri",
-    "soundsLike": "Starts like \"salute,\" then \"ruhr\" as in Ruhr valley, and ends like \"ree\" as in free.",
+    "word": "perspicacious",
+    "pronunciation": "pur-spi-KAY-shus",
+    "ipa": "pərˈspɪʃəs",
+    "soundsLike": "Starts like \"pur\" in \"purple,\" then \"spi\" like \"spin,\" ending like \"key us\" but without the Y.",
     "partOfSpeech": "adjective",
-    "definition": "Producing good effects; beneficial, especially to health or well-being.",
-    "origin": "From Latin salutaris, from salus meaning safety or health.",
-    "nuance": "People often use it just for \"healthy,\" but it's stronger: it implies producing real positive outcomes, not just being harmless. You can have a salutary effect on morale, productivity, or habits.",
-    "example": "The new wellness policy has a salutary effect on retention, keeping people at PeopleConnect longer than before.",
+    "definition": "Having a ready insight into and understanding of things; showing keen mental discernment and shrewd judgment.",
+    "origin": "From Latin perspicax (genitive perspicacis), from perspicere to see through or scrutinize.",
+    "nuance": "Stronger than perceptive or astute; implies piercing clarity. Often misused for merely being smart or articulate. It captures someone who not only notices but sees through surface appearances.",
+    "example": "The CTO's perspicacious assessment caught the team up to a security blind spot we missed in our own code reviews.",
     "date": "2026-09-05",
     "tags": [
-      "health",
-      "policy",
-      "product"
+      "judgment",
+      "leadership",
+      "analysis"
     ]
   },
   {
-    "word": "scrutinize",
-    "pronunciation": "SKR-yoo-tuh-naiz",
-    "ipa": "ˈskruːtənaɪz",
-    "soundsLike": "Starts like \"screen,\" then \"u-tee,\" and ends like \"noize\" as in noise.",
-    "partOfSpeech": "verb",
-    "definition": "To examine or inspect closely and critically.",
-    "origin": "From Latin scrutari, meaning to search carefully or examine thoroughly.",
-    "nuance": "Use it when you're looking for problems, not just checking boxes. It's stronger than review because it implies digging for issues. A code review should scrutinize, not just glance at.",
-    "example": "Before the release, we need to scrutinize the error logs to see if that new feature broke anything in production.",
+    "word": "inexorable",
+    "pronunciation": "in-ex-OR-uh-buhl",
+    "ipa": "ˌɪnɪɡˈzɔrəbəl",
+    "soundsLike": "Starts like \"in-ex\" as in \"incorrect,\" then \"OR\" as in \"or,\" ending like \"uh-bull\" but softer.",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to stop or prevent; relentless and unstoppable, like fate or natural consequences.",
+    "origin": "From Latin inexorabilis, from inexorare not to make feel pity; inex- (not) + exorare to entreat.",
+    "nuance": "Carries an air of inevitability rather than simple persistence. People often confuse it with inexhaustible, which means endless. Inexorable implies an iron grip that nothing can break.",
+    "example": "The market consolidation we predicted earlier has proven inexorable; the smaller players are being acquired or folding fast.",
     "date": "2026-09-05",
     "tags": [
-      "analysis",
-      "quality",
-      "process"
-    ]
-  },
-  {
-    "word": "conundrum",
-    "pronunciation": "kuh-NOO-n-drŭm",
-    "ipa": "kəˈnoʊndrəm",
-    "soundsLike": "Starts like \"come,\" then sounds like \"new,\" then \"drum.\"",
-    "partOfSpeech": "noun",
-    "definition": "A confusing or difficult problem or question.",
-    "origin": "From Medieval Latin conundrum, originally a type of riddle in Latin games.",
-    "nuance": "More specific than \"problem\" or \"challenge.\" It implies a puzzle that requires clever insight to solve. Don't use it for simple bugs; reserve it for tricky design or business questions.",
-    "example": "We have a conundrum here: we want to ship faster but need more QA time, and we're not sure which lever to pull.",
-    "date": "2026-09-05",
-    "tags": [
+      "inevitability",
       "strategy",
-      "problem-solving",
-      "product"
+      "consequence"
     ]
   },
   {
-    "word": "prudent",
-    "pronunciation": "PROO-dent",
-    "ipa": "ˈpruːdənt",
-    "soundsLike": "Sounds like \"pro\" (forward-thinking) and \"dent\" (tooth or damage).",
-    "partOfSpeech": "adjective",
-    "definition": "Acting with or showing care for the future as well as the present; wise and cautious.",
-    "origin": "From Latin prudens, from praevidere meaning to foresee.",
-    "nuance": "It's not just being careful; it's being wise enough to anticipate problems before they hit. Being prudent doesn't mean being timid; it means making the right call when there's uncertainty.",
-    "example": "It would be prudent to back up the database before the migration, even if we've done it successfully before.",
+    "word": "ballast",
+    "pronunciation": "BAL-ist",
+    "ipa": "ˈbælᵻst",
+    "soundsLike": "Rhymes with \"castle\" but with a short A. Sounds like \"bawl-est\" without the LW.",
+    "partOfSpeech": "noun",
+    "definition": "A heavy weight used to stabilize a vessel or aircraft; metaphorically, a stabilizing force that keeps an organization grounded.",
+    "origin": "From Old French balast, likely from Arabic ballas (gypsum stone).",
+    "nuance": "Metaphorical use suggests something that anchors you to reality or principles. Sometimes misused for any kind of support—it specifically implies stability against tipping. A \"ballast of tradition\" or \"ballast of skepticism\" keeps you steady against hype.",
+    "example": "We need more ballast in this team, something to keep us from getting swept away by every new framework we chase.",
     "date": "2026-09-05",
     "tags": [
-      "decision-making",
-      "risk",
-      "leadership"
+      "stability",
+      "culture",
+      "metaphor"
+    ]
+  },
+  {
+    "word": "apropos",
+    "pronunciation": "ah-PROH-poh",
+    "ipa": "ˌɑprəˈpoʊ",
+    "soundsLike": "First half like \"about\" without the BT, second half sounds like \"pose\" but with an open O.",
+    "partOfSpeech": "adjective, adverb",
+    "definition": "Apposite, pertinent, or timely; suitable to the context or occasion.",
+    "origin": "French, meaning 'concerning' or 'pertaining to.'",
+    "nuance": "More formal than relevant or on point. People often misuse it as \"on topic\" without recognizing its rhetorical weight. When something is apropos, it not only fits but advances the conversation with precision.",
+    "example": "That comment from the VP was apropos—we've been asking for exactly that kind of cross-team accountability.",
+    "date": "2026-09-05",
+    "tags": [
+      "rhetoric",
+      "precision",
+      "communication"
     ]
   }
 ]
