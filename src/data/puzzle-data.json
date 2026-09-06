@@ -776,5 +776,86 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-09-06",
+    "title": "Supersede Effects",
+    "eyebrow": "Sunday No. 011 · Live",
+    "date": "September 6, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "DISINTERESTED",
+        "clue": "Impartial and not influenced by personal advantage",
+        "row": 0,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "RECALCITRANT",
+        "clue": "Stubbornly resistant to control, direction, or correction",
+        "row": 1,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "SUPERSEDE",
+        "clue": "To replace or take the place of something older, weaker, or less suitable",
+        "row": 2,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "answer": "DOCTRINAIRE",
+        "clue": "Rigidly attached to a doctrine or theory, especially without enough regard for real-world complexity",
+        "row": 2,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "COMPOSABLE",
+        "clue": "Able to be assembled from smaller parts that work well together",
+        "row": 4,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "PARAMOUNT",
+        "clue": "More important than anything else; of first and chief importance",
+        "row": 4,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "PRUDENTIAL",
+        "clue": "Guided by practical caution, judgment, or long-term risk awareness",
+        "row": 5,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "PERSPICACIOUS",
+        "clue": "Having a ready insight into and understanding of things; showing keen mental discernment and shrewd judgment",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "INEXORABLE",
+        "clue": "Impossible to stop or prevent; relentless and unstoppable, like fate or natural consequences",
+        "row": 14,
+        "col": 4,
+        "direction": "across"
+      }
+    ]
   }
 ]

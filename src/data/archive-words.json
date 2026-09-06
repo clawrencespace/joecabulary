@@ -6038,5 +6038,73 @@
       "precision",
       "communication"
     ]
+  },
+  {
+    "word": "resilient",
+    "pronunciation": "re-ZILL-yunt",
+    "ipa": "rɪˈzɪliənt",
+    "soundsLike": "Starts like \"re\" as in \"reality,\" then sounds like \"zeen\" but with an L, ending like \"ill-ant\" without the T.",
+    "partOfSpeech": "adjective",
+    "definition": "Able to recover quickly from difficulties; capable of with or adapting to adversity.",
+    "origin": "From Latin resiliens, present participle of resilire to leap back or rebound.",
+    "nuance": "In organizational contexts, implies bounce-back capability from shocks, not just endurance. Sometimes confused with \"tough\" or \"enduring,\" but resilience specifically includes the recovery component. A resilient system doesn't just hold up—it returns to function.",
+    "example": "Our security protocols are resilient—they automatically restore from failures and adapt when we encounter new attack vectors.",
+    "date": "2026-09-06",
+    "tags": [
+      "organizational",
+      "leadership",
+      "engineering"
+    ]
+  },
+  {
+    "word": "prudent",
+    "pronunciation": "PRAW-dunt",
+    "ipa": "ˈpruːdnt",
+    "soundsLike": "Starts like \"pr\" as in \"practice,\" then \"u-dent\" like \"udent\" in \"judgment.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Showing care for the future as well as the present; acting with discretion and wisdom.",
+    "origin": "From Latin prudens, past participle of providere to foresee; prae- (before) + videre to see.",
+    "nuance": "More precise than \"wise\" or \"smart\"—implies forward-looking caution informed by experience. Not the same as \"cautious,\" which can suggest fear; prudence balances caution with action. Executives use it when describing resource allocation or risk decisions.",
+    "example": "It would be prudent to diversify our dependencies before the next acquisition, though I understand the timing pressure.",
+    "date": "2026-09-06",
+    "tags": [
+      "leadership",
+      "risk",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "paramount",
+    "pronunciation": "par-AYM-ont",
+    "ipa": "pəˈroʊmənt",
+    "soundsLike": "First syllable like \"par\" as in \"parameter,\" second sounds like \"aym\" as in \"aim,\" final like \"ont\" without the G.",
+    "partOfSpeech": "adjective",
+    "definition": "More important than anything else; of first and chief importance.",
+    "origin": "From Old French paramount, from para- (beside) + mount to rank or be superior.",
+    "nuance": "Sets a hierarchy—not just important, but the single most important consideration. Often misused for simply \"very important\" when it should be reserved for clear priorities. Use it when one concern genuinely outranks others in a given context.",
+    "example": "User privacy remains paramount; we can optimize the UI, but not at the cost of fundamental security.",
+    "date": "2026-09-06",
+    "tags": [
+      "priorities",
+      "ethics",
+      "strategy"
+    ]
+  },
+  {
+    "word": "pivotal",
+    "pronunciation": "PIV-uh-tuhl",
+    "ipa": "ˈpaɪvətl",
+    "soundsLike": "Starts like \"piv\" as in \"pivot\" in dance, second syllable like \"uh,\" final like \"tl\" in \"title.\"",
+    "partOfSpeech": "adjective",
+    "definition": "Of crucial importance in determining the outcome; serving as a key turning point.",
+    "origin": "From Latin pivotalis, from pivota a pivot or hinge.",
+    "nuance": "Describes something that fundamentally changes direction or outcome. Not just important, but the hinge on which the whole matter turns. Distinct from \"critical,\" which can describe any key point; pivotal implies transformation. Common in product development discussions about inflection points.",
+    "example": "That market research study was pivotal in convincing the board to pivot our feature roadmap.",
+    "date": "2026-09-06",
+    "tags": [
+      "strategy",
+      "product",
+      "inflection"
+    ]
   }
 ]
