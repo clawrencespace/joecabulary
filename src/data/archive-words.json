@@ -6106,5 +6106,73 @@
       "product",
       "inflection"
     ]
+  },
+  {
+    "word": "ADROIT",
+    "pronunciation": "ad-ROYT",
+    "ipa": "əˈdroɪt",
+    "soundsLike": "First sounds like 'uh' as in 'admit,' second like 'droit' rhyming with 'right' without the W.",
+    "partOfSpeech": "adjective",
+    "definition": "Skillful, clever, or ready; showing quickness and skill in handling things or making decisions.",
+    "origin": "From Middle French adroit, from a droite (right), itself from Latin dexter (right hand).",
+    "nuance": "Joe often says 'good at' or 'skilled at' when he means adroit. Adroit implies not just competence but nimble adaptability—especially under pressure. Not the same as 'adept,' which suggests mastery through repetition; adroit suggests tactical flexibility. Also distinct from 'handy,' which is informal.",
+    "example": "You're adroit at navigating those messy stakeholder dynamics; I've never seen anyone thread that particular needle so cleanly.",
+    "date": "2026-09-07",
+    "tags": [
+      "leadership",
+      "communication",
+      "executive"
+    ]
+  },
+  {
+    "word": "VINDICATE",
+    "pronunciation": "VIN-dih-kayt",
+    "ipa": "vɪnˈdɪkeɪt",
+    "soundsLike": "Starts like 'vin' as in 'vintage,' middle 'di-kayt' rhymes with 'decayed.'",
+    "partOfSpeech": "verb",
+    "definition": "To clear someone of blame or suspicion; to prove that someone or something is right or just.",
+    "origin": "From Latin vindicare to claim back, to rescue, from vindicta (retribution).",
+    "nuance": "Joe might say 'prove someone wrong' or 'set the record straight,' but vindicate is the precise word when evidence or action clears blame or justifies a position. Commonly misused when people think it means 'punish' or 'revenge,' but it's about justice and vindication, not retribution. The 'vic' root shows the connection to vindictive in origin (though meanings diverged).",
+    "example": "All that skepticism about our roadmap was vindicated when the Q3 numbers came in three points above forecast.",
+    "date": "2026-09-07",
+    "tags": [
+      "accountability",
+      "evidence",
+      "leadership"
+    ]
+  },
+  {
+    "word": "PROBITY",
+    "pronunciation": "PROB-i-tee",
+    "ipa": "ˈprɒbɪti",
+    "soundsLike": "Sounds like 'prob' as in 'probability' + 'ity' like 'activity' without the K.",
+    "partOfSpeech": "noun",
+    "definition": "The quality of having strong moral principles; integrity, honesty, and uprightness.",
+    "origin": "From Latin probitas, from probus (upright, honest), from probare to test or prove.",
+    "nuance": "More precise than 'integrity'—probity specifically references the quality of being thoroughly tested and proven in character. Joe often says 'honest' or 'upright,' but probity carries weight of demonstrated conduct. In boardroom contexts, leaders describe candidates with 'demonstrated probity' rather than vague assurances. Not the same as 'reputation,' which can be faked.",
+    "example": "Hiring decisions rest on more than résumés; we need candidates whose probity shows up in how they handle confidential information when nobody's watching.",
+    "date": "2026-09-07",
+    "tags": [
+      "ethics",
+      "hiring",
+      "leadership"
+    ]
+  },
+  {
+    "word": "CIRCUMSPECT",
+    "pronunciation": "SYUR-um-SPEKT",
+    "ipa": "səˈrʌmspɛkt",
+    "soundsLike": "First like 'ce' as in 'circumference,' middle 'rum' as in 'rumor,' final like 'spects' from 'respect.'",
+    "partOfSpeech": "adjective",
+    "definition": "Showing careful consideration before acting or speaking; cautious and deliberate in judgment.",
+    "origin": "From Latin circum (around) + spectare (to look), literally 'looking around.'",
+    "nuance": "Joe says 'careful' or 'thoughtful' when he means circumspect, but circumspect implies considering consequences in multiple directions before committing. Not the same as 'cautious,' which can suggest fear; circumspect suggests wisdom. Not 'circumscribing,' which is about boundaries; the 'spec' root shows the looking aspect. In leadership, circumspect describes someone who avoids hasty commitments that create downstream problems.",
+    "example": "Don't rush the vendor selection; be circumspect and evaluate how each choice impacts our three-year architecture.",
+    "date": "2026-09-07",
+    "tags": [
+      "decision-making",
+      "risk",
+      "strategy"
+    ]
   }
 ]
