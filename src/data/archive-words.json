@@ -6174,5 +6174,73 @@
       "risk",
       "strategy"
     ]
+  },
+  {
+    "word": "INCONCLUSIVE",
+    "pronunciation": "in-KON-kluh-zive",
+    "ipa": "ˌɪnkənˈkluːsɪv",
+    "soundsLike": "Starts like 'in' as in 'input,' 'con' as in 'concept,' 'clue' sound, plus 'sive' like 'active.'",
+    "partOfSpeech": "adjective",
+    "definition": "Not providing a definitive answer or settlement; leaving matters unresolved or ambiguous.",
+    "origin": "From Latin inconclusus (unconcluded), from in- (not) + conclusus (concluded, from concludere to close up).",
+    "nuance": "Joe might say 'unclear' or 'undecided,' but inconclusive specifically describes evidence, tests, or arguments that failed to produce a definitive outcome. Often misused when people think it means 'wrong' or 'incorrect'—it just means 'not settled.' Common in executive contexts like 'inconclusive data' or 'inconclusive trial results.'",
+    "example": "The market research was inconclusive on consumer sentiment, so we're running A/B tests to get clearer signals before committing resources.",
+    "date": "2026-09-08",
+    "tags": [
+      "research",
+      "decision-making",
+      "evidence"
+    ]
+  },
+  {
+    "word": "VENERABLE",
+    "pronunciation": "VEN-er-uh-bul",
+    "ipa": "ˈvɛnərəbəl",
+    "soundsLike": "Starts like 'ven' as in 'venom,' middle like 'er-uh' as in 'herald,' ends like 'bul' as in 'humble.'",
+    "partOfSpeech": "adjective",
+    "definition": "Inspiringly old, respected, and admired; having a reputation for wisdom, dignity, and long-standing authority.",
+    "origin": "From Latin venerabilis (worthy of veneration), from venerari to honor or reverence, from Venera (Venus).",
+    "nuance": "More specific than 'respectable'—venerable implies age has earned respect. Joe might say 'experienced' or 'trusted,' but venerable suggests the combination of longevity and earned esteem. Can apply to institutions, traditions, or people. Not merely 'old'—old without respect. Common misuse: thinking it only applies to clergy; it applies to organizations, customs, and even technologies with enduring relevance.",
+    "example": "This venerable engineering handbook shaped our practices before we even had formal documentation standards.",
+    "date": "2026-09-08",
+    "tags": [
+      "authority",
+      "tradition",
+      "respect"
+    ]
+  },
+  {
+    "word": "RECIPROCAL",
+    "pronunciation": "ree-SI-prok-uhl",
+    "ipa": "rɪˈsɪproʊkəl",
+    "soundsLike": "Starts like 're' as in 'repeat,' middle like 'si' as in 'sister,' 'proc' as in 'process,' ends like 'al' as in 'equal.'",
+    "partOfSpeech": "adjective",
+    "definition": "Mutual in nature; given or received in return; a two-way obligation or benefit between parties.",
+    "origin": "From Latin reciprocus (turning back), from re- (back) + porrigere (to stretch out, extend).",
+    "nuance": "Precise word for mutual exchange—unlike 'mutual,' which can be one-directional ('mutual funds' are called mutual but managed by a firm). Joe might say 'mutual' or 'quid pro quo,' but reciprocal emphasizes the active giving-and-receiving dynamic. Common in contract language, partnerships, and API designs. Often misused as synonymous with 'reciprocate' (the verb); reciprocal is the adjective describing the relationship, not the action.",
+    "example": "The partnership terms are reciprocal—each party benefits proportionally, and both assume equal risk.",
+    "date": "2026-09-08",
+    "tags": [
+      "partnerships",
+      "contracts",
+      "ethics"
+    ]
+  },
+  {
+    "word": "TRANSIENT",
+    "pronunciation": "trans-IENT",
+    "ipa": "trænˈziːənt",
+    "soundsLike": "Starts like 'trans' as in 'transport,' 'ient' sounds like 'agent.'",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting only for a short time; impermanent, passing quickly, or existing in flux.",
+    "origin": "From Latin transiens (crossing over), from trans- (across) + ire (to go).",
+    "nuance": "Joe might say 'short-lived' or 'passing,' but transient carries a technical precision about systems, states, or phenomena that exist only briefly before shifting. Used in computing (transient bugs), chemistry (transient compounds), and everyday contexts (transient feelings). Often misused as 'temporary' when it means 'short-term but potentially recurring'—transient implies passage, not merely duration. In engineering, 'transient analysis' studies systems during the transition phase.",
+    "example": "The traffic jam was transient and cleared within minutes after the accident was cleared from the shoulder.",
+    "date": "2026-09-08",
+    "tags": [
+      "systems",
+      "impermanence",
+      "engineering"
+    ]
   }
 ]
