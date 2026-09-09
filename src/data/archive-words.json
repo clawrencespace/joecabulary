@@ -6242,5 +6242,73 @@
       "impermanence",
       "engineering"
     ]
+  },
+  {
+    "word": "SALIENT",
+    "pronunciation": "SAY-lee-unt",
+    "ipa": "ˈseɪliənt",
+    "soundsLike": "Starts like “sail,” then “ee,” and ends like “ant” in “important.”",
+    "partOfSpeech": "adjective",
+    "definition": "Most noticeable, relevant, or important in the context at hand.",
+    "origin": "From Latin saliens, “leaping,” from salire, “to jump.”",
+    "nuance": "More precise than “important”: a salient point stands out because it bears directly on the decision or discussion. It does not merely mean conspicuous or memorable.",
+    "example": "The salient issue is not whether the migration is possible; it’s whether we can support it without slowing the product roadmap.",
+    "date": "2026-09-09",
+    "tags": [
+      "analysis",
+      "leadership",
+      "communication"
+    ]
+  },
+  {
+    "word": "ORTHOGONAL",
+    "pronunciation": "or-THOG-uh-nul",
+    "ipa": "ɔrˈθɑɡənəl",
+    "soundsLike": "Starts like “or,” then “thog” with the th of “think,” and ends like “a null.”",
+    "partOfSpeech": "adjective",
+    "definition": "Independent of, or unrelated to, another matter; literally, at a right angle.",
+    "origin": "From Greek orthogōnios, “right-angled,” from orthos “straight, right” + gōnia “angle.”",
+    "nuance": "In technical and executive talk, it means two concerns can be considered separately because changing one does not inherently change the other. It is stronger than simply “different.”",
+    "example": "Cost control is important, but it’s orthogonal to the question of whether this architecture will hold up at ten times the traffic.",
+    "date": "2026-09-09",
+    "tags": [
+      "engineering",
+      "strategy",
+      "systems"
+    ]
+  },
+  {
+    "word": "PREROGATIVE",
+    "pronunciation": "pruh-ROG-uh-tiv",
+    "ipa": "prɪˈrɑɡətɪv",
+    "soundsLike": "Starts like “pruh,” then “rog” as in “rogue,” and ends like “a tiv” in “relative.”",
+    "partOfSpeech": "noun",
+    "definition": "A right or privilege belonging to a particular person, role, or office.",
+    "origin": "From Latin praerogativa, originally the privilege of a voting group chosen to vote first, from prae- “before” + rogare “to ask.”",
+    "nuance": "Useful for delineating legitimate decision rights, not just personal preference. Saying something is a leader’s prerogative can acknowledge authority without claiming the choice is necessarily wise.",
+    "example": "Choosing the final vendor is the CFO’s prerogative, but engineering should be explicit about the operational tradeoffs before that call is made.",
+    "date": "2026-09-09",
+    "tags": [
+      "governance",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "FASTIDIOUS",
+    "pronunciation": "fa-STID-ee-us",
+    "ipa": "fæˈstɪdiəs",
+    "soundsLike": "Starts like “fast,” then “tidy,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Very attentive to detail, accuracy, and proper standards; sometimes excessively hard to satisfy.",
+    "origin": "From Latin fastidiosus, “disdainful or difficult to please,” from fastidium, “aversion.”",
+    "nuance": "Usually complimentary when it describes craft or review discipline, but it can imply finickiness when the level of care adds little value. It is not simply a synonym for “fast.”",
+    "example": "She’s fastidious about release notes, which saves the support team from answering the same avoidable questions every launch.",
+    "date": "2026-09-09",
+    "tags": [
+      "quality",
+      "craft",
+      "operations"
+    ]
   }
 ]
