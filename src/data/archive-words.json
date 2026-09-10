@@ -6310,5 +6310,73 @@
       "craft",
       "operations"
     ]
+  },
+  {
+    "word": "TRENCHANT",
+    "pronunciation": "TREN-chunt",
+    "ipa": "ˈtrɛntʃənt",
+    "soundsLike": "Starts like “trench” and ends like “ant” in “important.”",
+    "partOfSpeech": "adjective",
+    "definition": "Sharp, clear, and forcefully effective, especially in an argument or critique.",
+    "origin": "From Old French trenchant, “cutting,” from trenchier, “to cut.”",
+    "nuance": "A trenchant point has incisive force because it identifies the crux cleanly; it need not be harsh or merely provocative.",
+    "example": "Her trenchant read of the metrics made it clear that we were optimizing the dashboard instead of the customer outcome.",
+    "date": "2026-09-10",
+    "tags": [
+      "communication",
+      "analysis",
+      "leadership"
+    ]
+  },
+  {
+    "word": "REFRACTORY",
+    "pronunciation": "ri-FRAK-tuh-ree",
+    "ipa": "rɪˈfræktəri",
+    "soundsLike": "Starts like “re,” then “frack,” and ends with the “tory” in “factory.”",
+    "partOfSpeech": "adjective",
+    "definition": "Stubbornly resistant to control, correction, or a usual remedy.",
+    "origin": "From Latin refractarius, “stubborn,” from refringere, “to break back or resist.”",
+    "nuance": "More specific than “difficult”: a refractory issue persists despite the intervention that normally works. In medicine it often means treatment-resistant.",
+    "example": "The incident is refractory to our usual runbook, so let’s stop restarting services and isolate the dependency that changed.",
+    "date": "2026-09-10",
+    "tags": [
+      "engineering",
+      "operations",
+      "problem-solving"
+    ]
+  },
+  {
+    "word": "SYNECDOCHE",
+    "pronunciation": "si-NEK-duh-kee",
+    "ipa": "sɪˈnɛkdəki",
+    "soundsLike": "Sounds like “sin,” “neck,” “duh,” and “key” run together.",
+    "partOfSpeech": "noun",
+    "definition": "A figure of speech in which a part stands for the whole, or the whole for a part.",
+    "origin": "From Greek synekdokhē, “simultaneous understanding,” from syn- “together” + ekdekhesthai “to take up.”",
+    "nuance": "Calling a whole company “the suits” or asking for “more hands” is synecdoche. It is often loosely used for any related-word substitution, but it specifically concerns part and whole.",
+    "example": "When we say ‘engineering decided,’ that’s a useful synecdoche, but we should still name who actually made the call.",
+    "date": "2026-09-10",
+    "tags": [
+      "rhetoric",
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "word": "DIALECTIC",
+    "pronunciation": "dye-uh-LEK-tik",
+    "ipa": "ˌdaɪəˈlɛktɪk",
+    "soundsLike": "Starts like “dye,” then “uh,” and ends like “electric” without the “e.”",
+    "partOfSpeech": "noun",
+    "definition": "A method of reasoning that develops understanding through the tension or exchange between opposing ideas.",
+    "origin": "From Greek dialektikē, “the art of discussion,” from dialegesthai, “to converse or reason together.”",
+    "nuance": "Not just a debate or a contradiction: a dialectic treats the tension between positions as informative and potentially generative.",
+    "example": "There’s a real dialectic between shipping quickly and preserving platform coherence; neither side disappears if we pretend the tradeoff is simple.",
+    "date": "2026-09-10",
+    "tags": [
+      "strategy",
+      "reasoning",
+      "leadership"
+    ]
   }
 ]
