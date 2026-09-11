@@ -6378,5 +6378,73 @@
       "reasoning",
       "leadership"
     ]
+  },
+  {
+    "word": "epistemic",
+    "pronunciation": "ep-ih-STEE-mik",
+    "ipa": "ˌɛpɪˈstiːmɪk",
+    "soundsLike": "Starts like “epic,” then says “STEAM” and “ick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to knowledge, evidence, or how justified a belief is.",
+    "origin": "From Greek epistēmē, “knowledge” or “understanding.”",
+    "nuance": "An epistemic question asks whether we have good grounds for a claim, not whether we like its consequences. It is often misused as a fancy synonym for “intellectual.”",
+    "example": "Before we debate the rollout, let’s separate the epistemic question—what the data actually supports—from the policy choice.",
+    "date": "2026-09-11",
+    "tags": [
+      "reasoning",
+      "strategy",
+      "data"
+    ]
+  },
+  {
+    "word": "normative",
+    "pronunciation": "NOR-muh-tiv",
+    "ipa": "ˈnɔrmətɪv",
+    "soundsLike": "Starts like “norm,” then “uh,” and ends like “give” with a “t.”",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing a standard, value judgment, or view of how something ought to be.",
+    "origin": "From Latin norma, “a rule, pattern, or carpenter’s square.”",
+    "nuance": "Normative claims prescribe or evaluate; descriptive claims report what is. “The team should own reliability” is normative, even if it is a sensible recommendation.",
+    "example": "That’s a normative call about accountability, not an empirical finding we can settle with one dashboard.",
+    "date": "2026-09-11",
+    "tags": [
+      "leadership",
+      "decision-making",
+      "communication"
+    ]
+  },
+  {
+    "word": "artifactual",
+    "pronunciation": "ar-tuh-FAK-choo-uhl",
+    "ipa": "ˌɑrtəˈfæktʃuəl",
+    "soundsLike": "Starts like “art,” then “a fact,” and ends with “you will.”",
+    "partOfSpeech": "adjective",
+    "definition": "Caused by a measurement method, process, or representation rather than by the thing being studied.",
+    "origin": "Built from artifact, from Latin arte factum, “something made by skill.”",
+    "nuance": "Use it for a misleading effect introduced by the instrument or method—not just any error. A chart spike from a tracking change is artifactual.",
+    "example": "The conversion jump may be artifactual: the event schema changed on the same day, so let’s validate the instrumentation first.",
+    "date": "2026-09-11",
+    "tags": [
+      "analytics",
+      "engineering",
+      "diagnosis"
+    ]
+  },
+  {
+    "word": "heterodox",
+    "pronunciation": "HET-uh-ruh-doks",
+    "ipa": "ˈhɛtərəˌdɑks",
+    "soundsLike": "Starts like “hetero,” then ends like “docs.”",
+    "partOfSpeech": "adjective",
+    "definition": "Different from accepted or conventional beliefs or practices.",
+    "origin": "From Greek heterodoxos: heteros, “other,” plus doxa, “opinion.”",
+    "nuance": "Heterodox means outside the prevailing view, not automatically correct or rebellious. It is stronger and more specific than merely “creative.”",
+    "example": "It’s a heterodox staffing model, but the mechanism is clear enough that it deserves a serious pilot rather than a reflexive no.",
+    "date": "2026-09-11",
+    "tags": [
+      "strategy",
+      "culture",
+      "innovation"
+    ]
   }
 ]
