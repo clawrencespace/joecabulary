@@ -6446,5 +6446,73 @@
       "culture",
       "innovation"
     ]
+  },
+  {
+    "word": "invidious",
+    "pronunciation": "in-VID-ee-us",
+    "ipa": "ɪnˈvɪdiəs",
+    "soundsLike": "Starts like “in,” then “VID” as in “video,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Likely to cause resentment or unfairly single someone out for an unfavorable comparison or burden.",
+    "origin": "From Latin invidiosus, from invidia, “envy” or “ill will.”",
+    "nuance": "An invidious distinction is unfair in a way that invites resentment; it is not merely an unpleasant or unpopular one.",
+    "example": "Making one team absorb every on-call cost while the rest share none creates an invidious split we should fix.",
+    "date": "2026-09-12",
+    "tags": [
+      "leadership",
+      "fairness",
+      "communication"
+    ]
+  },
+  {
+    "word": "consilience",
+    "pronunciation": "kun-SIL-yuns",
+    "ipa": "kənˈsɪliəns",
+    "soundsLike": "Starts like “can,” then “SIL” as in “silly,” and ends like “yance” in “brilliance.”",
+    "partOfSpeech": "noun",
+    "definition": "Agreement among independent lines of evidence that together support the same conclusion.",
+    "origin": "Coined from Latin con-, “together,” plus salire, “to jump”; popularized by William Whewell.",
+    "nuance": "Consilience is stronger than simple consensus because the support comes from separate methods or sources, not several people repeating one signal.",
+    "example": "We have consilience now: the customer calls, retention data, and support logs all point to the same onboarding failure.",
+    "date": "2026-09-12",
+    "tags": [
+      "reasoning",
+      "data",
+      "strategy"
+    ]
+  },
+  {
+    "word": "contrapositive",
+    "pronunciation": "kon-truh-POZ-ih-tiv",
+    "ipa": "ˌkɑntrəˈpɑzətɪv",
+    "soundsLike": "Starts like “contra,” then “POS” as in “positive,” and ends like “tive” in “active.”",
+    "partOfSpeech": "noun",
+    "definition": "A logically equivalent reversal of a conditional: if A implies B, then not-B implies not-A.",
+    "origin": "From Latin contra, “against,” plus positus, “placed.”",
+    "nuance": "The contrapositive is valid; the converse is not automatically valid. “If it is production, it has monitoring” does not mean every monitored system is production.",
+    "example": "The contrapositive is useful here: if we cannot meet the compliance bar, then this cannot be the launch path.",
+    "date": "2026-09-12",
+    "tags": [
+      "logic",
+      "engineering",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "comity",
+    "pronunciation": "KOM-ih-tee",
+    "ipa": "ˈkɑmɪti",
+    "soundsLike": "Starts like “common” without the “n,” then ends like “tea.”",
+    "partOfSpeech": "noun",
+    "definition": "Courteous mutual respect and cooperation, especially between groups with separate authority or interests.",
+    "origin": "From Latin comitas, “courtesy” or “kindness,” related to comis, “courteous.”",
+    "nuance": "Comity is voluntary professional regard, not formal compliance or total agreement. It is especially useful when teams must coordinate without one owning the other.",
+    "example": "We do not need identical roadmaps, but a little comity between platform and product would make the tradeoffs far easier to manage.",
+    "date": "2026-09-12",
+    "tags": [
+      "leadership",
+      "collaboration",
+      "governance"
+    ]
   }
 ]
