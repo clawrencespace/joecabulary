@@ -857,5 +857,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-09-13",
+    "title": "Refractory Effects",
+    "eyebrow": "Sunday No. 012 · Live",
+    "date": "September 13, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "PUNCTILIOUS",
+        "clue": "Showing very careful attention to proper procedure, small details, or formalities",
+        "row": 0,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "CIRCUMSPECT",
+        "clue": "Showing careful consideration before acting or speaking; cautious and deliberate in judgment",
+        "row": 0,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "INCONCLUSIVE",
+        "clue": "Not providing a definitive answer or settlement; leaving matters unresolved or ambiguous",
+        "row": 2,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "REFRACTORY",
+        "clue": "Stubbornly resistant to control, correction, or a usual remedy",
+        "row": 2,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "answer": "PREROGATIVE",
+        "clue": "A right or privilege belonging to a particular person, role, or office",
+        "row": 4,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "CONSILIENCE",
+        "clue": "Agreement among independent lines of evidence that together support the same conclusion",
+        "row": 4,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "PEREMPTORY",
+        "clue": "Allowing no debate or delay; commanding and decisive in a way that can seem abrupt",
+        "row": 4,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "SYNECDOCHE",
+        "clue": "A figure of speech in which a part stands for the whole, or the whole for a part",
+        "row": 5,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "answer": "ORTHOGONAL",
+        "clue": "Independent of, or unrelated to, another matter; literally, at a right angle",
+        "row": 5,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 10,
+        "answer": "CONTRAPOSITIVE",
+        "clue": "A logically equivalent reversal of a conditional: if A implies B, then not-B implies not-A",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]

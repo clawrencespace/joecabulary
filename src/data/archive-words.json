@@ -6514,5 +6514,73 @@
       "collaboration",
       "governance"
     ]
+  },
+  {
+    "word": "lacuna",
+    "pronunciation": "luh-KOO-nuh",
+    "ipa": "ləˈkunə",
+    "soundsLike": "Starts like “the” in “the car,” then “COO” as in “cool,” and ends like “nuh” in “another.”",
+    "partOfSpeech": "noun",
+    "definition": "A gap or missing part in a record, argument, plan, or body of knowledge.",
+    "origin": "From Latin lacuna, “a pool, pit, or gap,” related to lacus, “lake.”",
+    "nuance": "A lacuna is a specific absence, not just a broad weakness. It often points to what evidence, ownership, or reasoning is missing.",
+    "example": "The roadmap is solid, but there’s a lacuna around who owns the migration after launch.",
+    "date": "2026-09-13",
+    "tags": [
+      "strategy",
+      "analysis",
+      "planning"
+    ]
+  },
+  {
+    "word": "punctilious",
+    "pronunciation": "pungk-TIL-ee-us",
+    "ipa": "pʌŋkˈtɪliəs",
+    "soundsLike": "Starts like “punk,” then “TIL” as in “until,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Showing very careful attention to proper procedure, small details, or formalities.",
+    "origin": "From Italian puntiglio, “a fine point,” ultimately from Latin punctum, “a point.”",
+    "nuance": "Punctilious usually implies care about correctness or protocol, sometimes to a fussy degree; it is more formal than merely being thorough.",
+    "example": "I’m all for being punctilious about the security review, but we should not turn the checklist into theater.",
+    "date": "2026-09-13",
+    "tags": [
+      "leadership",
+      "process",
+      "communication"
+    ]
+  },
+  {
+    "word": "apodictic",
+    "pronunciation": "ap-uh-DIK-tik",
+    "ipa": "ˌæpəˈdɪktɪk",
+    "soundsLike": "Starts like “app,” then “uh,” and ends like “DICT” in “predict” plus “tick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Expressed as undeniably certain or logically necessary.",
+    "origin": "From Greek apodeiktikos, “demonstrative” or “capable of proof,” from apodeiknynai, “to show conclusively.”",
+    "nuance": "Use it for a claim’s absolute posture, especially when that certainty exceeds the evidence. It does not simply mean emphatic or well-supported.",
+    "example": "The memo is too apodictic for an early read; let’s separate what we know from what we are inferring.",
+    "date": "2026-09-13",
+    "tags": [
+      "reasoning",
+      "rhetoric",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "peremptory",
+    "pronunciation": "puh-REMP-tuh-ree",
+    "ipa": "pəˈrɛmptəri",
+    "soundsLike": "Starts like “per,” then “REMP” as in “temper” without “te,” and ends like “tory” in “factory.”",
+    "partOfSpeech": "adjective",
+    "definition": "Allowing no debate or delay; commanding and decisive in a way that can seem abrupt.",
+    "origin": "From Latin peremptorius, “decisive” or “final,” from perimere, “to take away entirely.”",
+    "nuance": "Peremptory can describe a necessary deadline or an overbearing manner. It is stronger and less neutral than direct or decisive.",
+    "example": "We need a clear call by Friday, but a peremptory edict will get less useful feedback than a firm decision with context.",
+    "date": "2026-09-13",
+    "tags": [
+      "leadership",
+      "communication",
+      "governance"
+    ]
   }
 ]
