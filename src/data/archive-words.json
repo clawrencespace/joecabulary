@@ -6582,5 +6582,73 @@
       "communication",
       "governance"
     ]
+  },
+  {
+    "word": "quorum",
+    "pronunciation": "KWOR-um",
+    "ipa": "ˈkwɔrəm",
+    "soundsLike": "Starts like “core” with a “kw” sound, then ends like “rum” in “forum.”",
+    "partOfSpeech": "noun",
+    "definition": "The minimum number of members required for a group to conduct valid business.",
+    "origin": "From Latin quorum, “of whom,” from the wording of a commission that named the members whose presence was required.",
+    "nuance": "A quorum is about authority to act, not agreement; a room can have a quorum and still be deeply divided.",
+    "example": "Before we ratify the proposal, let’s confirm we have a quorum and the right decision-makers in the room.",
+    "date": "2026-09-14",
+    "tags": [
+      "governance",
+      "leadership",
+      "meetings"
+    ]
+  },
+  {
+    "word": "abductive",
+    "pronunciation": "ab-DUK-tiv",
+    "ipa": "æbˈdʌktɪv",
+    "soundsLike": "Starts like “cab” without the “c,” then “DUCT” as in “conduct,” and ends like “give.”",
+    "partOfSpeech": "adjective",
+    "definition": "Reasoning from observations to the most plausible explanation.",
+    "origin": "From Latin abductio, “a leading away,” popularized in modern logic by Charles Sanders Peirce.",
+    "nuance": "Abductive reasoning generates the best current explanation; unlike deduction, it does not guarantee the conclusion, and unlike induction, it is not mainly about generalizing from a sample.",
+    "example": "That’s an abductive read of the incident data, so let’s treat it as a strong hypothesis until the logs confirm it.",
+    "date": "2026-09-14",
+    "tags": [
+      "reasoning",
+      "engineering",
+      "analysis"
+    ]
+  },
+  {
+    "word": "prolix",
+    "pronunciation": "proh-LIKS",
+    "ipa": "proʊˈlɪks",
+    "soundsLike": "Starts like “pro,” then ends like “licks.”",
+    "partOfSpeech": "adjective",
+    "definition": "Using more words than necessary; tediously wordy.",
+    "origin": "From Latin prolixus, “extended” or “drawn out.”",
+    "nuance": "Prolix criticizes needless length, not depth. A detailed design doc can be concise; a short message can still be prolix if it circles the point.",
+    "example": "The analysis is useful, but the executive summary is too prolix for people who need the decision in two minutes.",
+    "date": "2026-09-14",
+    "tags": [
+      "writing",
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "quotidian",
+    "pronunciation": "kwoh-TID-ee-un",
+    "ipa": "kwoʊˈtɪdiən",
+    "soundsLike": "Starts like “quo,” then “TID” as in “tidbit,” and ends like “Ian” in “median.”",
+    "partOfSpeech": "adjective",
+    "definition": "Ordinary, everyday, or routinely occurring.",
+    "origin": "From Latin cotidianus, “daily,” from quot, “how many” or “as many as.”",
+    "nuance": "Quotidian is often neutral or affectionate, but can imply dull routine depending on context. It means everyday, not necessarily unimportant.",
+    "example": "The flashy launch gets attention, but the quotidian work of keeping the platform reliable is what earns trust.",
+    "date": "2026-09-14",
+    "tags": [
+      "culture",
+      "operations",
+      "writing"
+    ]
   }
 ]
