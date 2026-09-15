@@ -6650,5 +6650,73 @@
       "operations",
       "writing"
     ]
+  },
+  {
+    "word": "sui generis",
+    "pronunciation": "SOO-eye JEN-uh-ris",
+    "ipa": "ˌsuːaɪ ˈdʒɛnərɪs",
+    "soundsLike": "Starts like “sue-eye,” then “JEN” as in “general,” and ends like “wrist” without the “t.”",
+    "partOfSpeech": "adjective",
+    "definition": "Of its own kind; unique enough that ordinary categories do not fit it well.",
+    "origin": "Latin for “of its own kind,” from sui, “of itself,” and genus, “kind” or “type.”",
+    "nuance": "Use it for something that resists useful comparison, not merely something impressive or uncommon. It is more precise than simply saying “unique.”",
+    "example": "This customer integration is sui generis, so I would not let its constraints dictate the default platform architecture.",
+    "date": "2026-09-15",
+    "tags": [
+      "strategy",
+      "engineering",
+      "analysis"
+    ]
+  },
+  {
+    "word": "exegesis",
+    "pronunciation": "ek-suh-JEE-sis",
+    "ipa": "ˌɛksəˈdʒiːsɪs",
+    "soundsLike": "Starts like “extra” without the “tr,” then “JEE” as in “jeep,” and ends like “sis.”",
+    "partOfSpeech": "noun",
+    "definition": "A close, explanatory interpretation of a text, statement, or body of evidence.",
+    "origin": "From Greek exēgēsis, “explanation” or “interpretation,” from exēgeisthai, “to lead out” or explain.",
+    "nuance": "Exegesis aims to draw meaning out of the source; it differs from eisegesis, which reads one’s own assumptions into it. It need not be religious.",
+    "example": "Before we debate intent, I want a careful exegesis of the contract language and the commit history.",
+    "date": "2026-09-15",
+    "tags": [
+      "analysis",
+      "writing",
+      "governance"
+    ]
+  },
+  {
+    "word": "complicit",
+    "pronunciation": "kum-PLIS-it",
+    "ipa": "kəmˈplɪsɪt",
+    "soundsLike": "Starts like “come,” then “PLISS” as in “bliss,” and ends like “it.”",
+    "partOfSpeech": "adjective",
+    "definition": "Involved with another person or system in wrongdoing or a harmful outcome.",
+    "origin": "From Latin complicare, “to fold together,” via complice, “an accomplice.”",
+    "nuance": "Complicit implies meaningful participation or knowing enablement, not mere proximity. It is stronger and more morally charged than “associated with.”",
+    "example": "If we know the metric rewards bad behavior and leave it in place, we are complicit in the outcome.",
+    "date": "2026-09-15",
+    "tags": [
+      "ethics",
+      "leadership",
+      "systems"
+    ]
+  },
+  {
+    "word": "ingress",
+    "pronunciation": "IN-gres",
+    "ipa": "ˈɪnɡrɛs",
+    "soundsLike": "Starts like “in,” then “gress” as in “progress.”",
+    "partOfSpeech": "noun",
+    "definition": "The act, right, or route of entering a place, network, or system.",
+    "origin": "From Latin ingressus, “a going in,” from in-, “into,” and gradi, “to step” or go.",
+    "nuance": "Ingress is entry or incoming traffic; egress is exit or outgoing traffic. In technical use, it often names the controlled path by which requests enter a system.",
+    "example": "Let’s put authentication at the ingress layer so every request is evaluated before it reaches the application.",
+    "date": "2026-09-15",
+    "tags": [
+      "engineering",
+      "security",
+      "operations"
+    ]
   }
 ]
