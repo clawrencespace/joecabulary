@@ -6718,5 +6718,73 @@
       "security",
       "operations"
     ]
+  },
+  {
+    "word": "adumbrate",
+    "pronunciation": "AD-um-brayt",
+    "ipa": "ˈædəmˌbreɪt",
+    "soundsLike": "Starts like “add,” then “um,” and ends like “berate” without the first syllable.",
+    "partOfSpeech": "verb",
+    "definition": "To outline or foreshadow something in a suggestive, not fully developed way.",
+    "origin": "From Latin adumbrare, “to sketch in shadow,” from ad- plus umbra, “shadow.”",
+    "nuance": "Adumbrate is more tentative than define or specify: it gives the shape of an idea without filling in the full design.",
+    "example": "The strategy memo should adumbrate the operating model now, then let the implementation plan carry the detail.",
+    "date": "2026-09-16",
+    "tags": [
+      "strategy",
+      "writing",
+      "planning"
+    ]
+  },
+  {
+    "word": "rejoinder",
+    "pronunciation": "ri-JOIN-der",
+    "ipa": "rɪˈdʒɔɪndər",
+    "soundsLike": "Starts like “return,” then “join,” and ends like “der” in “reader.”",
+    "partOfSpeech": "noun",
+    "definition": "A reply, especially one that directly answers an argument or criticism.",
+    "origin": "From Old French rejoindre, “to rejoin” or answer back, ultimately from Latin iungere, “to join.”",
+    "nuance": "A rejoinder engages a particular point; it is more pointed than a general response and need not be hostile or witty.",
+    "example": "That is a fair concern, but the rejoinder is that the current process already pushes the same risk downstream.",
+    "date": "2026-09-16",
+    "tags": [
+      "rhetoric",
+      "leadership",
+      "communication"
+    ]
+  },
+  {
+    "word": "forbearance",
+    "pronunciation": "for-BAIR-uhns",
+    "ipa": "fɔrˈbɛrəns",
+    "soundsLike": "Starts like “for,” then “bear,” and ends like “once” without the “w.”",
+    "partOfSpeech": "noun",
+    "definition": "Patient self-restraint, especially a deliberate decision not to enforce a right or react immediately.",
+    "origin": "From forbear, meaning “to refrain,” built from for- plus bear in its older sense of “carry” or endure.",
+    "nuance": "Forbearance is active restraint, not passivity. In finance and law, it can specifically mean postponing enforcement of a debt or obligation.",
+    "example": "I am asking for some forbearance while the team fixes the root cause, not a permanent exception to the standard.",
+    "date": "2026-09-16",
+    "tags": [
+      "leadership",
+      "governance",
+      "negotiation"
+    ]
+  },
+  {
+    "word": "presumptive",
+    "pronunciation": "pri-ZUMP-tiv",
+    "ipa": "prɪˈzʌmptɪv",
+    "soundsLike": "Starts like “pre,” then “zump” as in “jump” with a “z,” and ends like “give” without the “g.”",
+    "partOfSpeech": "adjective",
+    "definition": "Accepted as likely or provisionally valid unless stronger evidence disproves it.",
+    "origin": "From Latin praesumere, “to take beforehand,” via presume.",
+    "nuance": "Presumptive does not mean certain. It marks a working conclusion that can be overturned, often by evidence or a formal decision.",
+    "example": "The presumptive owner is the platform team, but we should confirm that before putting the migration on its roadmap.",
+    "date": "2026-09-16",
+    "tags": [
+      "analysis",
+      "governance",
+      "decision-making"
+    ]
   }
 ]
