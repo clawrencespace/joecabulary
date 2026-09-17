@@ -6786,5 +6786,73 @@
       "governance",
       "decision-making"
     ]
+  },
+  {
+    "word": "accede",
+    "pronunciation": "ak-SEED",
+    "ipa": "ækˈsiːd",
+    "soundsLike": "Starts like “ack,” then ends like “seed.”",
+    "partOfSpeech": "verb",
+    "definition": "To agree to a request, proposal, or position, often after consideration.",
+    "origin": "From Latin accedere, “to approach” or “come to,” from ad- plus cedere, “to go.”",
+    "nuance": "Accede means give agreement, not merely comply under pressure; it is more formal and deliberate than simply say yes. Do not confuse it with exceed.",
+    "example": "I can accede to that timeline if we make the dependency on the data migration explicit.",
+    "date": "2026-09-17",
+    "tags": [
+      "leadership",
+      "negotiation",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "perspicuous",
+    "pronunciation": "per-SPIK-yoo-us",
+    "ipa": "pərˈspɪkjuəs",
+    "soundsLike": "Starts like “per,” then “speak,” and ends like “you us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Clear, readily understood, and expressed without needless complexity.",
+    "origin": "From Latin perspicuus, “transparent” or “clear to see,” from perspicere, “to look through.”",
+    "nuance": "Perspicuous describes communication or reasoning that is lucid and easy to follow, not merely brief. It differs from perspicacious, which describes a perceptive person.",
+    "example": "The proposal is persuasive because the tradeoffs are perspicuous even to people outside the immediate domain.",
+    "date": "2026-09-17",
+    "tags": [
+      "writing",
+      "communication",
+      "analysis"
+    ]
+  },
+  {
+    "word": "coextensive",
+    "pronunciation": "koh-ik-STEN-siv",
+    "ipa": "ˌkoʊɪkˈstɛnsɪv",
+    "soundsLike": "Starts like “co,” then “ick,” and ends like “extensive” without the first vowel sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Having the same scope, boundaries, or range as something else.",
+    "origin": "Built from Latin co-, “together,” and extendere, “to stretch out.”",
+    "nuance": "Coextensive means exactly equal in scope, not merely overlapping or related. It is useful when an ownership boundary, rule, or metric covers precisely the same territory as another.",
+    "example": "The service boundary is not coextensive with the team boundary, which is why the on-call model keeps getting confused.",
+    "date": "2026-09-17",
+    "tags": [
+      "engineering",
+      "governance",
+      "systems"
+    ]
+  },
+  {
+    "word": "derogation",
+    "pronunciation": "der-uh-GAY-shun",
+    "ipa": "ˌdɛrəˈɡeɪʃən",
+    "soundsLike": "Starts like “dare,” then “uh,” and ends like “gation” in “delegation.”",
+    "partOfSpeech": "noun",
+    "definition": "A partial exception, reduction, or departure from an established rule, right, or standard.",
+    "origin": "From Latin derogare, “to repeal in part,” from de- plus rogare, “to ask” or propose a law.",
+    "nuance": "A derogation narrows or suspends a rule in a defined case; it does not necessarily abolish it. In ordinary speech, derogatory has a different, insulting sense.",
+    "example": "We can approve a narrow derogation for the legacy client, but it needs an owner, an expiry date, and a migration plan.",
+    "date": "2026-09-17",
+    "tags": [
+      "governance",
+      "policy",
+      "leadership"
+    ]
   }
 ]
