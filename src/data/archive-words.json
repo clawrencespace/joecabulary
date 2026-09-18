@@ -6854,5 +6854,73 @@
       "policy",
       "leadership"
     ]
+  },
+  {
+    "word": "adumbrate",
+    "pronunciation": "AD-um-brayt",
+    "ipa": "ˈædəmˌbreɪt",
+    "soundsLike": "Starts like “add,” then “um,” and ends like “berate” without the first syllable.",
+    "partOfSpeech": "verb",
+    "definition": "To sketch, outline, or foreshadow something without giving its full detail.",
+    "origin": "From Latin adumbrare, “to cast a shadow toward” or “sketch in shadow,” from ad- plus umbra, “shadow.”",
+    "nuance": "Adumbrate is more provisional than define or specify: it gives the shape of an idea before the details are settled. It can also mean foreshadow in literary discussion.",
+    "example": "The architecture doc should adumbrate the target state now, even if we have not chosen every implementation detail.",
+    "date": "2026-09-18",
+    "tags": [
+      "strategy",
+      "writing",
+      "product"
+    ]
+  },
+  {
+    "word": "abductive",
+    "pronunciation": "ab-DUK-tiv",
+    "ipa": "æbˈdʌktɪv",
+    "soundsLike": "Starts like “ab,” then “duct,” and ends like “give” without the final vowel sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Reasoning from observations to the most plausible explanation.",
+    "origin": "From Latin abducere, “to lead away”; the reasoning sense was developed by philosopher Charles Sanders Peirce.",
+    "nuance": "Abductive reasoning generates a likely explanation; it does not prove it. Unlike deduction, its conclusion can be wrong, and unlike induction, it focuses on explaining a particular set of facts.",
+    "example": "My abductive read is that the latency spike comes from the new cache path, but we still need the traces to prove it.",
+    "date": "2026-09-18",
+    "tags": [
+      "engineering",
+      "analysis",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "epiphenomenal",
+    "pronunciation": "ep-ih-fuh-NOM-uh-nul",
+    "ipa": "ˌɛpɪfəˈnɑmənəl",
+    "soundsLike": "Starts like “epic,” then “phenomenal” with a softer middle.",
+    "partOfSpeech": "adjective",
+    "definition": "Present as a secondary effect but not materially causal in the matter at hand.",
+    "origin": "From Greek epiphenomenon, “an occurrence in addition,” from epi-, “upon,” plus phainomenon, “something appearing.”",
+    "nuance": "Use epiphenomenal for a visible byproduct mistaken for a driver. It does not mean unimportant in every sense; a secondary effect can still merit attention.",
+    "example": "The dashboard churn may be epiphenomenal; the real issue looks like unclear ownership upstream.",
+    "date": "2026-09-18",
+    "tags": [
+      "systems",
+      "causality",
+      "leadership"
+    ]
+  },
+  {
+    "word": "ineluctable",
+    "pronunciation": "in-ih-LUK-tuh-bul",
+    "ipa": "ˌɪnɪˈlʌktəbəl",
+    "soundsLike": "Starts like “in a,” then “luck,” and ends like “table” with a soft b.",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to avoid, escape, or change.",
+    "origin": "From Latin ineluctabilis, “not able to be struggled out of,” from in- plus eluctari, “to struggle free.”",
+    "nuance": "Ineluctable is stronger and more formal than likely or difficult to avoid. Reserve it for consequences that are effectively unavoidable, not merely inconvenient or unpopular.",
+    "example": "If we keep adding exceptions without retiring any, the operational complexity is ineluctable.",
+    "date": "2026-09-18",
+    "tags": [
+      "strategy",
+      "governance",
+      "rhetoric"
+    ]
   }
 ]
