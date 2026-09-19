@@ -6922,5 +6922,73 @@
       "governance",
       "rhetoric"
     ]
+  },
+  {
+    "word": "equanimity",
+    "pronunciation": "ee-kwuh-NIM-uh-tee",
+    "ipa": "ˌiːkwəˈnɪməti",
+    "soundsLike": "Starts like “equal,” then “nim” as in “nimble,” and ends like “tea.”",
+    "partOfSpeech": "noun",
+    "definition": "Calm, even-tempered composure, especially under stress.",
+    "origin": "From Latin aequanimitas, “evenness of mind,” from aequus, “equal,” plus animus, “mind.”",
+    "nuance": "Equanimity is steadiness, not indifference or passivity. It is the calm that lets you respond deliberately when the room gets hot.",
+    "example": "I want us to handle the escalation with equanimity: take the signal seriously without turning every ambiguity into a fire drill.",
+    "date": "2026-09-19",
+    "tags": [
+      "leadership",
+      "decision-making",
+      "communication"
+    ]
+  },
+  {
+    "word": "palimpsest",
+    "pronunciation": "PAL-imp-sest",
+    "ipa": "ˈpælɪmpsɛst",
+    "soundsLike": "Starts like “pal,” then “imp,” and ends like “best” with an s in front.",
+    "partOfSpeech": "noun",
+    "definition": "Something that retains visible traces of earlier layers after being revised or overwritten.",
+    "origin": "From Greek palimpsēstos, “scraped again,” for a manuscript whose writing surface was reused.",
+    "nuance": "Literally a reused manuscript, palimpsest is a useful metaphor for products, organizations, or cities whose earlier choices still shape the present. It is not merely a synonym for history.",
+    "example": "The permissions model is a palimpsest of old customer commitments, migrations, and a few shortcuts that became permanent.",
+    "date": "2026-09-19",
+    "tags": [
+      "systems",
+      "history",
+      "product"
+    ]
+  },
+  {
+    "word": "stipulative",
+    "pronunciation": "STIP-yuh-luh-tiv",
+    "ipa": "ˈstɪpjələtɪv",
+    "soundsLike": "Starts like “stipend,” then “you,” and ends like “active” without the first syllable.",
+    "partOfSpeech": "adjective",
+    "definition": "Setting a term or definition by explicit agreement rather than describing ordinary usage.",
+    "origin": "From Latin stipulari, “to demand or promise formally”; related to stipulate.",
+    "nuance": "A stipulative definition creates a working convention for a discussion. It does not claim that everyone already uses the word that way, so say so when the distinction matters.",
+    "example": "For this review, let’s use a stipulative definition of done: deployed, observable, and supportable—not just merged.",
+    "date": "2026-09-19",
+    "tags": [
+      "engineering",
+      "writing",
+      "governance"
+    ]
+  },
+  {
+    "word": "obdurate",
+    "pronunciation": "OB-duh-ruht",
+    "ipa": "ˈɑbdərət",
+    "soundsLike": "Starts like “odd,” then “der,” and ends like “rut.”",
+    "partOfSpeech": "adjective",
+    "definition": "Stubbornly resistant to change, persuasion, or feeling.",
+    "origin": "From Latin obdurare, “to harden,” from ob- plus durare, “to make hard.”",
+    "nuance": "Obdurate suggests hardening over time and is stronger than merely skeptical or slow to agree. It can describe a person, a policy, or a technical constraint that refuses to yield.",
+    "example": "The vendor’s pricing position is becoming obdurate, so we should stop assuming another meeting will unlock a different answer.",
+    "date": "2026-09-19",
+    "tags": [
+      "negotiation",
+      "strategy",
+      "leadership"
+    ]
   }
 ]
