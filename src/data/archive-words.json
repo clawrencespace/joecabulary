@@ -7670,5 +7670,73 @@
       "decision-making",
       "rhetoric"
     ]
+  },
+  {
+    "word": "equifinal",
+    "pronunciation": "EE-kwuh-FY-nuhl",
+    "ipa": "ˌikwəˈfaɪnəl",
+    "soundsLike": "Starts like “equal,” then “final” without its first ‘i.’",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of reaching the same end state through different routes or processes.",
+    "origin": "From Latin aequus, “equal,” plus finalis, “of an end”; used in systems theory for different paths leading to the same outcome.",
+    "nuance": "Equifinal is more precise than “similar”: it emphasizes convergence on an outcome despite different starting conditions or methods. It does not mean the paths are equally good.",
+    "example": "The two teams took equifinal approaches: one simplified the workflow, while the other automated the exceptions, and both cut the queue time in half.",
+    "date": "2026-09-30",
+    "tags": [
+      "systems",
+      "strategy",
+      "analysis"
+    ]
+  },
+  {
+    "word": "interoperable",
+    "pronunciation": "in-ter-OP-er-uh-buhl",
+    "ipa": "ˌɪntərˈɑpərəbəl",
+    "soundsLike": "Starts like “inter,” then “opera,” and ends like “able.”",
+    "partOfSpeech": "adjective",
+    "definition": "Able to exchange information or work together effectively with other systems, tools, or organizations.",
+    "origin": "Built from inter-, “between,” operate, and -able; common in computing and standards work.",
+    "nuance": "Interoperable means systems can function together in practice, not merely that each supports the same format or API. Compatibility can be partial; interoperability implies useful coordination.",
+    "example": "Before we call the integration done, I want to prove the services are interoperable under the actual customer workflow, not just in a demo.",
+    "date": "2026-09-30",
+    "tags": [
+      "engineering",
+      "architecture",
+      "operations"
+    ]
+  },
+  {
+    "word": "efficacious",
+    "pronunciation": "ef-ih-KAY-shus",
+    "ipa": "ˌɛfɪˈkeɪʃəs",
+    "soundsLike": "Starts like “effort,” then “cautious” without the ‘t.’",
+    "partOfSpeech": "adjective",
+    "definition": "Effective at producing the intended result.",
+    "origin": "From Latin efficax, “powerful or productive,” from efficere, “to bring about.”",
+    "nuance": "Efficacious is a precise, slightly formal alternative to “effective,” especially when the evidence is about whether an intervention works. Do not confuse it with efficient, which concerns resources or effort.",
+    "example": "The process is efficient for the team, but I am not convinced it is efficacious for customers who need an answer the same day.",
+    "date": "2026-09-30",
+    "tags": [
+      "decision-making",
+      "communication",
+      "analysis"
+    ]
+  },
+  {
+    "word": "ambivalent",
+    "pronunciation": "am-BIV-uh-luhnt",
+    "ipa": "æmˈbɪvələnt",
+    "soundsLike": "Starts like “am,” then “bib,” and ends like “valiant” without ‘ee.’",
+    "partOfSpeech": "adjective",
+    "definition": "Having conflicting feelings or attitudes about something.",
+    "origin": "From Latin ambo, “both,” plus valere, “to be strong”; coined in psychology for simultaneous opposing feelings.",
+    "nuance": "Ambivalent means pulled in more than one direction, not simply indifferent or undecided. It is useful when both the appeal and the cost of a choice feel real.",
+    "example": "I am ambivalent about adding another platform: the feature set is compelling, but the operational surface area is not trivial.",
+    "date": "2026-09-30",
+    "tags": [
+      "leadership",
+      "decision-making",
+      "culture"
+    ]
   }
 ]
