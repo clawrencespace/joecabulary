@@ -7262,5 +7262,73 @@
       "reasoning",
       "meetings"
     ]
+  },
+  {
+    "word": "prospective",
+    "pronunciation": "pruh-SPEK-tiv",
+    "ipa": "prəˈspɛktɪv",
+    "soundsLike": "Starts like “pro,” then “speck,” and ends like “give” with a t sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Expected, planned, or considered for the future; not yet actual.",
+    "origin": "From Latin prospicere, “to look forward,” from pro-, “forward,” plus specere, “to look.”",
+    "nuance": "Prospective means future-facing, not merely possible. A prospective customer or hire is a specific candidate under consideration; it is more precise than “potential” when the forward-looking frame matters.",
+    "example": "Before we promise a date to prospective customers, I want the dependency and support model to be real.",
+    "date": "2026-09-24",
+    "tags": [
+      "strategy",
+      "planning",
+      "leadership"
+    ]
+  },
+  {
+    "word": "protracted",
+    "pronunciation": "pruh-TRAK-tid",
+    "ipa": "prəˈtræktɪd",
+    "soundsLike": "Starts like “pro,” then “tracked,” and ends with “id.”",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting longer than expected or desirable, especially with an implied cost or drag.",
+    "origin": "From Latin protrahere, “to draw forth or prolong,” from pro-, “forward,” plus trahere, “to draw.”",
+    "nuance": "Protracted carries more friction than simply “long.” It is useful for negotiations, incidents, or decisions that have dragged on, but it does not imply that every extended effort was avoidable.",
+    "example": "A protracted migration is manageable if we keep the rollback path and customer impact visible.",
+    "date": "2026-09-24",
+    "tags": [
+      "execution",
+      "operations",
+      "risk"
+    ]
+  },
+  {
+    "word": "non sequitur",
+    "pronunciation": "non-SEK-wuh-ter",
+    "ipa": "nɑn ˈsɛkwətɚ",
+    "soundsLike": "“Non” as in “nonsense,” then “SEK-wuh-ter,” with “sequel” at the start and “motor” at the end.",
+    "partOfSpeech": "noun",
+    "definition": "A statement or conclusion that does not logically follow from what came before it.",
+    "origin": "Latin for “it does not follow,” from non, “not,” plus sequi, “to follow.”",
+    "nuance": "A non sequitur is a logical disconnect, not just a topic change. In comedy it can be deliberately absurd; in an argument it identifies a conclusion unsupported by the premise.",
+    "example": "Saying that the prototype impressed one customer is a non sequitur from saying the platform is ready to scale.",
+    "date": "2026-09-24",
+    "tags": [
+      "reasoning",
+      "communication",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "verisimilitude",
+    "pronunciation": "vair-uh-suh-MIL-i-tood",
+    "ipa": "ˌvɛrəsɪˈmɪlɪtuːd",
+    "soundsLike": "Starts like “very,” then “similar,” and ends like “attitude” without the first a.",
+    "partOfSpeech": "noun",
+    "definition": "The appearance or quality of being true, real, or believable.",
+    "origin": "From Latin verisimilitudo, “likeness to truth,” built from verus, “true,” and similis, “similar.”",
+    "nuance": "Verisimilitude is believability, not proof. A demo, forecast, or narrative can have strong verisimilitude while still being wrong, which makes the distinction especially useful in reviews.",
+    "example": "The roadmap has verisimilitude because the sequencing makes sense, but we still need evidence behind the revenue assumptions.",
+    "date": "2026-09-24",
+    "tags": [
+      "analysis",
+      "communication",
+      "product"
+    ]
   }
 ]
