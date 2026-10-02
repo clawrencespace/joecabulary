@@ -7534,5 +7534,73 @@
       "focus",
       "execution"
     ]
+  },
+  {
+    "word": "affordance",
+    "pronunciation": "uh-FOR-duhns",
+    "ipa": "əˈfɔrdəns",
+    "soundsLike": "Starts like “a four” and ends like “dance.”",
+    "partOfSpeech": "noun",
+    "definition": "A feature or quality that makes a particular action possible or easy to discover.",
+    "origin": "Coined from afford, “to provide or make available”; popularized in psychology and design by James J. Gibson.",
+    "nuance": "An affordance is about action the environment invites or enables, not merely a feature that exists. A visible button may afford clicking; a buried setting may not.",
+    "example": "The dashboard has the right data, but it does not give an operator a clear affordance for taking the next step.",
+    "date": "2026-09-28",
+    "tags": [
+      "product",
+      "design",
+      "technology"
+    ]
+  },
+  {
+    "word": "impedance",
+    "pronunciation": "im-PEE-duhns",
+    "ipa": "ɪmˈpiːdəns",
+    "soundsLike": "Starts like “impede” and ends like “dance.”",
+    "partOfSpeech": "noun",
+    "definition": "Resistance that slows or complicates the flow of something, especially work, information, or energy.",
+    "origin": "From Latin impedire, “to entangle or hinder,” via impede; its technical electrical sense came first.",
+    "nuance": "Outside engineering, impedance is a useful metaphor for friction between systems, teams, or ideas. It points to a structural resistance, not simply someone being difficult.",
+    "example": "The biggest delivery risk is not coding capacity; it is the impedance between product decisions and the teams implementing them.",
+    "date": "2026-09-28",
+    "tags": [
+      "engineering",
+      "operations",
+      "leadership"
+    ]
+  },
+  {
+    "word": "reductive",
+    "pronunciation": "rih-DUK-tiv",
+    "ipa": "rɪˈdʌktɪv",
+    "soundsLike": "Starts like “reduction” and ends like “active” without the ‘a.’",
+    "partOfSpeech": "adjective",
+    "definition": "Oversimplifying a complex matter by treating it as only one of its parts or causes.",
+    "origin": "From Latin reducere, “to lead back or bring down,” through reduction.",
+    "nuance": "Reductive is a critique of an explanation that leaves out material complexity. It does not mean concise: a concise explanation can still be accurate and complete enough.",
+    "example": "Calling the outage a people problem is reductive; the incentives, tooling, and review path all shaped the result.",
+    "date": "2026-09-28",
+    "tags": [
+      "analysis",
+      "leadership",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "monolithic",
+    "pronunciation": "mon-uh-LITH-ik",
+    "ipa": "ˌmɑnəˈlɪθɪk",
+    "soundsLike": "Starts like “monkey,” then “lith” as in “lithium,” and ends like “ick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Formed as one large, indivisible whole; in software, tightly integrated rather than separated into independent parts.",
+    "origin": "From Greek monolithos, “single stone,” from monos, “single,” plus lithos, “stone.”",
+    "nuance": "Monolithic is not automatically a criticism: a monolith can be simpler to operate. The drawback is that changes or failures may have a broad blast radius when boundaries are weak.",
+    "example": "We do not need to break the monolithic app apart on principle; we need clearer seams where change is actually expensive.",
+    "date": "2026-09-28",
+    "tags": [
+      "architecture",
+      "technology",
+      "strategy"
+    ]
   }
 ]
