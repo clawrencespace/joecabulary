@@ -6990,5 +6990,73 @@
       "strategy",
       "leadership"
     ]
+  },
+  {
+    "word": "proffer",
+    "pronunciation": "PROF-er",
+    "ipa": "ˈprɑfər",
+    "soundsLike": "Starts like “profit” without the t and ends like “her.”",
+    "partOfSpeech": "verb",
+    "definition": "To put forward or offer something for consideration or acceptance.",
+    "origin": "From Anglo-French profrir, “to offer,” ultimately from Latin pro-, “forward,” plus offerre, “to bring before.”",
+    "nuance": "Proffer is more deliberate and formal than offer: it suggests placing an idea, explanation, or concession before someone. It does not mean merely to prefer something.",
+    "example": "I can proffer a compromise, but it needs to preserve the reliability work we already committed to.",
+    "date": "2026-09-20",
+    "tags": [
+      "negotiation",
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "cognate",
+    "pronunciation": "KOG-nayt",
+    "ipa": "ˈkɑɡneɪt",
+    "soundsLike": "Starts like “cog,” then rhymes with “late.”",
+    "partOfSpeech": "adjective",
+    "definition": "Related by shared origin, nature, or characteristics.",
+    "origin": "From Latin cognatus, “born together” or “related,” from com-, “together,” plus natus, “born.”",
+    "nuance": "Cognate often refers to words with a common linguistic root, but it also usefully describes closely related disciplines or problems. Similarity alone is not enough; there should be a meaningful connection.",
+    "example": "The observability and support problems are cognate: both come from not being able to explain what the system is doing.",
+    "date": "2026-09-20",
+    "tags": [
+      "analysis",
+      "language",
+      "systems"
+    ]
+  },
+  {
+    "word": "détente",
+    "pronunciation": "day-TAHNT",
+    "ipa": "deɪˈtɑnt",
+    "soundsLike": "Starts like “day,” then ends like “taunt.”",
+    "partOfSpeech": "noun",
+    "definition": "An easing of tension or hostility, especially between opposing groups.",
+    "origin": "From French détente, “relaxation” or “release,” from détendre, “to loosen.”",
+    "nuance": "Détente is a reduction in friction, not necessarily trust or agreement. It is useful when two sides become able to work pragmatically without resolving every underlying dispute.",
+    "example": "The last conversation produced a workable détente: we still disagree on scope, but we can stop relitigating the premise every week.",
+    "date": "2026-09-20",
+    "tags": [
+      "strategy",
+      "negotiation",
+      "relationships"
+    ]
+  },
+  {
+    "word": "interregnum",
+    "pronunciation": "in-tuh-REG-num",
+    "ipa": "ˌɪntəˈrɛɡnəm",
+    "soundsLike": "Starts like “into,” then “reg” as in “regular,” and ends like “numb.”",
+    "partOfSpeech": "noun",
+    "definition": "A period between one established order, leader, or system and the next.",
+    "origin": "From Latin interregnum, “interval between reigns,” from inter, “between,” plus regnum, “rule” or “kingdom.”",
+    "nuance": "Originally a gap between rulers, interregnum now names an in-between period when authority or norms are unsettled. It is broader and more structural than a simple delay.",
+    "example": "We are in an interregnum between the old platform assumptions and the operating model the new product actually needs.",
+    "date": "2026-09-20",
+    "tags": [
+      "organizations",
+      "change",
+      "systems"
+    ]
   }
 ]
