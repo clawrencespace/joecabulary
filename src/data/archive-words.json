@@ -7126,5 +7126,73 @@
       "process",
       "engineering"
     ]
+  },
+  {
+    "word": "teleological",
+    "pronunciation": "TEL-ee-uh-LAH-ji-kuhl",
+    "ipa": "ˌtɛliəˈlɑdʒɪkəl",
+    "soundsLike": "Starts like “telly,” then “uh,” and ends like “logical” without the first “lo.”",
+    "partOfSpeech": "adjective",
+    "definition": "Explaining or evaluating something in terms of the end or purpose it is meant to serve.",
+    "origin": "From Greek telos, “end” or “aim,” plus logos, “reason” or “account.”",
+    "nuance": "Teleological reasoning works backward from a desired outcome. It is useful for clarifying purpose, but can become circular if the outcome is treated as proof that every means was justified.",
+    "example": "The roadmap is getting teleological: we keep defending every near-term choice by pointing to the end state instead of testing the tradeoffs in front of us.",
+    "date": "2026-09-22",
+    "tags": [
+      "strategy",
+      "reasoning",
+      "leadership"
+    ]
+  },
+  {
+    "word": "composable",
+    "pronunciation": "kum-POH-zuh-buhl",
+    "ipa": "kəmˈpoʊzəbəl",
+    "soundsLike": "Starts like “come,” then “pose,” and ends like “a bull.”",
+    "partOfSpeech": "adjective",
+    "definition": "Designed so its parts can be combined and recombined into useful larger systems.",
+    "origin": "Built from compose, from Latin componere, “to put together,” with the adjective-forming suffix -able.",
+    "nuance": "Composable implies clean interfaces and independent pieces that work together in new arrangements. It is stronger than modular: modules can exist side by side without actually combining well.",
+    "example": "Let’s make the permission model composable so new products can reuse the same primitives instead of inventing a parallel system.",
+    "date": "2026-09-22",
+    "tags": [
+      "engineering",
+      "architecture",
+      "product"
+    ]
+  },
+  {
+    "word": "circumscribed",
+    "pronunciation": "SUR-kum-skrybd",
+    "ipa": "ˈsɜrkəmskraɪbd",
+    "soundsLike": "Starts like “sir,” then “come,” and ends like “scribed” in “described.”",
+    "partOfSpeech": "adjective",
+    "definition": "Carefully limited or confined within defined boundaries.",
+    "origin": "From Latin circumscribere, “to draw a line around,” from circum, “around,” plus scribere, “to write.”",
+    "nuance": "Circumscribed emphasizes deliberate limits on authority, scope, or effect. It does not mean nonexistent; a circumscribed initiative can still be consequential inside its boundary.",
+    "example": "I’m fine with a circumscribed experiment, but it needs a clear decision owner and an explicit stop condition.",
+    "date": "2026-09-22",
+    "tags": [
+      "execution",
+      "governance",
+      "risk"
+    ]
+  },
+  {
+    "word": "fiduciary",
+    "pronunciation": "fi-DOO-shee-AIR-ee",
+    "ipa": "fɪˈduʃiɛri",
+    "soundsLike": "Starts like “fit” without the t, then “do,” then “she,” and ends like “airy.”",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to the duty to act with loyalty and care on behalf of someone who has entrusted you with responsibility or assets.",
+    "origin": "From Latin fiducia, “trust” or “confidence,” from fides, “faith.”",
+    "nuance": "Fiduciary is a legal term most often used in finance and governance, but its core idea is stewardship under trust. It is not simply a synonym for responsible or financially prudent.",
+    "example": "When we hold customer data, the standard should feel fiduciary: use it only in ways we can defend as being in their interest.",
+    "date": "2026-09-22",
+    "tags": [
+      "governance",
+      "trust",
+      "ethics"
+    ]
   }
 ]
