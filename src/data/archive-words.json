@@ -7398,5 +7398,73 @@
       "culture",
       "risk"
     ]
+  },
+  {
+    "word": "prescient",
+    "pronunciation": "PRESH-ee-uhnt",
+    "ipa": "ˈprɛʃiənt",
+    "soundsLike": "Starts like “pressure,” then ends like “brilliant.”",
+    "partOfSpeech": "adjective",
+    "definition": "Showing accurate knowledge or insight about what will happen before it does.",
+    "origin": "From Latin praesciens, “knowing beforehand,” from prae-, “before,” plus scire, “to know.”",
+    "nuance": "Prescient is stronger than merely smart or well-informed: it credits a forecast that proves unusually accurate. Use it after the evidence arrives, not as a compliment for any confident prediction.",
+    "example": "In hindsight, her call that support debt would become the real bottleneck was prescient.",
+    "date": "2026-09-26",
+    "tags": [
+      "strategy",
+      "forecasting",
+      "leadership"
+    ]
+  },
+  {
+    "word": "articulate",
+    "pronunciation": "ar-TIK-yuh-lit",
+    "ipa": "ɑrˈtɪkjələt",
+    "soundsLike": "Starts like “are,” then “tick,” and ends like “you lit.”",
+    "partOfSpeech": "adjective",
+    "definition": "Able to express ideas clearly and effectively in speech or writing.",
+    "origin": "From Latin articulatus, “jointed” or “distinctly divided,” from articulus, “a small joint.”",
+    "nuance": "Articulate is about clarity of expression, not necessarily intelligence or agreement. It is more specific than “good communicator,” and it should not be confused with the verb meaning to pronounce or connect parts.",
+    "example": "She gave an articulate explanation of the tradeoff without pretending the answer was simpler than it is.",
+    "date": "2026-09-26",
+    "tags": [
+      "communication",
+      "leadership",
+      "writing"
+    ]
+  },
+  {
+    "word": "variegated",
+    "pronunciation": "VAIR-ee-uh-gay-tid",
+    "ipa": "ˈvɛriəˌɡeɪtɪd",
+    "soundsLike": "Starts like “vary,” then “a,” and ends like “gated.”",
+    "partOfSpeech": "adjective",
+    "definition": "Marked by visible or meaningful variety, especially in pattern, character, or composition.",
+    "origin": "From Latin variegatus, “made of various colors,” from varius, “varied,” plus agere, “to make.”",
+    "nuance": "Variegated implies structured or noticeable variation, not random chaos. It works for customer bases, evidence, or tastes as well as literal color and pattern.",
+    "example": "We have a variegated customer base, so one clean-looking cohort can still hide a very different experience elsewhere.",
+    "date": "2026-09-26",
+    "tags": [
+      "analysis",
+      "customers",
+      "strategy"
+    ]
+  },
+  {
+    "word": "imprimatur",
+    "pronunciation": "im-prih-MAH-ter",
+    "ipa": "ˌɪmprɪˈmɑtɚ",
+    "soundsLike": "Starts like “imprint,” then ends like “matter.”",
+    "partOfSpeech": "noun",
+    "definition": "An official endorsement or authorization that gives something recognized approval.",
+    "origin": "From Latin imprimatur, “let it be printed,” the formal approval once required for certain publications.",
+    "nuance": "An imprimatur carries institutional or senior-level weight; it is more consequential than casual buy-in. Use it for a decision, policy, or release that needs visible authorization.",
+    "example": "The proposal is directionally sound, but it still needs the security team’s imprimatur before we treat it as a committed path.",
+    "date": "2026-09-26",
+    "tags": [
+      "governance",
+      "decision-making",
+      "leadership"
+    ]
   }
 ]
