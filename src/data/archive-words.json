@@ -7058,5 +7058,73 @@
       "change",
       "systems"
     ]
+  },
+  {
+    "word": "remediable",
+    "pronunciation": "ri-MEE-dee-uh-buhl",
+    "ipa": "rɪˈmiːdiəbəl",
+    "soundsLike": "Starts like “remain,” then has “media,” and ends like “bull.”",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being corrected, repaired, or improved.",
+    "origin": "From Latin remedium, “a cure” or “remedy,” from re-, “again,” plus mederi, “to heal.”",
+    "nuance": "Remediable says a problem has a practical path to correction; it does not promise that the fix will be cheap or quick. It is more specific than merely saying something is solvable.",
+    "example": "The outage exposed a remediable design gap, but we need to treat the mitigation as a product commitment rather than a one-off patch.",
+    "date": "2026-09-21",
+    "tags": [
+      "engineering",
+      "risk",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "prosaic",
+    "pronunciation": "pro-ZAY-ik",
+    "ipa": "proʊˈzeɪɪk",
+    "soundsLike": "Starts like “pro,” then “za” as in “zany,” and ends like “ick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Ordinary, matter-of-fact, and lacking dramatic or imaginative quality.",
+    "origin": "From Latin prosa, “straightforward discourse,” via prose; it originally contrasted prose with poetry.",
+    "nuance": "Prosaic is usually mildly dismissive, but it can be approving when plain execution is what a situation needs. It describes dullness or ordinariness, not necessarily poor quality.",
+    "example": "The strategy is exciting; the work that makes it real is mostly prosaic stuff like ownership, instrumentation, and follow-through.",
+    "date": "2026-09-21",
+    "tags": [
+      "communication",
+      "leadership",
+      "culture"
+    ]
+  },
+  {
+    "word": "stratified",
+    "pronunciation": "STRAT-uh-fyd",
+    "ipa": "ˈstrætəfaɪd",
+    "soundsLike": "Starts like “strategy” without the “egy,” then ends like “fied” in “qualified.”",
+    "partOfSpeech": "adjective",
+    "definition": "Arranged in distinct layers, levels, or classes.",
+    "origin": "From Latin stratum, “a covering” or “layer,” the past participle of sternere, “to spread out.”",
+    "nuance": "Stratified suggests meaningful layers with different properties or access, whether in data, an organization, or society. It is stronger than simply saying something has several parts.",
+    "example": "We need a stratified view of the metrics so an executive summary does not bury the diagnostic detail the team needs.",
+    "date": "2026-09-21",
+    "tags": [
+      "systems",
+      "data",
+      "organizations"
+    ]
+  },
+  {
+    "word": "codify",
+    "pronunciation": "KOH-duh-fy",
+    "ipa": "ˈkoʊdəfaɪ",
+    "soundsLike": "Starts like “code,” then “duh,” and ends like “fly” without the l.",
+    "partOfSpeech": "verb",
+    "definition": "To organize rules, practices, or knowledge into a systematic written form.",
+    "origin": "From Latin codex, “book” or “set of written tablets,” plus the verb-forming suffix -ify.",
+    "nuance": "Codify turns an understood practice into an explicit, durable standard; it does not merely document an isolated fact. Codifying too early can freeze a practice before it has earned that status.",
+    "example": "Once we have run the incident process a few times, let’s codify the parts that consistently reduce confusion.",
+    "date": "2026-09-21",
+    "tags": [
+      "governance",
+      "process",
+      "engineering"
+    ]
   }
 ]
