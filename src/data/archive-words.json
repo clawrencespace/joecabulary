@@ -7602,5 +7602,73 @@
       "technology",
       "strategy"
     ]
+  },
+  {
+    "word": "isomorphic",
+    "pronunciation": "eye-suh-MOR-fik",
+    "ipa": "ˌaɪsəˈmɔrfɪk",
+    "soundsLike": "Starts like “eye,” then “some more,” and ends like “fic” in “specific.”",
+    "partOfSpeech": "adjective",
+    "definition": "Having the same underlying structure or form, even when the surface details differ.",
+    "origin": "From Greek isos, “equal,” plus morphē, “form.”",
+    "nuance": "Isomorphic means structurally corresponding, not identical. Two organizations can look different yet be isomorphic if they reproduce the same incentives and decision patterns.",
+    "example": "The two migration plans look different on paper, but they are isomorphic: each moves the same risk into a different handoff.",
+    "date": "2026-09-29",
+    "tags": [
+      "systems",
+      "strategy",
+      "analysis"
+    ]
+  },
+  {
+    "word": "reflexive",
+    "pronunciation": "rih-FLEK-siv",
+    "ipa": "rɪˈflɛksɪv",
+    "soundsLike": "Starts like “reflect” and ends like “active” without the ‘a.’",
+    "partOfSpeech": "adjective",
+    "definition": "Relating back to itself; also, done automatically rather than through deliberate thought.",
+    "origin": "From Latin reflectere, “to bend back,” from re-, “back,” plus flectere, “to bend.”",
+    "nuance": "In analysis, reflexive describes a system whose observations or predictions affect the system itself. In everyday use, it can describe an automatic response, so context matters.",
+    "example": "The team’s reflexive move is to add another review gate, but that may be treating the symptom rather than the failure mode.",
+    "date": "2026-09-29",
+    "tags": [
+      "leadership",
+      "systems",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "cascading",
+    "pronunciation": "kas-KAY-ding",
+    "ipa": "kæˈskeɪdɪŋ",
+    "soundsLike": "Starts like “cat,” then “skating” without the ‘t.’",
+    "partOfSpeech": "adjective",
+    "definition": "Unfolding in a sequence where one event triggers further effects.",
+    "origin": "From Italian cascata, “waterfall,” via French cascade.",
+    "nuance": "Cascading emphasizes propagation through connected steps, not merely a large impact. It is especially useful for failures, dependencies, and second-order consequences.",
+    "example": "A small permissions change created a cascading failure once the downstream jobs began retrying against the same service.",
+    "date": "2026-09-29",
+    "tags": [
+      "engineering",
+      "risk",
+      "operations"
+    ]
+  },
+  {
+    "word": "contested",
+    "pronunciation": "kuhn-TES-tid",
+    "ipa": "kənˈtɛstɪd",
+    "soundsLike": "Starts like “contest” and ends like “did.”",
+    "partOfSpeech": "adjective",
+    "definition": "Open to serious disagreement, challenge, or competing claims.",
+    "origin": "From Latin contestari, “to call to witness or dispute,” from con-, “together,” plus testari, “to bear witness.”",
+    "nuance": "A contested point has active, credible disagreement around it; it does not just mean unpopular. The word is useful when the facts, interpretation, or authority are genuinely unsettled.",
+    "example": "The launch date is not a settled commitment yet; it is a contested assumption that depends on the security review.",
+    "date": "2026-09-29",
+    "tags": [
+      "communication",
+      "decision-making",
+      "rhetoric"
+    ]
   }
 ]
