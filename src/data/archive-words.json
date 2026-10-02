@@ -7194,5 +7194,73 @@
       "trust",
       "ethics"
     ]
+  },
+  {
+    "word": "proportionate",
+    "pronunciation": "pruh-POR-shuh-nuht",
+    "ipa": "prəˈpɔrʃənət",
+    "soundsLike": "Starts like “pro,” then “portion,” and ends like “it” softened to “uht.”",
+    "partOfSpeech": "adjective",
+    "definition": "Appropriately sized or severe in relation to the problem, risk, or goal at hand.",
+    "origin": "From Latin proportio, “comparative relation” or “proper ratio.”",
+    "nuance": "Proportionate is about fit, not merely moderation: a large response can be proportionate to a large risk. It is more precise than “reasonable” when you want to connect an action to its justification.",
+    "example": "The customer impact is real, but the fix should be proportionate to the risk instead of turning into a quarter-long rewrite.",
+    "date": "2026-09-23",
+    "tags": [
+      "leadership",
+      "risk",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "intransigent",
+    "pronunciation": "in-TRAN-si-juhnt",
+    "ipa": "ɪnˈtrænsɪdʒənt",
+    "soundsLike": "Starts like “in,” then “transit” without the last t, and ends like “agent” without the a.",
+    "partOfSpeech": "adjective",
+    "definition": "Unwilling to change one’s position or compromise, especially when flexibility is warranted.",
+    "origin": "From Latin intransigens, “not coming to an agreement,” built from in-, “not,” and transigere, “to come to terms.”",
+    "nuance": "Intransigent is stronger and more critical than firm. It suggests rigidity that obstructs progress; use it for a posture, not simply for someone who has a well-supported boundary.",
+    "example": "I don’t think the team is disagreeing on the principle; we’re stuck because the implementation debate has become intransigent.",
+    "date": "2026-09-23",
+    "tags": [
+      "negotiation",
+      "leadership",
+      "communication"
+    ]
+  },
+  {
+    "word": "generative",
+    "pronunciation": "JEN-uh-ray-tiv",
+    "ipa": "ˈdʒɛnərətɪv",
+    "soundsLike": "Starts like “Jenna,” then “rate,” and ends like “give” with a t sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Tending to produce new ideas, possibilities, or useful outcomes.",
+    "origin": "From Latin generare, “to bring forth” or “beget,” from genus, “kind” or “birth.”",
+    "nuance": "Generative describes work that opens productive paths, not just work that creates output. In technical contexts it can refer specifically to models that generate content, so context matters.",
+    "example": "That was a generative review: it surfaced two approaches we had not considered instead of just cataloging what was wrong.",
+    "date": "2026-09-23",
+    "tags": [
+      "strategy",
+      "collaboration",
+      "innovation"
+    ]
+  },
+  {
+    "word": "discursive",
+    "pronunciation": "dis-KUR-siv",
+    "ipa": "dɪsˈkɜrsɪv",
+    "soundsLike": "Starts like “dis,” then “curse,” and ends like “give” with an s sound.",
+    "partOfSpeech": "adjective",
+    "definition": "Moving through a subject in an exploratory or wide-ranging way rather than following a tight, direct line.",
+    "origin": "From Latin discurrere, “to run about,” from dis-, “apart,” plus currere, “to run.”",
+    "nuance": "Discursive can be neutral or appreciative for exploratory thinking, but often gently signals that a presentation or conversation is meandering. It does not simply mean “about discourse.”",
+    "example": "The kickoff was useful but a little discursive; let’s turn the open questions into a decision memo before the next meeting.",
+    "date": "2026-09-23",
+    "tags": [
+      "communication",
+      "reasoning",
+      "meetings"
+    ]
   }
 ]
