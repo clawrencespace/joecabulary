@@ -7330,5 +7330,73 @@
       "communication",
       "product"
     ]
+  },
+  {
+    "word": "quiescent",
+    "pronunciation": "kwee-ES-uhnt",
+    "ipa": "kwaɪˈɛsənt",
+    "soundsLike": "Starts like “quiet,” then “essence,” and ends like “sent.”",
+    "partOfSpeech": "adjective",
+    "definition": "Temporarily inactive or at rest, while still capable of becoming active.",
+    "origin": "From Latin quiescere, “to become quiet,” from quies, “rest” or “quiet.”",
+    "nuance": "Quiescent means dormant rather than retired or absent. It is especially useful for a feature flag, customer issue, or risk that is not currently surfacing but can reactivate.",
+    "example": "The incident is quiescent for now, but the underlying queue behavior still needs a proper fix.",
+    "date": "2026-09-25",
+    "tags": [
+      "engineering",
+      "risk",
+      "operations"
+    ]
+  },
+  {
+    "word": "consonant",
+    "pronunciation": "KON-suh-nuhnt",
+    "ipa": "ˈkɑnsənənt",
+    "soundsLike": "Starts like “con,” then “sun,” and ends like “aunt.”",
+    "partOfSpeech": "adjective",
+    "definition": "In agreement or harmony with something else.",
+    "origin": "From Latin consonare, “to sound together,” from con-, “together,” plus sonare, “to sound.”",
+    "nuance": "Beyond its grammar meaning, consonant is a precise alternative to “aligned with.” It signals compatibility of principles, evidence, or actions—not merely superficial similarity.",
+    "example": "A smaller first release is consonant with our reliability goals and gives us a cleaner learning loop.",
+    "date": "2026-09-25",
+    "tags": [
+      "strategy",
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "requisite",
+    "pronunciation": "REK-wuh-zit",
+    "ipa": "ˈrɛkwəzɪt",
+    "soundsLike": "Starts like “wreck,” then “was,” and ends like “sit.”",
+    "partOfSpeech": "adjective",
+    "definition": "Required or necessary for a particular purpose or result.",
+    "origin": "From Latin requisitus, “sought out” or “needed,” from requirere, “to require.”",
+    "nuance": "Requisite is firmer than “helpful” and narrower than “ideal.” Use it for a condition that must be met, while avoiding the common redundancy “necessary requisite.”",
+    "example": "A rollback plan is requisite before we let this change touch the full customer base.",
+    "date": "2026-09-25",
+    "tags": [
+      "execution",
+      "governance",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "pernicious",
+    "pronunciation": "per-NISH-us",
+    "ipa": "pɚˈnɪʃəs",
+    "soundsLike": "Starts like “per,” then “niche,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Having a harmful effect, especially one that is gradual or hard to notice at first.",
+    "origin": "From Latin perniciosus, “destructive,” from pernicies, “ruin” or “destruction.”",
+    "nuance": "Pernicious is stronger than merely “bad”: it emphasizes damage that compounds or hides in plain sight. It fits incentives, habits, and assumptions better than ordinary annoyances.",
+    "example": "The pernicious part of that metric is that it rewards quick closure even when the customer’s problem is unresolved.",
+    "date": "2026-09-25",
+    "tags": [
+      "analysis",
+      "culture",
+      "risk"
+    ]
   }
 ]
