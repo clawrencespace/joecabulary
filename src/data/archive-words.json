@@ -7738,5 +7738,73 @@
       "decision-making",
       "culture"
     ]
+  },
+  {
+    "word": "circuitous",
+    "pronunciation": "ser-KYOO-uh-tus",
+    "ipa": "sərˈkjuətəs",
+    "soundsLike": "Starts like “sir,” then “cue,” and ends like “a tussle” without the ‘l.’",
+    "partOfSpeech": "adjective",
+    "definition": "Taking a longer, indirect, or roundabout route to a result.",
+    "origin": "From Latin circuitus, “a going around,” from circum, “around,” plus ire, “to go.”",
+    "nuance": "Circuitous can describe a route, explanation, process, or organizational path. It means indirect, not necessarily unclear; use it when the detour itself matters.",
+    "example": "The current approval path is so circuitous that a routine pricing change touches four teams before anyone can ship it.",
+    "date": "2026-10-01",
+    "tags": [
+      "operations",
+      "communication",
+      "strategy"
+    ]
+  },
+  {
+    "word": "aporia",
+    "pronunciation": "uh-PORE-ee-uh",
+    "ipa": "əˈpɔriə",
+    "soundsLike": "Starts like “a,” then “pour,” and ends like “idea” without the ‘d.’",
+    "partOfSpeech": "noun",
+    "definition": "A genuine state of puzzlement or an apparently irresolvable contradiction in an argument.",
+    "origin": "From Greek aporia, “a difficulty or impasse,” literally “without a passage,” from a-, “without,” plus poros, “passage.”",
+    "nuance": "An aporia is more than a hard problem: it exposes a tension where the available assumptions do not yield a clean answer. It is useful when the impasse itself reveals something important.",
+    "example": "We have hit an aporia: customers want more control, but every option that adds it also makes the first-run experience harder.",
+    "date": "2026-10-01",
+    "tags": [
+      "analysis",
+      "product",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "volitional",
+    "pronunciation": "voh-LISH-uh-nuhl",
+    "ipa": "voʊˈlɪʃənəl",
+    "soundsLike": "Starts like “vote,” then “lotion” without the ‘o,’ and ends like “null.”",
+    "partOfSpeech": "adjective",
+    "definition": "Done by conscious choice or an act of will.",
+    "origin": "From Latin voluntas, “will or choice,” through the English noun volition.",
+    "nuance": "Volitional distinguishes a deliberate choice from a reflex, accident, or system-driven outcome. It is more precise than “intentional” when agency itself is the point.",
+    "example": "The adoption curve will not be volitional if the default workflow quietly opts every new account into the feature.",
+    "date": "2026-10-01",
+    "tags": [
+      "leadership",
+      "product",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "assay",
+    "pronunciation": "uh-SAY",
+    "ipa": "əˈseɪ",
+    "soundsLike": "Sounds like “a say.”",
+    "partOfSpeech": "noun; verb",
+    "definition": "A careful test or evaluation; to test or evaluate systematically.",
+    "origin": "From Old French assaier, “to try or test,” related to Latin exagium, “a weighing.”",
+    "nuance": "In science, an assay measures or tests a substance; more broadly, it suggests a disciplined evaluation. It is stronger than a casual “look at,” but less sweeping than a full audit.",
+    "example": "Before we standardize on that vendor, let’s assay the support data and migration effort against our actual operating model.",
+    "date": "2026-10-01",
+    "tags": [
+      "engineering",
+      "evaluation",
+      "decision-making"
+    ]
   }
 ]
