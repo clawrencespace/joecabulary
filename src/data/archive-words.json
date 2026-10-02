@@ -7466,5 +7466,73 @@
       "decision-making",
       "leadership"
     ]
+  },
+  {
+    "word": "mutable",
+    "pronunciation": "MYOO-tuh-buhl",
+    "ipa": "ˈmjuːtəbəl",
+    "soundsLike": "Starts like “music” without the ‘zik’ and ends like “table.”",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of changing or being changed.",
+    "origin": "From Latin mutabilis, “changeable,” from mutare, “to change.”",
+    "nuance": "Mutable suggests an inherent capacity for change, often in software, plans, or assumptions. It is not just a fancier word for unstable: change can be intentional and useful.",
+    "example": "The policy should be mutable while we are still learning, but the customer promise cannot be.",
+    "date": "2026-09-27",
+    "tags": [
+      "technology",
+      "strategy",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "lapidary",
+    "pronunciation": "LAP-ih-dair-ee",
+    "ipa": "ˈlæpɪˌdɛri",
+    "soundsLike": "Starts like “lap,” then “it,” and ends like “dairy.”",
+    "partOfSpeech": "adjective",
+    "definition": "Marked by concise, elegant, and memorable expression.",
+    "origin": "From Latin lapidarius, “of stone,” via the inscriptions carved on stone monuments.",
+    "nuance": "Lapidary praises compression with force and polish, not mere brevity. A short status update can be terse; a lapidary one makes the point stick.",
+    "example": "Her lapidary summary of the incident gave us a shared frame in two sentences.",
+    "date": "2026-09-27",
+    "tags": [
+      "communication",
+      "writing",
+      "leadership"
+    ]
+  },
+  {
+    "word": "inimical",
+    "pronunciation": "ih-NIM-ih-kuhl",
+    "ipa": "ɪˈnɪmɪkəl",
+    "soundsLike": "Starts like “in,” then “mimic,” and ends like “call.”",
+    "partOfSpeech": "adjective",
+    "definition": "Harmful or hostile to something’s interests, health, or success.",
+    "origin": "From Latin inimicus, “unfriendly” or “hostile,” from in-, “not,” plus amicus, “friend.”",
+    "nuance": "Inimical describes a relationship that works against an outcome, especially an incentive, condition, or habit. It is more precise than simply saying something is bad or unpopular.",
+    "example": "A release process that hides ownership is inimical to fast, reliable recovery.",
+    "date": "2026-09-27",
+    "tags": [
+      "operations",
+      "incentives",
+      "risk"
+    ]
+  },
+  {
+    "word": "desultory",
+    "pronunciation": "DEZ-uhl-tor-ee",
+    "ipa": "ˈdɛzəlˌtɔri",
+    "soundsLike": "Starts like “desert,” then ends like “story.”",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking a clear plan or connection, moving from one thing to another without sustained focus.",
+    "origin": "From Latin desultorius, “leaping about,” originally describing a circus rider who jumped between horses.",
+    "nuance": "Desultory is not a synonym for casual; it implies scattered, stop-start attention. Use it for a discussion, search, or effort that never develops a coherent line.",
+    "example": "We had a desultory conversation about priorities; next time I want a decision memo on the table.",
+    "date": "2026-09-27",
+    "tags": [
+      "meetings",
+      "focus",
+      "execution"
+    ]
   }
 ]

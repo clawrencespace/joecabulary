@@ -946,5 +946,70 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-09-27",
+    "title": "Composable Effects",
+    "eyebrow": "Sunday No. 013 · Live",
+    "date": "September 27, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "PROPORTIONATE",
+        "clue": "Appropriately sized or severe in relation to the problem, risk, or goal at hand",
+        "row": 1,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "COMPOSABLE",
+        "clue": "Designed so its parts can be combined and recombined into useful larger systems",
+        "row": 2,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "CIRCUMSCRIBED",
+        "clue": "Carefully limited or confined within defined boundaries",
+        "row": 2,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "TELEOLOGICAL",
+        "clue": "Explaining or evaluating something in terms of the end or purpose it is meant to serve",
+        "row": 2,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "PROSPECTIVE",
+        "clue": "Expected, planned, or considered for the future; not yet actual",
+        "row": 2,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "PERNICIOUS",
+        "clue": "Having a harmful effect, especially one that is gradual or hard to notice at first",
+        "row": 5,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "VERISIMILITUDE",
+        "clue": "The appearance or quality of being true, real, or believable",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]
