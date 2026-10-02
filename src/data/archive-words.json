@@ -7806,5 +7806,73 @@
       "evaluation",
       "decision-making"
     ]
+  },
+  {
+    "word": "remiss",
+    "pronunciation": "ri-MISS",
+    "ipa": "rəˈmɪs",
+    "soundsLike": "Rhymes with “dismiss,” with a short “ri” at the start.",
+    "partOfSpeech": "adjective",
+    "definition": "Negligent in doing a duty or insufficiently careful about an obligation.",
+    "origin": "From Latin remissus, “slackened or relaxed,” from remittere, “to send back or let go.”",
+    "nuance": "Remiss usually names a lapse in expected care, not a simple mistake. It is a measured way to say someone failed to follow through without implying malice.",
+    "example": "We would be remiss if we treated the migration as complete without a clear rollback plan.",
+    "date": "2026-10-02",
+    "tags": [
+      "leadership",
+      "accountability",
+      "operations"
+    ]
+  },
+  {
+    "word": "synoptic",
+    "pronunciation": "sin-OP-tik",
+    "ipa": "sɪˈnɑptɪk",
+    "soundsLike": "Starts like “sin,” then “optic” without the first ‘o.’",
+    "partOfSpeech": "adjective",
+    "definition": "Providing a broad, unified view rather than a close look at individual details.",
+    "origin": "From Greek synoptikos, “seen together,” from syn-, “together,” plus opsis, “view.”",
+    "nuance": "A synoptic view is useful for patterns, dependencies, and strategy. It does not mean superficial; it means deliberately wide-angle rather than granular.",
+    "example": "Before we reshuffle priorities again, I want a synoptic view of the roadmap, capacity, and customer commitments.",
+    "date": "2026-10-02",
+    "tags": [
+      "strategy",
+      "analysis",
+      "leadership"
+    ]
+  },
+  {
+    "word": "voluble",
+    "pronunciation": "VOL-yuh-bul",
+    "ipa": "ˈvɑljəbəl",
+    "soundsLike": "Starts like “volume,” then ends like “yuh-bull.”",
+    "partOfSpeech": "adjective",
+    "definition": "Speaking readily and at length; fluent and talkative.",
+    "origin": "From Latin volubilis, “rolling or flowing easily,” from volvere, “to roll.”",
+    "nuance": "Voluble describes ease and abundance of speech, not necessarily insight. It can be neutral praise for fluency or a gentle warning that someone is filling the room with words.",
+    "example": "He is voluble in the kickoff, but I still want the decision, owner, and deadline written down.",
+    "date": "2026-10-02",
+    "tags": [
+      "communication",
+      "meetings",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "cogency",
+    "pronunciation": "KOH-jən-see",
+    "ipa": "ˈkoʊdʒənsi",
+    "soundsLike": "Starts like “go,” then “Jen,” and ends like “see.”",
+    "partOfSpeech": "noun",
+    "definition": "The quality of being clear, logical, and convincingly forceful.",
+    "origin": "From Latin cogens, “compelling,” from cogere, “to drive together or compel.”",
+    "nuance": "Cogency is about the force of the reasoning, not merely confidence or polish. A cogent argument can still be wrong if its premises are flawed.",
+    "example": "The proposal gained cogency once we tied the architecture choice to the customer impact and operating cost.",
+    "date": "2026-10-02",
+    "tags": [
+      "reasoning",
+      "communication",
+      "decision-making"
+    ]
   }
 ]
