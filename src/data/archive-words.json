@@ -7874,5 +7874,73 @@
       "communication",
       "decision-making"
     ]
+  },
+  {
+    "word": "asymmetry",
+    "pronunciation": "ay-SIM-uh-tree",
+    "ipa": "eɪˈsɪmətri",
+    "soundsLike": "Starts like “ace,” then “SIM,” and ends like “a tree.”",
+    "partOfSpeech": "noun",
+    "definition": "A lack of balance or equivalence between two sides, options, or forces.",
+    "origin": "From Greek asymmetria, “want of proportion,” from a-, “not,” plus symmetria, “measured together.”",
+    "nuance": "Asymmetry names an uneven relationship, often in information, risk, or leverage; it does not simply mean any difference. The useful question is which side benefits from the imbalance.",
+    "example": "The real issue is the asymmetry: the customer can change scope quickly, but our delivery capacity cannot.",
+    "date": "2026-10-03",
+    "tags": [
+      "strategy",
+      "risk",
+      "leadership"
+    ]
+  },
+  {
+    "word": "nonlinear",
+    "pronunciation": "non-LIN-ee-er",
+    "ipa": "nɑnˈlɪniər",
+    "soundsLike": "Starts like “non,” then “linear” as in a straight line.",
+    "partOfSpeech": "adjective",
+    "definition": "Not changing in a direct, proportional, or straight-line way.",
+    "origin": "Built from Latin linea, “line,” with non- to negate the idea of linearity.",
+    "nuance": "Nonlinear is not a dressed-up synonym for complicated. It means an input can produce disproportionate, delayed, threshold-based, or feedback-driven effects.",
+    "example": "The payoff from improving onboarding is nonlinear; one small fix can remove friction across the whole customer journey.",
+    "date": "2026-10-03",
+    "tags": [
+      "systems",
+      "product",
+      "analysis"
+    ]
+  },
+  {
+    "word": "attenuation",
+    "pronunciation": "uh-ten-yoo-AY-shun",
+    "ipa": "əˌtɛnjuˈeɪʃən",
+    "soundsLike": "Starts like “a ten,” then “you,” and ends like “Asian.”",
+    "partOfSpeech": "noun",
+    "definition": "A reduction in strength, intensity, or effect.",
+    "origin": "From Latin attenuare, “to make thin or lessen,” from attenuatus, “made thin.”",
+    "nuance": "Attenuation is a measured weakening, not a total removal. In technical and organizational contexts, it usefully describes a signal, risk, or policy effect becoming less forceful over distance or time.",
+    "example": "We need to measure the attenuation between the executive decision and what the frontline teams actually hear.",
+    "date": "2026-10-03",
+    "tags": [
+      "communication",
+      "systems",
+      "operations"
+    ]
+  },
+  {
+    "word": "propitious",
+    "pronunciation": "pruh-PISH-us",
+    "ipa": "prəˈpɪʃəs",
+    "soundsLike": "Starts like “pro,” then “pish,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Favorable or well-suited to a particular action or outcome.",
+    "origin": "From Latin propitius, “favorable or gracious,” originally associated with a benevolent disposition.",
+    "nuance": "Propitious refers to conditions or timing that favor success, not a guarantee of it. It is more deliberate and specific than simply calling something lucky.",
+    "example": "With the platform work nearly done and the customer demand clear, this feels like a propitious moment to simplify the pricing model.",
+    "date": "2026-10-03",
+    "tags": [
+      "strategy",
+      "timing",
+      "decision-making"
+    ]
   }
 ]
