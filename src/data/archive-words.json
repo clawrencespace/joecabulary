@@ -7942,5 +7942,73 @@
       "timing",
       "decision-making"
     ]
+  },
+  {
+    "word": "cumulative",
+    "pronunciation": "KYOO-myuh-luh-tiv",
+    "ipa": "ˈkjuːmjələtɪv",
+    "soundsLike": "Starts like “cue,” then “my,” and ends like “relative” without the “re.”",
+    "partOfSpeech": "adjective",
+    "definition": "Increasing or produced through successive additions over time.",
+    "origin": "From Latin cumulatus, “heaped up,” from cumulus, “heap” or “mound.”",
+    "nuance": "Cumulative emphasizes that individually small increments add up. It does not merely mean large; the buildup and its carryover are the point.",
+    "example": "No single handoff is disastrous, but the cumulative friction is making the whole process feel slower than it is.",
+    "date": "2026-10-04",
+    "tags": [
+      "systems",
+      "operations",
+      "analysis"
+    ]
+  },
+  {
+    "word": "discernment",
+    "pronunciation": "dih-SURN-muhnt",
+    "ipa": "dɪˈsɜrnmənt",
+    "soundsLike": "Starts like “de,” then “cern” as in “concern,” and ends like “meant.”",
+    "partOfSpeech": "noun",
+    "definition": "The ability to notice and judge fine but important differences well.",
+    "origin": "From Latin discernere, “to separate or distinguish,” combining dis-, “apart,” with cernere, “to sift or distinguish.”",
+    "nuance": "Discernment is informed judgment, not simply having a strong preference. It matters most when several options seem plausible on the surface.",
+    "example": "The roadmap needs more discernment about which customer requests indicate a pattern and which are just loud exceptions.",
+    "date": "2026-10-04",
+    "tags": [
+      "judgment",
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "word": "conflation",
+    "pronunciation": "kuhn-FLAY-shun",
+    "ipa": "kənˈfleɪʃən",
+    "soundsLike": "Starts like “con,” then “flay,” and ends like “shun.”",
+    "partOfSpeech": "noun",
+    "definition": "The act of combining two distinct ideas, issues, or categories as if they were the same.",
+    "origin": "From Latin conflare, “to blow together or fuse,” from con-, “together,” plus flare, “to blow.”",
+    "nuance": "A conflation creates analytical confusion by collapsing a real distinction. It is stronger and more precise than saying two things were merely compared or associated.",
+    "example": "We are seeing a conflation of platform reliability with feature velocity, and they need different fixes.",
+    "date": "2026-10-04",
+    "tags": [
+      "reasoning",
+      "communication",
+      "product"
+    ]
+  },
+  {
+    "word": "tenuous",
+    "pronunciation": "TEN-yoo-us",
+    "ipa": "ˈtɛnjuəs",
+    "soundsLike": "Starts like “ten,” then “you,” and ends like “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Weak, slight, or uncertain in strength, support, or connection.",
+    "origin": "From Latin tenuis, “thin, fine, or slight.”",
+    "nuance": "Tenuous describes a connection, argument, or hold that may not withstand much scrutiny or pressure. It is not a synonym for merely incomplete.",
+    "example": "The assumed link between that pilot result and broad-market demand is still pretty tenuous.",
+    "date": "2026-10-04",
+    "tags": [
+      "evidence",
+      "risk",
+      "analysis"
+    ]
   }
 ]

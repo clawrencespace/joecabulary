@@ -1011,5 +1011,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-10-04",
+    "title": "Affordance Effects",
+    "eyebrow": "Sunday No. 014 · Live",
+    "date": "October 4, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "AFFORDANCE",
+        "clue": "A feature or quality that makes a particular action possible or easy to discover",
+        "row": 0,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "EQUIFINAL",
+        "clue": "Capable of reaching the same end state through different routes or processes",
+        "row": 0,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "AMBIVALENT",
+        "clue": "Having conflicting feelings or attitudes about something",
+        "row": 1,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "ASYMMETRY",
+        "clue": "A lack of balance or equivalence between two sides, options, or forces",
+        "row": 2,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "ISOMORPHIC",
+        "clue": "Having the same underlying structure or form, even when the surface details differ",
+        "row": 3,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "EFFICACIOUS",
+        "clue": "Effective at producing the intended result",
+        "row": 4,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "ATTENUATION",
+        "clue": "A reduction in strength, intensity, or effect",
+        "row": 4,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "INTEROPERABLE",
+        "clue": "Able to exchange information or work together effectively with other systems, tools, or organizations",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "CIRCUITOUS",
+        "clue": "Taking a longer, indirect, or roundabout route to a result",
+        "row": 12,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "NONLINEAR",
+        "clue": "Not changing in a direct, proportional, or straight-line way",
+        "row": 14,
+        "col": 3,
+        "direction": "across"
+      }
+    ]
   }
 ]
