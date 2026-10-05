@@ -8010,5 +8010,73 @@
       "risk",
       "analysis"
     ]
+  },
+  {
+    "word": "categorical",
+    "pronunciation": "kat-uh-GOR-ih-kuhl",
+    "ipa": "ˌkætəˈɡɔrɪkəl",
+    "soundsLike": "Starts like “cat,” then “a,” and has “GOR” as in “gorgeous.”",
+    "partOfSpeech": "adjective",
+    "definition": "Absolute and unqualified; also, relating to a distinct class or category.",
+    "origin": "From Greek katēgorikos, “affirmative” or “accusatory,” via the idea of making a definite assertion.",
+    "nuance": "Categorical means leaving no exceptions or room for qualification. It is stronger than confident; its absolute sense differs from the classification sense of the same word.",
+    "example": "I would not make a categorical call from one quarter of noisy data.",
+    "date": "2026-10-05",
+    "tags": [
+      "reasoning",
+      "communication",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "remedial",
+    "pronunciation": "rih-MEE-dee-uhl",
+    "ipa": "rɪˈmiːdiəl",
+    "soundsLike": "Starts like “re,” then “me,” and ends like “media” without the last “a.”",
+    "partOfSpeech": "adjective",
+    "definition": "Intended to correct a problem or improve an existing deficiency.",
+    "origin": "From Latin remedium, “cure” or “healing,” formed from re-, “again,” and mederi, “to heal.”",
+    "nuance": "Remedial addresses an existing shortfall; it is not the same as preventive, which aims to stop a problem before it starts.",
+    "example": "Let’s separate the remedial work that stabilizes the service from the longer-term redesign.",
+    "date": "2026-10-05",
+    "tags": [
+      "operations",
+      "leadership",
+      "systems"
+    ]
+  },
+  {
+    "word": "incommensurable",
+    "pronunciation": "in-kuh-MEN-ser-uh-buhl",
+    "ipa": "ˌɪnkəˈmɛnsərəbəl",
+    "soundsLike": "Starts like “income,” then “men,” and ends like “measurable” without “ea.”",
+    "partOfSpeech": "adjective",
+    "definition": "Not measurable by the same standard, so not directly comparable in a meaningful way.",
+    "origin": "From Latin in-, “not,” plus commensurare, “to measure together.”",
+    "nuance": "Use incommensurable when a common yardstick is genuinely missing, not just when two options are difficult to rank.",
+    "example": "A revenue target and a trust-rebuilding goal are not incommensurable, but treating them as one score would hide the tradeoff.",
+    "date": "2026-10-05",
+    "tags": [
+      "strategy",
+      "analysis",
+      "tradeoffs"
+    ]
+  },
+  {
+    "word": "expository",
+    "pronunciation": "ik-SPAW-zih-tor-ee",
+    "ipa": "ɪkˈspɑzɪtɔri",
+    "soundsLike": "Starts like “ex,” then “pause,” and ends like “story.”",
+    "partOfSpeech": "adjective",
+    "definition": "Serving to explain or set out information clearly and systematically.",
+    "origin": "From Latin exponere, “to set forth or explain,” via exposition.",
+    "nuance": "Expository writing explains; it need not argue for a position. A strong strategy memo often shifts from expository context into an explicitly persuasive recommendation.",
+    "example": "The opening should be expository enough that everyone shares the facts before we debate the recommendation.",
+    "date": "2026-10-05",
+    "tags": [
+      "writing",
+      "communication",
+      "rhetoric"
+    ]
   }
 ]
