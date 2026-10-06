@@ -8078,5 +8078,73 @@
       "communication",
       "rhetoric"
     ]
+  },
+  {
+    "word": "contingent",
+    "pronunciation": "kun-TIN-junt",
+    "ipa": "kənˈtɪndʒənt",
+    "soundsLike": "Starts like “can,” then “tin,” and ends like “gent” in “gentle.”",
+    "partOfSpeech": "adjective",
+    "definition": "Dependent on particular conditions or on something else happening first.",
+    "origin": "From Latin contingere, “to happen or touch upon,” from con-, “together,” plus tangere, “to touch.”",
+    "nuance": "Contingent means conditional, not merely uncertain. A plan can be highly likely yet still contingent on approval, funding, or a technical dependency.",
+    "example": "The rollout date is contingent on the migration finishing cleanly this week.",
+    "date": "2026-10-06",
+    "tags": [
+      "planning",
+      "strategy",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "heuristic",
+    "pronunciation": "hyoo-RIS-tik",
+    "ipa": "hjuˈrɪstɪk",
+    "soundsLike": "Starts like “you,” then “risk,” and ends like “tick.”",
+    "partOfSpeech": "noun",
+    "definition": "A practical rule of thumb that helps reach a good-enough judgment or solution quickly.",
+    "origin": "From Greek heuriskein, “to find” or “discover,” the source of “Eureka.”",
+    "nuance": "A heuristic is useful because it is fast, not because it is guaranteed correct. Do not treat it as a formal proof, policy, or optimization result.",
+    "example": "My heuristic is that any dashboard metric without an owner will eventually become decoration.",
+    "date": "2026-10-06",
+    "tags": [
+      "analysis",
+      "technology",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "granular",
+    "pronunciation": "GRAN-yuh-ler",
+    "ipa": "ˈɡrænjələr",
+    "soundsLike": "Starts like “gran,” then “you,” and ends like “ler” in “caller.”",
+    "partOfSpeech": "adjective",
+    "definition": "Detailed at a fine level, with distinctions among small components or intervals.",
+    "origin": "From Latin granulum, “small grain,” a diminutive of granum, “grain.”",
+    "nuance": "Granular describes resolution or level of detail, not simply depth. More granular data can be less useful if it obscures the decision with noise.",
+    "example": "Before we change the policy, I want a more granular view of where the failures are clustering.",
+    "date": "2026-10-06",
+    "tags": [
+      "data",
+      "operations",
+      "analysis"
+    ]
+  },
+  {
+    "word": "tractable",
+    "pronunciation": "TRAK-tuh-buhl",
+    "ipa": "ˈtræktəbəl",
+    "soundsLike": "Starts like “track” and ends like “table” without the long “a.”",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being handled, managed, or solved with available means.",
+    "origin": "From Latin tractare, “to handle or manage,” a frequentative form of trahere, “to draw or pull.”",
+    "nuance": "Tractable does not mean easy; it means the problem is workable enough to make progress. It often contrasts with a problem that is underspecified or too large to attack directly.",
+    "example": "The full platform rewrite is not tractable this quarter, but the authentication boundary is.",
+    "date": "2026-10-06",
+    "tags": [
+      "engineering",
+      "strategy",
+      "problem-solving"
+    ]
   }
 ]
