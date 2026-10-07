@@ -8146,5 +8146,73 @@
       "strategy",
       "problem-solving"
     ]
+  },
+  {
+    "word": "lacunary",
+    "pronunciation": "luh-KYOO-nuh-ree",
+    "ipa": "ləˈkjuːnəri",
+    "soundsLike": "Starts like “the,” then “cue,” and ends like “nary” in “imaginary.”",
+    "partOfSpeech": "adjective",
+    "definition": "Marked by gaps, omissions, or missing portions.",
+    "origin": "From Latin lacuna, “a pool, pit, or gap”; the same root appears in “lacuna.”",
+    "nuance": "Lacunary means incomplete because there are identifiable holes, not merely brief or high-level. It is especially useful for records, requirements, and data sets with consequential missing pieces.",
+    "example": "The incident record is too lacunary to support a confident root-cause call.",
+    "date": "2026-10-07",
+    "tags": [
+      "analysis",
+      "data",
+      "engineering"
+    ]
+  },
+  {
+    "word": "fecund",
+    "pronunciation": "FEK-und",
+    "ipa": "ˈfɛkənd",
+    "soundsLike": "Starts like “feck” in “feckless” and ends like “und” in “under.”",
+    "partOfSpeech": "adjective",
+    "definition": "Productive, inventive, or able to generate many useful ideas or results.",
+    "origin": "From Latin fecundus, “fruitful” or “productive,” related to fēlix, “fruitful, fortunate.”",
+    "nuance": "Fecund suggests sustained generative power, not just a high volume of output. It can describe a team, a period of inquiry, or an environment that reliably produces ideas worth developing.",
+    "example": "That customer conversation was fecund enough to give us three real product bets.",
+    "date": "2026-10-07",
+    "tags": [
+      "strategy",
+      "creativity",
+      "product"
+    ]
+  },
+  {
+    "word": "expeditious",
+    "pronunciation": "ek-spuh-DISH-us",
+    "ipa": "ˌɛkspəˈdɪʃəs",
+    "soundsLike": "Starts like “expedite,” then ends like “delicious” without the “l.”",
+    "partOfSpeech": "adjective",
+    "definition": "Done with efficient speed and without unnecessary delay.",
+    "origin": "From Latin expeditus, “unencumbered” or “ready,” from ex-, “out of,” plus pes, “foot.”",
+    "nuance": "Expeditious is about timely, efficient execution; it does not mean rash or careless. It is often confused with “expedient,” which means convenient or advantageous in the moment.",
+    "example": "Let’s keep the approval path expeditious without skipping the security review.",
+    "date": "2026-10-07",
+    "tags": [
+      "operations",
+      "leadership",
+      "execution"
+    ]
+  },
+  {
+    "word": "abrogate",
+    "pronunciation": "AB-ruh-gayt",
+    "ipa": "ˈæbrəˌɡeɪt",
+    "soundsLike": "Starts like “ab,” then “rug,” and ends like “gate.”",
+    "partOfSpeech": "verb",
+    "definition": "To formally repeal, end, or set aside a law, agreement, rule, or obligation.",
+    "origin": "From Latin abrogare, “to repeal,” from ab-, “away,” plus rogare, “to ask or propose a law.”",
+    "nuance": "Abrogate is a formal institutional word: a policy, treaty, or contract clause can be abrogated. It is stronger and more official than simply ignoring, changing, or deprecating something.",
+    "example": "We can revise the policy, but we should not quietly abrogate the service commitment.",
+    "date": "2026-10-07",
+    "tags": [
+      "governance",
+      "policy",
+      "rhetoric"
+    ]
   }
 ]
