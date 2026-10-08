@@ -8214,5 +8214,73 @@
       "policy",
       "rhetoric"
     ]
+  },
+  {
+    "word": "enervate",
+    "pronunciation": "EN-er-vayt",
+    "ipa": "ˈɛnərˌveɪt",
+    "soundsLike": "Starts like “enter” without the “t” and ends like “vate” in “activate.”",
+    "partOfSpeech": "verb",
+    "definition": "To weaken, drain the energy from, or reduce the effectiveness of someone or something.",
+    "origin": "From Latin enervare, “to weaken by removing the sinews,” from e-, “out of,” plus nervus, “sinew.”",
+    "nuance": "Enervate means to sap strength or vigor; it does not mean to energize. Use it for a process, constraint, or experience that leaves a team less able to act.",
+    "example": "A month of shifting priorities will enervate the team faster than a hard deadline will.",
+    "date": "2026-10-08",
+    "tags": [
+      "leadership",
+      "operations",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "equipoise",
+    "pronunciation": "EE-kwuh-poyz",
+    "ipa": "ˈiːkwəˌpɔɪz",
+    "soundsLike": "Starts like “equal” and ends like “poise.”",
+    "partOfSpeech": "noun",
+    "definition": "A state of balanced forces, considerations, or judgment.",
+    "origin": "From Latin aequus, “equal,” plus pensare, “to weigh”; it entered English through French.",
+    "nuance": "Equipoise is more deliberate than a tie or stalemate: it suggests competing considerations have been weighed and held in balance. It fits decisions with real tradeoffs.",
+    "example": "We need to hold the roadmap in equipoise: protect reliability without freezing product learning.",
+    "date": "2026-10-08",
+    "tags": [
+      "strategy",
+      "decision-making",
+      "leadership"
+    ]
+  },
+  {
+    "word": "hermetic",
+    "pronunciation": "her-MET-ik",
+    "ipa": "hɚˈmɛtɪk",
+    "soundsLike": "Starts like “her,” then “met,” and ends like “tick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Sealed against outside influence or difficult for outsiders to understand.",
+    "origin": "From Hermes Trismegistus, the legendary source of secret alchemical writings; the sense of an airtight seal grew from alchemy.",
+    "nuance": "Hermetic can be literal, as in an airtight container, or figurative, as in a closed system or inward-looking discussion. It implies isolation, not merely complexity.",
+    "example": "If the architecture review is hermetic, the support and security teams will spot the consequences too late.",
+    "date": "2026-10-08",
+    "tags": [
+      "systems",
+      "communication",
+      "engineering"
+    ]
+  },
+  {
+    "word": "fortuitous",
+    "pronunciation": "for-TOO-ih-tus",
+    "ipa": "fɔrˈtuːɪtəs",
+    "soundsLike": "Starts like “for,” then “two,” and ends like “it us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Happening by chance, often with a favorable result.",
+    "origin": "From Latin fortuitus, “happening by chance,” from fors, “luck” or “chance.”",
+    "nuance": "Fortuitous fundamentally means accidental, not simply fortunate. In common American usage it often carries a positive implication, so use “serendipitous” when the happy discovery itself is the point.",
+    "example": "It was fortuitous that the performance test exposed the bottleneck before the launch review.",
+    "date": "2026-10-08",
+    "tags": [
+      "analysis",
+      "engineering",
+      "decision-making"
+    ]
   }
 ]
