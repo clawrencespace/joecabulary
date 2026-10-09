@@ -8282,5 +8282,73 @@
       "engineering",
       "decision-making"
     ]
+  },
+  {
+    "word": "exigency",
+    "pronunciation": "EK-sih-jun-see",
+    "ipa": "ˈɛksɪdʒənsi",
+    "soundsLike": "Starts like “exit,” then “gents,” and ends like “see.”",
+    "partOfSpeech": "noun",
+    "definition": "An urgent demand or situation requiring prompt action.",
+    "origin": "From Latin exigere, “to demand” or “drive out,” through exigent; it shares roots with exact.",
+    "nuance": "An exigency is more than a priority or inconvenience: it is a real pressure that constrains timing or choice. It usually refers to the circumstance, not simply someone being busy.",
+    "example": "The customer outage is an exigency, but it should not become a blanket excuse to skip the security review.",
+    "date": "2026-10-09",
+    "tags": [
+      "leadership",
+      "operations",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "cavil",
+    "pronunciation": "KAV-uhl",
+    "ipa": "ˈkævəl",
+    "soundsLike": "Rhymes with “travel” and starts like “cat.”",
+    "partOfSpeech": "verb",
+    "definition": "To raise a petty, overly fussy, or evasive objection.",
+    "origin": "From Latin cavillari, “to jest, mock, or quibble,” from cavilla, “jest” or “scoff.”",
+    "nuance": "Cavil implies that the objection is trivial relative to the issue or offered in bad faith. Do not use it for substantive dissent; a cavil is a quibble, not a hard question.",
+    "example": "We can cavil over the label, but the operating model is what will determine whether this actually works.",
+    "date": "2026-10-09",
+    "tags": [
+      "rhetoric",
+      "leadership",
+      "communication"
+    ]
+  },
+  {
+    "word": "concatenate",
+    "pronunciation": "kun-KAT-uh-nayt",
+    "ipa": "kənˈkætəˌneɪt",
+    "soundsLike": "Starts like “can,” then “cat,” and ends like “a nate.”",
+    "partOfSpeech": "verb",
+    "definition": "To link things together in a series or chain.",
+    "origin": "From Late Latin concatenare, “to chain together,” from con-, “together,” plus catena, “chain.”",
+    "nuance": "In programming it commonly means joining strings end to end; more broadly it emphasizes sequential linkage. It is more precise than “combine” when order or chain-like connection matters.",
+    "example": "Let’s not concatenate three unrelated migrations into one release just because the calendar happens to line up.",
+    "date": "2026-10-09",
+    "tags": [
+      "engineering",
+      "systems",
+      "planning"
+    ]
+  },
+  {
+    "word": "palliative",
+    "pronunciation": "PAL-ee-uh-tiv",
+    "ipa": "ˈpæliətɪv",
+    "soundsLike": "Starts like “pal,” then “lee,” and ends like “a tiv” in “additive.”",
+    "partOfSpeech": "adjective",
+    "definition": "Relieving symptoms or discomfort without addressing the underlying cause.",
+    "origin": "From Latin palliare, “to cloak,” from pallium, “cloak”; the original image is covering rather than curing a problem.",
+    "nuance": "Palliative is not automatically dismissive: temporary relief can be valuable. The key distinction is that it manages effects rather than resolving the root cause.",
+    "example": "Adding another on-call rotation would be palliative; we still need to fix the noisy dependency that keeps paging everyone.",
+    "date": "2026-10-09",
+    "tags": [
+      "engineering",
+      "strategy",
+      "problem-solving"
+    ]
   }
 ]
