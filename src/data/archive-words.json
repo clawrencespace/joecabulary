@@ -8350,5 +8350,73 @@
       "strategy",
       "problem-solving"
     ]
+  },
+  {
+    "word": "alacrity",
+    "pronunciation": "uh-LAK-rih-tee",
+    "ipa": "əˈlækrəti",
+    "soundsLike": "Starts like “a” in “about,” then “lack,” and ends like “rarity” without the first “r.”",
+    "partOfSpeech": "noun",
+    "definition": "Brisk, willing promptness in acting or responding.",
+    "origin": "From Latin alacritas, “liveliness” or “eagerness,” from alacer, “lively.”",
+    "nuance": "Alacrity combines speed with readiness or good spirit; it is not merely haste. It is especially useful when someone moves quickly because they are engaged, not pressured.",
+    "example": "The team handled the incident with real alacrity, then slowed down long enough to make sure the fix was sound.",
+    "date": "2026-10-10",
+    "tags": [
+      "leadership",
+      "operations",
+      "communication"
+    ]
+  },
+  {
+    "word": "concession",
+    "pronunciation": "kun-SESH-un",
+    "ipa": "kənˈsɛʃən",
+    "soundsLike": "Starts like “can,” then “session.”",
+    "partOfSpeech": "noun",
+    "definition": "An acknowledgment that a point is valid, or something yielded in negotiation or argument.",
+    "origin": "From Latin concedere, “to yield” or “grant,” from con-, “together,” plus cedere, “to go” or “yield.”",
+    "nuance": "A concession can strengthen an argument by granting a fair point before drawing a boundary. It does not mean capitulation; you can concede a detail while rejecting the conclusion.",
+    "example": "I’ll make the concession that the migration timeline is aggressive, but that does not make the old platform a safe long-term bet.",
+    "date": "2026-10-10",
+    "tags": [
+      "rhetoric",
+      "negotiation",
+      "leadership"
+    ]
+  },
+  {
+    "word": "inductive",
+    "pronunciation": "in-DUK-tiv",
+    "ipa": "ɪnˈdʌktɪv",
+    "soundsLike": "Starts like “in,” then “duct,” and ends like “give” without the “g.”",
+    "partOfSpeech": "adjective",
+    "definition": "Reasoning from particular observations toward a broader pattern, rule, or likely conclusion.",
+    "origin": "From Latin inducere, “to lead in” or “bring about,” through the logic term induction.",
+    "nuance": "Inductive reasoning makes a probable generalization from evidence; it does not prove a conclusion with certainty the way a valid deductive argument can. In product and engineering work, it is how recurring signals become a hypothesis.",
+    "example": "Our read is inductive: three customer escalations point to the same workflow gap, but we should validate it against the broader support data.",
+    "date": "2026-10-10",
+    "tags": [
+      "analysis",
+      "engineering",
+      "decision-making"
+    ]
+  },
+  {
+    "word": "ascertain",
+    "pronunciation": "ass-er-TAYN",
+    "ipa": "ˌæsərˈteɪn",
+    "soundsLike": "Starts like “assure,” then ends like “train” without the “r.”",
+    "partOfSpeech": "verb",
+    "definition": "To find out or establish something with confidence through inquiry or evidence.",
+    "origin": "From Old French acertener, “to make certain,” built from Latin certus, “settled” or “sure.”",
+    "nuance": "Ascertain is more deliberate than simply learn or notice: it suggests checking until the fact is settled. It is often followed by “whether,” “why,” or a direct object—not “ascertain to.”",
+    "example": "Before we promise a date, let’s ascertain which dependency is actually on the critical path.",
+    "date": "2026-10-10",
+    "tags": [
+      "analysis",
+      "operations",
+      "precision"
+    ]
   }
 ]
