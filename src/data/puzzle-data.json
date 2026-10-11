@@ -1100,5 +1100,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-10-11",
+    "title": "Contingent Effects",
+    "eyebrow": "Sunday No. 015 · Live",
+    "date": "October 11, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CONTINGENT",
+        "clue": "Dependent on particular conditions or on something else happening first",
+        "row": 0,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "TRACTABLE",
+        "clue": "Capable of being handled, managed, or solved with available means",
+        "row": 0,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "EQUIPOISE",
+        "clue": "A state of balanced forces, considerations, or judgment",
+        "row": 2,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "answer": "EXPEDITIOUS",
+        "clue": "Done with efficient speed and without unnecessary delay",
+        "row": 2,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "PREVARICATE",
+        "clue": "To speak or act evasively in order to avoid stating the truth plainly",
+        "row": 2,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "CONCESSION",
+        "clue": "An acknowledgment that a point is valid, or something yielded in negotiation or argument",
+        "row": 4,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "CONCATENATE",
+        "clue": "To link things together in a series or chain",
+        "row": 4,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "INCOMMENSURABLE",
+        "clue": "Not measurable by the same standard, so not directly comparable in a meaningful way",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "EXIGENCY",
+        "clue": "An urgent demand or situation requiring prompt action",
+        "row": 9,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "FORTUITOUS",
+        "clue": "Happening by chance, often with a favorable result",
+        "row": 11,
+        "col": 4,
+        "direction": "across"
+      }
+    ]
   }
 ]

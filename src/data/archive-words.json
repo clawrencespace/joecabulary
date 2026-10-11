@@ -8418,5 +8418,73 @@
       "operations",
       "precision"
     ]
+  },
+  {
+    "word": "prevaricate",
+    "pronunciation": "prih-VAR-ih-kayt",
+    "ipa": "prɪˈværɪkeɪt",
+    "soundsLike": "Starts like “pretty,” then “var” as in “varnish,” and ends like “cake.”",
+    "partOfSpeech": "verb",
+    "definition": "To speak or act evasively in order to avoid stating the truth plainly.",
+    "origin": "From Latin praevaricari, originally “to walk crookedly,” later “to act dishonestly.”",
+    "nuance": "Prevaricating is more deliberate than being vague or uncertain: it implies dodging a clear answer. Use it for evasive communication, not an honest lack of information.",
+    "example": "If we do not know the answer yet, say that—there is no reason to prevaricate in the status update.",
+    "date": "2026-10-11",
+    "tags": [
+      "communication",
+      "leadership",
+      "precision"
+    ]
+  },
+  {
+    "word": "aplomb",
+    "pronunciation": "uh-PLOM",
+    "ipa": "əˈplɑm",
+    "soundsLike": "Starts like “a” in “about” and ends like “plum.”",
+    "partOfSpeech": "noun",
+    "definition": "Self-confident composure, especially under pressure or scrutiny.",
+    "origin": "From French aplomb, literally “perpendicularity” or “balance,” from à plomb, “according to the plumb line.”",
+    "nuance": "Aplomb is poised confidence rather than swagger. It describes how someone handles a demanding moment, not merely a belief that they are right.",
+    "example": "She handled the board’s hardest questions with aplomb and still left room for the team to fill in the details.",
+    "date": "2026-10-11",
+    "tags": [
+      "leadership",
+      "communication",
+      "culture"
+    ]
+  },
+  {
+    "word": "zeitgeist",
+    "pronunciation": "TSYTE-guyst",
+    "ipa": "ˈtsaɪtɡaɪst",
+    "soundsLike": "Rhymes roughly with “bite” plus “geist” as in “poltergeist.”",
+    "partOfSpeech": "noun",
+    "definition": "The defining spirit, ideas, or cultural mood of a particular period.",
+    "origin": "From German Zeit, “time,” plus Geist, “spirit.”",
+    "nuance": "Zeitgeist names a broad cultural current, not just whatever is popular this week. It works best when you can point to a shared shift in attitudes, aesthetics, or assumptions.",
+    "example": "The appetite for smaller, purpose-built tools feels very much part of the current AI zeitgeist.",
+    "date": "2026-10-11",
+    "tags": [
+      "culture",
+      "technology",
+      "analysis"
+    ]
+  },
+  {
+    "word": "occlude",
+    "pronunciation": "uh-KLOOD",
+    "ipa": "əˈklud",
+    "soundsLike": "Starts like “a” in “about” and rhymes with “mood.”",
+    "partOfSpeech": "verb",
+    "definition": "To block, close off, or obscure something from view or access.",
+    "origin": "From Latin occludere, “to shut up” or “close off,” from ob-, “against,” plus claudere, “to close.”",
+    "nuance": "Occlude is more exact than hide when something physically or structurally blocks visibility, flow, or access. In technical contexts, it can describe blocked pathways or a signal obscured by another layer.",
+    "example": "The top-line dashboard is useful, but it can occlude the operational details that explain why the metric moved.",
+    "date": "2026-10-11",
+    "tags": [
+      "analysis",
+      "technology",
+      "design"
+    ]
   }
 ]
