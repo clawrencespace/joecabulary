@@ -8486,5 +8486,73 @@
       "technology",
       "design"
     ]
+  },
+  {
+    "word": "veridical",
+    "pronunciation": "vuh-RID-ih-kuhl",
+    "ipa": "vəˈrɪdɪkəl",
+    "soundsLike": "Starts like “vuh” in “verdict,” followed by “RID” and “ih-kul” as in “critical.”",
+    "partOfSpeech": "adjective",
+    "definition": "Truthful, accurate, or corresponding to reality.",
+    "origin": "From Latin veridicus: verus, “true,” plus dicere, “to say.”",
+    "nuance": "Veridical is stronger and more formal than merely plausible: it asks whether a claim, report, or model is actually true. It is especially useful when discussing AI outputs, evidence, or perception.",
+    "example": "The demo is impressive, but I want to know whether the benchmark is veridical or just optimized for the happy path.",
+    "date": "2026-10-12",
+    "tags": [
+      "analysis",
+      "technology",
+      "evidence"
+    ]
+  },
+  {
+    "word": "polemical",
+    "pronunciation": "puh-LEM-ih-kuhl",
+    "ipa": "pəˈlɛmɪkəl",
+    "soundsLike": "Starts like “puh,” then “LEM” as in “lemon,” and ends like “critical.”",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing or involving a strongly critical, combative argument.",
+    "origin": "From Greek polemikos, “warlike,” from polemos, “war.”",
+    "nuance": "Polemical describes the posture of an argument, not simply disagreement. A forceful critique can be rigorous without being polemical; the word suggests it is trying to defeat an opposing view.",
+    "example": "The post makes a few good points, but its polemical tone will make it harder for people who disagree to engage with it.",
+    "date": "2026-10-12",
+    "tags": [
+      "rhetoric",
+      "communication",
+      "culture"
+    ]
+  },
+  {
+    "word": "farrago",
+    "pronunciation": "fuh-RAH-goh",
+    "ipa": "fəˈrɑɡoʊ",
+    "soundsLike": "Starts like “fuh,” then “RAH” as in “rah-rah,” and ends like “go.”",
+    "partOfSpeech": "noun",
+    "definition": "A confused or disorderly mixture of different things.",
+    "origin": "From Latin farrago, a mixed feed or medley, related to far, “grain.”",
+    "nuance": "A farrago is not just a diverse collection; it implies an ill-assorted mix whose parts do not form a coherent whole. It is often more pointed than “grab bag.”",
+    "example": "Right now the roadmap is a farrago of customer asks, platform cleanup, and experiments that have not earned a slot yet.",
+    "date": "2026-10-12",
+    "tags": [
+      "strategy",
+      "product",
+      "analysis"
+    ]
+  },
+  {
+    "word": "rebarbative",
+    "pronunciation": "rih-BAR-buh-tiv",
+    "ipa": "rɪˈbɑrbətɪv",
+    "soundsLike": "Starts like “rib,” then “bar,” and ends like “but if.”",
+    "partOfSpeech": "adjective",
+    "definition": "Unpleasant, irritating, or off-putting in a way that provokes resistance.",
+    "origin": "From French rébarbatif, “repellent” or “grumpy,” probably linked to rebarber, “to make bristle.”",
+    "nuance": "Rebarbative is more vivid than annoying: it suggests something that makes people instinctively pull back. Use it for a process, interface, tone, or behavior—not merely something difficult.",
+    "example": "The approval flow is technically sound, but it is rebarbative enough that people will route around it.",
+    "date": "2026-10-12",
+    "tags": [
+      "design",
+      "leadership",
+      "operations"
+    ]
   }
 ]
