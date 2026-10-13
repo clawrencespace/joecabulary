@@ -8554,5 +8554,73 @@
       "leadership",
       "operations"
     ]
+  },
+  {
+    "word": "deleterious",
+    "pronunciation": "del-uh-TEER-ee-us",
+    "ipa": "ˌdɛləˈtɪriəs",
+    "soundsLike": "Starts like “deli,” then “TEER” as in “tear,” and ends like “curious.”",
+    "partOfSpeech": "adjective",
+    "definition": "Causing harm or damage, especially gradually or indirectly.",
+    "origin": "From Greek dēlētērios, “noxious” or “destructive,” related to dēleisthai, “to harm.”",
+    "nuance": "Deleterious is more precise than bad: it flags a genuinely harmful effect, often one that accumulates over time. It does not mean merely inconvenient or unpopular.",
+    "example": "A little process is healthy; five layers of approval become deleterious when they slow every customer decision.",
+    "date": "2026-10-13",
+    "tags": [
+      "leadership",
+      "operations",
+      "risk"
+    ]
+  },
+  {
+    "word": "quixotic",
+    "pronunciation": "kwik-SOT-ik",
+    "ipa": "kwɪkˈsɑtɪk",
+    "soundsLike": "Starts like “quick,” then “SOT” as in “sought,” and ends like “pick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Exceedingly idealistic or ambitious in a way that is impractical.",
+    "origin": "Named for Don Quixote, the idealistic protagonist of Cervantes’s novel.",
+    "nuance": "Quixotic can be affectionate, not just dismissive: it recognizes admirable aspiration while questioning whether the plan fits reality. Do not use it for any idea that is merely difficult.",
+    "example": "Replacing every internal tool this quarter is a quixotic goal unless we first narrow the scope to the workflows people actually use.",
+    "date": "2026-10-13",
+    "tags": [
+      "strategy",
+      "planning",
+      "culture"
+    ]
+  },
+  {
+    "word": "bellicose",
+    "pronunciation": "BEL-ih-kohs",
+    "ipa": "ˈbɛlɪkoʊs",
+    "soundsLike": "Starts like “bell,” then “ih,” and ends like “close.”",
+    "partOfSpeech": "adjective",
+    "definition": "Demonstrating a readiness to fight or argue aggressively.",
+    "origin": "From Latin bellicosus, “warlike,” from bellum, “war.”",
+    "nuance": "Bellicose describes a combative disposition or posture, not simply directness. A candid review can be firm without being bellicose.",
+    "example": "We can challenge the proposal hard without making the meeting bellicose or turning the author into the target.",
+    "date": "2026-10-13",
+    "tags": [
+      "communication",
+      "leadership",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "proliferate",
+    "pronunciation": "pruh-LIF-uh-rayt",
+    "ipa": "prəˈlɪfəˌreɪt",
+    "soundsLike": "Starts like “pro,” then “LIF” as in “lift,” and ends like “rate.”",
+    "partOfSpeech": "verb",
+    "definition": "To increase rapidly in number or spread widely.",
+    "origin": "From Latin proliferare, “to produce offspring,” from proles, “offspring,” plus ferre, “to bear.”",
+    "nuance": "Proliferate usually implies noticeable, often unchecked growth. It is stronger than increase and can be neutral or critical depending on what is multiplying.",
+    "example": "If we do not consolidate the patterns now, one-off integrations will proliferate faster than the team can support them.",
+    "date": "2026-10-13",
+    "tags": [
+      "technology",
+      "systems",
+      "strategy"
+    ]
   }
 ]
