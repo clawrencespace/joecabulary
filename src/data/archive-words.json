@@ -8622,5 +8622,73 @@
       "systems",
       "strategy"
     ]
+  },
+  {
+    "word": "diffident",
+    "pronunciation": "DIF-ih-duhnt",
+    "ipa": "ˈdɪfɪdənt",
+    "soundsLike": "Starts like “different” without the “er,” then ends like “dent.”",
+    "partOfSpeech": "adjective",
+    "definition": "Modest, reserved, or hesitant because of a lack of self-confidence.",
+    "origin": "From Latin diffidere, “to distrust,” built from dis- plus fidere, “to trust.”",
+    "nuance": "Diffident describes self-doubt or reserve, not simple politeness or quietness. It is often mistaken for deferential, which means yielding to another person’s judgment.",
+    "example": "He was diffident in the first review, but once we got into the system constraints his judgment was unusually clear.",
+    "date": "2026-10-14",
+    "tags": [
+      "communication",
+      "leadership",
+      "people"
+    ]
+  },
+  {
+    "word": "mendacious",
+    "pronunciation": "men-DAY-shus",
+    "ipa": "mɛnˈdeɪʃəs",
+    "soundsLike": "Starts like “men,” then “day,” and ends like “spacious” without “spa.”",
+    "partOfSpeech": "adjective",
+    "definition": "Deliberately untruthful; given to lying.",
+    "origin": "From Latin mendax, “lying” or “deceitful.”",
+    "nuance": "Mendacious is stronger than inaccurate: it imputes intent to deceive. Use it only when the evidence supports more than an honest mistake or optimistic framing.",
+    "example": "Calling the estimate mendacious would be unfair; it is aggressive, but I do not think anyone is trying to mislead us.",
+    "date": "2026-10-14",
+    "tags": [
+      "ethics",
+      "communication",
+      "judgment"
+    ]
+  },
+  {
+    "word": "mordant",
+    "pronunciation": "MOR-duhnt",
+    "ipa": "ˈmɔrdənt",
+    "soundsLike": "Starts like “more,” then ends like “distant” without “is.”",
+    "partOfSpeech": "adjective",
+    "definition": "Sharply critical or dryly biting, especially in humor or commentary.",
+    "origin": "From Latin mordere, “to bite”; it first described something corrosive or stinging.",
+    "nuance": "Mordant humor has a cutting edge, but it is not automatically cruel. It differs from sarcastic by emphasizing incisive wit rather than merely saying the opposite of what one means.",
+    "example": "Her mordant take on the roadmap got a laugh because it exposed a real tradeoff we had all been avoiding.",
+    "date": "2026-10-14",
+    "tags": [
+      "rhetoric",
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "word": "dissemble",
+    "pronunciation": "dih-SEM-buhl",
+    "ipa": "dɪˈsɛmbəl",
+    "soundsLike": "Starts like “December” without “ber,” then ends like “tumble” without the “t.”",
+    "partOfSpeech": "verb",
+    "definition": "To conceal or disguise one’s true motives, feelings, or identity.",
+    "origin": "From Latin dissimulare, “to disguise” or “make unlike.”",
+    "nuance": "Dissemble is not simply to lie: it often means strategically obscuring the truth through omission, posture, or ambiguity. Do not confuse it with disassemble, meaning to take apart.",
+    "example": "We should not dissemble about the capacity risk just to keep the launch conversation comfortable.",
+    "date": "2026-10-14",
+    "tags": [
+      "communication",
+      "strategy",
+      "ethics"
+    ]
   }
 ]
