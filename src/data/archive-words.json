@@ -8690,5 +8690,73 @@
       "strategy",
       "ethics"
     ]
+  },
+  {
+    "word": "pellucid",
+    "pronunciation": "puh-LOO-sid",
+    "ipa": "pəˈluːsɪd",
+    "soundsLike": "Starts like “pollute” without the “t,” then ends like “acid” without the “a.”",
+    "partOfSpeech": "adjective",
+    "definition": "Exceptionally clear, transparent, or easy to understand.",
+    "origin": "From Latin pellucidus, “transparent,” from per-, “through,” plus lucere, “to shine.”",
+    "nuance": "Pellucid is stronger than clear: it suggests that the reasoning or expression lets the underlying structure show through. Use it for an explanation, argument, or design, not merely a short one.",
+    "example": "The best version of this strategy will be pellucid about the tradeoffs instead of burying them in optimistic language.",
+    "date": "2026-10-15",
+    "tags": [
+      "communication",
+      "strategy",
+      "analysis"
+    ]
+  },
+  {
+    "word": "antinomy",
+    "pronunciation": "an-TIN-uh-mee",
+    "ipa": "ænˈtɪnəmi",
+    "soundsLike": "Starts like “ant,” then “tin,” and ends like “a me.”",
+    "partOfSpeech": "noun",
+    "definition": "A conflict between two principles or conclusions that each seem valid but cannot both govern the same case.",
+    "origin": "From Greek antinomia, “opposition of laws,” from anti-, “against,” plus nomos, “law.”",
+    "nuance": "An antinomy is not just a difficult tradeoff or disagreement; it names a deeper collision between rules or premises. Calling one out can prevent a team from treating a structural tension as a mere execution problem.",
+    "example": "We are dealing with an antinomy: customers want more configurability, but the product also has to remain learnable on day one.",
+    "date": "2026-10-15",
+    "tags": [
+      "strategy",
+      "product",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "nascent",
+    "pronunciation": "NAY-suhnt",
+    "ipa": "ˈneɪsənt",
+    "soundsLike": "Starts like “Nate,” then ends like “present” without “pre.”",
+    "partOfSpeech": "adjective",
+    "definition": "Just beginning to exist or develop; emerging.",
+    "origin": "From Latin nasci, “to be born.”",
+    "nuance": "Nascent signals genuine early formation, not merely something small or unfinished. It works especially well for a market, practice, capability, or pattern whose direction is becoming visible.",
+    "example": "The usage data is still nascent, but it is already enough to challenge a few assumptions in the roadmap.",
+    "date": "2026-10-15",
+    "tags": [
+      "technology",
+      "strategy",
+      "growth"
+    ]
+  },
+  {
+    "word": "ostensible",
+    "pronunciation": "uh-STEN-suh-buhl",
+    "ipa": "əˈstɛnsəbəl",
+    "soundsLike": "Starts like “a stint,” then ends like “sensible” without the “sen.”",
+    "partOfSpeech": "adjective",
+    "definition": "Presented or appearing to be true, though the real purpose or nature may differ.",
+    "origin": "From Latin ostendere, “to show” or “display,” via French ostensible.",
+    "nuance": "Ostensible means apparent or stated, often with an implication that it may not be the whole story. It is not simply a fancier word for obvious; use it when separating a declared rationale from a likely underlying one.",
+    "example": "The ostensible reason for the delay is security review, but the real issue is that nobody owns the final decision.",
+    "date": "2026-10-15",
+    "tags": [
+      "communication",
+      "leadership",
+      "judgment"
+    ]
   }
 ]
