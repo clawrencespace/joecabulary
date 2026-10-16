@@ -8758,5 +8758,71 @@
       "leadership",
       "judgment"
     ]
+  },
+  {
+    "word": "eschew",
+    "pronunciation": "es-CHOO",
+    "ipa": "ɛsˈtʃu",
+    "soundsLike": "“Es” as in “estimate,” followed by “chew.”",
+    "partOfSpeech": "verb",
+    "definition": "To deliberately avoid or abstain from something.",
+    "origin": "From Old French eschiver, “to avoid,” ultimately from a Germanic root meaning “shy.”",
+    "nuance": "Implies a conscious choice, often on principle or as a matter of taste; not simply failing to do something. Pronounce the ending like “chew,” not “shoe.”",
+    "example": "I would eschew a big rewrite here and replace the riskiest components incrementally.",
+    "date": "2026-10-16",
+    "tags": [
+      "judgment",
+      "engineering"
+    ]
+  },
+  {
+    "word": "meretricious",
+    "pronunciation": "mair-uh-TRISH-uhs",
+    "ipa": "ˌmɛrəˈtrɪʃəs",
+    "soundsLike": "“Mair” rhymes with “fair”; the middle sounds like the start of “attrition,” and the ending like “delicious.”",
+    "partOfSpeech": "adjective",
+    "definition": "Attractive or impressive on the surface but lacking real value or integrity.",
+    "origin": "From Latin meretricius, “of a prostitute,” from meretrix, ultimately from mereri, “to earn.”",
+    "nuance": "A pointed criticism of deceptive showiness, not a synonym for merely ornate. Despite its sound, it means nearly the opposite of meritorious.",
+    "example": "The demo felt meretricious: gorgeous animations, but none of the difficult workflows actually worked.",
+    "date": "2026-10-16",
+    "tags": [
+      "criticism",
+      "product",
+      "culture"
+    ]
+  },
+  {
+    "word": "recapitulate",
+    "pronunciation": "ree-kuh-PICH-uh-layt",
+    "ipa": "ˌrikəˈpɪtʃəˌleɪt",
+    "soundsLike": "“Ree” rhymes with “see”; the stressed syllable sounds like “pitch,” and the last like “late.”",
+    "partOfSpeech": "verb",
+    "definition": "To summarize or restate the main points of something.",
+    "origin": "From Late Latin recapitulare, “to go over the headings again,” from re-, “again,” and capitulum, “little head” or “chapter.”",
+    "nuance": "Usually means a selective restatement of key points, not a verbatim repetition. “Recap” is its everyday shortened form; the full word suits a more deliberate synthesis.",
+    "example": "Let me recapitulate the decision: keep the API stable, migrate in stages, and measure error rates at each step.",
+    "date": "2026-10-16",
+    "tags": [
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "hysteresis",
+    "pronunciation": "his-tuh-REE-sis",
+    "ipa": "ˌhɪstəˈrisɪs",
+    "soundsLike": "Starts with “hiss”; “tuh” sounds like the start of “today,” “ree” rhymes with “see,” and “sis” sounds like the start of “sister.”",
+    "partOfSpeech": "noun",
+    "definition": "Dependence of a system’s present state on its history, not just its current inputs.",
+    "origin": "From Greek hysterēsis, “a falling short” or “lagging behind,” related to hysteros, “later.”",
+    "nuance": "More specific than a delay: identical current inputs can produce different states because the system took different paths. Separate on/off thresholds in a thermostat are a familiar example.",
+    "example": "We should add hysteresis to the autoscaler so it does not keep adding and removing capacity around the same threshold.",
+    "date": "2026-10-16",
+    "tags": [
+      "systems",
+      "engineering",
+      "analysis"
+    ]
   }
 ]
