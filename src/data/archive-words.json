@@ -8824,5 +8824,69 @@
       "engineering",
       "analysis"
     ]
+  },
+  {
+    "word": "redress",
+    "pronunciation": "rih-DRESS",
+    "ipa": "rɪˈdrɛs",
+    "soundsLike": "“Rih” as in “return,” followed by “dress.”",
+    "partOfSpeech": "verb",
+    "definition": "To remedy a wrong, grievance, or harmful imbalance.",
+    "origin": "From Old French redrecier, “to straighten again,” from re-, “again,” and drecier, “to set straight.”",
+    "nuance": "More specific than addressing a problem: it implies correcting an injustice or restoring a fair balance. The noun, meaning remedy or compensation, is usually stressed REE-dress.",
+    "example": "We need to redress the workload imbalance, not just thank the same people for working late.",
+    "date": "2026-10-17",
+    "tags": [
+      "leadership",
+      "fairness"
+    ]
+  },
+  {
+    "word": "adventitious",
+    "pronunciation": "ad-ven-TISH-uhs",
+    "ipa": "ˌædvɛnˈtɪʃəs",
+    "soundsLike": "“Ad” as in “add,” “ven” as in “vent,” “tish” rhyming with “dish,” and “uhs” as in “us.”",
+    "partOfSpeech": "adjective",
+    "definition": "Arising from an external or incidental source rather than from something’s inherent nature.",
+    "origin": "From Latin adventicius, “coming from outside,” related to advenire, “to arrive.”",
+    "nuance": "Not simply accidental, and not necessarily beneficial. It distinguishes an externally acquired feature or influence from an intrinsic one.",
+    "example": "The benchmark advantage may be adventitious—a warmer cache rather than a better algorithm.",
+    "date": "2026-10-17",
+    "tags": [
+      "analysis",
+      "engineering"
+    ]
+  },
+  {
+    "word": "magnanimous",
+    "pronunciation": "mag-NAN-uh-muhs",
+    "ipa": "mæɡˈnænəməs",
+    "soundsLike": "“Mag” as in “magazine,” “nan” rhyming with “can,” then “uh” and “muhs” as at the start of “must.”",
+    "partOfSpeech": "adjective",
+    "definition": "Generous and free of pettiness, especially toward a rival or someone in one’s power.",
+    "origin": "From Latin magnanimus, “great-souled,” combining magnus, “great,” and animus, “spirit.”",
+    "nuance": "Especially apt for graciousness in victory or forgiveness after conflict; stronger and more specific than merely friendly or charitable.",
+    "example": "She was magnanimous after her proposal won and made sure the other team got credit for the useful objections.",
+    "date": "2026-10-17",
+    "tags": [
+      "character",
+      "leadership"
+    ]
+  },
+  {
+    "word": "chimerical",
+    "pronunciation": "ky-MEHR-ih-kuhl",
+    "ipa": "kaɪˈmɛrɪkəl",
+    "soundsLike": "“Ky” rhymes with “sky,” “mehr” rhymes with “air,” and “ih-kuhl” matches the ending of “typical.”",
+    "partOfSpeech": "adjective",
+    "definition": "Existing only in imagination; appealing but wildly unrealistic.",
+    "origin": "From Chimera, the composite monster of Greek mythology, whose name comes from Greek chimaira, “she-goat.”",
+    "nuance": "Suggests a fanciful vision with little prospect of realization, not just a difficult or ambitious goal. The related biological word “chimeric” can describe a real mixture of genetically distinct cells.",
+    "example": "A migration with zero cost, zero downtime, and no compatibility work sounds chimerical to me.",
+    "date": "2026-10-17",
+    "tags": [
+      "judgment",
+      "strategy"
+    ]
   }
 ]
