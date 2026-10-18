@@ -8888,5 +8888,69 @@
       "judgment",
       "strategy"
     ]
+  },
+  {
+    "word": "evince",
+    "pronunciation": "ih-VINSS",
+    "ipa": "ɪˈvɪns",
+    "soundsLike": "Starts with the “ih” in “it,” followed by “Vince,” the name.",
+    "partOfSpeech": "verb",
+    "definition": "To show or reveal a quality, feeling, or state through evidence.",
+    "origin": "From Latin evincere, “to overcome or establish conclusively,” from e-, “out,” and vincere, “to conquer.”",
+    "nuance": "Usually takes a quality or attitude as its object: someone evinces confidence or curiosity. It means displaying evidence of something, not necessarily proving it beyond doubt.",
+    "example": "Her questions evince a much deeper understanding of the architecture than the slide deck suggests.",
+    "date": "2026-10-18",
+    "tags": [
+      "evidence",
+      "communication"
+    ]
+  },
+  {
+    "word": "promulgate",
+    "pronunciation": "PROM-uhl-gayt",
+    "ipa": "ˈprɑməlɡeɪt",
+    "soundsLike": "“Prom” as in the school dance, “uhl” as at the end of “local,” then “gate.”",
+    "partOfSpeech": "verb",
+    "definition": "To officially announce a rule or policy, or spread an idea widely.",
+    "origin": "From Latin promulgare, “to publish or make publicly known.”",
+    "nuance": "More formal and public than merely mentioning or proposing something. Promulgating a policy announces it authoritatively; it does not ensure people understand or follow it.",
+    "example": "Before we promulgate another security policy, let’s make sure teams can actually comply with it.",
+    "date": "2026-10-18",
+    "tags": [
+      "governance",
+      "leadership"
+    ]
+  },
+  {
+    "word": "recondite",
+    "pronunciation": "REK-uhn-dyte",
+    "ipa": "ˈrɛkəndaɪt",
+    "soundsLike": "“Rek” sounds like “wreck,” “uhn” matches the end of “beacon,” and “dyte” rhymes with “kite.”",
+    "partOfSpeech": "adjective",
+    "definition": "Obscure or difficult to understand because it requires specialized knowledge.",
+    "origin": "From Latin reconditus, “hidden away,” the past participle of recondere, “to put away or conceal.”",
+    "nuance": "Describes knowledge or subject matter that is not readily accessible, not necessarily writing that is needlessly confusing. Something can be recondite and still clearly explained.",
+    "example": "The liner notes get into some pretty recondite details about the recording equipment, but I’m into it.",
+    "date": "2026-10-18",
+    "tags": [
+      "culture",
+      "knowledge"
+    ]
+  },
+  {
+    "word": "solicitous",
+    "pronunciation": "suh-LISS-ih-tuhs",
+    "ipa": "səˈlɪsɪtəs",
+    "soundsLike": "“Suh” as at the start of “support,” “liss” rhyming with “miss,” then “ih” as in “it” and “tuhs” as at the end of “status.”",
+    "partOfSpeech": "adjective",
+    "definition": "Showing attentive care or concern for someone’s comfort or well-being.",
+    "origin": "From Latin sollicitus, “anxious or troubled,” related to the idea of being thoroughly stirred or agitated.",
+    "nuance": "Often warmly attentive, though it can suggest anxious or excessive concern. Not the same as soliciting, which means requesting something.",
+    "example": "The team was solicitous after I got back, but I mostly just wanted a normal day and a cup of coffee.",
+    "date": "2026-10-18",
+    "tags": [
+      "relationships",
+      "tone"
+    ]
   }
 ]

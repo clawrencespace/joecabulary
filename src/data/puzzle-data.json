@@ -1189,5 +1189,78 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-10-18",
+    "title": "Ostensible Effects",
+    "eyebrow": "Sunday No. 016 · Live",
+    "date": "October 18, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "OSTENSIBLE",
+        "clue": "Presented or appearing to be true, though the real purpose or nature may differ",
+        "row": 0,
+        "col": 14,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "MAGNANIMOUS",
+        "clue": "Generous and free of pettiness, especially toward a rival or someone in one’s power",
+        "row": 1,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 3,
+        "answer": "RECAPITULATE",
+        "clue": "To summarize or restate the main points of something",
+        "row": 3,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "answer": "PROLIFERATE",
+        "clue": "To increase rapidly in number or spread widely",
+        "row": 3,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "MENDACIOUS",
+        "clue": "Deliberately untruthful; given to lying",
+        "row": 5,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "answer": "ADVENTITIOUS",
+        "clue": "Arising from an external or incidental source rather than from something’s inherent nature",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "answer": "MERETRICIOUS",
+        "clue": "Attractive or impressive on the surface but lacking real value or integrity",
+        "row": 10,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "REBARBATIVE",
+        "clue": "Unpleasant, irritating, or off-putting in a way that provokes resistance",
+        "row": 12,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]
