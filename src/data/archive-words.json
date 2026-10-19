@@ -8952,5 +8952,69 @@
       "relationships",
       "tone"
     ]
+  },
+  {
+    "word": "concomitant",
+    "pronunciation": "kuhn-KOM-ih-tuhnt",
+    "ipa": "kənˈkɑmɪtənt",
+    "soundsLike": "“Kuhn” as at the start of “contain,” “kom” as in “comedy,” “ih” as in “it,” and “tuhnt” as at the end of “reluctant.”",
+    "partOfSpeech": "adjective",
+    "definition": "Accompanying or occurring alongside something else, especially in a connected way.",
+    "origin": "From Latin concomitari, “to accompany,” from com-, “together,” and comes, “companion.”",
+    "nuance": "Often describes associated costs, risks, or changes. Concomitant effects accompany something; the word alone does not establish that it caused them. Also a noun for an accompanying feature.",
+    "example": "We need to budget for the concomitant increase in support work, not just the infrastructure bill.",
+    "date": "2026-10-19",
+    "tags": [
+      "analysis",
+      "tradeoffs"
+    ]
+  },
+  {
+    "word": "expunge",
+    "pronunciation": "ik-SPUNJ",
+    "ipa": "ɪkˈspʌndʒ",
+    "soundsLike": "“Ik” rhymes with “pick,” followed by “sponge.”",
+    "partOfSpeech": "verb",
+    "definition": "To erase or remove something completely, especially from a record.",
+    "origin": "From Latin expungere, “to mark for deletion,” literally “to prick out,” from ex-, “out,” and pungere, “to prick.”",
+    "nuance": "Stronger than correcting or hiding: it implies removal. Legal expungement has jurisdiction-specific limits and does not always mean every copy of a record is destroyed.",
+    "example": "Before we share those logs, we need to expunge the customer identifiers.",
+    "date": "2026-10-19",
+    "tags": [
+      "privacy",
+      "records"
+    ]
+  },
+  {
+    "word": "anachronistic",
+    "pronunciation": "uh-nak-ruh-NIS-tik",
+    "ipa": "əˌnækrəˈnɪstɪk",
+    "soundsLike": "“Uh” as in “above,” “nak” like “knack,” “ruh” as at the start of “recur,” “nis” rhyming with “miss,” and “tik” like “tick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Belonging to a different time period, or out of step with the present.",
+    "origin": "From Greek anakhronismos, an error in chronology, from ana-, “back,” and khronos, “time.”",
+    "nuance": "Can describe a literal historical mismatch or a practice that feels outdated. Old is not automatically anachronistic: the issue is being out of place in the relevant era.",
+    "example": "Requiring a printed approval form for a cloud deployment feels pretty anachronistic.",
+    "date": "2026-10-19",
+    "tags": [
+      "culture",
+      "process"
+    ]
+  },
+  {
+    "word": "unctuous",
+    "pronunciation": "UNGK-choo-uhs",
+    "ipa": "ˈʌŋktʃuəs",
+    "soundsLike": "“Ungk” is “sunk” without the initial s, followed by “chew” and the unstressed “uhs” at the end of “famous.”",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively flattering or ingratiating in a way that seems insincere.",
+    "origin": "From Medieval Latin unctuosus, “oily,” ultimately from Latin unguere, “to anoint.”",
+    "nuance": "Usually critical when describing a person’s manner: oily charm, not genuine warmth. In food writing it can instead praise a rich, fatty texture.",
+    "example": "The pitch got so unctuous that I started trusting the product less.",
+    "date": "2026-10-19",
+    "tags": [
+      "rhetoric",
+      "judgment"
+    ]
   }
 ]
