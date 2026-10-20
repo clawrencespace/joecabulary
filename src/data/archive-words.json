@@ -9016,5 +9016,69 @@
       "rhetoric",
       "judgment"
     ]
+  },
+  {
+    "word": "ex ante",
+    "pronunciation": "eks AN-tee",
+    "ipa": "ɛks ˈænti",
+    "soundsLike": "“Ex” as in “ex-partner,” followed by “ant” and the “ee” in “tea.”",
+    "partOfSpeech": "adjective; adverb",
+    "definition": "Based on what is known or expected before an event occurs.",
+    "origin": "Latin ex ante, “from before.”",
+    "nuance": "Contrasts with ex post, after the fact. An ex ante judgment evaluates the information available at the time, not the eventual outcome; it need not be a numerical forecast.",
+    "example": "Ex ante, that was a reasonable architecture decision; the acquisition changed the constraints.",
+    "date": "2026-10-20",
+    "tags": [
+      "decisions",
+      "analysis"
+    ]
+  },
+  {
+    "word": "metonymy",
+    "pronunciation": "muh-TAH-nuh-mee",
+    "ipa": "məˈtɑnəmi",
+    "soundsLike": "The unstressed “muh” in “machine,” “tah” as in “taco,” “nuh” as in “banana,” and “me.”",
+    "partOfSpeech": "noun",
+    "definition": "Referring to something by naming a closely associated thing.",
+    "origin": "From Greek metōnymia, “change of name,” from meta-, “change,” and onyma, “name.”",
+    "nuance": "“The White House” for the administration is metonymy: association, not resemblance as in metaphor. Synecdoche, such as “hands” for workers, specifically uses a part for a whole or the reverse.",
+    "example": "Calling the decision “a win for the suits” is metonymy, but it also hides who actually made it.",
+    "date": "2026-10-20",
+    "tags": [
+      "rhetoric",
+      "language"
+    ]
+  },
+  {
+    "word": "abstemious",
+    "pronunciation": "ab-STEE-mee-uhs",
+    "ipa": "æbˈstimiəs",
+    "soundsLike": "“Ab” as in “abs,” “stee” as in “steep,” “me,” and the unstressed “uhs” in “famous.”",
+    "partOfSpeech": "adjective",
+    "definition": "Moderate or restrained in consumption, especially of food or alcohol.",
+    "origin": "From Latin abstemius, “abstaining from wine,” from abs-, “away from,” and temetum, “strong drink.”",
+    "nuance": "Usually describes restraint rather than total abstinence. It can extend to other appetites, but “frugal” is clearer when the point is simply saving money.",
+    "example": "I’m being abstemious this week, so I’ll have one beer and call it a night.",
+    "date": "2026-10-20",
+    "tags": [
+      "habits",
+      "restraint"
+    ]
+  },
+  {
+    "word": "prepossessing",
+    "pronunciation": "pree-puh-ZES-ing",
+    "ipa": "ˌpripəˈzɛsɪŋ",
+    "soundsLike": "“Pree” rhymes with “free,” “puh” as in “polite,” “zes” as in the start of “zesty,” and “ing” as in “sing.”",
+    "partOfSpeech": "adjective",
+    "definition": "Attractive or appealing, especially on first impression.",
+    "origin": "From prepossess, originally “to occupy beforehand,” later “to influence in advance,” hence to create a favorable impression.",
+    "nuance": "Describes initial appeal, not proven merit. Often appears in the negative: “not especially prepossessing.” Do not confuse it with “possessive.”",
+    "example": "The venue isn’t especially prepossessing from the street, but the room sounds fantastic.",
+    "date": "2026-10-20",
+    "tags": [
+      "culture",
+      "perception"
+    ]
   }
 ]
