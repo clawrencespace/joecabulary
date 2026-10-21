@@ -9080,5 +9080,69 @@
       "culture",
       "perception"
     ]
+  },
+  {
+    "word": "assuage",
+    "pronunciation": "uh-SWAYJ",
+    "ipa": "əˈsweɪdʒ",
+    "soundsLike": "The “uh” in “about,” followed by “sway” and the final sound in “age.”",
+    "partOfSpeech": "verb",
+    "definition": "To ease an unpleasant feeling or make a need less intense.",
+    "origin": "From Old French assouagier, ultimately Latin ad-, “toward,” and suavis, “sweet.”",
+    "nuance": "You can assuage fears, guilt, or hunger without eliminating their cause. Reassuring language may assuage concern without actually reducing the risk.",
+    "example": "A concrete rollback plan would do more to assuage my concerns than another status meeting.",
+    "date": "2026-10-21",
+    "tags": [
+      "leadership",
+      "emotion"
+    ]
+  },
+  {
+    "word": "sophistry",
+    "pronunciation": "SAH-fuh-stree",
+    "ipa": "ˈsɑfəstri",
+    "soundsLike": "“Sah” as in the start of “soccer,” the unstressed “fuh” in “sofa,” and “stree” as in “street” without its final t.",
+    "partOfSpeech": "noun",
+    "definition": "Reasoning that sounds persuasive but is misleading or unsound.",
+    "origin": "From Greek sophistēs, “wise man” or “teacher,” through the later association of sophists with specious argument.",
+    "nuance": "Stronger than “a weak argument”: it suggests deceptive cleverness, though deliberate dishonesty is not always implied. Not a synonym for sophistication.",
+    "example": "Calling the outage a success because the alert fired is sophistry; customers still couldn’t log in.",
+    "date": "2026-10-21",
+    "tags": [
+      "rhetoric",
+      "analysis"
+    ]
+  },
+  {
+    "word": "supererogatory",
+    "pronunciation": "soo-per-ih-RAH-guh-tor-ee",
+    "ipa": "ˌsupərɪˈrɑɡəˌtɔri",
+    "soundsLike": "“Super,” the “ih” in “it,” “rah” as in “rah-rah,” the “guh” in “again,” and “Tory.”",
+    "partOfSpeech": "adjective",
+    "definition": "Going beyond what duty or obligation requires.",
+    "origin": "From Latin supererogare, “to pay out in addition,” from super-, “beyond,” and erogare, “to expend.”",
+    "nuance": "In ethics, usually describes admirable but optional conduct. In broader use it can mean extra or unnecessary; specify whether you mean praise or excess.",
+    "example": "Writing the runbook was part of the job; staying late to coach the new on-call engineer was supererogatory.",
+    "date": "2026-10-21",
+    "tags": [
+      "ethics",
+      "work"
+    ]
+  },
+  {
+    "word": "auspicious",
+    "pronunciation": "aw-SPISH-uhs",
+    "ipa": "ɔˈspɪʃəs",
+    "soundsLike": "“Aw,” “spish” rhyming with “fish,” and the unstressed ending of “delicious.”",
+    "partOfSpeech": "adjective",
+    "definition": "Suggesting favorable conditions or a promising outcome.",
+    "origin": "From Latin auspicium, divination by observing birds, from avis, “bird,” and specere, “to look.”",
+    "nuance": "Describes encouraging signs, especially at a beginning, not a guaranteed result. “An auspicious start” is promising; “a successful finish” describes what actually happened.",
+    "example": "Three teams adopting the API without hand-holding is an auspicious start, but I want to see retention.",
+    "date": "2026-10-21",
+    "tags": [
+      "judgment",
+      "outlook"
+    ]
   }
 ]
