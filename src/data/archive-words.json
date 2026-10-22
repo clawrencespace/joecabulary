@@ -9144,5 +9144,69 @@
       "judgment",
       "outlook"
     ]
+  },
+  {
+    "word": "defray",
+    "pronunciation": "dih-FRAY",
+    "ipa": "dɪˈfreɪ",
+    "soundsLike": "The “dih” in “divide,” followed by “fray,” which rhymes with “day.”",
+    "partOfSpeech": "verb",
+    "definition": "To pay all or part of a cost or expense.",
+    "origin": "From French défrayer, “to pay expenses,” from frais, “costs.”",
+    "nuance": "Defray takes a cost as its object: you defray travel expenses, not the traveler. It does not necessarily mean covering the entire bill.",
+    "example": "The vendor credit should defray the cost of running both systems during the migration.",
+    "date": "2026-10-22",
+    "tags": [
+      "finance",
+      "planning"
+    ]
+  },
+  {
+    "word": "expatiate",
+    "pronunciation": "ik-SPAY-shee-ayt",
+    "ipa": "ɪkˈspeɪʃiˌeɪt",
+    "soundsLike": "“Ick,” “spay,” “she,” and “ate,” with the stress on “spay.”",
+    "partOfSpeech": "verb",
+    "definition": "To speak or write at length and in detail about a subject.",
+    "origin": "From Latin expatiari, “to wander freely,” from ex-, “out,” and spatium, “space.”",
+    "nuance": "Usually followed by “on” or “upon.” It describes extended discussion, sometimes with a hint of impatience; unlike “explain,” it does not imply clarity. Do not confuse it with “expiate,” to atone.",
+    "example": "I could expatiate on the architecture, but the short version is that we have too many shared dependencies.",
+    "date": "2026-10-22",
+    "tags": [
+      "rhetoric",
+      "communication"
+    ]
+  },
+  {
+    "word": "anomalous",
+    "pronunciation": "uh-NAH-muh-luhs",
+    "ipa": "əˈnɑmələs",
+    "soundsLike": "The “uh” in “about,” “nah” rhyming with “spa,” the “muh” in “among,” and “luhs” as in the end of “careless.”",
+    "partOfSpeech": "adjective",
+    "definition": "Departing from an established pattern, expectation, or rule.",
+    "origin": "From Greek anōmalos, “uneven,” combining an-, “not,” and homalos, “even.”",
+    "nuance": "An anomalous result is unexpected relative to a pattern, not automatically erroneous. It may expose a bad assumption rather than bad data.",
+    "example": "That anomalous spike might be a real change in customer behavior, so let’s check before we filter it out.",
+    "date": "2026-10-22",
+    "tags": [
+      "analysis",
+      "data"
+    ]
+  },
+  {
+    "word": "ecumenical",
+    "pronunciation": "ek-yoo-MEN-ih-kuhl",
+    "ipa": "ˌɛkjuˈmɛnɪkəl",
+    "soundsLike": "“Eck” rhyming with “deck,” “you,” “men,” the “ih” in “it,” and the final syllable of “local.”",
+    "partOfSpeech": "adjective",
+    "definition": "Promoting unity across Christian denominations; more broadly, inclusive of different traditions or viewpoints.",
+    "origin": "From Greek oikoumenē, “the inhabited world,” related to oikos, “house.”",
+    "nuance": "Its core meaning is religious; the broader sense suggests openness across established camps. An ecumenical approach welcomes different schools of thought without claiming they are all equally sound.",
+    "example": "I’m pretty ecumenical about programming languages; I care more about whether the team can maintain the system.",
+    "date": "2026-10-22",
+    "tags": [
+      "culture",
+      "leadership"
+    ]
   }
 ]
