@@ -9208,5 +9208,69 @@
       "culture",
       "leadership"
     ]
+  },
+  {
+    "word": "fallibilism",
+    "pronunciation": "FAL-uh-buh-liz-um",
+    "ipa": "ˈfæləbəˌlɪzəm",
+    "soundsLike": "“Fal” rhymes with “pal”; then the “uh” in “about,” the “buh” in “above,” and “lizz-um” as at the end of “realism.”",
+    "partOfSpeech": "noun",
+    "definition": "The view that even well-supported beliefs can be mistaken and remain open to revision.",
+    "origin": "From fallible, ultimately Latin fallere, “to deceive,” plus -ism, marking a doctrine or outlook.",
+    "nuance": "Not the claim that all beliefs are equally unreliable or that knowledge is impossible. It pairs justified confidence with willingness to correct an error.",
+    "example": "Fallibilism is a useful engineering mindset: trust the evidence, but keep a way to discover you were wrong.",
+    "date": "2026-10-23",
+    "tags": [
+      "epistemology",
+      "engineering"
+    ]
+  },
+  {
+    "word": "arrogate",
+    "pronunciation": "AIR-uh-gayt",
+    "ipa": "ˈɛrəˌɡeɪt",
+    "soundsLike": "“Air,” the “uh” in “about,” and “gate.”",
+    "partOfSpeech": "verb",
+    "definition": "To claim a right, power, or privilege without justification or authority.",
+    "origin": "From Latin arrogare, “to claim for oneself,” from ad-, “to,” and rogare, “to ask.”",
+    "nuance": "Usually “arrogate something to oneself.” Stronger than merely taking initiative: it alleges an unjustified claim to authority. Not “abrogate,” meaning to repeal or abolish.",
+    "example": "I don’t want the platform team to arrogate to itself the right to set every product team’s priorities.",
+    "date": "2026-10-23",
+    "tags": [
+      "leadership",
+      "authority"
+    ]
+  },
+  {
+    "word": "abstruse",
+    "pronunciation": "ab-STROOSS",
+    "ipa": "æbˈstrus",
+    "soundsLike": "“Ab” as in “abs,” then “strooss”: the “str” in “street” followed by “ooss” as in “moose.”",
+    "partOfSpeech": "adjective",
+    "definition": "Difficult to understand, especially because of complex or specialized ideas.",
+    "origin": "From Latin abstrusus, “hidden away,” from abstrudere, “to thrust away or conceal.”",
+    "nuance": "Describes the subject or explanation, not a person’s intelligence. “Obtuse” can mean slow to understand; “abstruse” means hard to understand. Complexity need not be pointless.",
+    "example": "The paper gets abstruse in the middle, but the practical takeaway is that the benchmark rewards memorization.",
+    "date": "2026-10-23",
+    "tags": [
+      "communication",
+      "technology"
+    ]
+  },
+  {
+    "word": "sententious",
+    "pronunciation": "sen-TEN-shuhs",
+    "ipa": "sɛnˈtɛnʃəs",
+    "soundsLike": "“Sen” as at the start of “sentence,” “ten,” and “shuhs” as at the end of “cautious.”",
+    "partOfSpeech": "adjective",
+    "definition": "Given to pompous moralizing or expressions of self-important wisdom.",
+    "origin": "From Latin sententiosus, “full of maxims,” from sententia, “opinion, judgment, or maxim.”",
+    "nuance": "Usually critical in modern usage: the problem is the preachy, self-satisfied tone, not simply brevity or having principles. Historically it could mean pithy or full of maxims without disapproval.",
+    "example": "The memo gets a little sententious about accountability without saying who actually owns the decision.",
+    "date": "2026-10-23",
+    "tags": [
+      "rhetoric",
+      "culture"
+    ]
   }
 ]
