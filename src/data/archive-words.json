@@ -9272,5 +9272,69 @@
       "rhetoric",
       "culture"
     ]
+  },
+  {
+    "word": "reprieve",
+    "pronunciation": "rih-PREEV",
+    "ipa": "rɪˈpriv",
+    "soundsLike": "The “rih” in “return,” followed by “preev,” rhyming with “leave.”",
+    "partOfSpeech": "noun",
+    "definition": "A temporary relief from something difficult, or a postponement of punishment.",
+    "origin": "From an older form of reprive, influenced by French reprendre, “to take back.”",
+    "nuance": "Usually a pause, not a permanent solution. In legal use, a reprieve delays punishment; a pardon forgives the offense.",
+    "example": "The delayed launch gives us a reprieve, but we still need to fix the capacity problem.",
+    "date": "2026-10-24",
+    "tags": [
+      "planning",
+      "law"
+    ]
+  },
+  {
+    "word": "syncretic",
+    "pronunciation": "sin-KRET-ik",
+    "ipa": "sɪŋˈkrɛtɪk",
+    "soundsLike": "Starts with “sink” without its final k; then “kret” rhymes with “fret,” followed by “ick” as in “picnic.”",
+    "partOfSpeech": "adjective",
+    "definition": "Combining elements from different traditions, beliefs, or systems into a blended whole.",
+    "origin": "From Greek synkretismos, an alliance of Cretan communities, later used for the reconciliation of differing beliefs.",
+    "nuance": "More specific than “eclectic,” which can describe varied selections without integration. A syncretic style blends its influences; it need not resolve all their tensions.",
+    "example": "The album has a syncretic sound: the funk rhythms and jazz harmonies feel like one language.",
+    "date": "2026-10-24",
+    "tags": [
+      "culture",
+      "music"
+    ]
+  },
+  {
+    "word": "insuperable",
+    "pronunciation": "in-SOO-per-uh-buhl",
+    "ipa": "ɪnˈsupərəbəl",
+    "soundsLike": "“In,” then “super,” then the “uh-buhl” ending of “comfortable.”",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to overcome or surmount.",
+    "origin": "From Latin insuperabilis: in-, “not,” plus superare, “to overcome.”",
+    "nuance": "Stronger than “formidable”: an insuperable obstacle cannot be overcome, not merely overcome with difficulty. Often appears in “no insuperable obstacles.”",
+    "example": "The migration is expensive, but I don’t see any insuperable technical barriers.",
+    "date": "2026-10-24",
+    "tags": [
+      "engineering",
+      "assessment"
+    ]
+  },
+  {
+    "word": "exhort",
+    "pronunciation": "ig-ZORT",
+    "ipa": "ɪɡˈzɔrt",
+    "soundsLike": "The “ig” in “ignore,” then “zort,” rhyming with “sort” but starting with the z in “zoo.”",
+    "partOfSpeech": "verb",
+    "definition": "To urge someone strongly or earnestly to do something.",
+    "origin": "From Latin exhortari, “to encourage strongly,” from ex-, an intensifier, and hortari, “to urge.”",
+    "nuance": "Typically “exhort someone to do something.” Stronger and more earnest than “suggest,” but unlike “compel,” it does not imply forcing compliance.",
+    "example": "We can exhort teams to own reliability, but they need time and tools to make that real.",
+    "date": "2026-10-24",
+    "tags": [
+      "leadership",
+      "rhetoric"
+    ]
   }
 ]
