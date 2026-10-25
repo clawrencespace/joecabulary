@@ -1262,5 +1262,86 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-10-25",
+    "title": "Ecumenical Effects",
+    "eyebrow": "Sunday No. 017 · Live",
+    "date": "October 25, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "ECUMENICAL",
+        "clue": "Promoting unity across Christian denominations; more broadly, inclusive of different traditions or viewpoints",
+        "row": 0,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "CONCILIATORY",
+        "clue": "Intended to reduce hostility or restore goodwill",
+        "row": 0,
+        "col": 9,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "ANACHRONISTIC",
+        "clue": "Belonging to a different time period, or out of step with the present",
+        "row": 2,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 4,
+        "answer": "PERQUISITE",
+        "clue": "A benefit or privilege received because of a job or position, especially beyond regular pay",
+        "row": 3,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "EXPATIATE",
+        "clue": "To speak or write at length and in detail about a subject",
+        "row": 4,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "answer": "SYNCRETIC",
+        "clue": "Combining elements from different traditions, beliefs, or systems into a blended whole",
+        "row": 6,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "SUPEREROGATORY",
+        "clue": "Going beyond what duty or obligation requires",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "SENTENTIOUS",
+        "clue": "Given to pompous moralizing or expressions of self-important wisdom",
+        "row": 9,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "REPRIEVE",
+        "clue": "A temporary relief from something difficult, or a postponement of punishment",
+        "row": 12,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]

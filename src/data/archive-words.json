@@ -9336,5 +9336,69 @@
       "leadership",
       "rhetoric"
     ]
+  },
+  {
+    "word": "aver",
+    "pronunciation": "uh-VUR",
+    "ipa": "əˈvɝ",
+    "soundsLike": "The “uh” in “about,” then “ver” in “verdict.”",
+    "partOfSpeech": "verb",
+    "definition": "To assert something confidently as true.",
+    "origin": "From Old French averer, “to establish as true,” ultimately from Latin verus, “true.”",
+    "nuance": "Usually “aver that.” Describes a firm assertion, not proof that the assertion is correct; unlike “verify,” it does not establish the facts.",
+    "example": "The vendor avers that no customer data left the system, but I want to see the audit trail.",
+    "date": "2026-10-25",
+    "tags": [
+      "rhetoric",
+      "evidence"
+    ]
+  },
+  {
+    "word": "factitious",
+    "pronunciation": "fak-TISH-uhs",
+    "ipa": "fækˈtɪʃəs",
+    "soundsLike": "“Fact” without its final t, then “tish” in “petition,” ending with the “us” in “cactus.”",
+    "partOfSpeech": "adjective",
+    "definition": "Artificially produced rather than naturally arising.",
+    "origin": "From Latin facticius, “artificial,” from facere, “to make.”",
+    "nuance": "Not “fictitious,” meaning imaginary or invented. A factitious condition can be real but deliberately induced; the word often suggests artificiality or contrivance.",
+    "example": "That deadline creates a factitious sense of urgency; nothing actually changes on Friday.",
+    "date": "2026-10-25",
+    "tags": [
+      "analysis",
+      "incentives"
+    ]
+  },
+  {
+    "word": "perquisite",
+    "pronunciation": "PUR-kwuh-zit",
+    "ipa": "ˈpɝkwəzɪt",
+    "soundsLike": "“Purr,” then the “qu” in “quick” with the “uh” in “about,” then “zit.”",
+    "partOfSpeech": "noun",
+    "definition": "A benefit or privilege received because of a job or position, especially beyond regular pay.",
+    "origin": "From Medieval Latin perquisitum, “something acquired,” from Latin perquirere, “to search for thoroughly.”",
+    "nuance": "The source of “perk.” Not “prerequisite,” a required prior condition; a perquisite is a benefit of holding the position.",
+    "example": "A private office is a perquisite of the role, not evidence that the person makes better decisions.",
+    "date": "2026-10-25",
+    "tags": [
+      "work",
+      "status"
+    ]
+  },
+  {
+    "word": "conciliatory",
+    "pronunciation": "kuhn-SIL-ee-uh-tor-ee",
+    "ipa": "kənˈsɪliəˌtɔri",
+    "soundsLike": "The “con” in “concern,” “silly,” the “a” in “about,” then “Tory.”",
+    "partOfSpeech": "adjective",
+    "definition": "Intended to reduce hostility or restore goodwill.",
+    "origin": "From Latin conciliare, “to bring together or win over,” related to concilium, “an assembly.”",
+    "nuance": "Describes a peacemaking tone or gesture, not necessarily a concession on substance. You can be conciliatory while maintaining a firm boundary.",
+    "example": "I want the response to be conciliatory, but we should still be clear that the reliability target is not negotiable.",
+    "date": "2026-10-25",
+    "tags": [
+      "leadership",
+      "negotiation"
+    ]
   }
 ]
