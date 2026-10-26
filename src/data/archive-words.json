@@ -9400,5 +9400,69 @@
       "leadership",
       "negotiation"
     ]
+  },
+  {
+    "word": "etiology",
+    "pronunciation": "ee-tee-AH-luh-jee",
+    "ipa": "ˌitiˈɑlədʒi",
+    "soundsLike": "“E” and “tea,” then “ah,” the “lu” in “lucky,” and “gee.”",
+    "partOfSpeech": "noun",
+    "definition": "The cause or origin of a condition, or the study of its causes.",
+    "origin": "From Greek aitia, “cause,” and -logia, “study or account.”",
+    "nuance": "Most common in medicine but useful for complex failures or social conditions. It concerns causes, not merely symptoms or a chronological account.",
+    "example": "The incident timeline is clear, but the etiology is more complicated than one bad deploy.",
+    "date": "2026-10-26",
+    "tags": [
+      "causation",
+      "analysis"
+    ]
+  },
+  {
+    "word": "proclivity",
+    "pronunciation": "pruh-KLIV-uh-tee",
+    "ipa": "prəˈklɪvəti",
+    "soundsLike": "The “pr” in “provide” with an “uh,” then “clip” with a v instead of p, another “uh,” and “tea.”",
+    "partOfSpeech": "noun",
+    "definition": "A natural or habitual inclination toward a particular behavior.",
+    "origin": "From Latin proclivitas, “a slope or inclination,” from proclivis, “sloping forward.”",
+    "nuance": "Usually “a proclivity for” something or “a proclivity to” do something. Often introduces a questionable habit, though the tendency need not be negative or inevitable.",
+    "example": "We have a proclivity for building internal tools when an off-the-shelf option would do.",
+    "date": "2026-10-26",
+    "tags": [
+      "behavior",
+      "leadership"
+    ]
+  },
+  {
+    "word": "retrench",
+    "pronunciation": "rih-TRENCH",
+    "ipa": "rɪˈtrɛntʃ",
+    "soundsLike": "The “ri” in “rid,” followed by “trench.”",
+    "partOfSpeech": "verb",
+    "definition": "To cut spending or scale back activities, especially under financial pressure.",
+    "origin": "From French retrancher, “to cut off or reduce,” from re- and trancher, “to cut.”",
+    "nuance": "Usually implies a defensive contraction, not simply greater efficiency. A business can retrench without abandoning its core strategy.",
+    "example": "If renewals soften again, we may need to retrench on experimental projects while protecting the core platform.",
+    "date": "2026-10-26",
+    "tags": [
+      "strategy",
+      "finance"
+    ]
+  },
+  {
+    "word": "sardonic",
+    "pronunciation": "sar-DAH-nik",
+    "ipa": "sɑrˈdɑnɪk",
+    "soundsLike": "“Sardine” up to the r, then “Don,” ending with “nick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Grimly mocking or scornfully humorous.",
+    "origin": "From Greek sardonios, describing bitter or scornful laughter; traditionally associated with a Sardinian plant said to cause a grimacing smile.",
+    "nuance": "More bitter or contemptuous than merely wry. Unlike sarcasm, sardonic humor does not require saying the opposite of what you mean.",
+    "example": "His sardonic take on the reunion tour was that nostalgia now comes with surge pricing.",
+    "date": "2026-10-26",
+    "tags": [
+      "culture",
+      "tone"
+    ]
   }
 ]
