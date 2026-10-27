@@ -9464,5 +9464,69 @@
       "culture",
       "tone"
     ]
+  },
+  {
+    "word": "disabuse",
+    "pronunciation": "dis-uh-BYOOZ",
+    "ipa": "ˌdɪsəˈbjuz",
+    "soundsLike": "“Diss,” the “a” in “about,” then “views” with a b instead of v.",
+    "partOfSpeech": "verb",
+    "definition": "To free someone from a mistaken belief or impression.",
+    "origin": "From dis- and abuse in its older sense of deceiving or misleading.",
+    "nuance": "Use “disabuse someone of a notion,” not “disabuse a notion.” It corrects a belief rather than merely discouraging a person.",
+    "example": "The pilot should disabuse us of the notion that switching vendors will eliminate all the integration work.",
+    "date": "2026-10-27",
+    "tags": [
+      "reasoning",
+      "communication"
+    ]
+  },
+  {
+    "word": "antithetical",
+    "pronunciation": "an-tih-THET-ih-kuhl",
+    "ipa": "ˌæntɪˈθɛtɪkəl",
+    "soundsLike": "“An,” “tip” without the p, “theft” without the f, “it” without the t, and the end of “local.”",
+    "partOfSpeech": "adjective",
+    "definition": "Directly opposed to or incompatible with something.",
+    "origin": "From Greek antithetikos, from anti-, “against,” and tithenai, “to place.”",
+    "nuance": "Usually followed by “to.” Stronger than merely different: it implies opposition in principle, character, or effect.",
+    "example": "Requiring three approvals for every deploy is antithetical to the autonomy we keep promising the team.",
+    "date": "2026-10-27",
+    "tags": [
+      "strategy",
+      "contrast"
+    ]
+  },
+  {
+    "word": "auspices",
+    "pronunciation": "AW-spih-siz",
+    "ipa": "ˈɔspɪsɪz",
+    "soundsLike": "“Awe,” “spit” without the t, then “is” with an s at the start.",
+    "partOfSpeech": "plural noun",
+    "definition": "The support, sponsorship, or protection of a person or organization.",
+    "origin": "From Latin auspicium, divination by observing birds; favorable omens developed into a sense of protective patronage.",
+    "nuance": "Usually “under the auspices of.” Identifies the sponsoring or overseeing body, not necessarily whoever performs the work; unlike “auspicious,” it does not mean promising.",
+    "example": "We could run the mentoring program under the auspices of the engineering guild without making it another management initiative.",
+    "date": "2026-10-27",
+    "tags": [
+      "organizations",
+      "sponsorship"
+    ]
+  },
+  {
+    "word": "laconic",
+    "pronunciation": "luh-KAH-nik",
+    "ipa": "ləˈkɑnɪk",
+    "soundsLike": "The “lu” in “luck,” then “con” as in “con artist,” and “nick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Using very few words, often with a restrained or dry effect.",
+    "origin": "From Greek Lakonikos, “Spartan,” after Laconia, whose inhabitants were reputed to speak tersely.",
+    "nuance": "Describes spare expression, not necessarily rudeness or unwillingness to talk. A laconic reply can be pointed or funny; “taciturn” describes a generally quiet disposition.",
+    "example": "His laconic review of the new dashboard was, “More charts, same questions.”",
+    "date": "2026-10-27",
+    "tags": [
+      "style",
+      "culture"
+    ]
   }
 ]
