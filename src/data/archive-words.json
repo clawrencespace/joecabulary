@@ -9528,5 +9528,69 @@
       "style",
       "culture"
     ]
+  },
+  {
+    "word": "subsidiarity",
+    "pronunciation": "sub-sid-ee-AIR-uh-tee",
+    "ipa": "səbˌsɪdiˈɛrəti",
+    "soundsLike": "Starts like “subsidy,” followed by “air,” the a in “about,” and “tea.”",
+    "partOfSpeech": "noun",
+    "definition": "The principle that decisions should be handled at the lowest level capable of handling them effectively.",
+    "origin": "From Latin subsidiarius, “serving as a reserve or support”; developed as a principle in Catholic social thought.",
+    "nuance": "Not decentralization at any cost: higher levels should support local responsibility and intervene when the task exceeds local capacity.",
+    "example": "Subsidiarity is a useful principle here: let each team choose its tooling unless the choice creates a company-wide security problem.",
+    "date": "2026-10-28",
+    "tags": [
+      "leadership",
+      "governance"
+    ]
+  },
+  {
+    "word": "inveigh",
+    "pronunciation": "in-VAY",
+    "ipa": "ɪnˈveɪ",
+    "soundsLike": "“In,” followed by “vague” without the final g sound.",
+    "partOfSpeech": "verb",
+    "definition": "To speak or write against something with strong hostility.",
+    "origin": "From Latin invehi, “to attack or carry oneself against,” from in- and vehere, “to carry.”",
+    "nuance": "Usually “inveigh against.” It describes vehement denunciation, not simply disagreement; unlike “inveigle,” it has nothing to do with coaxing someone.",
+    "example": "It's easy to inveigh against technical debt; it's harder to explain which feature we're willing to delay to fix it.",
+    "date": "2026-10-28",
+    "tags": [
+      "rhetoric",
+      "criticism"
+    ]
+  },
+  {
+    "word": "evanescent",
+    "pronunciation": "ev-uh-NES-unt",
+    "ipa": "ˌɛvəˈnɛsənt",
+    "soundsLike": "The “ev” in “ever,” the a in “about,” “nest” without the t, and the ending of “pleasant.”",
+    "partOfSpeech": "adjective",
+    "definition": "Quickly fading or disappearing.",
+    "origin": "From Latin evanescere, “to vanish,” from e-, “away,” and vanescere, “to disappear.”",
+    "nuance": "Emphasizes the process or impression of fading, not merely a short duration. Useful for effects, sensations, and moments that dissipate.",
+    "example": "The novelty of a new dashboard is evanescent; whether it helps us make decisions is what matters.",
+    "date": "2026-10-28",
+    "tags": [
+      "perception",
+      "culture"
+    ]
+  },
+  {
+    "word": "sophomoric",
+    "pronunciation": "sahf-uh-MOR-ik",
+    "ipa": "ˌsɑfəˈmɔrɪk",
+    "soundsLike": "“Soft” without the t, the a in “about,” “more,” and “ick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Pretentiously clever or confident while lacking maturity or sound judgment.",
+    "origin": "From sophomore, traditionally associated with Greek sophos, “wise,” and moros, “foolish.”",
+    "nuance": "A criticism of immature judgment or shallow cleverness, not a synonym for inexperienced. Often used of humor; it is distinctly dismissive.",
+    "example": "The movie has some sophomoric jokes, but the cast makes most of them work.",
+    "date": "2026-10-28",
+    "tags": [
+      "criticism",
+      "culture"
+    ]
   }
 ]
