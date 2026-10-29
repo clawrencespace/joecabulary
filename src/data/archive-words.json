@@ -9592,5 +9592,69 @@
       "criticism",
       "culture"
     ]
+  },
+  {
+    "word": "abjure",
+    "pronunciation": "ab-JOOR",
+    "ipa": "æbˈdʒʊr",
+    "soundsLike": "“Ab” in “absent,” then “jury” without the final ee sound.",
+    "partOfSpeech": "verb",
+    "definition": "To formally or emphatically renounce a belief, practice, or allegiance.",
+    "origin": "From Latin abjurare, “to deny on oath,” from ab-, “away,” and jurare, “to swear.”",
+    "nuance": "Stronger than simply avoiding something: it implies a deliberate repudiation. Do not confuse it with “adjure,” to urge solemnly.",
+    "example": "We don't need to abjure estimation altogether just because our last forecast was wrong.",
+    "date": "2026-10-29",
+    "tags": [
+      "judgment",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "sedulous",
+    "pronunciation": "SEJ-uh-lus",
+    "ipa": "ˈsɛdʒələs",
+    "soundsLike": "“Sedge,” the a in “about,” and “less” with an unstressed vowel.",
+    "partOfSpeech": "adjective",
+    "definition": "Showing diligent, persistent care and effort.",
+    "origin": "From Latin sedulus, “diligent” or “painstaking.”",
+    "nuance": "Emphasizes sustained application, not brilliance or speed. More formal than “diligent”; best when the persistence itself matters.",
+    "example": "Her sedulous follow-up with customers caught issues that never appeared in our dashboards.",
+    "date": "2026-10-29",
+    "tags": [
+      "leadership",
+      "work"
+    ]
+  },
+  {
+    "word": "supercilious",
+    "pronunciation": "soo-per-SIL-ee-us",
+    "ipa": "ˌsupɚˈsɪliəs",
+    "soundsLike": "“Super,” then “silly,” then the unstressed ending of “serious.”",
+    "partOfSpeech": "adjective",
+    "definition": "Displaying haughty disdain toward people regarded as inferior.",
+    "origin": "From Latin superciliosus, “haughty,” from supercilium, “eyebrow”—an allusion to a raised eyebrow of disdain.",
+    "nuance": "Not merely confident, reserved, or critical: it implies a patronizing sense of superiority.",
+    "example": "The review made a fair point about the album, but the supercilious tone put me off.",
+    "date": "2026-10-29",
+    "tags": [
+      "culture",
+      "tone"
+    ]
+  },
+  {
+    "word": "salvo",
+    "pronunciation": "SAL-voh",
+    "ipa": "ˈsælvoʊ",
+    "soundsLike": "“Sal” in “salad,” followed by “vote” without the t.",
+    "partOfSpeech": "noun",
+    "definition": "A coordinated burst of gunfire; figuratively, a forceful burst of criticism or an opening move in a contest.",
+    "origin": "Through Italian salva, a salute or discharge of guns, associated with Latin salve, “hail.”",
+    "nuance": "An “opening salvo” starts an exchange or campaign; it is not just any first remark. Distinct from a “salve,” something soothing.",
+    "example": "That price cut looks like the opening salvo in a much bigger fight over developer tools.",
+    "date": "2026-10-29",
+    "tags": [
+      "strategy",
+      "rhetoric"
+    ]
   }
 ]
