@@ -9656,5 +9656,69 @@
       "strategy",
       "rhetoric"
     ]
+  },
+  {
+    "word": "profligate",
+    "pronunciation": "PROF-lih-guht",
+    "ipa": "ˈprɑflɪɡət",
+    "soundsLike": "“Prof” in “professor,” “li” in “limit,” then “gut” without stress.",
+    "partOfSpeech": "adjective",
+    "definition": "Recklessly wasteful with money or other resources.",
+    "origin": "From Latin profligatus, “overthrown” or “ruined,” from profligare, “to strike down.”",
+    "nuance": "Stronger than inefficient: it suggests extravagant disregard for resources. It can also mean morally dissolute; context determines the sense.",
+    "example": "Running every experiment on our largest instance is profligate, even if we can afford it.",
+    "date": "2026-10-30",
+    "tags": [
+      "resources",
+      "judgment"
+    ]
+  },
+  {
+    "word": "casuistry",
+    "pronunciation": "KAZH-oo-uh-stree",
+    "ipa": "ˈkæʒuəstri",
+    "soundsLike": "The opening sounds of “casual,” followed by “stree” in “street.”",
+    "partOfSpeech": "noun",
+    "definition": "Clever but misleading reasoning, especially about moral questions.",
+    "origin": "From “casuist,” a person who resolves cases of conscience, ultimately from Latin casus, “case.”",
+    "nuance": "Historically also a neutral term for case-based ethical reasoning. In ordinary critical use, it means reasoning that rationalizes a convenient conclusion—not simply a complex argument.",
+    "example": "Calling it voluntary when declining hurts your performance review feels like casuistry.",
+    "date": "2026-10-30",
+    "tags": [
+      "ethics",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "homeostasis",
+    "pronunciation": "hoh-mee-oh-STAY-sis",
+    "ipa": "ˌhoʊmioʊˈsteɪsɪs",
+    "soundsLike": "“Home” plus “ee-oh,” then “stay” and the opening of “sister.”",
+    "partOfSpeech": "noun",
+    "definition": "Maintenance of relatively stable internal conditions through regulatory adjustments.",
+    "origin": "From Greek homoios, “similar,” and stasis, “standing” or “state.”",
+    "nuance": "A dynamic balance maintained through feedback, not an absence of change. Literally biological; organizational use is a metaphor and should identify what is being kept stable.",
+    "example": "The thermostat is a useful analogy for homeostasis: the room stays stable because the system keeps adjusting.",
+    "date": "2026-10-30",
+    "tags": [
+      "systems",
+      "science"
+    ]
+  },
+  {
+    "word": "elegiac",
+    "pronunciation": "el-uh-JY-ak",
+    "ipa": "ˌɛləˈdʒaɪæk",
+    "soundsLike": "“El” in “elbow,” the a in “about,” “gi” in “giant,” and “ack” in “back.”",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing mournful reflection, especially for something lost or past.",
+    "origin": "From Greek elegeiakos, relating to an elegy, a form of verse later associated with lament.",
+    "nuance": "More specifically reflective and mournful than merely nostalgic. Not “eulogistic,” which means praising, and unrelated to “elegant.”",
+    "example": "The last track has an elegiac quality, like the band knows this is their final record together.",
+    "date": "2026-10-30",
+    "tags": [
+      "music",
+      "culture"
+    ]
   }
 ]
