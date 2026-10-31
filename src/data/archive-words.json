@@ -9720,5 +9720,69 @@
       "music",
       "culture"
     ]
+  },
+  {
+    "word": "acquiesce",
+    "pronunciation": "ak-wee-ESS",
+    "ipa": "ˌækwiˈɛs",
+    "soundsLike": "“Ack” in “back,” then “we,” then the letter “S.”",
+    "partOfSpeech": "verb",
+    "definition": "Accept something without protest, often reluctantly.",
+    "origin": "From Latin acquiescere, “to rest” or “find rest in,” from ad- and quiescere, “to become quiet.”",
+    "nuance": "Usually acquiesce in a decision or to a demand. It implies yielding without resistance, not enthusiastic agreement or necessarily a change of belief.",
+    "example": "I can acquiesce to the revised deadline without agreeing that the original estimate was careless.",
+    "date": "2026-10-31",
+    "tags": [
+      "leadership",
+      "negotiation"
+    ]
+  },
+  {
+    "word": "solipsistic",
+    "pronunciation": "soh-lip-SIS-tik",
+    "ipa": "ˌsoʊlɪpˈsɪstɪk",
+    "soundsLike": "“So,” “lip,” “sis” in “sister,” then “tick.”",
+    "partOfSpeech": "adjective",
+    "definition": "Treating one’s own perspective or experience as if it were the only one that mattered.",
+    "origin": "From solipsism, built from Latin solus, “alone,” and ipse, “self.”",
+    "nuance": "In philosophy, solipsism concerns whether anything beyond one’s own mind can be known or exists. In everyday criticism, solipsistic means trapped in one’s own viewpoint—not merely selfish or introverted.",
+    "example": "Assuming every customer works the way our engineering team does is a pretty solipsistic way to design a product.",
+    "date": "2026-10-31",
+    "tags": [
+      "perspective",
+      "product"
+    ]
+  },
+  {
+    "word": "incontrovertible",
+    "pronunciation": "in-kahn-truh-VUR-tuh-buhl",
+    "ipa": "ˌɪnkɑntrəˈvɝtəbəl",
+    "soundsLike": "“In,” “con” in “con artist,” “truh” in “truck,” “ver” in “version,” then the ending of “comfortable.”",
+    "partOfSpeech": "adjective",
+    "definition": "So clearly established that it cannot reasonably be disputed.",
+    "origin": "From in-, “not,” and controvert, ultimately Latin contra, “against,” plus vertere, “to turn.”",
+    "nuance": "Stronger than convincing or likely. Reserve it for evidence or facts that leave no reasonable dispute; confidence alone does not make a claim incontrovertible.",
+    "example": "The logs are incontrovertible evidence that the errors started before the deployment.",
+    "date": "2026-10-31",
+    "tags": [
+      "evidence",
+      "analysis"
+    ]
+  },
+  {
+    "word": "denouement",
+    "pronunciation": "day-noo-MAHN",
+    "ipa": "ˌdeɪnuˈmɑn",
+    "soundsLike": "“Day,” “new,” then “mon” in “Montana.”",
+    "partOfSpeech": "noun",
+    "definition": "The final part of a story in which its complications are resolved.",
+    "origin": "From French dénouement, “untying,” from dénouer, “to untie a knot.”",
+    "nuance": "Usually the resolution after the climax, not the dramatic high point itself. It can describe the concluding resolution of a real sequence of events as well.",
+    "example": "The twist was clever, but the denouement felt rushed; I wanted to see what happened to the characters afterward.",
+    "date": "2026-10-31",
+    "tags": [
+      "storytelling",
+      "culture"
+    ]
   }
 ]
