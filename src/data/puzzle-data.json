@@ -1343,5 +1343,78 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-11-01",
+    "title": "Evanescent Effects",
+    "eyebrow": "Sunday No. 018 · Live",
+    "date": "November 1, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "EVANESCENT",
+        "clue": "Quickly fading or disappearing",
+        "row": 1,
+        "col": 2,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "ANTITHETICAL",
+        "clue": "Directly opposed to or incompatible with something",
+        "row": 1,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "HOMEOSTASIS",
+        "clue": "Maintenance of relatively stable internal conditions through regulatory adjustments",
+        "row": 2,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "DENOUEMENT",
+        "clue": "The final part of a story in which its complications are resolved",
+        "row": 3,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "SEDULOUS",
+        "clue": "Showing diligent, persistent care and effort",
+        "row": 3,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "SOPHOMORIC",
+        "clue": "Pretentiously clever or confident while lacking maturity or sound judgment",
+        "row": 3,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "PROCLIVITY",
+        "clue": "A natural or habitual inclination toward a particular behavior",
+        "row": 4,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "SUPERCILIOUS",
+        "clue": "Displaying haughty disdain toward people regarded as inferior",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
   }
 ]

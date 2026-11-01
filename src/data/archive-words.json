@@ -9784,5 +9784,72 @@
       "storytelling",
       "culture"
     ]
+  },
+  {
+    "word": "anathema",
+    "pronunciation": "uh-NATH-uh-muh",
+    "ipa": "əˈnæθəmə",
+    "soundsLike": "“Uh,” then “nath” rhyming with “bath,” then two soft “uh” sounds separated by “m.”",
+    "partOfSpeech": "noun",
+    "definition": "Something or someone intensely disliked or rejected.",
+    "origin": "From Greek anathema, originally a thing dedicated or set apart, later something accursed.",
+    "nuance": "Usually something is anathema to someone or to a principle. Stronger than an inconvenience or ordinary disagreement; historically also a formal religious curse.",
+    "example": "Making a production change without a rollback plan is anathema to how I want this team to operate.",
+    "date": "2026-11-01",
+    "tags": [
+      "principles",
+      "leadership"
+    ]
+  },
+  {
+    "word": "accretive",
+    "pronunciation": "uh-KREE-tiv",
+    "ipa": "əˈkritɪv",
+    "soundsLike": "“Uh,” “cree” in “creek,” then “tiv” in “active.”",
+    "partOfSpeech": "adjective",
+    "definition": "Adding to a total or increasing value through accumulation.",
+    "origin": "From accretion, ultimately Latin accrescere, “to grow,” from ad-, “to,” and crescere, “to grow.”",
+    "nuance": "In finance, specify what increases: an earnings-accretive acquisition raises earnings per share, but need not create long-term economic value. Outside finance, it describes growth by successive additions, not just any improvement.",
+    "example": "These small reliability improvements are accretive: each one adds to the stability we have already built.",
+    "date": "2026-11-01",
+    "tags": [
+      "strategy",
+      "finance",
+      "engineering"
+    ]
+  },
+  {
+    "word": "ersatz",
+    "pronunciation": "AIR-sahts",
+    "ipa": "ˈɛrsɑts",
+    "soundsLike": "“Air,” then “sahts” rhyming with “cots” but starting with “s.”",
+    "partOfSpeech": "adjective",
+    "definition": "Serving as an artificial substitute, usually an inferior one.",
+    "origin": "Borrowed from German Ersatz, “replacement” or “substitute.”",
+    "nuance": "Usually dismissive: it suggests a substitute that lacks the quality or authenticity of the original. Not a neutral synonym for alternative, synthetic, or replacement.",
+    "example": "That dashboard is an ersatz observability system; it looks reassuring but cannot tell us why anything failed.",
+    "date": "2026-11-01",
+    "tags": [
+      "criticism",
+      "technology",
+      "culture"
+    ]
+  },
+  {
+    "word": "expurgate",
+    "pronunciation": "EK-spur-gayt",
+    "ipa": "ˈɛkspɝˌɡeɪt",
+    "soundsLike": "“Eck” in “heck,” then “spur,” then “gate.”",
+    "partOfSpeech": "verb",
+    "definition": "Remove material considered offensive or objectionable from a text or other work.",
+    "origin": "From Latin expurgare, “to cleanse,” from ex-, “out,” and purgare, “to purify.”",
+    "nuance": "More specific than edit or shorten: expurgation removes objectionable content. Redaction often conceals confidential information; expurgation typically sanitizes what an audience is allowed to encounter.",
+    "example": "I would rather add context to the original novel than expurgate every passage that makes readers uncomfortable.",
+    "date": "2026-11-01",
+    "tags": [
+      "language",
+      "culture",
+      "editing"
+    ]
   }
 ]
