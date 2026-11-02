@@ -9851,5 +9851,70 @@
       "culture",
       "editing"
     ]
+  },
+  {
+    "word": "repudiate",
+    "pronunciation": "rih-PYOO-dee-ayt",
+    "ipa": "rɪˈpjuːdiˌeɪt",
+    "soundsLike": "“Rih” in “repeat,” then “pew,” “dee” in “deep,” and “ate.”",
+    "partOfSpeech": "verb",
+    "definition": "Reject a claim, position, or association firmly and explicitly.",
+    "origin": "From Latin repudiare, “to reject or divorce,” from repudium, “rejection.”",
+    "nuance": "Stronger than disagree: it implies a clear disavowal. Unlike refute, it does not mean proving a claim false.",
+    "example": "We should repudiate the idea that shipping quickly excuses ignoring security.",
+    "date": "2026-11-02",
+    "tags": [
+      "leadership",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "explicable",
+    "pronunciation": "EK-spli-kuh-buhl",
+    "ipa": "ˈɛksplɪkəbəl",
+    "soundsLike": "“Eck” in “heck,” “spli” in “split,” then “kuh” in “come” and “buhl” in “bubble.”",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being explained or accounted for.",
+    "origin": "From Latin explicabilis, from explicare, “to unfold or explain.”",
+    "nuance": "An explicable outcome is understandable, not necessarily acceptable or justified. Usually refers to something for which an explanation can be given, not merely imagined.",
+    "example": "The latency spike is explicable once you include the retries, but that does not make it acceptable.",
+    "date": "2026-11-02",
+    "tags": [
+      "analysis",
+      "engineering"
+    ]
+  },
+  {
+    "word": "rectitude",
+    "pronunciation": "REK-tuh-tood",
+    "ipa": "ˈrɛktəˌtuːd",
+    "soundsLike": "“Wreck,” “tuh” in “today,” then “tood” rhyming with “food.”",
+    "partOfSpeech": "noun",
+    "definition": "Moral uprightness and adherence to ethical principles.",
+    "origin": "From Latin rectitudo, “straightness or uprightness,” from rectus, “straight or right.”",
+    "nuance": "More formal than integrity; concerns ethical conduct, not factual correctness. Claims of personal rectitude can sound self-righteous, so use it sparingly.",
+    "example": "I care more about the board’s rectitude when the numbers are bad than when everything is going well.",
+    "date": "2026-11-02",
+    "tags": [
+      "ethics",
+      "governance"
+    ]
+  },
+  {
+    "word": "pastiche",
+    "pronunciation": "pa-STEESH",
+    "ipa": "pæˈstiːʃ",
+    "soundsLike": "“Pa” with the vowel in “cat,” then “steesh” rhyming with “quiche” but starting with “st.”",
+    "partOfSpeech": "noun",
+    "definition": "A work that imitates another style or combines elements borrowed from several sources.",
+    "origin": "From French pastiche, via Italian pasticcio, “pie” or “medley,” ultimately from pasta, “paste.”",
+    "nuance": "Unlike parody, a pastiche need not mock its model; it can be affectionate homage. It may blend styles or closely imitate just one.",
+    "example": "That album is a fun pastiche of seventies funk and eighties synth-pop, but I wish it had more of its own identity.",
+    "date": "2026-11-02",
+    "tags": [
+      "music",
+      "culture",
+      "criticism"
+    ]
   }
 ]
