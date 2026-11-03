@@ -9916,5 +9916,71 @@
       "culture",
       "criticism"
     ]
+  },
+  {
+    "word": "apprise",
+    "pronunciation": "uh-PRYZE",
+    "ipa": "əˈpraɪz",
+    "soundsLike": "“Uh” as in “above,” followed by “prize.”",
+    "partOfSpeech": "verb",
+    "definition": "Inform someone of something, especially a development or situation.",
+    "origin": "From French appris, past participle of apprendre, “to learn,” ultimately from Latin apprehendere, “to grasp.”",
+    "nuance": "Apprise someone of a change; appraise a proposal to assess its value. The words are not interchangeable. Slightly more formal than inform.",
+    "example": "Keep me apprised of any changes to the launch timeline, especially anything that affects support.",
+    "date": "2026-11-03",
+    "tags": [
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "enjoin",
+    "pronunciation": "en-JOYN",
+    "ipa": "ɛnˈdʒɔɪn",
+    "soundsLike": "“En” in “end,” followed by “join.”",
+    "partOfSpeech": "verb",
+    "definition": "Direct or urge someone to do something; legally, order an action to stop or a requirement to be met.",
+    "origin": "From Old French enjoindre, from Latin iniungere, “to impose or attach,” combining in- with iungere, “to join.”",
+    "nuance": "Not inherently a prohibition: enjoin someone to act means direct them to act, while enjoin someone from acting means prohibit it. Legal context often supplies the latter sense.",
+    "example": "The court enjoined the vendor from using the disputed customer data.",
+    "date": "2026-11-03",
+    "tags": [
+      "law",
+      "governance"
+    ]
+  },
+  {
+    "word": "reductio ad absurdum",
+    "pronunciation": "rih-DUK-tee-oh ad ub-SUR-dum",
+    "ipa": "rɪˈdʌktiˌoʊ æd əbˈsɝdəm",
+    "soundsLike": "“Rih” in “rid,” “duck,” “tea,” “oh,” “ad,” then “ub” in “above,” “sir,” and “dum” in “dumpling.”",
+    "partOfSpeech": "noun",
+    "definition": "An argument that challenges a claim by showing that it leads to a contradiction or absurd consequence.",
+    "origin": "Latin for “reduction to the absurd.”",
+    "nuance": "The consequence must follow from the claim, not from a distorted version of it. In formal logic, a contradiction establishes the proof; mere implausibility is weaker.",
+    "example": "As a reductio ad absurdum, if fewer deployments always meant less risk, the safest engineering team would never ship anything.",
+    "date": "2026-11-03",
+    "tags": [
+      "logic",
+      "rhetoric",
+      "engineering"
+    ]
+  },
+  {
+    "word": "brio",
+    "pronunciation": "BREE-oh",
+    "ipa": "ˈbriˌoʊ",
+    "soundsLike": "“Bree” rhymes with “free,” followed by “oh.”",
+    "partOfSpeech": "noun",
+    "definition": "Lively energy, confidence, and spirit in a performance or style.",
+    "origin": "From Italian brio, “vivacity or spirit”; familiar in the musical direction con brio, “with vigor.”",
+    "nuance": "Describes the vitality of the execution, not necessarily its quality or originality. Usually used in “with brio”; more appreciative and specific than simply loud or fast.",
+    "example": "The band played that old funk tune with enough brio to make it feel new again.",
+    "date": "2026-11-03",
+    "tags": [
+      "music",
+      "culture",
+      "style"
+    ]
   }
 ]
