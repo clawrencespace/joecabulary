@@ -1489,5 +1489,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-11-08",
+    "title": "Munificent Effects",
+    "eyebrow": "Sunday No. 020 · Live",
+    "date": "November 8, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CONTUMACIOUS",
+        "clue": "Stubbornly disobedient to authority",
+        "row": 0,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "MUNIFICENT",
+        "clue": "Very generous in giving",
+        "row": 0,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "VICISSITUDE",
+        "clue": "A change of circumstances or fortune, especially an unwelcome one",
+        "row": 0,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "FALLACIOUS",
+        "clue": "Based on faulty reasoning or a misleading inference",
+        "row": 1,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 5,
+        "answer": "ANAGNORISIS",
+        "clue": "A decisive recognition or discovery that changes a character's understanding",
+        "row": 1,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "INVEIGLE",
+        "clue": "Persuade through flattery, charm, or deception",
+        "row": 4,
+        "col": 9,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "OPPROBRIUM",
+        "clue": "Harsh public criticism or disgrace arising from condemned conduct",
+        "row": 5,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "PERSIFLAGE",
+        "clue": "Light, teasing banter",
+        "row": 5,
+        "col": 5,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "answer": "RAPPROCHEMENT",
+        "clue": "A restoration of friendly relations after estrangement",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "EXPLICABLE",
+        "clue": "Capable of being explained or accounted for",
+        "row": 14,
+        "col": 5,
+        "direction": "across"
+      }
+    ]
   }
 ]

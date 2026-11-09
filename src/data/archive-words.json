@@ -10342,5 +10342,65 @@
     "tags": [
       "work"
     ]
+  },
+  {
+    "word": "anagnorisis",
+    "pronunciation": "an-ag-NOR-uh-sis",
+    "ipa": "ˌænæɡˈnɔrəsɪs",
+    "soundsLike": "Ann, ag as in agriculture, nor, uh, and sis.",
+    "partOfSpeech": "noun",
+    "definition": "A decisive recognition or discovery that changes a character's understanding.",
+    "origin": "Greek anagnorisis, recognition, from anagnorizein, to recognize.",
+    "nuance": "A literary term for consequential recognition, not just a surprise twist.",
+    "example": "The film's anagnorisis lands when she realizes who actually wrote the letters.",
+    "date": "2026-11-08",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "word": "opprobrium",
+    "pronunciation": "uh-PROH-bree-um",
+    "ipa": "əˈproʊbriəm",
+    "soundsLike": "Uh, pro, bree rhyming with free, and um.",
+    "partOfSpeech": "noun",
+    "definition": "Harsh public criticism or disgrace arising from condemned conduct.",
+    "origin": "Latin opprobrium, reproach, from ob-, against, and probrum, disgrace.",
+    "nuance": "Stronger than disapproval; implies social condemnation.",
+    "example": "The company earned public opprobrium for quietly selling location data.",
+    "date": "2026-11-08",
+    "tags": [
+      "ethics"
+    ]
+  },
+  {
+    "word": "venal",
+    "pronunciation": "VEE-nul",
+    "ipa": "ˈvinəl",
+    "soundsLike": "Vee as in veal and nul as in null.",
+    "partOfSpeech": "adjective",
+    "definition": "Open to bribery or willing to sell one's integrity.",
+    "origin": "Latin venalis, for sale, from venum, sale.",
+    "nuance": "Not venial, which means relatively minor or forgivable.",
+    "example": "The investigation uncovered a venal official, not merely a careless one.",
+    "date": "2026-11-08",
+    "tags": [
+      "ethics"
+    ]
+  },
+  {
+    "word": "perfidy",
+    "pronunciation": "PUR-fuh-dee",
+    "ipa": "ˈpɝfɪdi",
+    "soundsLike": "Purr, fih as in fit, and dee.",
+    "partOfSpeech": "noun",
+    "definition": "Deliberate betrayal of trust or faith.",
+    "origin": "Latin perfidia, faithlessness, from perfidus, treacherous.",
+    "nuance": "A morally charged word for betrayal, not routine unreliability.",
+    "example": "Calling the missed milestone perfidy is excessive; it was a forecasting failure, not a betrayal.",
+    "date": "2026-11-08",
+    "tags": [
+      "rhetoric"
+    ]
   }
 ]
