@@ -10102,5 +10102,65 @@
       "culture",
       "style"
     ]
+  },
+  {
+    "word": "punctilio",
+    "pronunciation": "punk-TIL-ee-oh",
+    "ipa": "pʌŋkˈtɪliˌoʊ",
+    "soundsLike": "Punk, till, ee as in see, and oh.",
+    "partOfSpeech": "noun",
+    "definition": "A fine point of ceremony or formal procedure.",
+    "origin": "Italian puntiglio, a fine point of honor, from punto, point.",
+    "nuance": "Usually a detail of etiquette or protocol, not any technical detail.",
+    "example": "Let's not let a punctilio of meeting protocol derail the decision.",
+    "date": "2026-11-04",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "mordacity",
+    "pronunciation": "mor-DAS-uh-tee",
+    "ipa": "mɔrˈdæsəti",
+    "soundsLike": "More, dass rhyming with class, uh, and tea.",
+    "partOfSpeech": "noun",
+    "definition": "Biting sharpness in criticism or humor.",
+    "origin": "Latin mordax, biting, from mordere, to bite.",
+    "nuance": "Sharper and more caustic than wit; it can entertain or wound.",
+    "example": "The review's mordacity was funny, but it obscured some fair criticism.",
+    "date": "2026-11-04",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "word": "rapprochement",
+    "pronunciation": "rap-rohsh-MAHN",
+    "ipa": "ˌræproʊʃˈmɑn",
+    "soundsLike": "Rap, rosh with the vowel in show, and mahn rhyming with on.",
+    "partOfSpeech": "noun",
+    "definition": "A restoration of friendly relations after estrangement.",
+    "origin": "French rapprochement, a bringing closer, from rapprocher.",
+    "nuance": "A thaw in relations, not necessarily complete agreement.",
+    "example": "The shared reliability project created a rapprochement between the two teams.",
+    "date": "2026-11-04",
+    "tags": [
+      "leadership"
+    ]
+  },
+  {
+    "word": "exculpate",
+    "pronunciation": "EK-skul-payt",
+    "ipa": "ˈɛkskəlˌpeɪt",
+    "soundsLike": "Ex, skull, and pate.",
+    "partOfSpeech": "verb",
+    "definition": "Clear someone of blame or fault.",
+    "origin": "Latin ex-, out of, and culpa, fault.",
+    "nuance": "Evidence may exculpate someone; an excuse merely attempts a defense.",
+    "example": "The deployment logs exculpate the on-call engineer; the bad configuration predates her shift.",
+    "date": "2026-11-04",
+    "tags": [
+      "analysis"
+    ]
   }
 ]
