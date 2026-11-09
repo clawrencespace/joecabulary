@@ -4204,6 +4204,66 @@
     ]
   },
   {
+    "word": "lucid",
+    "pronunciation": "LOO-sid",
+    "ipa": "ˈlusɪd",
+    "soundsLike": "Loo rhymes with blue; sid as in Sid.",
+    "partOfSpeech": "adjective",
+    "definition": "Characterized by clear thinking, expression, or communication; having the use of one's faculties.",
+    "origin": "Latin lucidus, bright or clear, from lucere, to shine.",
+    "nuance": "Can describe clear prose or clear thinking; simplicity alone is not lucidity.",
+    "example": "She gave a lucid explanation of the complex financial situation.",
+    "date": "2026-08-08",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "pronunciation": "SKROO-tuh-nyze",
+    "ipa": "ˈskrutənaɪz",
+    "soundsLike": "Screw, tuh, and nize rhyming with eyes.",
+    "partOfSpeech": "verb",
+    "definition": "Examine or inspect closely and thoroughly.",
+    "origin": "From scrutiny, ultimately Latin scrutinium, a search or examination.",
+    "nuance": "Implies close examination, not merely reading or glancing.",
+    "example": "The committee will scrutinize all submitted proposals before making a decision.",
+    "date": "2026-08-08",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "unambiguous",
+    "pronunciation": "un-am-BIG-yoo-us",
+    "ipa": "ˌʌnæmˈbɪɡjuəs",
+    "soundsLike": "Un as in undo, am, big, you, and us.",
+    "partOfSpeech": "adjective",
+    "definition": "Not open to more than one interpretation; clear and precise.",
+    "origin": "Un- plus ambiguous, from Latin ambiguus, uncertain, from ambigere, to dispute or waver.",
+    "nuance": "Having one clear interpretation does not make a statement correct.",
+    "example": "The instructions were unambiguous, leaving no room for error.",
+    "date": "2026-08-08",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "nuanced",
+    "pronunciation": "NOO-ahnst",
+    "ipa": "ˈnuɑnst",
+    "soundsLike": "New followed by ahnst, with the vowel in father.",
+    "partOfSpeech": "adjective",
+    "definition": "Characterized by subtle distinctions and detailed differences; showing fine understanding.",
+    "origin": "From French nuance, a shade of color, from nuer, to shade, related to nue, cloud.",
+    "nuance": "Means sensitive to meaningful distinctions, not simply complicated.",
+    "example": "His nuanced performance captured the complexity of the character.",
+    "date": "2026-08-08",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
     "word": "precarious",
     "pronunciation": "prih-KAIR-ee-us",
     "ipa": "prɪˈkɛriəs",
