@@ -543,6 +543,79 @@
     ]
   },
   {
+    "slug": "sunday-2026-08-09",
+    "title": "Contiguous Effects",
+    "eyebrow": "Sunday No. 019 · Live",
+    "date": "August 9, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "PERFUNCTORY",
+        "clue": "Done with minimal effort or attention, more out of routine than real engagement",
+        "row": 0,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "CONTIGUOUS",
+        "clue": "Touching or sharing a common boundary; next to each other in a continuous sequence",
+        "row": 0,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "DISAGGREGATE",
+        "clue": "To separate a whole into smaller components for closer analysis",
+        "row": 1,
+        "col": 7,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "ADMISSIBLE",
+        "clue": "Allowed to be considered or accepted as valid evidence or input",
+        "row": 1,
+        "col": 12,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "UNAMBIGUOUS",
+        "clue": "Not open to more than one interpretation; clear and precise",
+        "row": 4,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "METAMORPHOSIS",
+        "clue": "A process of development by which a thing is transformed in form or structure",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 7,
+        "answer": "INFERENTIAL",
+        "clue": "Based on reasoning from evidence rather than direct observation or explicit statement",
+        "row": 12,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 8,
+        "answer": "SCRUTINIZE",
+        "clue": "Examine or inspect closely and thoroughly",
+        "row": 14,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
+  },
+  {
     "slug": "sunday-2026-08-16",
     "title": "Precarious Effects",
     "eyebrow": "Sunday No. 008 · Live",

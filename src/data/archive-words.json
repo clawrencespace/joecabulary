@@ -4264,6 +4264,66 @@
     ]
   },
   {
+    "word": "evolve",
+    "pronunciation": "ih-VOLV",
+    "ipa": "ɪˈvɑlv",
+    "soundsLike": "Ih as in it; volv rhymes with dissolve.",
+    "partOfSpeech": "verb",
+    "definition": "Develop gradually, especially from a simple to a more complex form.",
+    "origin": "Latin evolvere, to unroll, from e-/ex-, out, and volvere, to roll.",
+    "nuance": "Change over time need not be progress toward something better.",
+    "example": "Technology continues to evolve, creating new tools and opportunities every year.",
+    "date": "2026-08-09",
+    "tags": [
+      "change"
+    ]
+  },
+  {
+    "word": "metamorphosis",
+    "pronunciation": "met-uh-MOR-fuh-sis",
+    "ipa": "ˌmɛtəˈmɔrfəsɪs",
+    "soundsLike": "Met, uh, more, fuh, and sis as in sister.",
+    "partOfSpeech": "noun",
+    "definition": "A process of development by which a thing is transformed in form or structure.",
+    "origin": "Greek metamorphosis, transformation, from meta-, change, and morphe, form.",
+    "nuance": "Suggests a fundamental transformation, not a minor adjustment.",
+    "example": "The company's metamorphosis from startup to industry leader took over a decade.",
+    "date": "2026-08-09",
+    "tags": [
+      "change"
+    ]
+  },
+  {
+    "word": "transient",
+    "pronunciation": "TRAN-shunt",
+    "ipa": "ˈtrænʃənt",
+    "soundsLike": "Tran rhymes with plan; shunt as in shunt.",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting for a very short time; impermanent.",
+    "origin": "Latin transiens, passing across, from transire, to go across.",
+    "nuance": "Brief duration is the point; a transient error can still be serious. This preserves the original August pick despite a later September revisit.",
+    "example": "The transient nature of digital fame means popularity can vanish overnight.",
+    "date": "2026-08-09",
+    "tags": [
+      "change"
+    ]
+  },
+  {
+    "word": "iterative",
+    "pronunciation": "IT-uh-ruh-tiv",
+    "ipa": "ˈɪtərəˌtɪv",
+    "soundsLike": "It, uh, ruh as in run, and tiv as in active.",
+    "partOfSpeech": "adjective",
+    "definition": "Involving or occurring by repetition at intervals; characterized by repeated cycles.",
+    "origin": "Latin iterare, to repeat, from iterum, again.",
+    "nuance": "Repeated cycles may refine a result; iterative does not by itself mean recursive.",
+    "example": "The iterative design process allowed us to refine each feature based on user feedback.",
+    "date": "2026-08-09",
+    "tags": [
+      "change"
+    ]
+  },
+  {
     "word": "precarious",
     "pronunciation": "prih-KAIR-ee-us",
     "ipa": "prɪˈkɛriəs",
