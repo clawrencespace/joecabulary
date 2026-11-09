@@ -10282,5 +10282,65 @@
     "tags": [
       "negotiation"
     ]
+  },
+  {
+    "word": "vicissitude",
+    "pronunciation": "vih-SIS-uh-tood",
+    "ipa": "vɪˈsɪsəˌtud",
+    "soundsLike": "Vih as in vim, sis as in sister, uh, and tood rhyming with food.",
+    "partOfSpeech": "noun",
+    "definition": "A change of circumstances or fortune, especially an unwelcome one.",
+    "origin": "Latin vicissitudo, alternation, from vicis, change or turn.",
+    "nuance": "Often plural, describing life's shifting conditions rather than one ordinary edit.",
+    "example": "The plan needs enough slack to survive the vicissitudes of the hiring market.",
+    "date": "2026-11-07",
+    "tags": [
+      "planning"
+    ]
+  },
+  {
+    "word": "usufruct",
+    "pronunciation": "YOO-zuh-frukt",
+    "ipa": "ˈjuzəˌfrʌkt",
+    "soundsLike": "You, zuh as in zipper with uh, and frukt rhyming with trucked.",
+    "partOfSpeech": "noun",
+    "definition": "A legal right to use and benefit from another's property without impairing its substance.",
+    "origin": "Latin usus, use, and fructus, enjoyment or fruit.",
+    "nuance": "Distinct from ownership; the right's scope depends on the applicable law.",
+    "example": "The agreement grants a usufruct, not title to the land.",
+    "date": "2026-11-07",
+    "tags": [
+      "law"
+    ]
+  },
+  {
+    "word": "irenic",
+    "pronunciation": "eye-REN-ik",
+    "ipa": "aɪˈrɛnɪk",
+    "soundsLike": "Eye, wren, and ick.",
+    "partOfSpeech": "adjective",
+    "definition": "Aimed at promoting peace or reconciliation.",
+    "origin": "Greek eirenikos, peaceful, from eirene, peace.",
+    "nuance": "Describes a conciliatory approach, not necessarily agreement or passivity.",
+    "example": "Her irenic opening lowered the temperature without conceding the technical point.",
+    "date": "2026-11-07",
+    "tags": [
+      "leadership"
+    ]
+  },
+  {
+    "word": "factotum",
+    "pronunciation": "fak-TOH-tum",
+    "ipa": "fækˈtoʊtəm",
+    "soundsLike": "Fact without the final t, toe, and tum as in tummy.",
+    "partOfSpeech": "noun",
+    "definition": "A person who handles many different tasks for someone or an organization.",
+    "origin": "Latin fac totum, do everything.",
+    "nuance": "Emphasizes breadth of duties, sometimes with an implication of low status or overwork.",
+    "example": "At the beginning I was the startup's factotum: code, recruiting, invoices, everything.",
+    "date": "2026-11-07",
+    "tags": [
+      "work"
+    ]
   }
 ]
