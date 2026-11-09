@@ -10222,5 +10222,65 @@
     "tags": [
       "conversation"
     ]
+  },
+  {
+    "word": "fallacious",
+    "pronunciation": "fuh-LAY-shus",
+    "ipa": "fəˈleɪʃəs",
+    "soundsLike": "Fuh as in fun, lay, and shus as in gracious.",
+    "partOfSpeech": "adjective",
+    "definition": "Based on faulty reasoning or a misleading inference.",
+    "origin": "Latin fallax, deceptive, from fallere, to deceive.",
+    "nuance": "A claim can be false without being an argument; fallacious targets defective reasoning.",
+    "example": "It's fallacious to infer that the rewrite caused growth just because growth followed it.",
+    "date": "2026-11-06",
+    "tags": [
+      "logic"
+    ]
+  },
+  {
+    "word": "benighted",
+    "pronunciation": "bih-NY-tid",
+    "ipa": "bɪˈnaɪtɪd",
+    "soundsLike": "Bih as in bit, night, and id as in did.",
+    "partOfSpeech": "adjective",
+    "definition": "In a state of ignorance or unenlightenment.",
+    "origin": "From benight, to overtake with darkness.",
+    "nuance": "A pointed, often condescending judgment; use with care about people or cultures.",
+    "example": "That benighted policy treats every production incident as an individual failure.",
+    "date": "2026-11-06",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "word": "munificent",
+    "pronunciation": "myoo-NIF-uh-sunt",
+    "ipa": "mjuˈnɪfəsənt",
+    "soundsLike": "Mew, nif rhyming with stiff, uh, and sunt as in sunlight.",
+    "partOfSpeech": "adjective",
+    "definition": "Very generous in giving.",
+    "origin": "Latin munificus, generous, from munus, gift, and facere, to make.",
+    "nuance": "Describes lavish generosity, not merely having abundant resources.",
+    "example": "The foundation's munificent grant kept the community music program alive.",
+    "date": "2026-11-06",
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "word": "inveigle",
+    "pronunciation": "in-VAY-gul",
+    "ipa": "ɪnˈveɪɡəl",
+    "soundsLike": "In, vague, and ul as in gull.",
+    "partOfSpeech": "verb",
+    "definition": "Persuade through flattery, charm, or deception.",
+    "origin": "From French aveugler, to blind, through an earlier English form.",
+    "nuance": "Often inveigle someone into doing something; implies manipulation, not honest persuasion.",
+    "example": "Don't let a polished demo inveigle us into a contract before we've checked the exit terms.",
+    "date": "2026-11-06",
+    "tags": [
+      "negotiation"
+    ]
   }
 ]
