@@ -10402,5 +10402,65 @@
     "tags": [
       "rhetoric"
     ]
+  },
+  {
+    "word": "turpitude",
+    "pronunciation": "TUR-puh-tood",
+    "ipa": "ˈtɝpəˌtud",
+    "soundsLike": "Turr as in turn, puh, and tood rhyming with food.",
+    "partOfSpeech": "noun",
+    "definition": "Serious moral corruption or depravity.",
+    "origin": "Latin turpitudo, baseness, from turpis, shameful.",
+    "nuance": "Often in moral turpitude, a legal expression whose meaning varies by context.",
+    "example": "A broken process isn't evidence of moral turpitude; falsifying the audit trail is another matter.",
+    "date": "2026-11-09",
+    "tags": [
+      "ethics"
+    ]
+  },
+  {
+    "word": "recant",
+    "pronunciation": "rih-KANT",
+    "ipa": "rɪˈkænt",
+    "soundsLike": "Rih as in rid and cant rhyming with ant.",
+    "partOfSpeech": "verb",
+    "definition": "Formally withdraw a previously expressed belief or statement.",
+    "origin": "Latin recantare, to sing back or retract, from re- and cantare, to sing.",
+    "nuance": "Stronger than revising a detail; usually public or explicit withdrawal.",
+    "example": "I'll recant my claim that the database is the bottleneck; the trace points to the client.",
+    "date": "2026-11-09",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "contumely",
+    "pronunciation": "KON-tuh-mee-lee",
+    "ipa": "ˈkɑntəˌmili",
+    "soundsLike": "Con as in contact, tuh, me, and lee.",
+    "partOfSpeech": "noun",
+    "definition": "Insolent or humiliatingly insulting treatment or language.",
+    "origin": "Latin contumelia, insult or abuse.",
+    "nuance": "An elevated word for contemptuous abuse, not ordinary disagreement.",
+    "example": "The proposal deserves scrutiny, not the contumely it received in that thread.",
+    "date": "2026-11-09",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "supernumerary",
+    "pronunciation": "soo-per-NOO-muh-rair-ee",
+    "ipa": "ˌsupɚˈnuməˌrɛri",
+    "soundsLike": "Soup without p, er, new, muh, rare, and ee.",
+    "partOfSpeech": "adjective",
+    "definition": "Additional to the normal or required number.",
+    "origin": "Late Latin supernumerarius, beyond the number, from super and numerus.",
+    "nuance": "Can mean extra personnel or parts; not necessarily useless or redundant.",
+    "example": "The exercise includes a supernumerary observer who can take over if the incident lead drops out.",
+    "date": "2026-11-09",
+    "tags": [
+      "operations"
+    ]
   }
 ]
