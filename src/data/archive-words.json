@@ -10162,5 +10162,65 @@
     "tags": [
       "analysis"
     ]
+  },
+  {
+    "word": "contumacious",
+    "pronunciation": "kon-tuh-MAY-shus",
+    "ipa": "ˌkɑntəˈmeɪʃəs",
+    "soundsLike": "Con as in convict, tuh, may, and shus as in gracious.",
+    "partOfSpeech": "adjective",
+    "definition": "Stubbornly disobedient to authority.",
+    "origin": "Latin contumax, rebellious or obstinate.",
+    "nuance": "Stronger and more formal than uncooperative, especially in legal contexts.",
+    "example": "Ignoring three court orders made the vendor's conduct look contumacious.",
+    "date": "2026-11-05",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "word": "limpid",
+    "pronunciation": "LIM-pid",
+    "ipa": "ˈlɪmpɪd",
+    "soundsLike": "Lim as in limb; pid rhymes with kid.",
+    "partOfSpeech": "adjective",
+    "definition": "Clear and transparent, literally or in expression.",
+    "origin": "Latin limpidus, clear.",
+    "nuance": "Praises clarity and ease, not shallowness of thought.",
+    "example": "Her limpid explanation made the caching problem obvious.",
+    "date": "2026-11-05",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "word": "encomium",
+    "pronunciation": "en-KOH-mee-um",
+    "ipa": "ɛnˈkoʊmiəm",
+    "soundsLike": "En as in end, co as in code, me, and um.",
+    "partOfSpeech": "noun",
+    "definition": "An expression of enthusiastic, often formal praise.",
+    "origin": "Greek enkomion, a song of praise associated with celebration.",
+    "nuance": "More elevated than a compliment; can sound excessive in routine settings.",
+    "example": "The retrospective became an encomium to the team, with too little attention to what failed.",
+    "date": "2026-11-05",
+    "tags": [
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "persiflage",
+    "pronunciation": "PUR-suh-flahzh",
+    "ipa": "ˈpɝsəˌflɑʒ",
+    "soundsLike": "Purr, suh, and flahzh ending with the sound in mirage.",
+    "partOfSpeech": "noun",
+    "definition": "Light, teasing banter.",
+    "origin": "French persiflage, from persifler, to banter or mock, related to siffler, to whistle.",
+    "nuance": "Usually playful or frivolous rather than sustained argument.",
+    "example": "After a little persiflage about my ancient laptop, we got back to the architecture review.",
+    "date": "2026-11-05",
+    "tags": [
+      "conversation"
+    ]
   }
 ]
