@@ -10462,5 +10462,69 @@
     "tags": [
       "operations"
     ]
+  },
+  {
+    "word": "veracity",
+    "pronunciation": "vuh-RASS-uh-tee",
+    "ipa": "vəˈræsəti",
+    "soundsLike": "Vuh as in the start of vanilla, rass rhyming with class, then the end of city.",
+    "partOfSpeech": "noun",
+    "definition": "Truthfulness, or the accuracy of a statement or account.",
+    "origin": "Latin veracitas, truthfulness, from verax, truthful, related to verus, true.",
+    "nuance": "Concerns truth, not plausibility or completeness. Do not confuse it with voracity, an eager appetite.",
+    "example": "Before we repeat that claim in the board deck, let's check its veracity.",
+    "date": "2026-11-10",
+    "tags": [
+      "evidence",
+      "communication"
+    ]
+  },
+  {
+    "word": "pecuniary",
+    "pronunciation": "pih-KYOO-nee-air-ee",
+    "ipa": "pɪˈkjuniˌɛri",
+    "soundsLike": "Pih as in pin, cue, knee, airy.",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to money or financial interests.",
+    "origin": "Latin pecuniarius, monetary, from pecunia, money, historically related to pecus, cattle.",
+    "nuance": "Specifically monetary, not every kind of material benefit; a pecuniary interest need not be improper.",
+    "example": "The reviewer has a pecuniary interest in the vendor, so we need an independent assessment.",
+    "date": "2026-11-10",
+    "tags": [
+      "finance",
+      "governance"
+    ]
+  },
+  {
+    "word": "ex post",
+    "pronunciation": "eks POHST",
+    "ipa": "ˌɛks ˈpoʊst",
+    "soundsLike": "Ex as in extra, followed by post as in post office.",
+    "partOfSpeech": "adverb; adjective",
+    "definition": "After the event, using knowledge of what actually happened.",
+    "origin": "Latin ex, from, and post, after; literally from afterward.",
+    "nuance": "Contrasts with ex ante, before the outcome is known. An ex post evaluation is not necessarily hindsight bias, but can invite it.",
+    "example": "Ex post, the migration looks obvious; at the time, we had two credible options.",
+    "date": "2026-11-10",
+    "tags": [
+      "analysis",
+      "decisions"
+    ]
+  },
+  {
+    "word": "antipathy",
+    "pronunciation": "an-TIP-uh-thee",
+    "ipa": "ænˈtɪpəθi",
+    "soundsLike": "An, tip, uh as in about, and thee with the unvoiced th of thin.",
+    "partOfSpeech": "noun",
+    "definition": "A strong feeling of dislike or aversion.",
+    "origin": "Greek antipatheia, opposition of feeling, from anti-, against, and pathos, feeling.",
+    "nuance": "Stronger than a mild preference against something; describes aversion, not apathy or indifference.",
+    "example": "My antipathy toward status meetings doesn't mean we can skip keeping people informed.",
+    "date": "2026-11-10",
+    "tags": [
+      "culture",
+      "judgment"
+    ]
   }
 ]
