@@ -10526,5 +10526,69 @@
       "culture",
       "judgment"
     ]
+  },
+  {
+    "word": "elucidate",
+    "pronunciation": "ih-LOO-sih-dayt",
+    "ipa": "ɪˈlusɪˌdeɪt",
+    "soundsLike": "Ih as in it, loo as in loop, sih as in sit, and date.",
+    "partOfSpeech": "verb",
+    "definition": "To make something clearer by explaining it.",
+    "origin": "Latin elucidare, to bring to light, from lucidus, clear.",
+    "nuance": "Emphasizes making a difficult point understandable, not merely adding detail.",
+    "example": "Can you elucidate the assumption behind that forecast before we commit to the target?",
+    "date": "2026-11-11",
+    "tags": [
+      "analysis",
+      "communication"
+    ]
+  },
+  {
+    "word": "aleatory",
+    "pronunciation": "AY-lee-uh-tor-ee",
+    "ipa": "ˈeɪliəˌtɔri",
+    "soundsLike": "A as in acorn, lee as in leek, uh as in about, then Tory.",
+    "partOfSpeech": "adjective",
+    "definition": "Dependent on chance or involving random elements.",
+    "origin": "Latin aleatorius, relating to dice players, from alea, a die or game of chance.",
+    "nuance": "In risk analysis, aleatory uncertainty concerns inherent variability, unlike epistemic uncertainty from missing knowledge; not simply a synonym for unknown.",
+    "example": "Some of that latency variation is aleatory; a better dashboard will measure it, not eliminate it.",
+    "date": "2026-11-11",
+    "tags": [
+      "risk",
+      "engineering"
+    ]
+  },
+  {
+    "word": "consummate",
+    "pronunciation": "KON-suh-mit",
+    "ipa": "ˈkɑnsəmət",
+    "soundsLike": "Con as in concept, suh as in support, and mit as in mitten.",
+    "partOfSpeech": "adjective",
+    "definition": "Highly accomplished; displaying complete mastery of a skill or quality.",
+    "origin": "Latin consummare, to complete, from con-, together, and summa, total.",
+    "nuance": "Stronger than competent. The adjective ends in an unstressed sound like mit; the verb meaning complete ends in mayt.",
+    "example": "She is a consummate interviewer: candidates leave feeling heard, and we get a clear signal.",
+    "date": "2026-11-11",
+    "tags": [
+      "leadership",
+      "craft"
+    ]
+  },
+  {
+    "word": "peripatetic",
+    "pronunciation": "pair-uh-puh-TET-ik",
+    "ipa": "ˌpɛrəpəˈtɛtɪk",
+    "soundsLike": "Pair, uh as in about, puh as in potato, tet rhyming with set, and ick as in sick.",
+    "partOfSpeech": "adjective",
+    "definition": "Traveling from place to place, especially as part of one’s work or way of life.",
+    "origin": "Greek peripatetikos, given to walking about; also associated with Aristotle’s school.",
+    "nuance": "Describes actual movement between places, not merely a varied career or wandering attention.",
+    "example": "That documentary follows the band’s peripatetic years, when they were playing a different city every night.",
+    "date": "2026-11-11",
+    "tags": [
+      "culture",
+      "travel"
+    ]
   }
 ]
