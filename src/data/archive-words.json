@@ -10590,5 +10590,69 @@
       "culture",
       "travel"
     ]
+  },
+  {
+    "word": "fealty",
+    "pronunciation": "FEE-uhl-tee",
+    "ipa": "ˈfiəlti",
+    "soundsLike": "Fee, uhl as in the end of real, and tee as in tea.",
+    "partOfSpeech": "noun",
+    "definition": "Loyalty or allegiance to a person, institution, or cause.",
+    "origin": "From Old French fealte, loyalty, ultimately Latin fidelitas, faithfulness.",
+    "nuance": "Carries a formal, sometimes feudal flavor; useful when loyalty feels personal or unquestioning, rather than simply cooperative.",
+    "example": "I want people challenging the architecture, not pledging fealty to the person who designed it.",
+    "date": "2026-11-12",
+    "tags": [
+      "leadership",
+      "culture"
+    ]
+  },
+  {
+    "word": "promissory",
+    "pronunciation": "PROM-uh-sor-ee",
+    "ipa": "ˈprɑməˌsɔri",
+    "soundsLike": "Prom as in senior prom, uh as in about, and sore followed by ee as in see.",
+    "partOfSpeech": "adjective",
+    "definition": "Containing or conveying a promise of future performance.",
+    "origin": "From Latin promissorius, relating to a promise, from promittere, to promise.",
+    "nuance": "Not the same as promising, which means encouraging. A promissory note is a written promise to pay; broader uses emphasize a commitment not yet fulfilled.",
+    "example": "The demo is impressive, but the reliability story is still promissory; we need production evidence.",
+    "date": "2026-11-12",
+    "tags": [
+      "strategy",
+      "finance"
+    ]
+  },
+  {
+    "word": "recrimination",
+    "pronunciation": "rih-krim-uh-NAY-shuhn",
+    "ipa": "rɪˌkrɪməˈneɪʃən",
+    "soundsLike": "Rih as in rip, crim as in criminal, uh as in about, nay as in neighbor, and shun.",
+    "partOfSpeech": "noun",
+    "definition": "An accusation made in response to another accusation; mutual exchanges of blame.",
+    "origin": "From Medieval Latin recriminari, to accuse in return, from re-, back, and criminari, to accuse.",
+    "nuance": "Usually plural when describing a blame-filled dispute. More specific than criticism: it involves answering blame with blame.",
+    "example": "Let’s get the timeline straight before this incident review turns into recriminations.",
+    "date": "2026-11-12",
+    "tags": [
+      "conflict",
+      "communication"
+    ]
+  },
+  {
+    "word": "limn",
+    "pronunciation": "LIM",
+    "ipa": "lɪm",
+    "soundsLike": "Exactly like limb; the final n is silent.",
+    "partOfSpeech": "verb",
+    "definition": "To portray or describe something in clear, precise detail.",
+    "origin": "Shortened from Middle English limnen, to illuminate a manuscript, ultimately from Latin illuminare.",
+    "nuance": "A literary but compact alternative to depict or sketch; it means portraying, not necessarily explaining causes or resolving ambiguity.",
+    "example": "The documentary limns the city’s music scene through interviews with the people who built it.",
+    "date": "2026-11-12",
+    "tags": [
+      "culture",
+      "writing"
+    ]
   }
 ]
