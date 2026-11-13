@@ -10654,5 +10654,69 @@
       "culture",
       "writing"
     ]
+  },
+  {
+    "word": "surrogate",
+    "pronunciation": "SUR-uh-guht",
+    "ipa": "ˈsɝəɡət",
+    "soundsLike": "Sur as in surname, uh as in about, and gut with an unstressed vowel.",
+    "partOfSpeech": "noun",
+    "definition": "A person or thing acting as a substitute for another.",
+    "origin": "From Latin surrogare, to appoint in place of another.",
+    "nuance": "A surrogate stands in for something; it is not necessarily equivalent to it. A surrogate metric can improve without the actual outcome improving.",
+    "example": "Let’s not use ticket volume as a surrogate for customer satisfaction.",
+    "date": "2026-11-13",
+    "tags": [
+      "measurement",
+      "analysis"
+    ]
+  },
+  {
+    "word": "credulous",
+    "pronunciation": "KREJ-uh-luhs",
+    "ipa": "ˈkrɛdʒələs",
+    "soundsLike": "Krej as in the start of credential, uh as in about, and luhs as in the end of marvelous.",
+    "partOfSpeech": "adjective",
+    "definition": "Too ready to believe claims without sufficient evidence.",
+    "origin": "From Latin credulus, easily believing, from credere, to believe.",
+    "nuance": "Describes the believer, not the claim. Credible means believable; credulous means overly willing to believe.",
+    "example": "I’m excited about the benchmark, but I don’t want us to be credulous about the vendor’s numbers.",
+    "date": "2026-11-13",
+    "tags": [
+      "judgment",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "abridge",
+    "pronunciation": "uh-BRIJ",
+    "ipa": "əˈbrɪdʒ",
+    "soundsLike": "Uh as in about followed by bridge.",
+    "partOfSpeech": "verb",
+    "definition": "To shorten a text while retaining its substance, or to curtail a right or freedom.",
+    "origin": "Through Old French abregier from Late Latin abbreviare, to shorten.",
+    "nuance": "An abridged work is shortened, not merely summarized in a separate account. In legal contexts, abridging a right means limiting its exercise.",
+    "example": "Can we abridge the onboarding guide without losing the troubleshooting examples?",
+    "date": "2026-11-13",
+    "tags": [
+      "writing",
+      "law"
+    ]
+  },
+  {
+    "word": "sartorial",
+    "pronunciation": "sar-TOR-ee-uhl",
+    "ipa": "sɑrˈtɔriəl",
+    "soundsLike": "Sar as in sardine, tor as in tore, ee as in see, and uhl as in the end of usual.",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to clothing, tailoring, or style of dress.",
+    "origin": "From Latin sartor, tailor, from sarcire, to patch or mend.",
+    "nuance": "Often used with a lightly witty tone about clothing choices. It does not imply that the clothes are fashionable or expensive.",
+    "example": "My sartorial contribution to the offsite is a clean band shirt.",
+    "date": "2026-11-13",
+    "tags": [
+      "culture",
+      "style"
+    ]
   }
 ]
