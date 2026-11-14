@@ -10718,5 +10718,69 @@
       "culture",
       "style"
     ]
+  },
+  {
+    "word": "reticent",
+    "pronunciation": "RET-uh-suhnt",
+    "ipa": "ˈrɛtəsənt",
+    "soundsLike": "Ret as in the start of retinue, uh as in about, and suhnt as in the end of innocent.",
+    "partOfSpeech": "adjective",
+    "definition": "Reserved or unwilling to reveal thoughts and feelings.",
+    "origin": "From Latin reticere, to keep silent, from re- and tacere, to be silent.",
+    "nuance": "More specific than reluctant: reticence concerns speaking or disclosure, not general unwillingness to act.",
+    "example": "She was reticent about why the migration stalled, so I asked what support she needed.",
+    "date": "2026-11-14",
+    "tags": [
+      "communication",
+      "leadership"
+    ]
+  },
+  {
+    "word": "vacillate",
+    "pronunciation": "VAS-uh-layt",
+    "ipa": "ˈvæsəleɪt",
+    "soundsLike": "Vas rhymes with mass, uh as in about, and late as in running late.",
+    "partOfSpeech": "verb",
+    "definition": "To waver between different opinions or courses of action.",
+    "origin": "From Latin vacillare, to sway or stagger.",
+    "nuance": "Suggests repeated indecision, not a single evidence-based change of mind. Deliberation need not involve vacillation.",
+    "example": "We can debate the architecture, but we can’t vacillate between these two designs for another month.",
+    "date": "2026-11-14",
+    "tags": [
+      "decisions",
+      "strategy"
+    ]
+  },
+  {
+    "word": "discomfit",
+    "pronunciation": "dis-KUM-fit",
+    "ipa": "dɪsˈkʌmfɪt",
+    "soundsLike": "Dis as in dismiss, kum as in come, and fit as in a good fit.",
+    "partOfSpeech": "verb",
+    "definition": "To make someone feel uneasy, embarrassed, or unsettled.",
+    "origin": "From Old French desconfit, defeated, from desconfire, to defeat or rout.",
+    "nuance": "Historically meant defeat; modern use usually means unsettle. Not simply physical discomfort, despite the resemblance to discomfort.",
+    "example": "The customer’s perfectly reasonable question seemed to discomfit the sales team.",
+    "date": "2026-11-14",
+    "tags": [
+      "psychology",
+      "communication"
+    ]
+  },
+  {
+    "word": "patina",
+    "pronunciation": "puh-TEE-nuh",
+    "ipa": "pəˈtinə",
+    "soundsLike": "Puh as in the start of pajamas, tee as in tea, and nuh as in the end of arena.",
+    "partOfSpeech": "noun",
+    "definition": "A surface layer acquired with age, or a superficial appearance of a quality.",
+    "origin": "Through Italian patina, from Latin patina, a shallow dish; later applied to the surface film on metal.",
+    "nuance": "A literal patina develops on a surface over time; figuratively, a patina of sophistication can be only a veneer. It need not be deceptive.",
+    "example": "The new dashboard gives the process a patina of rigor, but the underlying data is still a mess.",
+    "date": "2026-11-14",
+    "tags": [
+      "culture",
+      "analysis"
+    ]
   }
 ]
