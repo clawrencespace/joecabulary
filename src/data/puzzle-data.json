@@ -1578,5 +1578,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-11-15",
+    "title": "Consummate Effects",
+    "eyebrow": "Sunday No. 021 · Live",
+    "date": "November 15, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "CONSUMMATE",
+        "clue": "Highly accomplished; displaying complete mastery of a skill or quality",
+        "row": 0,
+        "col": 3,
+        "direction": "across"
+      },
+      {
+        "number": 2,
+        "answer": "SUPERNUMERARY",
+        "clue": "Additional to the normal or required number",
+        "row": 0,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "COLLATERAL",
+        "clue": "Secondary or accompanying rather than direct or primary",
+        "row": 2,
+        "col": 10,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "EPIGRAMMATIC",
+        "clue": "Expressing an idea in a brief, pointed, often witty form",
+        "row": 3,
+        "col": 1,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "CREDULOUS",
+        "clue": "Too ready to believe claims without sufficient evidence",
+        "row": 3,
+        "col": 4,
+        "direction": "across"
+      },
+      {
+        "number": 6,
+        "answer": "DISCOMFIT",
+        "clue": "To make someone feel uneasy, embarrassed, or unsettled",
+        "row": 4,
+        "col": 3,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "INVIOLATE",
+        "clue": "Kept free from violation, infringement, or disturbance",
+        "row": 6,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "ANTIPATHY",
+        "clue": "A strong feeling of dislike or aversion",
+        "row": 6,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 9,
+        "answer": "RECRIMINATION",
+        "clue": "An accusation made in response to another accusation; mutual exchanges of blame",
+        "row": 7,
+        "col": 1,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "CIRCUMVENT",
+        "clue": "To get around an obstacle or restriction, often by an indirect or clever method",
+        "row": 14,
+        "col": 1,
+        "direction": "across"
+      }
+    ]
   }
 ]

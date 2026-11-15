@@ -10782,5 +10782,69 @@
       "culture",
       "analysis"
     ]
+  },
+  {
+    "word": "inviolate",
+    "pronunciation": "in-VY-uh-lit",
+    "ipa": "ɪnˈvaɪələt",
+    "soundsLike": "In as in inbox, VY rhymes with sky, uh as in about, and lit as in a lit lamp.",
+    "partOfSpeech": "adjective",
+    "definition": "Kept free from violation, infringement, or disturbance.",
+    "origin": "From Latin inviolatus, uninjured or unviolated, combining in-, not, with violare, to violate.",
+    "nuance": "Describes something preserved intact, especially a principle or boundary. Inviolable emphasizes that it must not or cannot be violated; inviolate emphasizes its undisturbed state.",
+    "example": "We can change the rollout plan, but customer privacy has to remain inviolate.",
+    "date": "2026-11-15",
+    "tags": [
+      "principles",
+      "leadership"
+    ]
+  },
+  {
+    "word": "collateral",
+    "pronunciation": "kuh-LAT-er-uhl",
+    "ipa": "kəˈlætərəl",
+    "soundsLike": "Kuh as in collect, LAT rhymes with cat, and er-uhl as in the end of lateral.",
+    "partOfSpeech": "adjective",
+    "definition": "Secondary or accompanying rather than direct or primary.",
+    "origin": "From Medieval Latin collateralis, side by side, from com-, together, and lateralis, relating to the side.",
+    "nuance": "Collateral effects can be beneficial or harmful; the word alone does not mean damage. As a noun, collateral can instead mean assets pledged to secure a loan.",
+    "example": "One collateral benefit of simplifying onboarding is that support gets fewer tickets.",
+    "date": "2026-11-15",
+    "tags": [
+      "analysis",
+      "business"
+    ]
+  },
+  {
+    "word": "epigrammatic",
+    "pronunciation": "ep-ih-gruh-MAT-ik",
+    "ipa": "ˌɛpɪɡrəˈmætɪk",
+    "soundsLike": "Ep as in epic, ih as in sit, gruh as in the start of gratitude, MAT as in doormat, and ik as in the end of picnic.",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing an idea in a brief, pointed, often witty form.",
+    "origin": "From epigram, through Latin from Greek epigramma, an inscription, from epi-, upon, and graphein, to write.",
+    "nuance": "More than merely short: an epigrammatic remark has a sharp turn of thought. A concise status update is not necessarily epigrammatic.",
+    "example": "His epigrammatic review of the proposal was, “We automated the work and kept the bureaucracy.”",
+    "date": "2026-11-15",
+    "tags": [
+      "rhetoric",
+      "culture"
+    ]
+  },
+  {
+    "word": "circumvent",
+    "pronunciation": "sur-kum-VENT",
+    "ipa": "ˌsɝkəmˈvɛnt",
+    "soundsLike": "Sur as in surname, kum as in the unstressed end of welcome, and VENT as in an air vent.",
+    "partOfSpeech": "verb",
+    "definition": "To get around an obstacle or restriction, often by an indirect or clever method.",
+    "origin": "From Latin circumvenire, to come around or encircle, from circum, around, and venire, to come.",
+    "nuance": "Circumventing a problem bypasses it rather than necessarily solving it. With rules or safeguards, the word often suggests evasion, not legitimate compliance.",
+    "example": "The cache lets us circumvent the rate limit, but it doesn’t fix the slow endpoint.",
+    "date": "2026-11-15",
+    "tags": [
+      "technology",
+      "strategy"
+    ]
   }
 ]
