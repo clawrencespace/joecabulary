@@ -10846,5 +10846,69 @@
       "technology",
       "strategy"
     ]
+  },
+  {
+    "word": "inculcate",
+    "pronunciation": "in-KUL-kayt",
+    "ipa": "ɪnˈkʌlkeɪt",
+    "soundsLike": "In as in inbox, KUL as in the first syllable of culture, and kayt rhymes with gate.",
+    "partOfSpeech": "verb",
+    "definition": "To instill an idea or habit through repeated teaching or practice.",
+    "origin": "From Latin inculcare, to tread in, from in- and calcare, to tread, related to calx, heel.",
+    "nuance": "Stronger and more sustained than simply introducing an idea. Usually inculcate a habit in someone, not inculcate someone with a habit.",
+    "example": "We need to inculcate the habit of checking rollback readiness before every release.",
+    "date": "2026-11-16",
+    "tags": [
+      "leadership",
+      "learning"
+    ]
+  },
+  {
+    "word": "diseconomy",
+    "pronunciation": "dis-ih-KAH-nuh-mee",
+    "ipa": "ˌdɪsɪˈkɑnəmi",
+    "soundsLike": "Dis as in disconnect, ih as in sit, KAH as in the first syllable of confident, and nuh-mee as in the end of economy.",
+    "partOfSpeech": "noun",
+    "definition": "A cost disadvantage arising from how an operation is organized or scaled.",
+    "origin": "From dis-, indicating reversal or negation, and economy, ultimately from Greek oikonomia, household management.",
+    "nuance": "Usually plural in diseconomies of scale: average costs rise as an operation grows. Not merely any expense, nor the same as a weak economy.",
+    "example": "The extra coordination layer is creating diseconomies of scale: each new team makes delivery more expensive.",
+    "date": "2026-11-16",
+    "tags": [
+      "business",
+      "systems"
+    ]
+  },
+  {
+    "word": "obstreperous",
+    "pronunciation": "ub-STREP-er-us",
+    "ipa": "əbˈstrɛpərəs",
+    "soundsLike": "Ub as in the unstressed start of above, STREP as in strep throat, er as in her, and us as in the unstressed end of circus.",
+    "partOfSpeech": "adjective",
+    "definition": "Noisily and stubbornly resistant to control or restraint.",
+    "origin": "From Latin obstreperus, clamorous, from obstrepere, to make a noise against: ob-, against, and strepere, to make a noise.",
+    "nuance": "Combines unruliness with noisy resistance; a quiet skeptic is not necessarily obstreperous. Colorful and usually critical, so use cautiously about colleagues.",
+    "example": "The crowd got pretty obstreperous when the venue cut the encore short.",
+    "date": "2026-11-16",
+    "tags": [
+      "behavior",
+      "culture"
+    ]
+  },
+  {
+    "word": "eclectic",
+    "pronunciation": "ih-KLEK-tik",
+    "ipa": "ɪˈklɛktɪk",
+    "soundsLike": "Ih as in sit, KLEK rhymes with check with an added l, and tik as in tick.",
+    "partOfSpeech": "adjective",
+    "definition": "Drawing from a diverse range of sources, styles, or traditions.",
+    "origin": "From Greek eklektikos, selective, from eklegein, to pick out, combining ek-, out, and legein, to choose.",
+    "nuance": "Suggests selection across different sources, not simply randomness or eccentricity. An eclectic taste can still be coherent and discerning.",
+    "example": "My playlist is eclectic, but there is usually a pretty clear groove connecting the songs.",
+    "date": "2026-11-16",
+    "tags": [
+      "culture",
+      "judgment"
+    ]
   }
 ]
