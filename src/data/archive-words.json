@@ -10910,5 +10910,69 @@
       "culture",
       "judgment"
     ]
+  },
+  {
+    "word": "internecine",
+    "pronunciation": "in-ter-NEE-seen",
+    "ipa": "ˌɪntərˈnisin",
+    "soundsLike": "In as in inbox, ter as in winter, NEE as in knee, and seen as in unseen.",
+    "partOfSpeech": "adjective",
+    "definition": "Involving destructive conflict within a group or organization.",
+    "origin": "From Latin internecinus, destructive, from internecare, to slaughter; the sense of internal group conflict developed later.",
+    "nuance": "Usually describes damaging conflict among members of the same group, not just any rivalry. Despite its modern meaning, the Latin root does not mean internal.",
+    "example": "The reorg will not help if we keep burning time on internecine fights over ownership.",
+    "date": "2026-11-17",
+    "tags": [
+      "leadership",
+      "conflict"
+    ]
+  },
+  {
+    "word": "dissociate",
+    "pronunciation": "dih-SOH-shee-ayt",
+    "ipa": "dɪˈsoʊʃiˌeɪt",
+    "soundsLike": "Dih as in dismiss, SOH as in so, shee as in she, and ayt as in eight.",
+    "partOfSpeech": "verb",
+    "definition": "To separate or disconnect something from an association.",
+    "origin": "From Latin dissociare, to separate, combining dis-, apart, and sociare, to join.",
+    "nuance": "Dissociate something from something else. Can mean distancing oneself from a position; psychological dissociation is a more specific sense, not simply distraction.",
+    "example": "We should dissociate the architecture decision from the debate about which team owns the service.",
+    "date": "2026-11-17",
+    "tags": [
+      "analysis",
+      "communication"
+    ]
+  },
+  {
+    "word": "efface",
+    "pronunciation": "ih-FAYS",
+    "ipa": "ɪˈfeɪs",
+    "soundsLike": "Ih as in if, followed by face as in interface.",
+    "partOfSpeech": "verb",
+    "definition": "To erase, obscure, or make something less noticeable.",
+    "origin": "From French effacer, to erase, formed from a prefix meaning out and face, face or surface.",
+    "nuance": "Often figurative: efface a distinction or a memory. Self-effacing means avoiding attention or credit, not necessarily lacking confidence.",
+    "example": "The summary is so tidy that it effaces the real disagreement about risk.",
+    "date": "2026-11-17",
+    "tags": [
+      "rhetoric",
+      "analysis"
+    ]
+  },
+  {
+    "word": "apotheosis",
+    "pronunciation": "uh-pah-thee-OH-sis",
+    "ipa": "əˌpɑθiˈoʊsɪs",
+    "soundsLike": "Uh as in about, pah as in pot without the t, thee with the unvoiced th of theme, OH as in go, and sis as in sister.",
+    "partOfSpeech": "noun",
+    "definition": "The highest or most fully realized expression of something; also, elevation to divine status.",
+    "origin": "From Greek apotheosis, deification, from apotheoun, to make a god, related to theos, god.",
+    "nuance": "Stronger than a good example: suggests an ultimate embodiment or culmination. The literal sense is deification; the figurative sense can be admiring or ironic.",
+    "example": "That live album is the apotheosis of their early sound: loose, loud, and completely locked in.",
+    "date": "2026-11-17",
+    "tags": [
+      "culture",
+      "criticism"
+    ]
   }
 ]
