@@ -10974,5 +10974,69 @@
       "culture",
       "criticism"
     ]
+  },
+  {
+    "word": "insidious",
+    "pronunciation": "in-SID-ee-us",
+    "ipa": "ɪnˈsɪdiəs",
+    "soundsLike": "In as in inbox, SID as in Sid, ee as in see, and us as in focus.",
+    "partOfSpeech": "adjective",
+    "definition": "Causing harm gradually or subtly, often before the danger is noticed.",
+    "origin": "From Latin insidiosus, treacherous, from insidiae, an ambush or trap.",
+    "nuance": "Not merely harmful or unpleasant: emphasizes a concealed or gradual threat. Distinct from invidious, which concerns resentment or unfair comparison.",
+    "example": "The insidious part of this workaround is that every new feature makes it harder to remove.",
+    "date": "2026-11-18",
+    "tags": [
+      "engineering",
+      "risk"
+    ]
+  },
+  {
+    "word": "indemnify",
+    "pronunciation": "in-DEM-nuh-fy",
+    "ipa": "ɪnˈdɛmnəˌfaɪ",
+    "soundsLike": "In as in inbox, DEM as in demonstrate, nuh as in the middle of company, and fy rhyming with sky.",
+    "partOfSpeech": "verb",
+    "definition": "To compensate someone for a loss or undertake to cover specified losses or liabilities.",
+    "origin": "From Latin indemnis, unharmed, combining in-, not, and damnum, loss, through French.",
+    "nuance": "In contracts, the scope depends on the clause: indemnifying someone is not a blanket promise that nothing will go wrong, and is distinct from an obligation to defend.",
+    "example": "Before we sign, I want to know which claims the vendor actually agrees to indemnify us against.",
+    "date": "2026-11-18",
+    "tags": [
+      "contracts",
+      "leadership"
+    ]
+  },
+  {
+    "word": "suffuse",
+    "pronunciation": "suh-FYOOZ",
+    "ipa": "səˈfjuz",
+    "soundsLike": "Suh as at the start of support, followed by fuse as in a blown fuse.",
+    "partOfSpeech": "verb",
+    "definition": "To spread through or over something, filling it with a quality, color, or feeling.",
+    "origin": "From Latin suffundere, to pour beneath or spread over, from sub-, under, and fundere, to pour.",
+    "nuance": "Usually describes something permeating a whole scene or work, not a discrete addition. Often used as suffused with; diffuse more broadly means spread or scatter.",
+    "example": "The whole album is suffused with the warm keyboard sound I love on their early records.",
+    "date": "2026-11-18",
+    "tags": [
+      "culture",
+      "description"
+    ]
+  },
+  {
+    "word": "tautology",
+    "pronunciation": "taw-TAH-luh-jee",
+    "ipa": "tɔˈtɑlədʒi",
+    "soundsLike": "Taw rhymes with saw, TAH sounds like the start of toddler, luh as in the end of vanilla, and jee as in jeep without the p.",
+    "partOfSpeech": "noun",
+    "definition": "A needless repetition of meaning; in logic, a statement true under every assignment of truth values.",
+    "origin": "From Greek tautologia, repeating the same thing, from tauto, the same, and -logia, speaking.",
+    "nuance": "In rhetoric it is redundant wording; in formal logic it is necessarily true by its structure. A circular explanation is not automatically a logical tautology.",
+    "example": "Saying our best customers are the ones with the highest customer scores is a tautology, not an explanation.",
+    "date": "2026-11-18",
+    "tags": [
+      "logic",
+      "rhetoric"
+    ]
   }
 ]
