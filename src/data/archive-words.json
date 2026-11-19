@@ -11038,5 +11038,69 @@
       "logic",
       "rhetoric"
     ]
+  },
+  {
+    "word": "acumen",
+    "pronunciation": "uh-KYOO-muhn",
+    "ipa": "əˈkjumən",
+    "soundsLike": "Uh as at the start of about, KYOO as in cue, and muhn as at the end of common.",
+    "partOfSpeech": "noun",
+    "definition": "Keen judgment and the ability to make sound decisions in a particular domain.",
+    "origin": "Latin acumen, a sharp point or mental sharpness, from acuere, to sharpen.",
+    "nuance": "More than knowledge or intelligence: emphasizes shrewd practical judgment. Usually qualified by a domain, as in business acumen.",
+    "example": "Her technical depth is obvious, but her commercial acumen is what makes her such a strong product partner.",
+    "date": "2026-11-19",
+    "tags": [
+      "leadership",
+      "judgment"
+    ]
+  },
+  {
+    "word": "circumlocution",
+    "pronunciation": "sur-kum-loh-KYOO-shun",
+    "ipa": "ˌsɝkəmloʊˈkjuʃən",
+    "soundsLike": "Sur as in sir, kum as at the end of welcome, loh as in low, KYOO as in cue, and shun as in motion.",
+    "partOfSpeech": "noun",
+    "definition": "An indirect or roundabout way of saying something, especially to avoid saying it plainly.",
+    "origin": "Latin circumlocutio, speaking around, from circum, around, and loqui, to speak.",
+    "nuance": "Not simply a long explanation: the key is indirect expression. It may be evasive, tactful, or a workaround when the exact word is unavailable.",
+    "example": "Calling it a strategic workforce realignment is a lot of circumlocution for a layoff.",
+    "date": "2026-11-19",
+    "tags": [
+      "rhetoric",
+      "communication"
+    ]
+  },
+  {
+    "word": "emend",
+    "pronunciation": "ih-MEND",
+    "ipa": "ɪˈmɛnd",
+    "soundsLike": "Ih as at the start of insist, followed by mend as in mend a tear.",
+    "partOfSpeech": "verb",
+    "definition": "To correct or improve a text, especially by removing errors.",
+    "origin": "Latin emendare, to free from faults, from ex-, out of, and menda, fault.",
+    "nuance": "Narrower than amend: emend usually concerns corrections to a text; amend can change a policy, law, or proposal more broadly. Not necessarily a substantive rewrite.",
+    "example": "We should emend the incident report to correct the timeline before we circulate it.",
+    "date": "2026-11-19",
+    "tags": [
+      "writing",
+      "precision"
+    ]
+  },
+  {
+    "word": "polyphonic",
+    "pronunciation": "pol-ee-FAH-nik",
+    "ipa": "ˌpɑliˈfɑnɪk",
+    "soundsLike": "Pol as at the start of politics, ee as in see, FAH as in father, and nik as in nickname.",
+    "partOfSpeech": "adjective",
+    "definition": "Combining two or more distinct melodic lines; by extension, containing multiple independent voices or perspectives.",
+    "origin": "Greek polyphonos, many-voiced, from polys, many, and phone, voice or sound.",
+    "nuance": "In music, emphasizes independent melodic lines, not merely several instruments playing together. In synthesizers, describes the ability to play multiple notes simultaneously.",
+    "example": "I love how polyphonic that arrangement is—you can follow the bass and the vocal as separate melodies.",
+    "date": "2026-11-19",
+    "tags": [
+      "music",
+      "culture"
+    ]
   }
 ]
