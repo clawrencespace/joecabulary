@@ -11102,5 +11102,69 @@
       "music",
       "culture"
     ]
+  },
+  {
+    "word": "relegate",
+    "pronunciation": "REL-uh-gayt",
+    "ipa": "ˈrɛləɡeɪt",
+    "soundsLike": "REL as in relish, uh as in about, and gayt as in gate.",
+    "partOfSpeech": "verb",
+    "definition": "To assign to a lower rank, less important role, or out-of-the-way position.",
+    "origin": "Latin relegare, to send away or banish, from re-, back, and legare, to send.",
+    "nuance": "Usually implies diminished status or attention; delegate simply means entrusting responsibility. Relegating work is not necessarily delegating it well.",
+    "example": "We keep relegating reliability work to the backlog, then acting surprised when it bites us.",
+    "date": "2026-11-20",
+    "tags": [
+      "leadership",
+      "priorities"
+    ]
+  },
+  {
+    "word": "superfluous",
+    "pronunciation": "soo-PUR-floo-uhs",
+    "ipa": "suˈpɝfluəs",
+    "soundsLike": "Soo as in soup without the p, PUR as in purr, floo as in flew, and uhs as at the end of famous.",
+    "partOfSpeech": "adjective",
+    "definition": "Beyond what is needed; unnecessary.",
+    "origin": "Latin superfluus, overflowing, from super, over, and fluere, to flow.",
+    "nuance": "Stronger than optional: an optional feature may add value, while a superfluous one adds nothing needed in the context. Not the same as superficial.",
+    "example": "Once the dashboard answers those questions, the weekly slide deck is superfluous.",
+    "date": "2026-11-20",
+    "tags": [
+      "design",
+      "precision"
+    ]
+  },
+  {
+    "word": "effrontery",
+    "pronunciation": "ih-FRUN-tuh-ree",
+    "ipa": "ɪˈfrʌntəri",
+    "soundsLike": "Ih as in it, FRUN as in front without the t, tuh as at the start of today, and ree as in reef without the f.",
+    "partOfSpeech": "noun",
+    "definition": "Shamelessly bold or disrespectful behavior.",
+    "origin": "French effronterie, from effronte, shameless, ultimately Latin effrons, literally without a forehead.",
+    "nuance": "Carries disapproval: more than confidence or welcome audacity. Often used in the construction have the effrontery to do something.",
+    "example": "They had the effrontery to call the outage a premium support opportunity.",
+    "date": "2026-11-20",
+    "tags": [
+      "rhetoric",
+      "conduct"
+    ]
+  },
+  {
+    "word": "revanchist",
+    "pronunciation": "ruh-VAN-chist",
+    "ipa": "rəˈvæntʃɪst",
+    "soundsLike": "Ruh as at the start of repeat, VAN as in van, and chist rhyming with mist but starting with the ch in chair.",
+    "partOfSpeech": "adjective",
+    "definition": "Seeking to reverse a defeat or recover lost territory, power, or status through retaliation.",
+    "origin": "French revanche, revenge or a return contest, ultimately from the verb revencher, to avenge.",
+    "nuance": "Especially used of politics and territorial ambitions. More specific than nostalgic or conservative: it implies an agenda of reversing perceived losses.",
+    "example": "That speech sounded less like an economic plan and more like a revanchist promise to settle old scores.",
+    "date": "2026-11-20",
+    "tags": [
+      "politics",
+      "history"
+    ]
   }
 ]
