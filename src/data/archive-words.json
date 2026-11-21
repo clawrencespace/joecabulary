@@ -11166,5 +11166,69 @@
       "politics",
       "history"
     ]
+  },
+  {
+    "word": "abnegate",
+    "pronunciation": "AB-nih-gayt",
+    "ipa": "ˈæbnɪɡeɪt",
+    "soundsLike": "AB as in absent, nih as at the start of neglect, and gayt as in gate.",
+    "partOfSpeech": "verb",
+    "definition": "To renounce or give up a right, claim, or responsibility.",
+    "origin": "Latin abnegare, to deny, from ab-, away, and negare, to say no.",
+    "nuance": "More deliberate than neglect: it implies renunciation. Abnegating responsibility means giving it up, not delegating its execution while remaining accountable.",
+    "example": "We can give teams autonomy without abnegating our responsibility for security.",
+    "date": "2026-11-21",
+    "tags": [
+      "leadership",
+      "accountability"
+    ]
+  },
+  {
+    "word": "acquisitive",
+    "pronunciation": "uh-KWIZ-uh-tiv",
+    "ipa": "əˈkwɪzətɪv",
+    "soundsLike": "Uh as in about, KWIZ as in quiz, uh as in comma, and tiv as at the end of active.",
+    "partOfSpeech": "adjective",
+    "definition": "Eager to acquire possessions, wealth, or other things of value.",
+    "origin": "From Latin acquisitus, acquired, from acquirere, to obtain.",
+    "nuance": "Often suggests an excessive appetite for ownership. An acquisitive company pursues acquisitions; an inquisitive person pursues answers.",
+    "example": "They have been acquisitive for years, but integrating those products is another story.",
+    "date": "2026-11-21",
+    "tags": [
+      "business",
+      "motivation"
+    ]
+  },
+  {
+    "word": "repartee",
+    "pronunciation": "rep-er-TEE",
+    "ipa": "ˌrɛpɚˈti",
+    "soundsLike": "Rep as in reputation, er as at the end of runner, and TEE as in tea.",
+    "partOfSpeech": "noun",
+    "definition": "Quick, witty replies exchanged in conversation.",
+    "origin": "French repartie, a reply or retort, from repartir, to reply promptly.",
+    "nuance": "Implies responsive wit, not just a funny prepared line; it can be playful rather than cutting.",
+    "example": "The repartee between the host and the drummer was almost as good as the music.",
+    "date": "2026-11-21",
+    "tags": [
+      "conversation",
+      "culture"
+    ]
+  },
+  {
+    "word": "falsify",
+    "pronunciation": "FAWL-suh-fy",
+    "ipa": "ˈfɔlsəfaɪ",
+    "soundsLike": "FAWL as in fall, suh as at the start of suppose, and fy rhyming with eye with an initial f.",
+    "partOfSpeech": "verb",
+    "definition": "To show a claim to be false, or to alter information deceptively.",
+    "origin": "From Medieval Latin falsificare, to make false, from falsus, false, and facere, to make.",
+    "nuance": "In science, falsifying a hypothesis means refuting it, not fabricating evidence. Falsifying data means dishonestly changing it; make the object explicit.",
+    "example": "What result would falsify our assumption that latency is driving the drop-off?",
+    "date": "2026-11-21",
+    "tags": [
+      "reasoning",
+      "experimentation"
+    ]
   }
 ]
