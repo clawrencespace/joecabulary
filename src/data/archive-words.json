@@ -11230,5 +11230,69 @@
       "reasoning",
       "experimentation"
     ]
+  },
+  {
+    "word": "recidivism",
+    "pronunciation": "rih-SID-uh-viz-um",
+    "ipa": "rɪˈsɪdəˌvɪzəm",
+    "soundsLike": "Rih as in return, SID as in Sid, uh as in about, and viz-um as in the end of activism.",
+    "partOfSpeech": "noun",
+    "definition": "A return to undesirable behavior after an attempt at reform.",
+    "origin": "From Latin recidivus, falling back, from re-, back, and cadere, to fall.",
+    "nuance": "Most often used for reoffending after criminal punishment. Applied to workplace habits, it is a pointed metaphor, not a neutral synonym for recurrence.",
+    "example": "Our meeting recidivism is impressive: we canceled three status calls and somehow created four more.",
+    "date": "2026-11-22",
+    "tags": [
+      "behavior",
+      "organizations"
+    ]
+  },
+  {
+    "word": "felicitous",
+    "pronunciation": "fih-LIS-uh-tus",
+    "ipa": "fɪˈlɪsətəs",
+    "soundsLike": "Fih as in fit, LIS as in listen, uh as in about, and tus as at the end of hiatus.",
+    "partOfSpeech": "adjective",
+    "definition": "Especially apt, well chosen, or pleasing in the circumstances.",
+    "origin": "From Latin felicitas, happiness or good fortune, from felix, fortunate.",
+    "nuance": "A felicitous phrase fits its purpose unusually well; it is not merely cheerful. Fortuitous emphasizes chance, while felicitous emphasizes a pleasing or apt result.",
+    "example": "That is a felicitous way to describe the trade-off: fewer knobs, fewer ways to break it.",
+    "date": "2026-11-22",
+    "tags": [
+      "language",
+      "judgment"
+    ]
+  },
+  {
+    "word": "expostulate",
+    "pronunciation": "ik-SPOS-chuh-layt",
+    "ipa": "ɪkˈspɑstʃəˌleɪt",
+    "soundsLike": "Ik as in the start of express, SPOS rhyming with boss with an initial sp, chuh as at the start of chuck, and layt as in late.",
+    "partOfSpeech": "verb",
+    "definition": "To object earnestly to someone, offering reasons against their actions.",
+    "origin": "Latin expostulare, to demand or remonstrate, from ex- and postulare, to demand.",
+    "nuance": "Usually expostulate with someone about something. It means reasoned protest, not expound, explain, or speculate; its slightly formal tone can also be playful.",
+    "example": "I am not going to expostulate with the vendor again; we need a firm migration date.",
+    "date": "2026-11-22",
+    "tags": [
+      "disagreement",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "atavistic",
+    "pronunciation": "at-uh-VIS-tik",
+    "ipa": "ˌætəˈvɪstɪk",
+    "soundsLike": "At as in at, uh as in about, VIS as in vista, and tik as in tick.",
+    "partOfSpeech": "adjective",
+    "definition": "Reverting to an ancestral trait or an older, primitive pattern of behavior.",
+    "origin": "From Latin atavus, a remote ancestor, through atavism.",
+    "nuance": "In biology, describes reappearance of an ancestral trait. Figuratively, suggests a deep-seated throwback, not simply something old-fashioned or nostalgic.",
+    "example": "There is something atavistic about a crowd all shouting the same chorus.",
+    "date": "2026-11-22",
+    "tags": [
+      "behavior",
+      "culture"
+    ]
   }
 ]

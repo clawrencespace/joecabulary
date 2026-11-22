@@ -1667,5 +1667,94 @@
         "direction": "across"
       }
     ]
+  },
+  {
+    "slug": "sunday-2026-11-22",
+    "title": "Polyphonic Effects",
+    "eyebrow": "Sunday No. 022 · Live",
+    "date": "November 22, 2026",
+    "size": 15,
+    "entries": [
+      {
+        "number": 1,
+        "answer": "SUPERFLUOUS",
+        "clue": "Beyond what is needed; unnecessary",
+        "row": 0,
+        "col": 4,
+        "direction": "down"
+      },
+      {
+        "number": 2,
+        "answer": "EXPOSTULATE",
+        "clue": "To object earnestly to someone, offering reasons against their actions",
+        "row": 0,
+        "col": 6,
+        "direction": "down"
+      },
+      {
+        "number": 3,
+        "answer": "INTERNECINE",
+        "clue": "Involving destructive conflict within a group or organization",
+        "row": 0,
+        "col": 8,
+        "direction": "down"
+      },
+      {
+        "number": 4,
+        "answer": "POLYPHONIC",
+        "clue": "Combining two or more distinct melodic lines; by extension, containing multiple independent voices or perspectives",
+        "row": 0,
+        "col": 13,
+        "direction": "down"
+      },
+      {
+        "number": 5,
+        "answer": "FELICITOUS",
+        "clue": "Especially apt, well chosen, or pleasing in the circumstances",
+        "row": 3,
+        "col": 0,
+        "direction": "down"
+      },
+      {
+        "number": 6,
+        "answer": "OBSTREPEROUS",
+        "clue": "Noisily and stubbornly resistant to control or restraint",
+        "row": 3,
+        "col": 2,
+        "direction": "down"
+      },
+      {
+        "number": 7,
+        "answer": "ACQUISITIVE",
+        "clue": "Eager to acquire possessions, wealth, or other things of value",
+        "row": 3,
+        "col": 11,
+        "direction": "down"
+      },
+      {
+        "number": 8,
+        "answer": "CIRCUMLOCUTION",
+        "clue": "An indirect or roundabout way of saying something, especially to avoid saying it plainly",
+        "row": 7,
+        "col": 0,
+        "direction": "across"
+      },
+      {
+        "number": 9,
+        "answer": "RECIDIVISM",
+        "clue": "A return to undesirable behavior after an attempt at reform",
+        "row": 12,
+        "col": 5,
+        "direction": "across"
+      },
+      {
+        "number": 10,
+        "answer": "DISSOCIATE",
+        "clue": "To separate or disconnect something from an association",
+        "row": 14,
+        "col": 0,
+        "direction": "across"
+      }
+    ]
   }
 ]
