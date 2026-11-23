@@ -11294,5 +11294,69 @@
       "behavior",
       "culture"
     ]
+  },
+  {
+    "word": "paucity",
+    "pronunciation": "PAW-suh-tee",
+    "ipa": "ˈpɔsəti",
+    "soundsLike": "PAW as in paw, suh as at the start of support, and tee as in tea.",
+    "partOfSpeech": "noun",
+    "definition": "A scarcity or insufficient quantity of something.",
+    "origin": "From Latin paucitas, fewness, from paucus, few.",
+    "nuance": "Usually a paucity of something needed or expected, not merely a small number. It describes quantity, not poor quality.",
+    "example": "The issue is not a paucity of ideas; it is that nobody has time to test them.",
+    "date": "2026-11-23",
+    "tags": [
+      "analysis",
+      "resources"
+    ]
+  },
+  {
+    "word": "supplant",
+    "pronunciation": "suh-PLANT",
+    "ipa": "səˈplænt",
+    "soundsLike": "Suh as at the start of support, followed by plant.",
+    "partOfSpeech": "verb",
+    "definition": "To take the place of someone or something, displacing it.",
+    "origin": "From Latin supplantare, to trip up or overthrow, from sub-, under, and planta, sole of the foot.",
+    "nuance": "Stronger than supplement: the newcomer replaces the incumbent rather than adding to it. Deliberate scheming is possible but not required.",
+    "example": "The new dashboard should supplant the weekly spreadsheet, not become another thing we maintain.",
+    "date": "2026-11-23",
+    "tags": [
+      "strategy",
+      "technology"
+    ]
+  },
+  {
+    "word": "incorrigible",
+    "pronunciation": "in-KOR-uh-juh-buhl",
+    "ipa": "ɪnˈkɔrədʒəbəl",
+    "soundsLike": "In as in in, KOR as in core, uh as in about, juh as at the start of Japan, and buhl as at the end of doable.",
+    "partOfSpeech": "adjective",
+    "definition": "Not susceptible to correction or reform.",
+    "origin": "From Latin incorrigibilis: in-, not, and corrigere, to correct.",
+    "nuance": "Implies an ingrained tendency, not a single mistake. Often affectionate or humorous when applied to harmless habits; harsher in serious judgments about people.",
+    "example": "I am an incorrigible gear nerd, but even I do not need another pair of headphones.",
+    "date": "2026-11-23",
+    "tags": [
+      "character",
+      "conversation"
+    ]
+  },
+  {
+    "word": "virtuosity",
+    "pronunciation": "vur-choo-AH-suh-tee",
+    "ipa": "ˌvɝtʃuˈɑsəti",
+    "soundsLike": "Vur as at the start of verdict, choo as in choose, AH as in spa, suh as at the start of support, and tee as in tea.",
+    "partOfSpeech": "noun",
+    "definition": "Exceptional technical skill in an art or demanding activity.",
+    "origin": "From Italian virtuosita, through virtuoso, a highly skilled person; ultimately Latin virtus, excellence.",
+    "nuance": "Emphasizes mastery of execution, especially in music. Virtuosity can serve expression or become empty display; it does not by itself establish taste or emotional depth.",
+    "example": "The guitarist has plenty of virtuosity, but the simpler solo on the previous record stays with me longer.",
+    "date": "2026-11-23",
+    "tags": [
+      "music",
+      "craft"
+    ]
   }
 ]
