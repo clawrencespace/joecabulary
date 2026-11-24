@@ -11358,5 +11358,69 @@
       "music",
       "craft"
     ]
+  },
+  {
+    "word": "purport",
+    "pronunciation": "pur-PORT",
+    "ipa": "pɚˈpɔrt",
+    "soundsLike": "Pur as in purr, followed by port as in airport.",
+    "partOfSpeech": "verb",
+    "definition": "To claim or appear to be or do something, without establishing that the claim is true.",
+    "origin": "From Anglo-French purporter, to convey or express, ultimately Latin portare, to carry.",
+    "nuance": "Usually followed by to. Signals distance from a claim, not proof that it is false. The noun purport, meaning gist or intended meaning, has first-syllable stress.",
+    "example": "The benchmark purports to measure reasoning, but most of the questions look like recall.",
+    "date": "2026-11-24",
+    "tags": [
+      "analysis",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "surfeit",
+    "pronunciation": "SUR-fit",
+    "ipa": "ˈsɝfɪt",
+    "soundsLike": "SUR as at the start of surface, followed by fit.",
+    "partOfSpeech": "noun",
+    "definition": "An excessive amount of something, often enough to become unwelcome.",
+    "origin": "From Old French surfait, excess, from surfaire, to overdo: sur-, beyond, and faire, to do.",
+    "nuance": "More than abundance: a surfeit implies excess relative to appetite or need. Often used with of, including for things normally considered desirable.",
+    "example": "We have a surfeit of dashboards and no clear answer to the basic question.",
+    "date": "2026-11-24",
+    "tags": [
+      "resources",
+      "management"
+    ]
+  },
+  {
+    "word": "intractable",
+    "pronunciation": "in-TRAK-tuh-buhl",
+    "ipa": "ɪnˈtræktəbəl",
+    "soundsLike": "In as in pin, TRAK as in track, and tuh-buhl as at the end of comfortable.",
+    "partOfSpeech": "adjective",
+    "definition": "Very difficult to manage, resolve, or bring under control.",
+    "origin": "From Latin intractabilis, unmanageable: in-, not, and tractare, to handle.",
+    "nuance": "Stronger than difficult, but not necessarily impossible. In computing, usually means impractical to solve with available resources, not mathematically undecidable.",
+    "example": "The migration looked intractable until we separated the data cleanup from the cutover.",
+    "date": "2026-11-24",
+    "tags": [
+      "technology",
+      "problem-solving"
+    ]
+  },
+  {
+    "word": "bathos",
+    "pronunciation": "BAY-thahs",
+    "ipa": "ˈbeɪθɑs",
+    "soundsLike": "BAY as in bay, th as in thin, and ahs rhyming with moss in the common American pronunciation.",
+    "partOfSpeech": "noun",
+    "definition": "An anticlimactic drop from the elevated or moving to the trivial or ridiculous.",
+    "origin": "From Greek bathos, depth; popularized as a literary term by Alexander Pope in his satire on sinking in poetry.",
+    "nuance": "Not pathos, which evokes pity or sympathy. Bathos punctures grandeur, accidentally or for comic effect; it is more specific than a merely disappointing ending.",
+    "example": "That soaring product video ending with a coupon code was pure bathos.",
+    "date": "2026-11-24",
+    "tags": [
+      "culture",
+      "rhetoric"
+    ]
   }
 ]
