@@ -11422,5 +11422,69 @@
       "culture",
       "rhetoric"
     ]
+  },
+  {
+    "word": "ab initio",
+    "pronunciation": "ab ih-NISH-ee-oh",
+    "ipa": "ˌæb ɪˈnɪʃioʊ",
+    "soundsLike": "Ab rhymes with cab; ih-NISH sounds like the start of initial; ee-oh sounds like the end of trio.",
+    "partOfSpeech": "adverb",
+    "definition": "From the beginning; from the outset.",
+    "origin": "Latin ab, from, and initio, the ablative of initium, beginning.",
+    "nuance": "More precise than from scratch: it locates something at the outset, rather than necessarily implying no prior resources. In law, void ab initio means invalid from the start.",
+    "example": "If we were designing this ab initio, I doubt we would put billing in the same service.",
+    "date": "2026-11-25",
+    "tags": [
+      "technology",
+      "reasoning"
+    ]
+  },
+  {
+    "word": "construal",
+    "pronunciation": "kuhn-STROO-uhl",
+    "ipa": "kənˈstruəl",
+    "soundsLike": "Kuhn as at the start of concern, STROO rhyming with true, and uhl as at the end of renewal.",
+    "partOfSpeech": "noun",
+    "definition": "A particular interpretation of something or way of understanding it.",
+    "origin": "From construe, ultimately Latin construere, to put together or arrange; interpreting syntax supplied the bridge to interpreting meaning.",
+    "nuance": "Names the interpretation, not the evidence itself. Useful when reasonable people organize the same facts differently; it does not imply that every interpretation is equally defensible.",
+    "example": "My construal of that feedback is that they want fewer steps, not more automation.",
+    "date": "2026-11-25",
+    "tags": [
+      "analysis",
+      "communication"
+    ]
+  },
+  {
+    "word": "coterie",
+    "pronunciation": "KOH-tuh-ree",
+    "ipa": "ˈkoʊtəri",
+    "soundsLike": "KOH as in coat without the final t, tuh as at the start of today, and ree as in reef without the f.",
+    "partOfSpeech": "noun",
+    "definition": "A small, close-knit group with shared interests or pursuits.",
+    "origin": "From French coterie, originally an association of tenants, later a social circle.",
+    "nuance": "Often suggests an exclusive insider circle, but need not imply conspiracy. More socially pointed than team and less inherently hostile than cabal.",
+    "example": "The roadmap should reflect customer needs, not just the preferences of a small coterie of power users.",
+    "date": "2026-11-25",
+    "tags": [
+      "culture",
+      "organizations"
+    ]
+  },
+  {
+    "word": "suborn",
+    "pronunciation": "suh-BORN",
+    "ipa": "səˈbɔrn",
+    "soundsLike": "Suh as at the start of support, followed by born.",
+    "partOfSpeech": "verb",
+    "definition": "To induce someone to commit an unlawful or wrongful act, especially perjury.",
+    "origin": "From Latin subornare, to equip secretly or instigate: sub-, secretly or under, and ornare, to equip.",
+    "nuance": "Stronger than influence or pressure: it implies inducing wrongdoing. Suborning perjury is procuring false sworn testimony, not merely encouraging someone to repeat an inaccurate claim.",
+    "example": "That email does more than spin the numbers; it tries to suborn a false statement from the auditor.",
+    "date": "2026-11-25",
+    "tags": [
+      "ethics",
+      "rhetoric"
+    ]
   }
 ]
