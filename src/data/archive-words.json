@@ -11486,5 +11486,69 @@
       "ethics",
       "rhetoric"
     ]
+  },
+  {
+    "word": "disequilibrium",
+    "pronunciation": "dis-ee-kwuh-LIB-ree-uhm",
+    "ipa": "ˌdɪsikwəˈlɪbriəm",
+    "soundsLike": "Dis as in dismiss, ee as in see, kwuh as at the start of quaver, LIB as in liberty, and ree-uhm as at the end of equilibrium.",
+    "partOfSpeech": "noun",
+    "definition": "A state of imbalance among opposing forces or interacting parts.",
+    "origin": "Dis-, indicating reversal or absence, plus equilibrium, from Latin aequus, equal, and libra, balance.",
+    "nuance": "More specific than instability: a system can be out of balance without changing rapidly. In economics, often describes supply and demand that have not reached balance.",
+    "example": "We have a disequilibrium between how quickly we ship features and how much support the team can absorb.",
+    "date": "2026-11-26",
+    "tags": [
+      "systems",
+      "economics"
+    ]
+  },
+  {
+    "word": "taciturn",
+    "pronunciation": "TAS-ih-turn",
+    "ipa": "ˈtæsɪtɝn",
+    "soundsLike": "TAS rhymes with mass, ih as in sit, and turn as in taking a turn.",
+    "partOfSpeech": "adjective",
+    "definition": "Habitually quiet or sparing with words.",
+    "origin": "From Latin taciturnus, inclined to silence, from tacere, to be silent.",
+    "nuance": "Describes a usual disposition, not merely silence in one meeting. Unlike tacit, it describes a person rather than something understood without being stated.",
+    "example": "He is taciturn in big meetings, but his written feedback is usually the sharpest in the room.",
+    "date": "2026-11-26",
+    "tags": [
+      "communication",
+      "people"
+    ]
+  },
+  {
+    "word": "sobriquet",
+    "pronunciation": "SOH-brih-kay",
+    "ipa": "ˈsoʊbrɪkeɪ",
+    "soundsLike": "SOH rhymes with go, brih as at the start of brigade, and kay as in the letter K.",
+    "partOfSpeech": "noun",
+    "definition": "A nickname or descriptive name used in place of a person’s actual name.",
+    "origin": "Borrowed from French sobriquet, nickname; its earlier history is uncertain.",
+    "nuance": "Often a memorable public label, affectionate or mocking. Unlike a pseudonym, it need not be chosen by the person who bears it.",
+    "example": "After rescuing three failed migrations, she earned the sobriquet “the database whisperer.”",
+    "date": "2026-11-26",
+    "tags": [
+      "culture",
+      "language"
+    ]
+  },
+  {
+    "word": "redact",
+    "pronunciation": "rih-DAKT",
+    "ipa": "rɪˈdækt",
+    "soundsLike": "Rih as at the start of return, followed by dact rhyming with fact.",
+    "partOfSpeech": "verb",
+    "definition": "To remove or obscure sensitive information from a document before releasing it.",
+    "origin": "From Latin redactus, brought back or reduced, through a later sense of putting material into written form or editing it.",
+    "nuance": "In modern disclosure contexts, means withholding selected content, not simply revising prose. A black box over visible text is not secure redaction if the underlying text remains recoverable.",
+    "example": "Let’s redact the customer identifiers before we share the incident report with the vendor.",
+    "date": "2026-11-26",
+    "tags": [
+      "privacy",
+      "writing"
+    ]
   }
 ]
