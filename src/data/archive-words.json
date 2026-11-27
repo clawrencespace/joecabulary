@@ -11550,5 +11550,69 @@
       "privacy",
       "writing"
     ]
+  },
+  {
+    "word": "recoup",
+    "pronunciation": "rih-KOOP",
+    "ipa": "rɪˈkup",
+    "soundsLike": "Rih as in return; KOOP rhymes with soup.",
+    "partOfSpeech": "verb",
+    "definition": "To recover money, resources, or losses previously spent or lost.",
+    "origin": "From French recouper, to cut back or deduct, from re- and couper, to cut.",
+    "nuance": "Usually takes the loss or expenditure as its object: recoup costs, not recoup from exhaustion; recuperate is the usual word for recovering health.",
+    "example": "We should recoup the migration cost within a year if the hosting savings hold.",
+    "date": "2026-11-27",
+    "tags": [
+      "business",
+      "resources"
+    ]
+  },
+  {
+    "word": "dissensus",
+    "pronunciation": "dih-SEN-suhs",
+    "ipa": "dɪˈsɛnsəs",
+    "soundsLike": "Dih as in divide, SEN as in sentence, and suhs as at the end of consensus.",
+    "partOfSpeech": "noun",
+    "definition": "Disagreement, especially a lack of agreement within a group.",
+    "origin": "From Latin dissensus, disagreement, from dissentire, to differ in feeling or opinion.",
+    "nuance": "More pointed than diversity of opinion: it names the absence of consensus. It need not imply hostility or organizational dysfunction.",
+    "example": "There is real dissensus on the architecture, so I do not want to present this as a settled decision.",
+    "date": "2026-11-27",
+    "tags": [
+      "leadership",
+      "deliberation"
+    ]
+  },
+  {
+    "word": "pleonasm",
+    "pronunciation": "PLEE-uh-naz-um",
+    "ipa": "ˈpliəˌnæzəm",
+    "soundsLike": "PLEE sounds like plea, uh as in about, and naz-um rhymes with chasm.",
+    "partOfSpeech": "noun",
+    "definition": "The use of more words than are needed to convey a meaning.",
+    "origin": "From Greek pleonasmos, excess, from pleon, more.",
+    "nuance": "Often means semantic redundancy, such as free gift. Not every repetition is a flaw: deliberate redundancy can add emphasis or clarity.",
+    "example": "Calling it a future roadmap is a pleonasm; roadmap already does that work.",
+    "date": "2026-11-27",
+    "tags": [
+      "writing",
+      "rhetoric"
+    ]
+  },
+  {
+    "word": "dyspeptic",
+    "pronunciation": "dis-PEP-tik",
+    "ipa": "dɪsˈpɛptɪk",
+    "soundsLike": "Dis as in dismiss, PEP as in pepper, and tik as in ticket.",
+    "partOfSpeech": "adjective",
+    "definition": "Irritable or habitually gloomy; literally, suffering from indigestion.",
+    "origin": "From Greek dyspeptos, hard to digest: dys-, bad or difficult, plus peptos, digested.",
+    "nuance": "Figuratively describes a sour tone or outlook, not a reasoned negative conclusion. Calling criticism dyspeptic comments on its mood, not its validity.",
+    "example": "The review was a little dyspeptic, but its complaint about the pacing was fair.",
+    "date": "2026-11-27",
+    "tags": [
+      "culture",
+      "tone"
+    ]
   }
 ]
