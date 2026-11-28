@@ -11614,5 +11614,69 @@
       "culture",
       "tone"
     ]
+  },
+  {
+    "word": "comport",
+    "pronunciation": "kum-PORT",
+    "ipa": "kəmˈpɔrt",
+    "soundsLike": "Kum is the unstressed first syllable of compare; PORT sounds like port.",
+    "partOfSpeech": "verb",
+    "definition": "To agree or be consistent with something; also, to conduct oneself.",
+    "origin": "From French comporter, ultimately Latin comportare, to bring together or carry.",
+    "nuance": "Comport with means accord with, not cause or prove. Comport oneself is a separate construction meaning behave.",
+    "example": "That explanation does not comport with what we are seeing in the logs.",
+    "date": "2026-11-28",
+    "tags": [
+      "analysis",
+      "usage"
+    ]
+  },
+  {
+    "word": "impolitic",
+    "pronunciation": "im-PAH-luh-tik",
+    "ipa": "ɪmˈpɑlətɪk",
+    "soundsLike": "Im as in impossible, PAH as in papa, luh as in lovable, and tik as in ticket.",
+    "partOfSpeech": "adjective",
+    "definition": "Unwise or tactless in light of likely practical or political consequences.",
+    "origin": "From in-, not, plus politic, prudent or judicious, ultimately from Greek politikos, relating to citizens.",
+    "nuance": "Not the same as impolite: a courteous statement can still be strategically disastrous. It questions judgment, not necessarily truth or ethics.",
+    "example": "It would be impolitic to announce the reorganization before the affected managers hear about it.",
+    "date": "2026-11-28",
+    "tags": [
+      "leadership",
+      "judgment"
+    ]
+  },
+  {
+    "word": "diachronic",
+    "pronunciation": "dy-uh-KRAH-nik",
+    "ipa": "ˌdaɪəˈkrɑnɪk",
+    "soundsLike": "Dy sounds like dye, uh as in about, KRAH as at the start of crop, and nik as in nickname.",
+    "partOfSpeech": "adjective",
+    "definition": "Examining how something develops or changes over time.",
+    "origin": "From Greek dia, through, and chronos, time; established as a technical term in linguistics.",
+    "nuance": "Contrasts with synchronic, which examines a system at a particular time. A diachronic analysis traces development, not merely events happening at different dates.",
+    "example": "A diachronic view of the architecture explains why these three services overlap.",
+    "date": "2026-11-28",
+    "tags": [
+      "history",
+      "systems"
+    ]
+  },
+  {
+    "word": "rhapsodic",
+    "pronunciation": "rap-SAH-dik",
+    "ipa": "ræpˈsɑdɪk",
+    "soundsLike": "Rap sounds like wrap, SAH as in the first syllable of soccer, and dik as in dictate.",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing intense, often extravagant enthusiasm or delight.",
+    "origin": "From rhapsody, ultimately Greek rhapsōidia, the recitation of epic poetry, from roots meaning stitch and song.",
+    "nuance": "Stronger and more effusive than positive or appreciative; it can suggest praise that has outrun sober evaluation. In music it can also describe a free, expressive style.",
+    "example": "The reviews were rhapsodic, but I thought the album had two great tracks and a lot of filler.",
+    "date": "2026-11-28",
+    "tags": [
+      "culture",
+      "tone"
+    ]
   }
 ]
